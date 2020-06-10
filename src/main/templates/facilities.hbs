@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+    integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+  <title>ISDCF Facilities List</title>
+</head>
+
+<body>
+  <nav class="navbar navbar-expand-lg navbar-light bg-light justify-content-between d-print-block">
+    <a class="navbar-brand" href="#">ISDCF Facilities List</a>
+    <ul class="navbar-nav d-print-none">
+      <li class="nav-item">
+        <a class="nav-link" href="https://github.com/isdcf/registries">Get the code</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="{{pdf_path}}">Download as PDF</a>
+      </li>
+    </ul>
+  </nav>
+  <table class="table table-striped table-hover container">
+    <thead class="thead-light">
+      <tr>
+        <th scope="col">Code</th>
+        <th scope="col">Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{#data}}
+      <tr>
+        <td><pre>{{code}}</pre></td>
+        <td>{{description}}</td>
+      </tr>
+      {{/data}}
+    </tbody>
+  </table>
+</body>
+
+</html>

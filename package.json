@@ -1,0 +1,19 @@
+{
+  "name": "isdcf-registries",
+  "version": "1.0.0-beta.1",
+  "description": "ISDCF registries",
+  "scripts": {
+    "build": "node src/main/scripts/build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/isdcf/registries.git"
+  },
+  "author": "InterSociety Digital Cinema Forum (ISDCF) <info@isdcf.com>",
+  "license": "CC-BY-4.0",
+  "devDependencies": {
+    "ajv": "^6.10.2",
+    "handlebars": "^4.5.3",
+    "puppeteer": "^2.0.0"
+  }
+}

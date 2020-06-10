@@ -1,0 +1,4014 @@
+[
+  {
+    "code": "01S",
+    "description": "01_STUDIO P.I."
+  },
+  {
+    "code": "10C",
+    "description": "Ten Cent"
+  },
+  {
+    "code": "118",
+    "description": "1185 Films Ltd"
+  },
+  {
+    "code": "123",
+    "description": "123DCP"
+  },
+  {
+    "code": "1AD",
+    "description": "1A DIGITAL FILM GMBH"
+  },
+  {
+    "code": "1Z1",
+    "description": "1Z1 SCREENWORKS"
+  },
+  {
+    "code": "24F",
+    "description": "24 FRAMES DIGITAL FILMS"
+  },
+  {
+    "code": "24K",
+    "description": "24FRAME KINOPROJEKTION"
+  },
+  {
+    "code": "283",
+    "description": "2836 PRODUCTIONS"
+  },
+  {
+    "code": "2FR",
+    "description": "2FRAME"
+  },
+  {
+    "code": "2GO",
+    "description": "DCP2GO"
+  },
+  {
+    "code": "2LK",
+    "description": "2L (KOREA)"
+  },
+  {
+    "code": "2VS",
+    "description": "2V STUDIOS LTD"
+  },
+  {
+    "code": "3DV",
+    "description": "DEEP VISION 3D"
+  },
+  {
+    "code": "422",
+    "description": "422.TV"
+  },
+  {
+    "code": "48H",
+    "description": "48hearts"
+  },
+  {
+    "code": "8K",
+    "description": "8K USA"
+  },
+  {
+    "code": "902",
+    "description": "902 POST INC."
+  },
+  {
+    "code": "AAM",
+    "description": "ARTS ALLIANCE MEDIA"
+  },
+  {
+    "code": "AAU",
+    "description": "ADSTREAM AUSTRALIA"
+  },
+  {
+    "code": "ABC",
+    "description": "A.B.COLOR POST PRODUCTION SERVICES"
+  },
+  {
+    "code": "ABI",
+    "description": "ABIS STUDIO ROMANIA"
+  },
+  {
+    "code": "ACL",
+    "description": "ACCELERE SA"
+  },
+  {
+    "code": "ACQ",
+    "description": "AMERICAN CINEMATHEQUE"
+  },
+  {
+    "code": "ACT",
+    "description": "ACT3"
+  },
+  {
+    "code": "ADA",
+    "description": "ADMOVIES DIGITAL CINEMA ADVERTISING"
+  },
+  {
+    "code": "ADC",
+    "description": "ARRI DIGITAL CINEMA"
+  },
+  {
+    "code": "ADE",
+    "description": "ALLIANCE DIGITAL ENTERTAINMENT"
+  },
+  {
+    "code": "ADL",
+    "description": "ALFONSIN DIGITAL LAB"
+  },
+  {
+    "code": "ADS",
+    "description": "AMAZING DIGITAL STUDIOS"
+  },
+  {
+    "code": "ADV",
+    "description": "ADVANCED DIGITAL SERVICES"
+  },
+  {
+    "code": "AE",
+    "description": "Automatic Earth"
+  },
+  {
+    "code": "AFA",
+    "description": "ANTHOLOGY FILM ARCHIVES"
+  },
+  {
+    "code": "AFC",
+    "description": "AFRICA"
+  },
+  {
+    "code": "AFL",
+    "description": "AFINAL FILMES"
+  },
+  {
+    "code": "AFM",
+    "description": "AUSTRIAN FILM MUSEUM"
+  },
+  {
+    "code": "AGD",
+    "description": "DIGITAL CINEMA SOLUTIONS"
+  },
+  {
+    "code": "AGF",
+    "description": "ANTI-GLITCH FOUNDATION"
+  },
+  {
+    "code": "AGM",
+    "description": "AGM FACTORY"
+  },
+  {
+    "code": "AI",
+    "description": "ATOMIC IMAGING, CHICAGO"
+  },
+  {
+    "code": "AIA",
+    "description": "AIA POST & COLOR"
+  },
+  {
+    "code": "AIX",
+    "description": "ACCESS IT (OBS., SEE CINEDIGM)"
+  },
+  {
+    "code": "AK",
+    "description": "ALASTI KINO"
+  },
+  {
+    "code": "AKA",
+    "description": "AKADCP"
+  },
+  {
+    "code": "AKS",
+    "description": "Andrei Konchalovsky Studios"
+  },
+  {
+    "code": "ALM",
+    "description": "ARE LUKE"
+  },
+  {
+    "code": "ALS",
+    "description": "ANIMAL LOGIC, SYDNEY"
+  },
+  {
+    "code": "ALV",
+    "description": "ANIMAL LOGIC, VANCOUVER"
+  },
+  {
+    "code": "AMA",
+    "description": "Amator"
+  },
+  {
+    "code": "AMB",
+    "description": "Ambolt Audio"
+  },
+  {
+    "code": "AMF",
+    "description": "AN-MAR FILM"
+  },
+  {
+    "code": "AMG",
+    "description": "AMG DIGITAL CINEMA"
+  },
+  {
+    "code": "AMS",
+    "description": "Arrow Media Services"
+  },
+  {
+    "code": "AMV",
+    "description": "ALL MOBILE VIDEO"
+  },
+  {
+    "code": "AND",
+    "description": "ANDROMEDA FILM"
+  },
+  {
+    "code": "ANL",
+    "description": "ANILLUSION"
+  },
+  {
+    "code": "ANM",
+    "description": "ANIMAGIC N.V."
+  },
+  {
+    "code": "ANT",
+    "description": "ANTAVIANA FILMS"
+  },
+  {
+    "code": "AO",
+    "description": "Adler Optical"
+  },
+  {
+    "code": "AOD",
+    "description": "Alain Omer Duranceau"
+  },
+  {
+    "code": "AOI",
+    "description": "Aoi Studio Co., Ltd."
+  },
+  {
+    "code": "APS",
+    "description": "ANIMATED PRODUCTION SERVICES"
+  },
+  {
+    "code": "ARA",
+    "description": "ARANE"
+  },
+  {
+    "code": "ARC",
+    "description": "ARTECH DCINEMA"
+  },
+  {
+    "code": "ARK",
+    "description": "THE ARK"
+  },
+  {
+    "code": "ARN",
+    "description": "ARACNE DIGITAL CINEMA"
+  },
+  {
+    "code": "ARS",
+    "description": "ARSENAL - INSTITUTE FOR FILM AND VIDEO ART"
+  },
+  {
+    "code": "ASC",
+    "description": "ASCENT MEDIA"
+  },
+  {
+    "code": "AT8",
+    "description": "Atrium8 Gbr/Cine-film"
+  },
+  {
+    "code": "ATL",
+    "description": "ATL VIDEOFACTORY"
+  },
+  {
+    "code": "AUA",
+    "description": "Actua Films"
+  },
+  {
+    "code": "AUS",
+    "description": "DCP AUSTRALIA"
+  },
+  {
+    "code": "AUW",
+    "description": "AUWE DIGITAL"
+  },
+  {
+    "code": "AVD",
+    "description": "AV-DESIGN"
+  },
+  {
+    "code": "AVF",
+    "description": "AUDIO VISUAL FACTORY"
+  },
+  {
+    "code": "AVG",
+    "description": "AV GRID"
+  },
+  {
+    "code": "AVP",
+    "description": "AV PRESERVATION BY RETO.CH"
+  },
+  {
+    "code": "AVS",
+    "description": "AUDIO VISUAL SYSTEMS"
+  },
+  {
+    "code": "AWC",
+    "description": "AUTHORWAVE CREATIONS"
+  },
+  {
+    "code": "AWS",
+    "description": "AIRWESS COLOR GRADING"
+  },
+  {
+    "code": "AZU",
+    "description": "AZUL QUE NÃO HÁ"
+  },
+  {
+    "code": "BB",
+    "description": "BASISBERLIN"
+  },
+  {
+    "code": "BBR",
+    "description": "BBRENTAL (LATVIA)"
+  },
+  {
+    "code": "BBT",
+    "description": "BEWEGTE BILDER TUEBINGEN"
+  },
+  {
+    "code": "BC",
+    "description": "BIG CINEMA GMBH"
+  },
+  {
+    "code": "BCC",
+    "description": "Budapest Color Club"
+  },
+  {
+    "code": "BCF",
+    "description": "BASECAMP FILMS (MALAYSIA)"
+  },
+  {
+    "code": "BDM",
+    "description": "BRICKBOX DIGITAL MEDIA"
+  },
+  {
+    "code": "BEY",
+    "description": "Beyond Content"
+  },
+  {
+    "code": "BF",
+    "description": "BELARUSFILM"
+  },
+  {
+    "code": "BF8",
+    "description": "Buffalo 8 Post Production"
+  },
+  {
+    "code": "BG",
+    "description": "Basement Games"
+  },
+  {
+    "code": "BGM",
+    "description": "BOOGIE MONSTER"
+  },
+  {
+    "code": "BHS",
+    "description": "BLACK HANGER STUDIOS"
+  },
+  {
+    "code": "BIT",
+    "description": "BITCINE TECHNOLOGIES"
+  },
+  {
+    "code": "BJ",
+    "description": "BERT JICKTY (SAKHA REPUBLIC)"
+  },
+  {
+    "code": "BL",
+    "description": "BLINK"
+  },
+  {
+    "code": "BLU",
+    "description": "Blue Post"
+  },
+  {
+    "code": "BLX",
+    "description": "BLIXEM FACILITIES SOUTH AFRICA"
+  },
+  {
+    "code": "BMC",
+    "description": "B-MAC LAB"
+  },
+  {
+    "code": "BMR",
+    "description": "BIG MOVIE RUSSIA"
+  },
+  {
+    "code": "BMS",
+    "description": "BITSMITH MEDIA SERVICES"
+  },
+  {
+    "code": "BMV",
+    "description": "BLUE MARBLE VIDEO"
+  },
+  {
+    "code": "BOA",
+    "description": "B.O.A. VIDEOFILMKUNST GMBH"
+  },
+  {
+    "code": "BOP",
+    "description": "BEST & ORIGINAL PRODUCTION LIMITED"
+  },
+  {
+    "code": "BOY",
+    "description": "Bannerboy AB"
+  },
+  {
+    "code": "BP1",
+    "description": "BANANA POST"
+  },
+  {
+    "code": "BRM",
+    "description": "BERRYMOUNT AUTOMATION"
+  },
+  {
+    "code": "BRW",
+    "description": "BREAKWATER STUDIOS"
+  },
+  {
+    "code": "BT",
+    "description": "BT PRODUCTION"
+  },
+  {
+    "code": "BUD",
+    "description": "Budget DCP"
+  },
+  {
+    "code": "BUG",
+    "description": "BUG AS, NORWAY"
+  },
+  {
+    "code": "BV",
+    "description": "Bertone Visuals"
+  },
+  {
+    "code": "BWD",
+    "description": "Blackwater Digital Services"
+  },
+  {
+    "code": "C19",
+    "description": "CLOUD 19"
+  },
+  {
+    "code": "CAC",
+    "description": "CINEACT"
+  },
+  {
+    "code": "CAD",
+    "description": "CINEART MOVIE AND TV PRODUCTION"
+  },
+  {
+    "code": "CAM",
+    "description": "CINE-AUDIO & MEDIA SERVICES"
+  },
+  {
+    "code": "CAN",
+    "description": "CAN Film, Sweden"
+  },
+  {
+    "code": "CAR",
+    "description": "CARPENTER CINEMA CONCEPTS"
+  },
+  {
+    "code": "CAS",
+    "description": "CASABLANCA FILMKUNSTTHEATER NURNBERG"
+  },
+  {
+    "code": "CB",
+    "description": "COLOR BUREAU"
+  },
+  {
+    "code": "CBD",
+    "description": "COLOR BY DEJONGHE"
+  },
+  {
+    "code": "CBX",
+    "description": "CINEBOX"
+  },
+  {
+    "code": "CC",
+    "description": "CINEMA CONCEPTS"
+  },
+  {
+    "code": "CCC",
+    "description": "COLUMBIA COLLEGE CHICAGO"
+  },
+  {
+    "code": "CCD",
+    "description": "CINECOLOR DIGITAL"
+  },
+  {
+    "code": "CCI",
+    "description": "CARMIKE DIGITAL LAB"
+  },
+  {
+    "code": "CCM",
+    "description": "CINECOLOR MEXICO"
+  },
+  {
+    "code": "CCS",
+    "description": "CINESTAR CONTENT SERVICES"
+  },
+  {
+    "code": "CCZ",
+    "description": "Cold-Cutz"
+  },
+  {
+    "code": "CD",
+    "description": "CREATIVE DATAWORKS"
+  },
+  {
+    "code": "CDC",
+    "description": "CODICINE"
+  },
+  {
+    "code": "CDI",
+    "description": "COSMODIGITAL"
+  },
+  {
+    "code": "CDM",
+    "description": "CINEDIGITAL MEXICO"
+  },
+  {
+    "code": "CDS",
+    "description": "CINEWORKS DIGITAL STUDIOS, INC. - MIAMI"
+  },
+  {
+    "code": "CDT",
+    "description": "CLANDESTINO"
+  },
+  {
+    "code": "CE",
+    "description": "CUTTING EDGE SYDNEY"
+  },
+  {
+    "code": "CEN",
+    "description": "CENTURY ENGINEERING"
+  },
+  {
+    "code": "CER",
+    "description": "CERIDWEN PRODUCTIONS"
+  },
+  {
+    "code": "CF",
+    "description": "CAFETICO FILMS"
+  },
+  {
+    "code": "CFC",
+    "description": "Cohen Film Collection"
+  },
+  {
+    "code": "CFS",
+    "description": "COMMERCIAL FILMS SIAM CO. LTD."
+  },
+  {
+    "code": "CFT",
+    "description": "CINEFORT LTD."
+  },
+  {
+    "code": "CFV",
+    "description": "CONSTANTIN FILM VERLEIH"
+  },
+  {
+    "code": "CGK",
+    "description": "CINEMA GOTIKA"
+  },
+  {
+    "code": "CGM",
+    "description": "CINEGROUND MEDIA"
+  },
+  {
+    "code": "CGP",
+    "description": "CINEGRELL POSTPRODUCTION"
+  },
+  {
+    "code": "CGR",
+    "description": "CGR DIGITAL CINEMA"
+  },
+  {
+    "code": "CHO",
+    "description": "Chop Shop Post"
+  },
+  {
+    "code": "CHP",
+    "description": "CHAOS PRODUCTIONS"
+  },
+  {
+    "code": "CHR",
+    "description": "CHROMA MEDIA"
+  },
+  {
+    "code": "CIB",
+    "description": "CineFuture Budapest"
+  },
+  {
+    "code": "CID",
+    "description": "CINELI DIGITAL"
+  },
+  {
+    "code": "CIL",
+    "description": "CineFuture Los Angeles"
+  },
+  {
+    "code": "CIN",
+    "description": "CINEDIGM"
+  },
+  {
+    "code": "CIS",
+    "description": "Cinematheque Suisse"
+  },
+  {
+    "code": "CIT",
+    "description": "CINETYP"
+  },
+  {
+    "code": "CIV",
+    "description": "CINEVISION TV & VIDEOPRODUKTION GMBH"
+  },
+  {
+    "code": "CJP",
+    "description": "CJ POWERCAST ART AND TECHNOLOGY"
+  },
+  {
+    "code": "CL",
+    "description": "CINE-LAB BRUSSELS"
+  },
+  {
+    "code": "CLA",
+    "description": "CINEWORKS, LA - NEW ORLEANS"
+  },
+  {
+    "code": "CLB",
+    "description": "CINELAB"
+  },
+  {
+    "code": "CLC",
+    "description": "Color Collective"
+  },
+  {
+    "code": "CLF",
+    "description": "Cinelume Postproduction"
+  },
+  {
+    "code": "CLI",
+    "description": "Cinelab Iceland"
+  },
+  {
+    "code": "CLM",
+    "description": "COLOR'M"
+  },
+  {
+    "code": "CLO",
+    "description": "COLORFLOW"
+  },
+  {
+    "code": "CLP",
+    "description": "CINELINE S.C."
+  },
+  {
+    "code": "CLR",
+    "description": "COLOR"
+  },
+  {
+    "code": "CLS",
+    "description": "CINEMA LIBRE STUDIO"
+  },
+  {
+    "code": "CM",
+    "description": "CENTAURI MEDIA"
+  },
+  {
+    "code": "CMA",
+    "description": "CIMA PRODUCTIONS"
+  },
+  {
+    "code": "CMB",
+    "description": "CINEMA MASTERING BERLIN"
+  },
+  {
+    "code": "CMI",
+    "description": "CENTRE FOR THE MOVING IMAGE"
+  },
+  {
+    "code": "CML",
+    "description": "COLOR MILL"
+  },
+  {
+    "code": "CMM",
+    "description": "CMI MEDIA MANAGEMENT"
+  },
+  {
+    "code": "CMP",
+    "description": "DIGITAL CINEMA MAGIC"
+  },
+  {
+    "code": "CMQ",
+    "description": "CINEMATIQ"
+  },
+  {
+    "code": "CMR",
+    "description": "Cinemaker Laboratory"
+  },
+  {
+    "code": "CMT",
+    "description": "CINEMATE"
+  },
+  {
+    "code": "CMY",
+    "description": "CHEMISTRY"
+  },
+  {
+    "code": "CNC",
+    "description": "CENTRE NATIONAL DU CINÉMA ET DE L'IMAGE ANIMÉE"
+  },
+  {
+    "code": "CNG",
+    "description": "CINEGO"
+  },
+  {
+    "code": "CNK",
+    "description": "Cinematik"
+  },
+  {
+    "code": "CNL",
+    "description": "CINELEX"
+  },
+  {
+    "code": "CNM",
+    "description": "DCINEMATICA"
+  },
+  {
+    "code": "CNP",
+    "description": "CINEMA PRESTIGE"
+  },
+  {
+    "code": "CNY",
+    "description": "CINERIC, INC"
+  },
+  {
+    "code": "CO",
+    "description": "CINEMA OBSCURA"
+  },
+  {
+    "code": "CO3",
+    "description": "COMPANY 3"
+  },
+  {
+    "code": "COE",
+    "description": "CO-EVOLUTION-DCP"
+  },
+  {
+    "code": "COL",
+    "description": "COLORFRONT"
+  },
+  {
+    "code": "COM",
+    "description": "COLORADO MEDIA"
+  },
+  {
+    "code": "CON",
+    "description": "CONDOR DIGITAL"
+  },
+  {
+    "code": "COP",
+    "description": "COLOSO POST STUDIO"
+  },
+  {
+    "code": "CP",
+    "description": "CINE PLUS GMBH"
+  },
+  {
+    "code": "CPC",
+    "description": "CINEMA PRODUCTION COMPLEX"
+  },
+  {
+    "code": "CPI",
+    "description": "CENTRAL PRODUCTION INTERNATIONAL GROUP"
+  },
+  {
+    "code": "CPP",
+    "description": "CINEPOSTPRODUCTION"
+  },
+  {
+    "code": "CPR",
+    "description": "Cinepro Finland Oy"
+  },
+  {
+    "code": "CPT",
+    "description": "CINEPOST (obsolete - now PFX)"
+  },
+  {
+    "code": "CPX",
+    "description": "CINELICIOUS PICS"
+  },
+  {
+    "code": "CR",
+    "description": "COLORON"
+  },
+  {
+    "code": "CRA",
+    "description": "CINERAMA"
+  },
+  {
+    "code": "CRD",
+    "description": "Coordinate Group"
+  },
+  {
+    "code": "CRE",
+    "description": "CRÉATIC"
+  },
+  {
+    "code": "CRF",
+    "description": "CRAFT FINLAND OY"
+  },
+  {
+    "code": "CRM",
+    "description": "CREATIVITY MEDIA LONDON"
+  },
+  {
+    "code": "CRP",
+    "description": "CENTRAL POST (COSTA RICA)"
+  },
+  {
+    "code": "CRT",
+    "description": "Collins Road Theatres"
+  },
+  {
+    "code": "CS",
+    "description": "CINETIC STUDIOS"
+  },
+  {
+    "code": "CSH",
+    "description": "Crash+Sues"
+  },
+  {
+    "code": "CSI",
+    "description": "C-SIDE PRODUCTIONS"
+  },
+  {
+    "code": "CSP",
+    "description": "CINESYNC POLAND"
+  },
+  {
+    "code": "CST",
+    "description": "CINEMASUPPORT.EU"
+  },
+  {
+    "code": "CTL",
+    "description": "CINETEC LANDFRIED GMBH"
+  },
+  {
+    "code": "CTP",
+    "description": "CHUNGNAM TECHNO PARK"
+  },
+  {
+    "code": "CTT",
+    "description": "CINEMA TEST TOOLS"
+  },
+  {
+    "code": "CUB",
+    "description": "Cubic Post"
+  },
+  {
+    "code": "CV",
+    "description": "BCHILIAN COMUNICACIÓN VISUAL"
+  },
+  {
+    "code": "CVI",
+    "description": "CINEVILLE INTERNATIONAL"
+  },
+  {
+    "code": "CVN",
+    "description": "CINEVIZION"
+  },
+  {
+    "code": "CX",
+    "description": "CINE CHROMATIX"
+  },
+  {
+    "code": "CXF",
+    "description": "COMPLEXION FILMS"
+  },
+  {
+    "code": "D2",
+    "description": "D2"
+  },
+  {
+    "code": "D24",
+    "description": "DCP24 LABORATORY"
+  },
+  {
+    "code": "D2B",
+    "description": "D2 BENELUX"
+  },
+  {
+    "code": "D2C",
+    "description": "D2 CHINA"
+  },
+  {
+    "code": "D2I",
+    "description": "D2 ITALIA"
+  },
+  {
+    "code": "D35",
+    "description": "D35 S.A."
+  },
+  {
+    "code": "D36",
+    "description": "DIGITAL360, S.L."
+  },
+  {
+    "code": "D3D",
+    "description": "DCP3D"
+  },
+  {
+    "code": "DAC",
+    "description": "DACODEC"
+  },
+  {
+    "code": "DAU",
+    "description": "DELUXE AUSTRALIA (OBSOLETE - SEE DELUXE DIGITAL CINEMA)"
+  },
+  {
+    "code": "DB",
+    "description": "DAME BLANCHE"
+  },
+  {
+    "code": "DBX",
+    "description": "DIGITAL BLUE (MX)"
+  },
+  {
+    "code": "DBY",
+    "description": "D-CINEMA.BY"
+  },
+  {
+    "code": "DC",
+    "description": "DIGITAL CUT"
+  },
+  {
+    "code": "DCB",
+    "description": "DIGITAL CUBE (Romania)"
+  },
+  {
+    "code": "DCC",
+    "description": "DCPCINE"
+  },
+  {
+    "code": "DCD",
+    "description": "DIGITAL CINEMA UNITED"
+  },
+  {
+    "code": "DCE",
+    "description": "DIGITAL CINEMA ENVIRONMENT"
+  },
+  {
+    "code": "DCF",
+    "description": "DCP FACTORY"
+  },
+  {
+    "code": "DCK",
+    "description": "DCI KOMPETENZZENTRUM"
+  },
+  {
+    "code": "DCL",
+    "description": "dcpLAB"
+  },
+  {
+    "code": "DCM",
+    "description": "DIGITAL CINEMA MASTERING"
+  },
+  {
+    "code": "DCN",
+    "description": "DIGICINE RUSSIA"
+  },
+  {
+    "code": "DCP",
+    "description": "DIGITAL CINEMA PRODUCTIONS - LEBANON"
+  },
+  {
+    "code": "DCS",
+    "description": "DIGITAL CINEMA SERVICES"
+  },
+  {
+    "code": "DCT",
+    "description": "DIGITAL CUT POSTPRODUCTION"
+  },
+  {
+    "code": "DCU",
+    "description": "DIGITAL CINEMA UKRAINE"
+  },
+  {
+    "code": "DCY",
+    "description": "Digital Caviar"
+  },
+  {
+    "code": "DD",
+    "description": "DIGITAL-DISTRICT"
+  },
+  {
+    "code": "DDD",
+    "description": "DIGITAL DEVELOPPEMENT DISTRIBUTION"
+  },
+  {
+    "code": "DDI",
+    "description": "DIGITAL DEVOID, INC"
+  },
+  {
+    "code": "DDP",
+    "description": "DDP STUDIOS"
+  },
+  {
+    "code": "DDR",
+    "description": "DELUXE ROME"
+  },
+  {
+    "code": "DDS",
+    "description": "Disney (obsolete - see DSS and WDS)"
+  },
+  {
+    "code": "DEF",
+    "description": "DEFINITIONFILMS AUSTRALIA"
+  },
+  {
+    "code": "DEP",
+    "description": "Department of Post"
+  },
+  {
+    "code": "DEX",
+    "description": "DEXTER THE EYE"
+  },
+  {
+    "code": "DF",
+    "description": "DIGITAL FACTORY (FRANCE)"
+  },
+  {
+    "code": "DFF",
+    "description": "Difference"
+  },
+  {
+    "code": "DFL",
+    "description": "POINT.360 DFL"
+  },
+  {
+    "code": "DFM",
+    "description": "D-Facto-Motion"
+  },
+  {
+    "code": "DFS",
+    "description": "DUALFILM, STUTTGART"
+  },
+  {
+    "code": "DFZ",
+    "description": "difuze Montreal"
+  },
+  {
+    "code": "DGB",
+    "description": "DOLBY UK"
+  },
+  {
+    "code": "DGL",
+    "description": "DIAGONAL"
+  },
+  {
+    "code": "DGS",
+    "description": "DIGMA STUDIO"
+  },
+  {
+    "code": "DI",
+    "description": "digital images GmbH"
+  },
+  {
+    "code": "DIC",
+    "description": "DIGIMAGE CINEMA"
+  },
+  {
+    "code": "DIF",
+    "description": "DI FACTORY"
+  },
+  {
+    "code": "DIG",
+    "description": "DIGILAB"
+  },
+  {
+    "code": "DKG",
+    "description": "DCP.KG"
+  },
+  {
+    "code": "DLA",
+    "description": "DELUXE LA (OBSOLETE - SEE DELUXE TECHNICOLOR BURBANK)"
+  },
+  {
+    "code": "DLB",
+    "description": "DOLBY LA"
+  },
+  {
+    "code": "DLK",
+    "description": "DIGITAL POST SERVICES (SRI LANKA)"
+  },
+  {
+    "code": "DLL",
+    "description": "Warner Bros. De Lane Lea"
+  },
+  {
+    "code": "DLN",
+    "description": "DELUXE NEW YORK"
+  },
+  {
+    "code": "DLS",
+    "description": "DIRTY LOOKS"
+  },
+  {
+    "code": "DM",
+    "description": "DCPMASTER"
+  },
+  {
+    "code": "DMK",
+    "description": "DIGITAL MEDIA SERVICES UK"
+  },
+  {
+    "code": "DMM",
+    "description": "Dan Mitre Media Dubai"
+  },
+  {
+    "code": "DMR",
+    "description": "DCP MASTER RUSSIA"
+  },
+  {
+    "code": "DMS",
+    "description": "DIGITAL MEDIA SERVICES INC."
+  },
+  {
+    "code": "DNY",
+    "description": "DOLBY NY"
+  },
+  {
+    "code": "DOP",
+    "description": "DOPAMYNE FILMS"
+  },
+  {
+    "code": "DP",
+    "description": "DIGIPOST"
+  },
+  {
+    "code": "DPA",
+    "description": "DIGIPIX AUSTRALIA"
+  },
+  {
+    "code": "DPI",
+    "description": "DEMIAN PICTURES"
+  },
+  {
+    "code": "DPM",
+    "description": "DCP MOVIES"
+  },
+  {
+    "code": "DPP",
+    "description": "DIVO POST PRODUCTION"
+  },
+  {
+    "code": "DPS",
+    "description": "DIGITAL POST SERVICES"
+  },
+  {
+    "code": "DPU",
+    "description": "DEPAUL UNIVERSITY - SCHOOL OF CINEMATIC ARTS"
+  },
+  {
+    "code": "DRG",
+    "description": "DRG CINE DIGITAL"
+  },
+  {
+    "code": "DS",
+    "description": "DIGITAL SALADE STUDIO"
+  },
+  {
+    "code": "DSI",
+    "description": "DUPLICATION SERVICES INC."
+  },
+  {
+    "code": "DSN",
+    "description": "Distribution Service Numérique"
+  },
+  {
+    "code": "DSP",
+    "description": "DELUXE SPAIN (OBSOLETE - SEE DELUXE TECHNICOLOR MADRID)"
+  },
+  {
+    "code": "DSS",
+    "description": "Disney Digital Studio Services"
+  },
+  {
+    "code": "DST",
+    "description": "DICENTIA STUDIOS"
+  },
+  {
+    "code": "DTA",
+    "description": "DELUXE TECHNICOLOR AUSTRALIA"
+  },
+  {
+    "code": "DTB",
+    "description": "DELUXE TECHNICOLOR BURBANK "
+  },
+  {
+    "code": "DTC",
+    "description": "DELUXE TECHNICOLOR CULVER CITY"
+  },
+  {
+    "code": "DTF",
+    "description": "DELUXE TECHNICOLOR PARIS "
+  },
+  {
+    "code": "DTI",
+    "description": "Deluxe Technicolor Bangalore (India) "
+  },
+  {
+    "code": "DTL",
+    "description": "DIGITALL PTY LTD"
+  },
+  {
+    "code": "DTM",
+    "description": "DELUXE TECHNICOLOR MADRID"
+  },
+  {
+    "code": "DTT",
+    "description": "DELUXE TECHNICOLOR TORONTO"
+  },
+  {
+    "code": "DTU",
+    "description": "DELUXE TECHNICOLOR UK "
+  },
+  {
+    "code": "DUB",
+    "description": "DUBBING BROTHERS"
+  },
+  {
+    "code": "DUK",
+    "description": "DELUXE UK (OBSOLETE - SEE DELUXE TECHNICOLOR UK)"
+  },
+  {
+    "code": "DVF",
+    "description": "DUAL V FILMS"
+  },
+  {
+    "code": "DVI",
+    "description": "DEVLIN VIDEO INTERNATIONAL"
+  },
+  {
+    "code": "DVN",
+    "description": "DIGITAL VIDEO NORGE"
+  },
+  {
+    "code": "DVS",
+    "description": "DVS INTELESTREAM/CCI DIGITAL"
+  },
+  {
+    "code": "DW",
+    "description": "DAS WERK"
+  },
+  {
+    "code": "DWA",
+    "description": "Dreamworks Animation"
+  },
+  {
+    "code": "DWS",
+    "description": "DCP-WERKSTATT"
+  },
+  {
+    "code": "DX",
+    "description": "DIMENSION X (SRI LANKA)"
+  },
+  {
+    "code": "DXD",
+    "description": "DIFFERENT BY DESIGN"
+  },
+  {
+    "code": "DXL",
+    "description": "DCINEX - LIÈGE (Obsolete - See Eclair Belgium Liege EBL)"
+  },
+  {
+    "code": "DXT",
+    "description": "DCINEX - TUEBINGEN (Obsolete - See Eclair Germany Berlin - EGB)"
+  },
+  {
+    "code": "EA",
+    "description": "ENTERACTIVE GMBH"
+  },
+  {
+    "code": "EBH",
+    "description": "EBH POLSKA"
+  },
+  {
+    "code": "EBL",
+    "description": "Eclair Belgium Liege"
+  },
+  {
+    "code": "EC",
+    "description": "EUROPACORP"
+  },
+  {
+    "code": "ECL",
+    "description": "ÉCLAIR LABS (Obsolete - See Eclair France Paris - EFP)"
+  },
+  {
+    "code": "ECP",
+    "description": "ECLECTICA POST"
+  },
+  {
+    "code": "ECS",
+    "description": "ELECTRIC CINEMA AND SOUND STUDIOS"
+  },
+  {
+    "code": "ED",
+    "description": "E D I T D U D E S"
+  },
+  {
+    "code": "EDC",
+    "description": "EDCI LTD."
+  },
+  {
+    "code": "EDI",
+    "description": "EDI LAB"
+  },
+  {
+    "code": "EDL",
+    "description": "edelbytes berlin"
+  },
+  {
+    "code": "EDT",
+    "description": "EDIT STUDIOS"
+  },
+  {
+    "code": "EFF",
+    "description": "EDINBURGH INTERNATIONAL FILM FESTIVAL"
+  },
+  {
+    "code": "EFH",
+    "description": "EDINBURGH FILMHOUSE"
+  },
+  {
+    "code": "EFK",
+    "description": "Essener Filmkunsttheater GMBH"
+  },
+  {
+    "code": "EFM",
+    "description": "E-FILM"
+  },
+  {
+    "code": "EFP",
+    "description": "Eclair France Paris"
+  },
+  {
+    "code": "EFT",
+    "description": "ESPRIT FILM AND TELEVISION LIMITED"
+  },
+  {
+    "code": "EGB",
+    "description": "Eclair Germany Berlin"
+  },
+  {
+    "code": "EGL",
+    "description": "EGLIFILM POSTPRODUCTION"
+  },
+  {
+    "code": "EHC",
+    "description": "EDITHOUSE (COPENHAGEN, DENMARK)"
+  },
+  {
+    "code": "EHL",
+    "description": "EDITHOUSE LONDON"
+  },
+  {
+    "code": "EHW",
+    "description": "ENCORE HOLLYWOOD"
+  },
+  {
+    "code": "EIV",
+    "description": "Eclair Italy Venice"
+  },
+  {
+    "code": "EKN",
+    "description": "EIKON GROUP LIMITED"
+  },
+  {
+    "code": "ELB",
+    "description": "Elbatron Media Kit"
+  },
+  {
+    "code": "ELL",
+    "description": "ENS LOUIS-LUMIERE, FRANCE"
+  },
+  {
+    "code": "ELO",
+    "description": "ELO FILM SCHOOL HELSINKI"
+  },
+  {
+    "code": "EM",
+    "description": "ETCH MEDIA"
+  },
+  {
+    "code": "EMC",
+    "description": "EMC POST PRODUCTION"
+  },
+  {
+    "code": "EMR",
+    "description": "Eclair Morocco Rabat"
+  },
+  {
+    "code": "EMT",
+    "description": "ELITE MEDIA TECHNOLOGIES"
+  },
+  {
+    "code": "ENT",
+    "description": "ANTITALENT"
+  },
+  {
+    "code": "ENV",
+    "description": "ENVY STUDIOS LTD NZ"
+  },
+  {
+    "code": "EON",
+    "description": "EON ENTERTAINMENT INC"
+  },
+  {
+    "code": "EP",
+    "description": "EAGLE PICTURES"
+  },
+  {
+    "code": "EPA",
+    "description": "EL PERRO ANDALUZ"
+  },
+  {
+    "code": "EPS",
+    "description": "Eggplant Picture and Sound"
+  },
+  {
+    "code": "EQX",
+    "description": "Equinoxe Audiovisual"
+  },
+  {
+    "code": "ESB",
+    "description": "Eclair Spain Barcelona"
+  },
+  {
+    "code": "ESM",
+    "description": "Eclair Spain Madrid"
+  },
+  {
+    "code": "ESP",
+    "description": "ESPERIMENTOCINEMA"
+  },
+  {
+    "code": "ETC",
+    "description": "ETC FILMES"
+  },
+  {
+    "code": "EUL",
+    "description": "Eclair UK London"
+  },
+  {
+    "code": "EUN",
+    "description": "Eclair USA New York"
+  },
+  {
+    "code": "EUX",
+    "description": "Eclair USA Los Angeles"
+  },
+  {
+    "code": "EVP",
+    "description": "EMPIRE VIDEO PRODUCTION"
+  },
+  {
+    "code": "EWP",
+    "description": "ERIK WITTBUSCH POSTPRODUCTION"
+  },
+  {
+    "code": "EX",
+    "description": "EXPROD (CANADA)"
+  },
+  {
+    "code": "EXP",
+    "description": "EXPRESSDCP"
+  },
+  {
+    "code": "FAL",
+    "description": "SOFT Falmouth University UK"
+  },
+  {
+    "code": "FAT",
+    "description": "FATS Digital"
+  },
+  {
+    "code": "FB",
+    "description": "FILM BILDER"
+  },
+  {
+    "code": "FBC",
+    "description": "Film at Brooklyn College"
+  },
+  {
+    "code": "FBF",
+    "description": "FRAME BY FRAME ITALIA"
+  },
+  {
+    "code": "FBK",
+    "description": "FILMBAKERS"
+  },
+  {
+    "code": "FBV",
+    "description": "FILMDOC B.V."
+  },
+  {
+    "code": "FDC",
+    "description": "FILM AND DIGITAL CINEMA"
+  },
+  {
+    "code": "FDS",
+    "description": "FDS-TECHNOLOGY LTD."
+  },
+  {
+    "code": "FDT",
+    "description": "FUTURO DIGITAL TECNOLOGIA"
+  },
+  {
+    "code": "FE",
+    "description": "FATHOM EVENTS"
+  },
+  {
+    "code": "FF",
+    "description": "FINAL FRAME"
+  },
+  {
+    "code": "FFA",
+    "description": "FINAL FOCUS AUSTRALIA"
+  },
+  {
+    "code": "FFF",
+    "description": "FILM FACTORY FRANCE"
+  },
+  {
+    "code": "FFI",
+    "description": "FILM FACTORY ENTERTAINMENT"
+  },
+  {
+    "code": "FFP",
+    "description": "FINAL FELIZ POST"
+  },
+  {
+    "code": "FFX",
+    "description": "FOCUS-FOX STUDIO"
+  },
+  {
+    "code": "FIM",
+    "description": "FIDELITY IN MOTION"
+  },
+  {
+    "code": "FIN",
+    "description": "POST CONTROL HELSINKI"
+  },
+  {
+    "code": "FIR",
+    "description": "Fireplace"
+  },
+  {
+    "code": "FIX",
+    "description": "FIXAFILM"
+  },
+  {
+    "code": "FJH",
+    "description": "FILMPOOL INOM REGION JAMTLAND HARJEDALEN"
+  },
+  {
+    "code": "FKI",
+    "description": "FOTOKEM"
+  },
+  {
+    "code": "FKT",
+    "description": "FARBKULT"
+  },
+  {
+    "code": "FLB",
+    "description": "FILMBAND"
+  },
+  {
+    "code": "FLM",
+    "description": "FILMMORE"
+  },
+  {
+    "code": "FLO",
+    "description": "FLOW POSTPRODUCTION"
+  },
+  {
+    "code": "FMM",
+    "description": "FILMMUSEUM MÜNCHEN"
+  },
+  {
+    "code": "FNL",
+    "description": "FINALE EDITWORKS"
+  },
+  {
+    "code": "FOA",
+    "description": "Foarfk Studio"
+  },
+  {
+    "code": "FOD",
+    "description": "FOCUS ON DIGITAL"
+  },
+  {
+    "code": "FOX",
+    "description": "FoxScreen Bioscoopreclame"
+  },
+  {
+    "code": "FPD",
+    "description": "FILMPRINT DIGITAL"
+  },
+  {
+    "code": "FRA",
+    "description": "FRAMELAB"
+  },
+  {
+    "code": "FRD",
+    "description": "FREE DREAMS PORTUGAL"
+  },
+  {
+    "code": "FRE",
+    "description": "FREESTUDIOS"
+  },
+  {
+    "code": "FRM",
+    "description": "FRAMESTORE"
+  },
+  {
+    "code": "FRS",
+    "description": "FRESTO POST – INDONESIA"
+  },
+  {
+    "code": "FS",
+    "description": "FILMOSONIDO ESTUDIOS"
+  },
+  {
+    "code": "FSM",
+    "description": "FSM"
+  },
+  {
+    "code": "FSP",
+    "description": "FABIAN SPANG POSTPRODUKTIONSBUERO"
+  },
+  {
+    "code": "FSZ",
+    "description": "FREISATZ"
+  },
+  {
+    "code": "FUG",
+    "description": "FUGITIVE"
+  },
+  {
+    "code": "FWD",
+    "description": "Filmworkers Dallas"
+  },
+  {
+    "code": "FWN",
+    "description": "Filmworkers Nashville"
+  },
+  {
+    "code": "FXP",
+    "description": "FXPEAK"
+  },
+  {
+    "code": "G4F",
+    "description": "GOOD4FRAME"
+  },
+  {
+    "code": "GAA",
+    "description": "GODDAM ART AGENCY"
+  },
+  {
+    "code": "GAR",
+    "description": "GARRISON"
+  },
+  {
+    "code": "GCL",
+    "description": "GOLDCREST LONDON"
+  },
+  {
+    "code": "GCV",
+    "description": "GUARANGO CINE Y VIDEO"
+  },
+  {
+    "code": "GDC",
+    "description": "GDC TECHNOLOGY LIMITED"
+  },
+  {
+    "code": "GF",
+    "description": "GENESIS FILM"
+  },
+  {
+    "code": "GFF",
+    "description": "Global Film Factory"
+  },
+  {
+    "code": "GI",
+    "description": "GIANT-INTERACTIVE"
+  },
+  {
+    "code": "GLU",
+    "description": "GLUE EDITING AND DESIGN"
+  },
+  {
+    "code": "GM",
+    "description": "GREG MEKKES"
+  },
+  {
+    "code": "GMP",
+    "description": "GRAY MATTER POST"
+  },
+  {
+    "code": "GP",
+    "description": "GEIGER POST"
+  },
+  {
+    "code": "GPB",
+    "description": "GUALUMBO POST BOUTIQUE"
+  },
+  {
+    "code": "GRL",
+    "description": "GRAAL S.A."
+  },
+  {
+    "code": "GRN",
+    "description": "GREEN DCP"
+  },
+  {
+    "code": "GS",
+    "description": "GALAXY STUDIOS"
+  },
+  {
+    "code": "GSF",
+    "description": "Gdynia Film School"
+  },
+  {
+    "code": "GU",
+    "description": "GOOD UNIVERSE"
+  },
+  {
+    "code": "GVS",
+    "description": "GOOL & VECHT STUDIO"
+  },
+  {
+    "code": "HAL",
+    "description": "Halo Post Production"
+  },
+  {
+    "code": "HAR",
+    "description": "HARBOR PICTURE COMPANY"
+  },
+  {
+    "code": "HBF",
+    "description": "HERMOSA BEACH FILMWORKS"
+  },
+  {
+    "code": "HBL",
+    "description": "HOKUS BOGUS LTD"
+  },
+  {
+    "code": "HBO",
+    "description": "HOME BOX OFFICE"
+  },
+  {
+    "code": "HBP",
+    "description": "Homeless Bob Production"
+  },
+  {
+    "code": "HBT",
+    "description": "Holy Bit!"
+  },
+  {
+    "code": "HDA",
+    "description": "Harvest Digital Agriculture"
+  },
+  {
+    "code": "HDQ",
+    "description": "HEADQUARTER"
+  },
+  {
+    "code": "HFO",
+    "description": "HOCUS FOCUS (OSLO)"
+  },
+  {
+    "code": "HL",
+    "description": "HINTERLAND"
+  },
+  {
+    "code": "HSL",
+    "description": "HOCHSCHULE LUZERN"
+  },
+  {
+    "code": "HSW",
+    "description": "HBO Studios West"
+  },
+  {
+    "code": "HTP",
+    "description": "HILL TOP PRODUCTIONS, LLC"
+  },
+  {
+    "code": "HU",
+    "description": "HEADS UP"
+  },
+  {
+    "code": "HUB",
+    "description": "MEDIAHUB EUROPE"
+  },
+  {
+    "code": "HUT",
+    "description": "HECKMANN UND THIELE"
+  },
+  {
+    "code": "HVY",
+    "description": "HIVENTY"
+  },
+  {
+    "code": "HYP",
+    "description": "Hype Republic"
+  },
+  {
+    "code": "IAA",
+    "description": "INDUSTRIAS AUDIOVISUALES ARGENTINAS SA"
+  },
+  {
+    "code": "IAS",
+    "description": "IMAGES & SOUND LTD"
+  },
+  {
+    "code": "ICO",
+    "description": "ICON STUDIOS"
+  },
+  {
+    "code": "ICS",
+    "description": "ICS LABORATOIRE DIGITA"
+  },
+  {
+    "code": "IDC",
+    "description": "INDIEDCP"
+  },
+  {
+    "code": "IDX",
+    "description": "IDENTITY FX, INC."
+  },
+  {
+    "code": "IF",
+    "description": "IRIDIUM FILM"
+  },
+  {
+    "code": "IFS",
+    "description": "IFS INTERNATIONALE FILMSCHULE KÖLN GMBH"
+  },
+  {
+    "code": "IGO",
+    "description": "Imago VFX"
+  },
+  {
+    "code": "IH",
+    "description": "IRVING HARVEY"
+  },
+  {
+    "code": "IKE",
+    "description": "IKE NO KOI"
+  },
+  {
+    "code": "IL",
+    "description": "IRMALUCIA"
+  },
+  {
+    "code": "ILC",
+    "description": "ISTITUTO LUCE CINECITTA’"
+  },
+  {
+    "code": "ILP",
+    "description": "INNERLENS PRODUCTIONS"
+  },
+  {
+    "code": "IMA",
+    "description": "IMAGICA"
+  },
+  {
+    "code": "IMF",
+    "description": "IMAGE FORESTT"
+  },
+  {
+    "code": "IMG",
+    "description": "IMAGINASTUDIO"
+  },
+  {
+    "code": "IMJ",
+    "description": "IMAJ TV"
+  },
+  {
+    "code": "IML",
+    "description": "IMAGE & LIGHT"
+  },
+  {
+    "code": "IMN",
+    "description": "IMN CREATIVE, INC"
+  },
+  {
+    "code": "IMX",
+    "description": "IMAX"
+  },
+  {
+    "code": "IN3",
+    "description": "IN-THREE"
+  },
+  {
+    "code": "INF",
+    "description": "INFINITY EINDELOOS GRAFISCH"
+  },
+  {
+    "code": "INH",
+    "description": "INHOUSE"
+  },
+  {
+    "code": "INP",
+    "description": "INPHINY"
+  },
+  {
+    "code": "INS",
+    "description": "INSTINCTUAL"
+  },
+  {
+    "code": "IO",
+    "description": "POST LAB IO"
+  },
+  {
+    "code": "IPS",
+    "description": "Image Protection Services"
+  },
+  {
+    "code": "IR",
+    "description": "L'IMMAGINE RITROVATA"
+  },
+  {
+    "code": "IRP",
+    "description": "INFINITY ROAD PICTURES"
+  },
+  {
+    "code": "IRU",
+    "description": "IRUSOIN"
+  },
+  {
+    "code": "ISE",
+    "description": "IMAGICA SEA"
+  },
+  {
+    "code": "ISF",
+    "description": "The Image & Sound Factory"
+  },
+  {
+    "code": "IV",
+    "description": "IndyVideo"
+  },
+  {
+    "code": "IVC",
+    "description": "POINT.360 IVC"
+  },
+  {
+    "code": "IVP",
+    "description": "interface Video Production"
+  },
+  {
+    "code": "IX",
+    "description": "IMACULIX GMBH"
+  },
+  {
+    "code": "JBC",
+    "description": "JAQUEZ BROS COMPANY"
+  },
+  {
+    "code": "JOR",
+    "description": "JORR"
+  },
+  {
+    "code": "JP",
+    "description": "James Post"
+  },
+  {
+    "code": "JVO",
+    "description": "JVO, BILD UND TON, COLOGNE"
+  },
+  {
+    "code": "JVT",
+    "description": "Jvckenwood Video Tech"
+  },
+  {
+    "code": "KAM",
+    "description": "KAMERAUDLEJNINGEN APS"
+  },
+  {
+    "code": "KB",
+    "description": "KINOBILDER"
+  },
+  {
+    "code": "KCP",
+    "description": "KINO CYFROWE"
+  },
+  {
+    "code": "KDD",
+    "description": "Kundudo"
+  },
+  {
+    "code": "KFA",
+    "description": "KURZFILMAGENTUR HAMBURG"
+  },
+  {
+    "code": "KFM",
+    "description": "Keyframe Servicios Audiovisuales"
+  },
+  {
+    "code": "KHH",
+    "description": "Kinemathek Hamburg"
+  },
+  {
+    "code": "KHM",
+    "description": "KUNSTHOCHSCHULE FÜR MEDIEN"
+  },
+  {
+    "code": "KIN",
+    "description": "KINOKKI"
+  },
+  {
+    "code": "KIP",
+    "description": "KINO-I PICTURES"
+  },
+  {
+    "code": "KIT",
+    "description": "KIT DIGITAL"
+  },
+  {
+    "code": "KNO",
+    "description": "KINOKONTOR"
+  },
+  {
+    "code": "KNR",
+    "description": "KONVEYER LAB"
+  },
+  {
+    "code": "KOT",
+    "description": "KINO DIGITAL"
+  },
+  {
+    "code": "KPT",
+    "description": "KRAKOWSKI PARK TECHNOLOGICZNY"
+  },
+  {
+    "code": "KRO",
+    "description": "STUDIO KROPKA"
+  },
+  {
+    "code": "KTR",
+    "description": "KINOTUR"
+  },
+  {
+    "code": "KWX",
+    "description": "Klockworx"
+  },
+  {
+    "code": "L36",
+    "description": "LINE 36 STUDIO"
+  },
+  {
+    "code": "L40",
+    "description": "MS&P GMBH"
+  },
+  {
+    "code": "LA",
+    "description": "LOS ANGELES DUPLICATION & BROADCASTING"
+  },
+  {
+    "code": "LAB",
+    "description": "LE LABO"
+  },
+  {
+    "code": "LB",
+    "description": "LUTBOX Post"
+  },
+  {
+    "code": "LB5",
+    "description": "LAB 54A FILMPRODUKTION GMBH"
+  },
+  {
+    "code": "LBC",
+    "description": "LABO CINE DO BRASIL"
+  },
+  {
+    "code": "LBD",
+    "description": "LABODIGITAL"
+  },
+  {
+    "code": "LBN",
+    "description": "LUBIANI TECNOLOGIE"
+  },
+  {
+    "code": "LBP",
+    "description": "LITTLE BRIDGE PICTURES"
+  },
+  {
+    "code": "LCG",
+    "description": "Lacau Color Grading"
+  },
+  {
+    "code": "LCI",
+    "description": "LA COMPAGNIE DE L'IMAGE"
+  },
+  {
+    "code": "LDN",
+    "description": "LOUDNESS FILMS"
+  },
+  {
+    "code": "LDR",
+    "description": "LABRADOR"
+  },
+  {
+    "code": "LEO",
+    "description": "LEO VALEN"
+  },
+  {
+    "code": "LF",
+    "description": "LOBSTER FILMS"
+  },
+  {
+    "code": "LFP",
+    "description": "LS FILM PRODUCTION"
+  },
+  {
+    "code": "LFS",
+    "description": "LORI FILM STUDIO"
+  },
+  {
+    "code": "LFT",
+    "description": "LIAISON OF INDEPENDENT FILMMAKERS OF TORONTO"
+  },
+  {
+    "code": "LGN",
+    "description": "LAGRANN"
+  },
+  {
+    "code": "LHP",
+    "description": "LOCAL HERO POST"
+  },
+  {
+    "code": "LID",
+    "description": "LIGHTIRON DIGITAL"
+  },
+  {
+    "code": "LIL",
+    "description": "Lily Post Prod"
+  },
+  {
+    "code": "LIS",
+    "description": "LISTO VIDEOFILM"
+  },
+  {
+    "code": "LJM",
+    "description": "LE JOLI MAI"
+  },
+  {
+    "code": "LKB",
+    "description": "Lichtspiel Kinemathek Bern"
+  },
+  {
+    "code": "LKD",
+    "description": "LINK DIGITAL"
+  },
+  {
+    "code": "LLA",
+    "description": "LOOPLAB"
+  },
+  {
+    "code": "LOC",
+    "description": "Library of Congress"
+  },
+  {
+    "code": "LOE",
+    "description": "Loedens Studio"
+  },
+  {
+    "code": "LOM",
+    "description": "LOMOTION AG"
+  },
+  {
+    "code": "LP",
+    "description": "LAST PICTURES (OBSOLETE)"
+  },
+  {
+    "code": "LPC",
+    "description": "LUTE PRODUCTIONS CROATIA"
+  },
+  {
+    "code": "LS",
+    "description": "Light Shop"
+  },
+  {
+    "code": "LSF",
+    "description": "LASER S. FILM S.R.L."
+  },
+  {
+    "code": "LSP",
+    "description": "LASERPACIFIC"
+  },
+  {
+    "code": "LSR",
+    "description": "LASERFILM CINE Y VÍDEO, SL"
+  },
+  {
+    "code": "LSV",
+    "description": "L'ESPACE VISION CO., LTD"
+  },
+  {
+    "code": "LTI",
+    "description": "LIGHT & TIME IMAGING"
+  },
+  {
+    "code": "LUM",
+    "description": "LUMIÈRES NUMÉRIQUES"
+  },
+  {
+    "code": "LV",
+    "description": "LightVAULT"
+  },
+  {
+    "code": "LVR",
+    "description": "LVR DIGITAL"
+  },
+  {
+    "code": "M1",
+    "description": "MEDIA1"
+  },
+  {
+    "code": "MAC",
+    "description": "LES MACHINEURS"
+  },
+  {
+    "code": "MAF",
+    "description": "Mafera Digital"
+  },
+  {
+    "code": "MAG",
+    "description": "MAGENTA TV"
+  },
+  {
+    "code": "MAM",
+    "description": "MAMUT FILMS"
+  },
+  {
+    "code": "MAN",
+    "description": "DCPMANUFAKTUR"
+  },
+  {
+    "code": "MAQ",
+    "description": "CINEMA MAQUINA"
+  },
+  {
+    "code": "MAS",
+    "description": "MA-SA FILMS"
+  },
+  {
+    "code": "MAT",
+    "description": "MATTEL ENTERTAINMENT"
+  },
+  {
+    "code": "MC",
+    "description": "MANGA COMPANY"
+  },
+  {
+    "code": "MCA",
+    "description": "MCCANN CINEMAS AUSTRALIA"
+  },
+  {
+    "code": "MCC",
+    "description": "Motion Castle"
+  },
+  {
+    "code": "MCL",
+    "description": "MOCHA CHAI LABORATORIES"
+  },
+  {
+    "code": "MCM",
+    "description": "MC MULTIMEDIA"
+  },
+  {
+    "code": "MCN",
+    "description": "MOCEAN"
+  },
+  {
+    "code": "MDI",
+    "description": "MDI MARGUTTA DIGITAL INTERNATIONAL SRL"
+  },
+  {
+    "code": "MEL",
+    "description": "MELS STUDIOS AND POSTPRODUCTION"
+  },
+  {
+    "code": "MET",
+    "description": "Metropolis Post Facility"
+  },
+  {
+    "code": "MF",
+    "description": "MAT FILM LTD."
+  },
+  {
+    "code": "MFI",
+    "description": "MAGNOLIAS FILMS"
+  },
+  {
+    "code": "MFL",
+    "description": "Maniac Film Limited"
+  },
+  {
+    "code": "MGF",
+    "description": "MAGESTIC FILM"
+  },
+  {
+    "code": "MH",
+    "description": "MILKHAUS"
+  },
+  {
+    "code": "MIC",
+    "description": "MICSOUND"
+  },
+  {
+    "code": "MIK",
+    "description": "MIKROS IMAGE"
+  },
+  {
+    "code": "MIN",
+    "description": "Minta Motion"
+  },
+  {
+    "code": "MIS",
+    "description": "MISTIKA POST"
+  },
+  {
+    "code": "ML",
+    "description": "MAGICLAB"
+  },
+  {
+    "code": "MM",
+    "description": "M&M MEDIA"
+  },
+  {
+    "code": "MMC",
+    "description": "MACHIN MACHINE"
+  },
+  {
+    "code": "MME",
+    "description": "Media Merchants"
+  },
+  {
+    "code": "MMG",
+    "description": "MOMOTION GMBH"
+  },
+  {
+    "code": "MML",
+    "description": "MAMMAL"
+  },
+  {
+    "code": "MMP",
+    "description": "MAGNA MANA PRODUCTION"
+  },
+  {
+    "code": "MNC",
+    "description": "MEDIA NETWORK CORPORATION (NEW ZEALAND)"
+  },
+  {
+    "code": "MNR",
+    "description": "MERCENAR LAB"
+  },
+  {
+    "code": "MNW",
+    "description": "MARVIN & WAYNE SHORT FILM DISTRIBUTION"
+  },
+  {
+    "code": "MOD",
+    "description": "MODERN VIDEOFILM"
+  },
+  {
+    "code": "MOL",
+    "description": "MOLINARE UK"
+  },
+  {
+    "code": "MOM",
+    "description": "MONTIMEDIA"
+  },
+  {
+    "code": "MOP",
+    "description": "MODO OPERANTE PRODUÇÕES"
+  },
+  {
+    "code": "MOR",
+    "description": "MORDISCO FILMS"
+  },
+  {
+    "code": "MOT",
+    "description": "MOTIONLINK"
+  },
+  {
+    "code": "MOV",
+    "description": "MOVIEDESIGN"
+  },
+  {
+    "code": "MP",
+    "description": "MEDIA PROJEKT"
+  },
+  {
+    "code": "MPI",
+    "description": "WARNER BROS. MOTION PICTURE IMAGING"
+  },
+  {
+    "code": "MPL",
+    "description": "Media Plus Belgrade"
+  },
+  {
+    "code": "MPP",
+    "description": "MPEG PRODUCTION AB"
+  },
+  {
+    "code": "MPS",
+    "description": "MOTION PICTURE SOLUTIONS"
+  },
+  {
+    "code": "MPX",
+    "description": "Manneken Pix"
+  },
+  {
+    "code": "MRK",
+    "description": "MARK DCP"
+  },
+  {
+    "code": "MRS",
+    "description": "M.R. SOUND"
+  },
+  {
+    "code": "MS",
+    "description": "MEDIA SOLUTION"
+  },
+  {
+    "code": "MSF",
+    "description": "MICHAEL SÄNGER FILM"
+  },
+  {
+    "code": "MSM",
+    "description": "MEDIASTREAK MULTIMEDIA"
+  },
+  {
+    "code": "MSP",
+    "description": "MSP-SHOWTECHNIK"
+  },
+  {
+    "code": "MTC",
+    "description": "MARCUS THEATER CORPORATION"
+  },
+  {
+    "code": "MTF",
+    "description": "MOUSETRAP FILMS"
+  },
+  {
+    "code": "MTI",
+    "description": "MANILA TRANSFER INC."
+  },
+  {
+    "code": "MTL",
+    "description": "OUTPOST MTL"
+  },
+  {
+    "code": "MTS",
+    "description": "MATRIS MÜHENDISLIK"
+  },
+  {
+    "code": "MVF",
+    "description": "MOVIE FACTORY"
+  },
+  {
+    "code": "MYD",
+    "description": "MOTION PICTURE SOLUTIONS MYDCP"
+  },
+  {
+    "code": "MYO",
+    "description": "MY ONLINE DCP"
+  },
+  {
+    "code": "NAV",
+    "description": "Navigator Filmproduktion"
+  },
+  {
+    "code": "NB",
+    "description": "NATIONAL LIBRARY OF NORWAY"
+  },
+  {
+    "code": "NBS",
+    "description": "NEW BOX SOLUTIONS"
+  },
+  {
+    "code": "NCP",
+    "description": "NEDCIPRO BV"
+  },
+  {
+    "code": "ND",
+    "description": "NICE DISSOLVE"
+  },
+  {
+    "code": "NDF",
+    "description": "Neon Diesel Finishing"
+  },
+  {
+    "code": "NDG",
+    "description": "NDG Studios"
+  },
+  {
+    "code": "NET",
+    "description": "NETFLIX"
+  },
+  {
+    "code": "NF",
+    "description": "NEVAFILM"
+  },
+  {
+    "code": "NFD",
+    "description": "NORDISK FILM DIGITAL PRODUCTION"
+  },
+  {
+    "code": "NIM",
+    "description": "NIMIC PRODUCTIONS"
+  },
+  {
+    "code": "NIT",
+    "description": "NITROUS LTD"
+  },
+  {
+    "code": "NKB",
+    "description": "Neues Kino Basel"
+  },
+  {
+    "code": "NLE",
+    "description": "NON-LINEAR EVOLUTION"
+  },
+  {
+    "code": "NOI",
+    "description": "NOIR LUMIERE"
+  },
+  {
+    "code": "NP",
+    "description": "NEPTUNE POST"
+  },
+  {
+    "code": "NRM",
+    "description": "NORMA SOUND & PICTURES"
+  },
+  {
+    "code": "NRT",
+    "description": "Nitrate Inc."
+  },
+  {
+    "code": "NUF",
+    "description": "NUFRAME"
+  },
+  {
+    "code": "NUI",
+    "description": "NUI Visual Arts Studio"
+  },
+  {
+    "code": "NUL",
+    "description": "Unspecified"
+  },
+  {
+    "code": "NVL",
+    "description": "NOVELO FILMES"
+  },
+  {
+    "code": "NWF",
+    "description": "NEW WAVE FILM"
+  },
+  {
+    "code": "NXT",
+    "description": "NEXT TECHNOLOGY LTD"
+  },
+  {
+    "code": "O2",
+    "description": "O2 FILMES"
+  },
+  {
+    "code": "OA",
+    "description": "OPTICAL ART"
+  },
+  {
+    "code": "OBD",
+    "description": "One Bright Dot"
+  },
+  {
+    "code": "OCD",
+    "description": "MediaOCD"
+  },
+  {
+    "code": "OCH",
+    "description": "ONE COOL PRODUCTION HONG KONG"
+  },
+  {
+    "code": "OCT",
+    "description": "ONE COOL PRODUCTION THAILAND"
+  },
+  {
+    "code": "ODC",
+    "description": "OCTAMAS AG"
+  },
+  {
+    "code": "ODZ",
+    "description": "ONEDOTZERO POST"
+  },
+  {
+    "code": "OE",
+    "description": "OLYMPUSAT ENTERTAINMENT, INC"
+  },
+  {
+    "code": "OG",
+    "description": "OPEN GATE"
+  },
+  {
+    "code": "OHW",
+    "description": "OFFHOLLYWOOD"
+  },
+  {
+    "code": "OJ",
+    "description": "OMNIBUS JAPAN"
+  },
+  {
+    "code": "OLP",
+    "description": "OUTER LIMITS POST PRODUCTION"
+  },
+  {
+    "code": "OLR",
+    "description": "OUTLIER POST"
+  },
+  {
+    "code": "OLV",
+    "description": "ON LINE VIDEO 46 AG"
+  },
+  {
+    "code": "OM",
+    "description": "OPTIONMEDIA"
+  },
+  {
+    "code": "OMN",
+    "description": "OMNIMAGO"
+  },
+  {
+    "code": "ONE",
+    "description": "DIGITONE ACOSTICS (MUMBAI)"
+  },
+  {
+    "code": "ONS",
+    "description": "ONSIGHT LTD"
+  },
+  {
+    "code": "OOT",
+    "description": "OUT OF THE SQUARE"
+  },
+  {
+    "code": "OPC",
+    "description": "ORIENTAL POST CO., LTD"
+  },
+  {
+    "code": "OPL",
+    "description": "OCTOPOST LAB"
+  },
+  {
+    "code": "OPT",
+    "description": "OPTIX DIGITAL PICTURES"
+  },
+  {
+    "code": "ORE",
+    "description": "Elia Orselli"
+  },
+  {
+    "code": "ORI",
+    "description": "DIGICINE ORISTAR TECHNOLOGY"
+  },
+  {
+    "code": "ORK",
+    "description": "ORKA, POLAND"
+  },
+  {
+    "code": "OS",
+    "description": "Orange Studio, France"
+  },
+  {
+    "code": "OSC",
+    "description": "OSCILLOSCOPE LABORATORIES"
+  },
+  {
+    "code": "OTF",
+    "description": "OUTPOST TECHNOLOGY FRONTIER"
+  },
+  {
+    "code": "OVF",
+    "description": "OUTPOST VISUAL FRONTIER"
+  },
+  {
+    "code": "OXI",
+    "description": "OXIDO"
+  },
+  {
+    "code": "PBC",
+    "description": "P&B Communication S.R.L."
+  },
+  {
+    "code": "PC",
+    "description": "POST CATACLYSMA"
+  },
+  {
+    "code": "PCH",
+    "description": "PROTRONIC AG"
+  },
+  {
+    "code": "PCL",
+    "description": "SONY PCL"
+  },
+  {
+    "code": "PDE",
+    "description": "PIXELFLY DIGITAL EFFECTS"
+  },
+  {
+    "code": "PDP",
+    "description": "PARAMOUNT DIGITAL POST"
+  },
+  {
+    "code": "PDS",
+    "description": "PRODUCTION DATA SERVICES"
+  },
+  {
+    "code": "PF",
+    "description": "POSTFACTORY BERLIN"
+  },
+  {
+    "code": "PFB",
+    "description": "PRIME FOCUS BANGALORE"
+  },
+  {
+    "code": "PFC",
+    "description": "PRIME FOCUS CHENNAI"
+  },
+  {
+    "code": "PFG",
+    "description": "PRIME FOCUS GOA"
+  },
+  {
+    "code": "PFH",
+    "description": "PRIME FOCUS HOLLYWOOD"
+  },
+  {
+    "code": "PFL",
+    "description": "PRIME FOCUS LONDON"
+  },
+  {
+    "code": "PFM",
+    "description": "PRIME FOCUS MUMBAI"
+  },
+  {
+    "code": "PFN",
+    "description": "PRIME FOCUS NEW YORK"
+  },
+  {
+    "code": "PFU",
+    "description": "POST FACTORY UK"
+  },
+  {
+    "code": "PFX",
+    "description": "PFX"
+  },
+  {
+    "code": "PFY",
+    "description": "PRIME FOCUS HYDERABAD"
+  },
+  {
+    "code": "PHC",
+    "description": "PICTUREHOUSE CENTRAL"
+  },
+  {
+    "code": "PHD",
+    "description": "PREHISTORIC DIGITAL"
+  },
+  {
+    "code": "PI",
+    "description": "PLATIGE IMAGE"
+  },
+  {
+    "code": "PIF",
+    "description": "PIFFL MEDIEN"
+  },
+  {
+    "code": "PIN",
+    "description": "PRODUCTIONS DE L'INSENSIBLE"
+  },
+  {
+    "code": "PIR",
+    "description": "PIRANA"
+  },
+  {
+    "code": "PK",
+    "description": "PEPIJN KLIJS"
+  },
+  {
+    "code": "PKF",
+    "description": "PEAKFEIN"
+  },
+  {
+    "code": "PKM",
+    "description": "PEAK MEDIA"
+  },
+  {
+    "code": "PLA",
+    "description": "MEGA PLAYGROUND"
+  },
+  {
+    "code": "PLS",
+    "description": "POST LOGIC"
+  },
+  {
+    "code": "PM",
+    "description": "POST-MODERNE"
+  },
+  {
+    "code": "PMF",
+    "description": "Productora Multimedia Flash"
+  },
+  {
+    "code": "PMP",
+    "description": "POWER MUSIC PRODUCTIONS"
+  },
+  {
+    "code": "PMT",
+    "description": "PMT (QUEBEC)"
+  },
+  {
+    "code": "PNY",
+    "description": "POST FACTORY NY (Obsolete)"
+  },
+  {
+    "code": "POD",
+    "description": "Post Oak DCP"
+  },
+  {
+    "code": "POL",
+    "description": "Poly Son Post Production"
+  },
+  {
+    "code": "PP",
+    "description": "PICTURE PERFECT"
+  },
+  {
+    "code": "PPA",
+    "description": "PERISCOPE POST & AUDIO"
+  },
+  {
+    "code": "PPG",
+    "description": "POST PRO GUMBO"
+  },
+  {
+    "code": "PRE",
+    "description": "PRESTIGE CONSULTING"
+  },
+  {
+    "code": "PRP",
+    "description": "Park Road Post Production LTD."
+  },
+  {
+    "code": "PRX",
+    "description": "PROXIMA MILANO"
+  },
+  {
+    "code": "PSC",
+    "description": "POSTCOLOR"
+  },
+  {
+    "code": "PSP",
+    "description": "PROMOSCAPE (obsolete - now RDL)"
+  },
+  {
+    "code": "PSR",
+    "description": "Paolo Sodi"
+  },
+  {
+    "code": "PSS",
+    "description": "PRETTY SWEET"
+  },
+  {
+    "code": "PST",
+    "description": "Postino Post-Production"
+  },
+  {
+    "code": "PT",
+    "description": "PACIFIC TITLE"
+  },
+  {
+    "code": "PTF",
+    "description": "POSITIVE FILM"
+  },
+  {
+    "code": "PTQ",
+    "description": "POSTIQUE CO., LTD"
+  },
+  {
+    "code": "PUZ",
+    "description": "PUZZLE FILM & VIDEO"
+  },
+  {
+    "code": "PW",
+    "description": "POSTWORKS"
+  },
+  {
+    "code": "PWL",
+    "description": "PIXWEL"
+  },
+  {
+    "code": "PX",
+    "description": "PIXAR (OBSOLETE)"
+  },
+  {
+    "code": "PXB",
+    "description": "PIXELOGIC BURBANK"
+  },
+  {
+    "code": "PXC",
+    "description": "PIXELOGIC CULVER"
+  },
+  {
+    "code": "PXL",
+    "description": "PIXELOGIC"
+  },
+  {
+    "code": "PXN",
+    "description": "PIXELOGIC NEW YORK"
+  },
+  {
+    "code": "PXP",
+    "description": "PIXEL FOR EVERYONE GBR (POTSDAM)"
+  },
+  {
+    "code": "PXR",
+    "description": "PIXAR"
+  },
+  {
+    "code": "PXU",
+    "description": "PIXELOGIC UK (LONDON)"
+  },
+  {
+    "code": "PXW",
+    "description": "PIXEL FOR EVERYONE GBR (WAHLSTORF)"
+  },
+  {
+    "code": "PYR",
+    "description": "PYRAMID POST - INDONESIA"
+  },
+  {
+    "code": "PZO",
+    "description": "PIANETA ZERO"
+  },
+  {
+    "code": "QP",
+    "description": "QUANTUM POST"
+  },
+  {
+    "code": "QUB",
+    "description": "QUBE CINEMA"
+  },
+  {
+    "code": "R2I",
+    "description": "RED ROOSTER INDONESIA"
+  },
+  {
+    "code": "RAM",
+    "description": "Rammara Ehf"
+  },
+  {
+    "code": "RBC",
+    "description": "RBC SRL"
+  },
+  {
+    "code": "RBM",
+    "description": "RED BULL MEDIA HOUSE"
+  },
+  {
+    "code": "RBR",
+    "description": "RBR FILMS"
+  },
+  {
+    "code": "RCH",
+    "description": "LA RUCHE STUDIO"
+  },
+  {
+    "code": "RCO",
+    "description": "RICART & CO"
+  },
+  {
+    "code": "RCP",
+    "description": "REDCUP POST"
+  },
+  {
+    "code": "RD",
+    "description": "REALD"
+  },
+  {
+    "code": "RDA",
+    "description": "ROAR DIGITAL"
+  },
+  {
+    "code": "RDL",
+    "description": "REMOTE DIGITAL"
+  },
+  {
+    "code": "RDR",
+    "description": "RADAR D.O.O."
+  },
+  {
+    "code": "REA",
+    "description": "REANIMEDIA LTD."
+  },
+  {
+    "code": "REB",
+    "description": "REB10 DIGI LAB"
+  },
+  {
+    "code": "RED",
+    "description": "Redspace AG (formerly Redsmoke AG)"
+  },
+  {
+    "code": "REI",
+    "description": "ROUNDABOUT ENTERTAINMENT INC."
+  },
+  {
+    "code": "REL",
+    "description": "RELITA"
+  },
+  {
+    "code": "REV",
+    "description": "REV13 FILMS INC"
+  },
+  {
+    "code": "RFI",
+    "description": "RPS FILM IMAGING LTD"
+  },
+  {
+    "code": "RFY",
+    "description": "roses for you film"
+  },
+  {
+    "code": "RGB",
+    "description": "RGB POST"
+  },
+  {
+    "code": "RHI",
+    "description": "RHI-MEDIA REGENSBURG"
+  },
+  {
+    "code": "RIC",
+    "description": "REAL IMAGE, CHENNAI"
+  },
+  {
+    "code": "RIH",
+    "description": "REAL IMAGE, HYDERABAD"
+  },
+  {
+    "code": "RIK",
+    "description": "REAL IMAGE, KOCHI"
+  },
+  {
+    "code": "RIM",
+    "description": "REAL IMAGE, MUMBAI"
+  },
+  {
+    "code": "RIT",
+    "description": "RITCS (Royal Institute for Theatre, Cinema and Sound)"
+  },
+  {
+    "code": "RL",
+    "description": "REALDCP"
+  },
+  {
+    "code": "RLW",
+    "description": "RALUWA - DCP.COMPANY"
+  },
+  {
+    "code": "RM",
+    "description": "ROUSH MEDIA"
+  },
+  {
+    "code": "RMW",
+    "description": "RELIANCE MEDIAWORKS"
+  },
+  {
+    "code": "RND",
+    "description": "R&D WORKSHOP"
+  },
+  {
+    "code": "ROC",
+    "description": "ROCK THE FILM"
+  },
+  {
+    "code": "RPM",
+    "description": "RPM PICTURES"
+  },
+  {
+    "code": "RPS",
+    "description": "RESTART PRODUCTIONS"
+  },
+  {
+    "code": "RR",
+    "description": "RIF///RAF CREATIVE"
+  },
+  {
+    "code": "RRP",
+    "description": "RED ROOM POST"
+  },
+  {
+    "code": "RS",
+    "description": "RENDERED SUN"
+  },
+  {
+    "code": "RSF",
+    "description": "REDSCOPE FILMPRODUCTIES"
+  },
+  {
+    "code": "RSM",
+    "description": "RED SQUARE MOTION"
+  },
+  {
+    "code": "RSS",
+    "description": "RED SKY STUDIOS"
+  },
+  {
+    "code": "RTF",
+    "description": "ROUNDTABLE FILMS"
+  },
+  {
+    "code": "RVD",
+    "description": "WORLDWIDE DIGITAL CINEMA"
+  },
+  {
+    "code": "RVP",
+    "description": "ROEL VIDELER POSTPRODUCTION"
+  },
+  {
+    "code": "RWK",
+    "description": "RAAMW3RK"
+  },
+  {
+    "code": "S19",
+    "description": "SIXTEEN19"
+  },
+  {
+    "code": "S2",
+    "description": "SCHEDULE 2 INC."
+  },
+  {
+    "code": "S2E",
+    "description": "SUPERLATIVE STIMULI"
+  },
+  {
+    "code": "S76",
+    "description": "STUDIO76"
+  },
+  {
+    "code": "SA",
+    "description": "SCREEN ATTRACTIONS"
+  },
+  {
+    "code": "SAA",
+    "description": "SAAL MEDIA"
+  },
+  {
+    "code": "SAC",
+    "description": "SACCO FILM"
+  },
+  {
+    "code": "SAM",
+    "description": "SAMFILM"
+  },
+  {
+    "code": "SAS",
+    "description": "STUDIO ASCI"
+  },
+  {
+    "code": "SBX",
+    "description": "SANDBOX"
+  },
+  {
+    "code": "SCA",
+    "description": "SCARAMANGA MEDIEN GMBH"
+  },
+  {
+    "code": "SCL",
+    "description": "SCANLAB FRANCE"
+  },
+  {
+    "code": "SCN",
+    "description": "SHORTCUT NORGE"
+  },
+  {
+    "code": "SCS",
+    "description": "SB CINE SOUNDS, CANADA"
+  },
+  {
+    "code": "SCW",
+    "description": "COLORWORKS"
+  },
+  {
+    "code": "SDC",
+    "description": "SOHO DIGITAL CINEMA (obsolete - See VDM)"
+  },
+  {
+    "code": "SDL",
+    "description": "Substance Digital"
+  },
+  {
+    "code": "SDM",
+    "description": "SOHO DIGITAL MEDIA (OBS., SEE SOHO DIGITAL CINEMA)"
+  },
+  {
+    "code": "SDP",
+    "description": "STANDARD DIGITAL PRODUCTION COMPANY"
+  },
+  {
+    "code": "SDS",
+    "description": "SUNSET DYNAMICS"
+  },
+  {
+    "code": "SE",
+    "description": "STUDIO ELEMENT"
+  },
+  {
+    "code": "SEK",
+    "description": "SEBANG SDL (KOREA)"
+  },
+  {
+    "code": "SEM",
+    "description": "SPURENELEMENTE"
+  },
+  {
+    "code": "SEQ",
+    "description": "STUDIO L'EQUIPE"
+  },
+  {
+    "code": "SET",
+    "description": "Sette Postproduction"
+  },
+  {
+    "code": "SFB",
+    "description": "SOUNDFIRM BEIJING"
+  },
+  {
+    "code": "SFK",
+    "description": "Studentischer Filmkreis an der TU Darmstadt e.V."
+  },
+  {
+    "code": "SFL",
+    "description": "SOHO FILM LAB"
+  },
+  {
+    "code": "SFM",
+    "description": "SF MEDIA AB"
+  },
+  {
+    "code": "SFS",
+    "description": "SOUNDFILM SYDNEY"
+  },
+  {
+    "code": "SFV",
+    "description": "SOUNDFILM MELBOURNE"
+  },
+  {
+    "code": "SFX",
+    "description": "SCREAMING DEATH MONKEY"
+  },
+  {
+    "code": "SG",
+    "description": "Sim"
+  },
+  {
+    "code": "SHA",
+    "description": "SHAMAN ID"
+  },
+  {
+    "code": "SHL",
+    "description": "Studio Holder"
+  },
+  {
+    "code": "SIL",
+    "description": "SILVER TRAK DIGITAL"
+  },
+  {
+    "code": "SIM",
+    "description": "SIMPLE DCP"
+  },
+  {
+    "code": "SKL",
+    "description": "SKLAVIS FILM LAB"
+  },
+  {
+    "code": "SKY",
+    "description": "SKYLAB SERVICES INC"
+  },
+  {
+    "code": "SLD",
+    "description": "SOLUCIONES DVD"
+  },
+  {
+    "code": "SLS",
+    "description": "STORYLINE STUDIOS"
+  },
+  {
+    "code": "SM",
+    "description": "SPEEDMEDIA"
+  },
+  {
+    "code": "SMG",
+    "description": "SILVERSUN MEDIA GROUP LTD"
+  },
+  {
+    "code": "SMP",
+    "description": "STATIK MOTION PICTURES"
+  },
+  {
+    "code": "SMT",
+    "description": "SVENSK MEDIETEXT"
+  },
+  {
+    "code": "SMV",
+    "description": "Studio Mitte Video"
+  },
+  {
+    "code": "SNK",
+    "description": "Studio Neukölln Video"
+  },
+  {
+    "code": "SNP",
+    "description": "La Sombra Negra Producciones"
+  },
+  {
+    "code": "SOO",
+    "description": "STUCK ON ON"
+  },
+  {
+    "code": "SOS",
+    "description": "SOS COLOR"
+  },
+  {
+    "code": "SP",
+    "description": "SONIC POOL"
+  },
+  {
+    "code": "SPB",
+    "description": "Senior Post"
+  },
+  {
+    "code": "SPC",
+    "description": "SPECTICAST ENTERTAINMENT"
+  },
+  {
+    "code": "SPI",
+    "description": "SONY PICTURES IMAGEWORKS"
+  },
+  {
+    "code": "SPN",
+    "description": "SPOON POSTPRODUCTION PRAGUE"
+  },
+  {
+    "code": "SPO",
+    "description": "SHOOT & POST"
+  },
+  {
+    "code": "SPP",
+    "description": "STAMPEDE POST PRODUCTIONS"
+  },
+  {
+    "code": "SPR",
+    "description": "SPIRA"
+  },
+  {
+    "code": "SPS",
+    "description": "SOLOPOST SERVICES"
+  },
+  {
+    "code": "SQR",
+    "description": "DCP Square"
+  },
+  {
+    "code": "SRA",
+    "description": "SIERRA POST PRODUCTIONS"
+  },
+  {
+    "code": "SRP",
+    "description": "Sem Rumo - Projetos Audiovisuais"
+  },
+  {
+    "code": "SS",
+    "description": "SHAW STUDIOS"
+  },
+  {
+    "code": "SSC",
+    "description": "SPICE SHOP COMPANY"
+  },
+  {
+    "code": "SSF",
+    "description": "SAM Spiegel Film"
+  },
+  {
+    "code": "SSN",
+    "description": "CINEMA SSEN (KOREA)"
+  },
+  {
+    "code": "SSP",
+    "description": "SEARLE STREET POST"
+  },
+  {
+    "code": "STE",
+    "description": "STEMPEL"
+  },
+  {
+    "code": "STF",
+    "description": "SteFilm"
+  },
+  {
+    "code": "STH",
+    "description": "STUDIO HAMBURG"
+  },
+  {
+    "code": "STP",
+    "description": "STRAIGHT.PRO"
+  },
+  {
+    "code": "STR",
+    "description": "START"
+  },
+  {
+    "code": "SUB",
+    "description": "SUBRATA SEN COMMUNICATIONS"
+  },
+  {
+    "code": "SUF",
+    "description": "SUBSTANCE FILM UG"
+  },
+  {
+    "code": "SUR",
+    "description": "EL SUR CINE Y VIDEO"
+  },
+  {
+    "code": "SV",
+    "description": "STADION VIDEO"
+  },
+  {
+    "code": "SVL",
+    "description": "SCREEN VISTAS LTD (NEW ZEALAND)"
+  },
+  {
+    "code": "SWE",
+    "description": "SWEET POST PRODUCTION"
+  },
+  {
+    "code": "SWI",
+    "description": "Swing Shift Post"
+  },
+  {
+    "code": "SWS",
+    "description": "DCPLAB.EU"
+  },
+  {
+    "code": "SYL",
+    "description": "SYLICONE"
+  },
+  {
+    "code": "SYN",
+    "description": "Synchro"
+  },
+  {
+    "code": "T60",
+    "description": "TRES60 BCN"
+  },
+  {
+    "code": "TAT",
+    "description": "TAT PRODUCTIONS (FRANCE)"
+  },
+  {
+    "code": "TBD",
+    "description": "TBD POST"
+  },
+  {
+    "code": "TC1",
+    "description": "TC SOHO"
+  },
+  {
+    "code": "TCF",
+    "description": "TWENTIETH CENTURY FOX"
+  },
+  {
+    "code": "TCI",
+    "description": "TITRA CALIFORNIA, INC"
+  },
+  {
+    "code": "TCM",
+    "description": "TECHNICOLOR DIGITAL CINEMA – MONTREAL"
+  },
+  {
+    "code": "TCP",
+    "description": "The Chimney Pot"
+  },
+  {
+    "code": "TCS",
+    "description": "TCS (FRANCE)"
+  },
+  {
+    "code": "TDC",
+    "description": "TECHNICOLOR DIGITAL CINEMA LA (OBSOLETE - SEE DELUXE DIGITAL CINEMA)"
+  },
+  {
+    "code": "TDE",
+    "description": "T.D.E. SOLUTIONS LIMITED"
+  },
+  {
+    "code": "TDF",
+    "description": "Te Digital Factory Ltd."
+  },
+  {
+    "code": "TDI",
+    "description": "TERMINAL DI"
+  },
+  {
+    "code": "TE",
+    "description": "TRENCH ENTERTAINMENT (obsolete, see TRD)"
+  },
+  {
+    "code": "TEF",
+    "description": "TECHNICOLOR ENTERTAINEMENT SERVICES FRANCE"
+  },
+  {
+    "code": "TET",
+    "description": "TETRAGRADE"
+  },
+  {
+    "code": "TEU",
+    "description": "TECHNICOLOR DIGITAL CINEMA UK (OBSOLETE - SEE DELUXE DIGITAL CINEMA)"
+  },
+  {
+    "code": "TFD",
+    "description": "TECHNISCHER FILM DIENST"
+  },
+  {
+    "code": "TFG",
+    "description": "The Farm Group"
+  },
+  {
+    "code": "TFL",
+    "description": "THE FINISH LINE MEDIA LIMITED"
+  },
+  {
+    "code": "TFM",
+    "description": "TROLLFILM"
+  },
+  {
+    "code": "TFP",
+    "description": "TREE FALLS POST"
+  },
+  {
+    "code": "TFS",
+    "description": "TIME FACTOR PICTURES"
+  },
+  {
+    "code": "TGN",
+    "description": "TOKYO LABORATORY"
+  },
+  {
+    "code": "TIE",
+    "description": "TELEIMAGE (BRASIL)"
+  },
+  {
+    "code": "TIF",
+    "description": "TORONTO INTERNATIONAL FILM FESTIVAL"
+  },
+  {
+    "code": "TIP",
+    "description": "The Institution Post"
+  },
+  {
+    "code": "TIT",
+    "description": "TITRA FILM GENEVA"
+  },
+  {
+    "code": "TK",
+    "description": "TELEKING"
+  },
+  {
+    "code": "TL",
+    "description": "TIMELAPSES.ES (SPAIN)"
+  },
+  {
+    "code": "TLD",
+    "description": "TIMELINE DIGITAL"
+  },
+  {
+    "code": "TLK",
+    "description": "THE LOOK"
+  },
+  {
+    "code": "TLS",
+    "description": "TELSON SPAIN"
+  },
+  {
+    "code": "TM",
+    "description": "Trailer Manufaktur | Berlin"
+  },
+  {
+    "code": "TNG",
+    "description": "TONGARIRO"
+  },
+  {
+    "code": "TNL",
+    "description": "TUNNEL POST"
+  },
+  {
+    "code": "TNR",
+    "description": "THE NEW RESIDENCE"
+  },
+  {
+    "code": "TOA",
+    "description": "TOAST POST PRODUCTION OY LTD"
+  },
+  {
+    "code": "TOL",
+    "description": "TOLIRAG"
+  },
+  {
+    "code": "TP",
+    "description": "TALENTO POST"
+  },
+  {
+    "code": "TPB",
+    "description": "THE POST BANGKOK"
+  },
+  {
+    "code": "TPE",
+    "description": "The Piranesi Experience"
+  },
+  {
+    "code": "TPM",
+    "description": "THE POSTMAN"
+  },
+  {
+    "code": "TPN",
+    "description": "Triplenode"
+  },
+  {
+    "code": "TPR",
+    "description": "THE POST REPUBLIC"
+  },
+  {
+    "code": "TPS",
+    "description": "TECHNICOLOR PRODUCTION SERVICES"
+  },
+  {
+    "code": "TPW",
+    "description": "Tallinn Postworks"
+  },
+  {
+    "code": "TPX",
+    "description": "Trinipix"
+  },
+  {
+    "code": "TRD",
+    "description": "Trench Digital"
+  },
+  {
+    "code": "TRE",
+    "description": "TREACLE LIMITED (HK)"
+  },
+  {
+    "code": "TRN",
+    "description": "Tangren Cultural Film Group"
+  },
+  {
+    "code": "TVC",
+    "description": "TVC SOHO"
+  },
+  {
+    "code": "TVM",
+    "description": "WARNER BROS. TV MARKETING TEAM"
+  },
+  {
+    "code": "TW",
+    "description": "TRICKWILK"
+  },
+  {
+    "code": "TWR",
+    "description": "Tanweer Studios"
+  },
+  {
+    "code": "UBP",
+    "description": "URBAN POST PRODUCTION"
+  },
+  {
+    "code": "UDS",
+    "description": "UNIVERSAL STUDIOS DIGITAL SERVICES"
+  },
+  {
+    "code": "UFO",
+    "description": "UFOH! AS"
+  },
+  {
+    "code": "UHR",
+    "description": "Uhoert"
+  },
+  {
+    "code": "UIG",
+    "description": "UIGIG ENTERTAINMENT (SPAIN)"
+  },
+  {
+    "code": "UKN",
+    "description": "Unknown Inc."
+  },
+  {
+    "code": "UMV",
+    "description": "UMEDIA VANCOUVER"
+  },
+  {
+    "code": "UP4",
+    "description": "UP4, MONTREAL (CANADA)"
+  },
+  {
+    "code": "UPI",
+    "description": "UNION PICTURES (CANADA)"
+  },
+  {
+    "code": "URT",
+    "description": "URTEXT FILM PRODUCTIONS"
+  },
+  {
+    "code": "USP",
+    "description": "UNIVERSAL STUDIOPOST"
+  },
+  {
+    "code": "UTD",
+    "description": "UTD. BY CONTENT"
+  },
+  {
+    "code": "UTS",
+    "description": "UNTITLED STUDIOS"
+  },
+  {
+    "code": "VCV",
+    "description": "VIA EXPRESA CINE Y VIDEO SRL"
+  },
+  {
+    "code": "VDC",
+    "description": "VOGEL DIGITAL CINEMA SERVICES"
+  },
+  {
+    "code": "VDM",
+    "description": "Visual Data Media Services"
+  },
+  {
+    "code": "VDP",
+    "description": "VIDÉO DE POCHE"
+  },
+  {
+    "code": "VE",
+    "description": "Village Entertainment"
+  },
+  {
+    "code": "VER",
+    "description": "VERINET GMBH"
+  },
+  {
+    "code": "VEV",
+    "description": "VENTE EN VIDÉO"
+  },
+  {
+    "code": "VEX",
+    "description": "VIRTUAL EXPERIENCE"
+  },
+  {
+    "code": "VFS",
+    "description": "VFS FILMS"
+  },
+  {
+    "code": "VFX",
+    "description": "BONANZA POST PRODUCTION"
+  },
+  {
+    "code": "VG",
+    "description": "VISION GLOBALE (OBSOLETE - SEE MELS STUDIOS AND POSTPRODUCTION)"
+  },
+  {
+    "code": "VIC",
+    "description": "VICTORY STUDIOS"
+  },
+  {
+    "code": "VIS",
+    "description": "VISAR STUDIO"
+  },
+  {
+    "code": "VM",
+    "description": "VESTMEDIA A/S"
+  },
+  {
+    "code": "VMT",
+    "description": "VISUAL MEDIA & TECHNOLOGY"
+  },
+  {
+    "code": "VP",
+    "description": "VEGA PROD"
+  },
+  {
+    "code": "VPP",
+    "description": "VIDEOBOLAGET POST PRODUCTION"
+  },
+  {
+    "code": "VS",
+    "description": "VI.SO. VIRTUAL SOLUTION"
+  },
+  {
+    "code": "VSL",
+    "description": "Video Shack Laboratorio"
+  },
+  {
+    "code": "VSN",
+    "description": "VISION MEDIA"
+  },
+  {
+    "code": "VSO",
+    "description": "Visom"
+  },
+  {
+    "code": "WBE",
+    "description": "West Bay Entertainment"
+  },
+  {
+    "code": "WD",
+    "description": "WELL DONE"
+  },
+  {
+    "code": "WDS",
+    "description": "Walt Disney Studios"
+  },
+  {
+    "code": "WEL",
+    "description": "Wellington Films Ltd"
+  },
+  {
+    "code": "WFF",
+    "description": "WILDFIRE FINISHING"
+  },
+  {
+    "code": "WFG",
+    "description": "WEFADETOGREY"
+  },
+  {
+    "code": "WFS",
+    "description": "WATERFRONT FILM STUDIOS"
+  },
+  {
+    "code": "WG",
+    "description": "WILKNER GROUP"
+  },
+  {
+    "code": "WHC",
+    "description": "WHEELHOUSE CREATIVE"
+  },
+  {
+    "code": "WL",
+    "description": "WAVE-LINE"
+  },
+  {
+    "code": "WLJ",
+    "description": "Whiteline"
+  },
+  {
+    "code": "WLP",
+    "description": "WHITE LIGHT POST"
+  },
+  {
+    "code": "WMC",
+    "description": "WEMCO LABS"
+  },
+  {
+    "code": "WMS",
+    "description": "WILD MIKE STUDIO"
+  },
+  {
+    "code": "WP",
+    "description": "BILL BRYN RUSSELL"
+  },
+  {
+    "code": "WRB",
+    "description": "WORKBUS"
+  },
+  {
+    "code": "WTF",
+    "description": "CINECERT, LLC"
+  },
+  {
+    "code": "WWS",
+    "description": "WIRE WALKER STUDIOS"
+  },
+  {
+    "code": "XDC",
+    "description": "XDC DIGITAL LAB (OBS., SEE DCINEX - LIÈGE)"
+  },
+  {
+    "code": "XXL",
+    "description": "XXL VIDEO"
+  },
+  {
+    "code": "YBA",
+    "description": "YMAGIS BARCELONA (Obsolete - See Eclair Spain Barcelona - ESB)"
+  },
+  {
+    "code": "YBE",
+    "description": "YMAGIS BERLIN (Obsolete - See Eclair Germany Berlin EGB)"
+  },
+  {
+    "code": "YMA",
+    "description": "YMAGIS (Obsolete - See Eclair France Paris - EFP)"
+  },
+  {
+    "code": "YMF",
+    "description": "YMAGIFILM (Obsolete)"
+  },
+  {
+    "code": "YMQ",
+    "description": "YMAGIS QUICKDCP"
+  },
+  {
+    "code": "YPA",
+    "description": "YMAGIS PARIS (Obsolete - See Eclair France Paris - EFP)"
+  },
+  {
+    "code": "YPP",
+    "description": "YELLOWMOON POST PRODUCTION"
+  },
+  {
+    "code": "YSI",
+    "description": "YSI Films"
+  },
+  {
+    "code": "YUS",
+    "description": "YUSARI FILEM"
+  },
+  {
+    "code": "ZAP",
+    "description": "ZOETROPE AUBRY PRODUCTIONS"
+  },
+  {
+    "code": "ZB",
+    "description": "Zombie Studio"
+  },
+  {
+    "code": "ZEN",
+    "description": "ZENTROPA KLIPPEGANGEN"
+  },
+  {
+    "code": "ZEU",
+    "description": "ZEUS DCP"
+  },
+  {
+    "code": "ZF",
+    "description": "Zegreb Film"
+  },
+  {
+    "code": "ZHK",
+    "description": "ZÜRCHER HOCHSCHULE DER KÜNSTE"
+  },
+  {
+    "code": "ZM",
+    "description": "ZOOM-ENTERTAINMENT"
+  },
+  {
+    "code": "ZOE",
+    "description": "ZOE CREATIVE SERVICES"
+  },
+  {
+    "code": "ZON",
+    "description": "Zone2 Pictures"
+  },
+  {
+    "code": "ZWB",
+    "description": "ZWEIB"
+  },
+  {
+    "code": "ZZP",
+    "description": "ZIGZAG POST"
+  }
+]
