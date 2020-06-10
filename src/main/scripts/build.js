@@ -87,6 +87,7 @@ fs.mkdirSync(BUILD_PATH, { recursive: true });
 var html = template({
   "version" : version,
   "data" : registry,
+  "date" :  new Date(),
   "pdf_path": PDF_SITE_PATH
 });
 

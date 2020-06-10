@@ -31,12 +31,17 @@
     <tbody>
       {{#data}}
       <tr>
-        <td><pre>{{code}}</pre></td>
+        <td>
+          <pre>{{code}}</pre>
+        </td>
         <td>{{description}}</td>
       </tr>
       {{/data}}
     </tbody>
   </table>
+  <footer class="container footer font-small justify-content-between">
+    <p>Version: <code>{{version}}</code> | Generated on {{date}}</p>
+  </footer>
 </body>
 
 </html>
