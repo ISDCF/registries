@@ -5,6 +5,8 @@ _EXPERIMENTAL_
 
 Metadata registries maintained by the InterSociety Digital Cinema Forum (ISDCF).
 
-The registries are at `src/main/data`.
+The registry data is available as JSON at `src/main/data`.
 
-A rendering of the registries, generated automatically from the `master` branch, is at <https://isdcf.github.io/registries/facilities.html>.
+The following registries are automatically published from the `master` branch:
+
+* https://isdcf.github.io/registries/facilities.html
