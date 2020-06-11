@@ -8,12 +8,14 @@
     integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
   <title>ISDCF Facilities List</title>
   <script type="application/javascript" src="facilities.js" defer></script>
-  <style>#search { padding: 4px; font-size: 70%; }</style>
 </head>
 
 <body>
   <nav class="navbar navbar-expand-lg navbar-light bg-light justify-content-between d-print-block">
     <a class="navbar-brand" href="#">ISDCF Facilities List</a>
+    <form class="form-inline my-2 my-lg-0">
+      <input id="search" class="form-control mr-sm-2 d-print-none" type="search" placeholder="Search Facilities" aria-label="Search">
+    </form>
   </nav>
   <table class="table table-striped table-hover container">
     <thead class="thead-light">

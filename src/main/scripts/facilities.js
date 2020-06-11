@@ -1,11 +1,3 @@
-const input = document.createElement('input');
-input.type = 'search';
-input.id = 'search';
-input.classList.add("d-print-none");
-input.setAttribute('placeholder', 'Search Facilities');
-const [ navElem ] = document.getElementsByTagName('nav')
-navElem.appendChild(input);
-
 const sortColumns = Array.from(document.querySelectorAll('thead th'))
 const codeColumns = Array.from(document.querySelectorAll('tbody .code'))
 const descColumns = Array.from(document.querySelectorAll('tbody .description'))
@@ -21,6 +13,4 @@ function filter(value) {
   });
 }
 
-document.getElementById('search').addEventListener('input', ({ target }) => { filter(target.value) });
-
-filter('');
+document.getElementById('search').addEventListener('input', ({ target: { value } }) => filter(value));
