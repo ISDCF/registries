@@ -61,17 +61,12 @@ if (! validator(registry)) {
   throw "Registry fails validation";
 };
 
-/* check for duplicate codes */
-
-const dups = [...new Set(registry.map(i => i.code).filter((v,i,a) => a.indexOf(v) !== i))]
-if (dups.length)
-  throw `Registry contains duplicate codes: ${dups.join(', ')}`
-
 /* is the registry sorted */
 
 for(let i = 1; i < registry.length; i++) {
-  if (registry[i-1].code > registry[i].code) {
-    throw "Registry key " + registry[i-1].code + " is not sorted";
+  if (registry[i-1].code >= registry[i].code) {
+    throw "Registry key " + registry[i-1].code + " is " +
+      ((registry[i-1].code === registry[i].code) ? "duplicated" : "not sorted");
   }
 }
 
