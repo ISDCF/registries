@@ -1,4 +1,3 @@
-const sortColumns = Array.from(document.querySelectorAll('thead th'))
 const codeColumns = Array.from(document.querySelectorAll('tbody .code'))
 const descColumns = Array.from(document.querySelectorAll('tbody .description'))
 const rows = descColumns.map(({ parentNode }) => parentNode)
