@@ -12,34 +12,58 @@
   "type": "array",
   "items": {
     "type": "object",
-    "properties": {
-      "code": {
-        "$ref": "#/definitions/code"
+    "oneOf": [
+      {
+        "properties": {
+          "code": {
+            "$ref": "#/definitions/code"
+          },
+          "description": {
+            "type": "string"
+          },
+          "obsolete": {
+            "type": "boolean",
+            "const": false
+          },
+          "comments": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          }
+        },
+        "required": [ "code", "description" ],
+        "additionalProperties": false
       },
-      "description": {
-        "type": "string"
-      },
-      "obsolete": {
-        "type": "boolean",
-        "default": false
-      },
-      "obsoletedBy": {
-        "type": "array",
-        "uniqueItems" : true,
-        "minItems": 1,
-        "items": { "$ref": "#/definitions/code" }
-      },
-      "comments": {
-        "type": "array",
-        "items": {
-          "type": "string"
-        }
+      {
+        "properties": {
+          "code": {
+            "$ref": "#/definitions/code"
+          },
+          "description": {
+            "type": "string"
+          },
+          "obsolete": {
+            "type": "boolean",
+            "const": true
+          },
+          "obsoletedBy": {
+            "type": "array",
+            "uniqueItems" : true,
+            "minItems": 1,
+            "items": { "$ref": "#/definitions/code" }
+          },
+          "comments": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "required": [ "code", "description", "obsolete" ],
+        "additionalProperties": false
       }
-    },
-    "required": [
-      "code",
-      "description"
-    ],
-    "additionalProperties": false
+    ]
   }
 }
