@@ -8,16 +8,18 @@
     integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
   <title>ISDCF Facilities List</title>
   <script type="application/javascript" src="facilities.js" defer></script>
+  <style> table td:first-child { width: 9px }</style>
 </head>
 
 <body>
   <nav class="navbar navbar-expand-lg navbar-light bg-light justify-content-between d-print-block">
     <a class="navbar-brand" href="#">ISDCF Facilities List</a>
-    <form class="form-inline my-2 my-lg-0">
-      <input id="search" class="form-control mr-sm-2 d-print-none" type="search" placeholder="Search Facilities" aria-label="Search">
+    <a class="nav-link badge badge-secondary d-print-none" title="Download as PDF" href="{{pdf_path}}">Download as PDF</a>
+    <form class="form-inline">
+      <input id="search" class="form-control d-print-none" type="search" placeholder="Search Facilities" aria-label="Search">
     </form>
   </nav>
-  <table class="table table-striped table-hover container">
+  <table class="table table-small table-striped table-hover container">
     <thead class="thead-light">
       <tr>
         <th scope="col">Code</th>
