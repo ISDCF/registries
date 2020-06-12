@@ -165,7 +165,9 @@
   },
   {
     "code": "AIX",
-    "description": "ACCESS IT (OBS., SEE CINEDIGM)"
+    "description": "ACCESS IT",
+    "obsolete": true,
+    "obsoletedBy": [ "CIN" ]
   },
   {
     "code": "AK",
@@ -805,7 +807,9 @@
   },
   {
     "code": "CPT",
-    "description": "CINEPOST (obsolete - now PFX)"
+    "description": "CINEPOST",
+    "obsolete": true,
+    "obsoletedBy" : [ "PFX" ]
   },
   {
     "code": "CPX",
@@ -937,7 +941,9 @@
   },
   {
     "code": "DAU",
-    "description": "DELUXE AUSTRALIA (OBSOLETE - SEE DELUXE DIGITAL CINEMA)"
+    "description": "DELUXE AUSTRALIA",
+    "obsolete": true,
+    "obsoletedBy": [ "DTA" ]
   },
   {
     "code": "DB",
@@ -1033,7 +1039,9 @@
   },
   {
     "code": "DDS",
-    "description": "Disney (obsolete - see DSS and WDS)"
+    "description": "Disney",
+    "obsolete": true,
+    "obsoletedBy": [ "DSS", "WDS" ]
   },
   {
     "code": "DEF",
@@ -1105,7 +1113,9 @@
   },
   {
     "code": "DLA",
-    "description": "DELUXE LA (OBSOLETE - SEE DELUXE TECHNICOLOR BURBANK)"
+    "description": "DELUXE LA",
+    "obsolete": true,
+    "obsoletedBy": [ "DTB" ]
   },
   {
     "code": "DLB",
@@ -1201,7 +1211,9 @@
   },
   {
     "code": "DSP",
-    "description": "DELUXE SPAIN (OBSOLETE - SEE DELUXE TECHNICOLOR MADRID)"
+    "description": "DELUXE SPAIN",
+    "obsolete": true,
+    "obsoletedBy": [ "DTM" ]
   },
   {
     "code": "DSS",
@@ -1253,7 +1265,9 @@
   },
   {
     "code": "DUK",
-    "description": "DELUXE UK (OBSOLETE - SEE DELUXE TECHNICOLOR UK)"
+    "description": "DELUXE UK",
+    "obsolete": true,
+    "obsoletedBy": [ "DTU" ]
   },
   {
     "code": "DVF",
@@ -1293,11 +1307,15 @@
   },
   {
     "code": "DXL",
-    "description": "DCINEX - LIÈGE (Obsolete - See Eclair Belgium Liege EBL)"
+    "description": "DCINEX - LIÈGE",
+    "obsolete": true,
+    "obsoletedBy": [ "EBL" ]
   },
   {
     "code": "DXT",
-    "description": "DCINEX - TUEBINGEN (Obsolete - See Eclair Germany Berlin - EGB)"
+    "description": "DCINEX - TUEBINGEN",
+    "obsolete": true,
+    "obsoletedBy": [ "EGB" ]
   },
   {
     "code": "EA",
@@ -1317,7 +1335,9 @@
   },
   {
     "code": "ECL",
-    "description": "ÉCLAIR LABS (Obsolete - See Eclair France Paris - EFP)"
+    "description": "ÉCLAIR LABS",
+    "obsolete": true,
+    "obsoletedBy": [ "EFP" ]
   },
   {
     "code": "ECP",
@@ -2205,7 +2225,8 @@
   },
   {
     "code": "LP",
-    "description": "LAST PICTURES (OBSOLETE)"
+    "description": "LAST PICTURES",
+    "obsolete": true
   },
   {
     "code": "LPC",
@@ -2857,7 +2878,8 @@
   },
   {
     "code": "PNY",
-    "description": "POST FACTORY NY (Obsolete)"
+    "description": "POST FACTORY NY",
+    "obsolete": true
   },
   {
     "code": "POD",
@@ -2897,7 +2919,9 @@
   },
   {
     "code": "PSP",
-    "description": "PROMOSCAPE (obsolete - now RDL)"
+    "description": "PROMOSCAPE",
+    "obsolete": true,
+    "obsoletedBy": [ "RDL" ]
   },
   {
     "code": "PSR",
@@ -2937,7 +2961,9 @@
   },
   {
     "code": "PX",
-    "description": "PIXAR (OBSOLETE)"
+    "description": "PIXAR",
+    "obsolete": true,
+    "obsoletedBy": [ "PXR" ]
   },
   {
     "code": "PXB",
@@ -3229,7 +3255,9 @@
   },
   {
     "code": "SDC",
-    "description": "SOHO DIGITAL CINEMA (obsolete - See VDM)"
+    "description": "SOHO DIGITAL CINEMA",
+    "obsolete": true,
+    "obsoletedBy" : [ "VDM" ]
   },
   {
     "code": "SDL",
@@ -3237,7 +3265,9 @@
   },
   {
     "code": "SDM",
-    "description": "SOHO DIGITAL MEDIA (OBS., SEE SOHO DIGITAL CINEMA)"
+    "description": "SOHO DIGITAL MEDIA",
+    "obsolete": true,
+    "obsoletedBy": [ "SDC" ]
   },
   {
     "code": "SDP",
@@ -3533,7 +3563,9 @@
   },
   {
     "code": "TDC",
-    "description": "TECHNICOLOR DIGITAL CINEMA LA (OBSOLETE - SEE DELUXE DIGITAL CINEMA)"
+    "description": "TECHNICOLOR DIGITAL CINEMA LA",
+    "obsolete": true,
+    "obsoletedBy" : [ "DTB" ]
   },
   {
     "code": "TDE",
@@ -3549,7 +3581,9 @@
   },
   {
     "code": "TE",
-    "description": "TRENCH ENTERTAINMENT (obsolete, see TRD)"
+    "description": "TRENCH ENTERTAINMENT",
+    "obsolete": true,
+    "obsoletedBy": [ "TRD" ]
   },
   {
     "code": "TEF",
@@ -3561,7 +3595,9 @@
   },
   {
     "code": "TEU",
-    "description": "TECHNICOLOR DIGITAL CINEMA UK (OBSOLETE - SEE DELUXE DIGITAL CINEMA)"
+    "description": "TECHNICOLOR DIGITAL CINEMA UK",
+    "obsolete": true,
+    "obsoletedBy": [ "DTU" ]
   },
   {
     "code": "TFD",
@@ -3809,7 +3845,9 @@
   },
   {
     "code": "VG",
-    "description": "VISION GLOBALE (OBSOLETE - SEE MELS STUDIOS AND POSTPRODUCTION)"
+    "description": "VISION GLOBALE",
+    "obsolete": true,
+    "obsoletedBy": [ "MEL" ]
   },
   {
     "code": "VIC",
@@ -3925,7 +3963,9 @@
   },
   {
     "code": "XDC",
-    "description": "XDC DIGITAL LAB (OBS., SEE DCINEX - LIÈGE)"
+    "description": "XDC DIGITAL LAB",
+    "obsolete": true,
+    "obsoletedBy": [ "DXL" ]
   },
   {
     "code": "XXL",
@@ -3933,19 +3973,26 @@
   },
   {
     "code": "YBA",
-    "description": "YMAGIS BARCELONA (Obsolete - See Eclair Spain Barcelona - ESB)"
+    "description": "YMAGIS BARCELONA",
+    "obsolete": true,
+    "obsoletedBy": [ "ESB" ]
   },
   {
     "code": "YBE",
-    "description": "YMAGIS BERLIN (Obsolete - See Eclair Germany Berlin EGB)"
+    "description": "YMAGIS BERLIN",
+    "obsolete": true,
+    "obsoletedBy": [ "EGB" ]
   },
   {
     "code": "YMA",
-    "description": "YMAGIS (Obsolete - See Eclair France Paris - EFP)"
+    "description": "YMAGIS",
+    "obsolete": true,
+    "obsoletedBy": [ "EFP" ]
   },
   {
     "code": "YMF",
-    "description": "YMAGIFILM (Obsolete)"
+    "description": "YMAGIFILM",
+    "obsolete": true
   },
   {
     "code": "YMQ",
@@ -3953,7 +4000,9 @@
   },
   {
     "code": "YPA",
-    "description": "YMAGIS PARIS (Obsolete - See Eclair France Paris - EFP)"
+    "description": "YMAGIS PARIS",
+    "obsolete": true,
+    "obsoletedBy": [ "EFP" ]
   },
   {
     "code": "YPP",
