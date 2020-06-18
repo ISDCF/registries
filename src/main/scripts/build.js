@@ -17,6 +17,7 @@ const ajv = require('ajv');
 const DATA_PATH = "src/main/data/facilities.json";
 const DATA_SCHEMA_PATH = "src/main/schemas/facilities.schema.json";
 const TEMPLATE_PATH = "src/main/templates/facilities.hbs";
+const PAGE_JS_PATH = "src/main/scripts/facilities.js";
 const BUILD_PATH = "build";
 const PAGE_SITE_PATH = "facilities.html";
 const PDF_SITE_PATH = "isdcf-facilities.pdf";
@@ -95,6 +96,9 @@ var html = template({
 /* write HTML file */
 
 fs.writeFileSync(path.join(BUILD_PATH, PAGE_SITE_PATH), html, 'utf8');
+
+/* copy in js */
+fs.copyFileSync(PAGE_JS_PATH, path.join(BUILD_PATH, path.basename(PAGE_JS_PATH)));
 
 /* write pdf */
 

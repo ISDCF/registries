@@ -7,21 +7,19 @@
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
     integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
   <title>ISDCF Facilities List</title>
+  <script type="application/javascript" src="facilities.js" defer></script>
+  <style> table td:first-child { width: 9px }</style>
 </head>
 
 <body>
   <nav class="navbar navbar-expand-lg navbar-light bg-light justify-content-between d-print-block">
     <a class="navbar-brand" href="#">ISDCF Facilities List</a>
-    <ul class="navbar-nav d-print-none">
-      <li class="nav-item">
-        <a class="nav-link" href="https://github.com/isdcf/registries">Get the code</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="{{pdf_path}}">Download as PDF</a>
-      </li>
-    </ul>
+    <a class="nav-link badge badge-secondary d-print-none" title="Download as PDF" href="{{pdf_path}}">Download as PDF</a>
+    <form class="form-inline">
+      <input id="search" class="form-control d-print-none" type="search" placeholder="Search Facilities" aria-label="Search">
+    </form>
   </nav>
-  <table class="table table-striped table-hover container">
+  <table class="table table-small table-striped table-hover container">
     <thead class="thead-light">
       <tr>
         <th scope="col">Code</th>
@@ -31,16 +29,17 @@
     <tbody>
       {{#data}}
       <tr>
-        <td>
-          <pre>{{code}}</pre>
-        </td>
-        <td>{{description}}</td>
+        <td class="code"><code>{{code}}</code></td>
+        <td class="description">{{description}}</td>
       </tr>
       {{/data}}
     </tbody>
   </table>
   <footer class="container footer font-small justify-content-between">
-    <p>Version: <code>{{version}}</code> | Generated on {{date}}</p>
+    <small class="text-muted">
+    <p class="text-center">Version: <code>{{version}}</code></p>
+    <p class="text-center">Generated on {{date}}</p>
+    </small>
   </footer>
 </body>
 
