@@ -6,6 +6,8 @@ This work is licensed under the Creative Commons Attribution 4.0 International L
 You should have received a copy of the license along with this work.  If not, see <https://creativecommons.org/licenses/by/4.0/>.
 */
 
+/* pass the option --nopdf to disable PDF creation */
+
 const hb = require('handlebars');
 const fs = require('fs');
 const path = require('path');
@@ -101,6 +103,8 @@ fs.writeFileSync(path.join(BUILD_PATH, PAGE_SITE_PATH), html, 'utf8');
 fs.copyFileSync(PAGE_JS_PATH, path.join(BUILD_PATH, path.basename(PAGE_JS_PATH)));
 
 /* write pdf */
+
+if (process.argv.slice(2).includes("--nopdf")) return;
 
 /* set the CHROMEPATH environment variable to provide your own Chrome executable */
 
