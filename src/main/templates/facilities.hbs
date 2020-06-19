@@ -8,10 +8,15 @@
     integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
   <title>ISDCF Facilities List</title>
   <script type="application/javascript" src="facilities.js" defer></script>
+  <style>
+  .facility-link {
+    text-decoration: solid;
+  }
+  </style>
 </head>
 
 <body>
-  <nav class="navbar navbar-expand-lg sticky-top navbar-light bg-light d-print-block d-flex justify-content-between">
+  <nav class="navbar navbar-expand-lg navbar-light bg-light d-print-block d-flex justify-content-between">
     <a class="navbar-brand" href="#">ISDCF Facilities List</a>
     <ul class="navbar-nav align-items-center">
       <li>
@@ -36,14 +41,14 @@
       {{#data}}
       <tr id="facility-{{code}}">
         <td class="code"><code>{{code}}</code></td>
-        <td class="description">{{description}}
+        <td><span class="description">{{description}}</span>
           {{#obsolete}}
-            <span class="ml-3 badge badge-danger">Deprecated</span>
+            <span class="mx-3 badge badge-danger">Deprecated</span>
             {{#if obsoletedBy}}
-              <span class="text-danger">Replaced by:</span>
+              <span>Replaced by:</span>
             {{/if}}
             {{#obsoletedBy}}
-              <a href="#facility-{{this}}">{{this}}</a>
+              <a class="facility-link" href="#facility-{{this}}">{{this}}</a>
             {{/obsoletedBy}}
           {{/obsolete}}
         </td>
@@ -51,7 +56,7 @@
       {{/data}}
     </tbody>
   </table>
-  <footer class="container footer font-small justify-content-between">
+  <footer>
     <small class="text-muted">
       <p class="text-center">Version: <code>{{version}}</code></p>
       <p class="text-center">Generated on {{date}}</p>
