@@ -11,16 +11,19 @@
 </head>
 
 <body>
-  <nav class="navbar navbar-expand-lg navbar-light bg-light d-print-block d-flex justify-content-between">
+  <nav class="navbar navbar-expand navbar-light bg-light d-print-block d-flex justify-content-between">
     <a class="navbar-brand" href="#">ISDCF Facilities List</a>
-    <ul class="navbar-nav align-items-center">
-      <li>
-        <a id="pdf-download" class="mx-3 btn btn-primary btn-sm d-print-none" title="Download as PDF"
-          href="{{pdf_path}}">Download as PDF</a></li>
-      <li>
+    <ul class="navbar-nav align-items-center d-print-none">
+      <li class="nav-item">
+        <a id="json-feed" target="_blank" class="nav-link" href="http://registry.isdcf.com/facilities">JSON Feed</a>
+      </li>
+      <li class="nav-item">
+        <a id="pdf-download" class="mx-3 btn btn-primary btn-sm" title="Download as PDF" href="{{pdf_path}}">Download as
+          PDF</a>
+      </li>
+      <li class="nav-item">
         <form class="form-inline">
-          <input id="search" class="form-control d-print-none" type="search" placeholder="Search Facilities"
-            aria-label="Search">
+          <input id="search" class="form-control" type="search" placeholder="Search Facilities" aria-label="Search">
         </form>
       </li>
     </ul>
