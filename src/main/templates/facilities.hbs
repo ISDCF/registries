@@ -15,12 +15,6 @@
     top: -65px;
     visibility: hidden;
 }
-    tr.anchor {
-    display: block;
-    position: relative;
-    top: -65px;
-    visibility: hidden;
-}
   </style>
 </head>
 
@@ -51,7 +45,7 @@
     </thead>
     <tbody>
       {{#data}}
-      <tr class="anchor" id="facility-{{code}}">
+      <tr id="facility-{{code}}">
         <td class="code"><a class="anchor" id="{{code}}" href="#{{code}}"></a><code>{{code}}</code></td>
         <td><span class="description">{{description}}</span>{{code}}
           {{#obsolete}}
