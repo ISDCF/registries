@@ -8,10 +8,18 @@
     integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
   <title>ISDCF Facilities List</title>
   <script type="application/javascript" src="facilities.js" defer></script>
+  <style type="text/css">
+    a.anchor {
+    display: block;
+    position: relative;
+    top: -140px;
+    visibility: hidden;
+}
+  </style>
 </head>
 
 <body>
-  <nav class="navbar navbar-expand navbar-light bg-light d-print-block d-flex justify-content-between">
+  <nav class="navbar navbar-expand navbar-light fixed-top bg-light d-print-block d-flex justify-content-between">
     <a class="navbar-brand" href="#">ISDCF Facilities List</a>
     <ul class="navbar-nav align-items-center d-print-none">
       <li class="nav-item">
@@ -38,8 +46,8 @@
     <tbody>
       {{#data}}
       <tr id="facility-{{code}}">
-        <td class="code"><code>{{code}}</code></td>
-        <td><span class="description">{{description}}</span>
+        <td class="code"><a class="anchor" id="{{code}}" href="#{{code}}"></a><code>{{code}}</code></td>
+        <td><span class="description">{{description}}</span>{{code}}
           {{#obsolete}}
             <span class="mx-3 badge badge-danger">Deprecated</span>
             {{#if obsoletedBy}}
