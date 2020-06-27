@@ -6,16 +6,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
     integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+  <link rel="stylesheet" type="text/css" href="isdcf-extra.css">
   <title>ISDCF Facilities List</title>
   <script type="application/javascript" src="facilities.js" defer></script>
-  <style type="text/css">
-    a.anchor {
-    display: block;
-    position: relative;
-    top: -65px;
-    visibility: hidden;
-}
-  </style>
+  <script type="application/javascript" src="backtotop.js"></script>
 </head>
 
 <body>
@@ -36,6 +30,8 @@
       </li>
     </ul>
   </nav>
+  <a href="#" id="toTopBtn" class="cd-top text-replace js-cd-top cd-top--is-visible cd-top--fade-out" data-abc="true"></a>
+  <a class="anchor" id="top" href="#top"></a>
   <table class="table table-small table-hover">
     <thead class="thead-light">
       <tr>
@@ -47,7 +43,7 @@
       {{#data}}
       <tr id="facility-{{code}}">
         <td class="code"><a class="anchor" id="{{code}}" href="#{{code}}"></a><code>{{code}}</code></td>
-        <td><span class="description">{{description}}</span>{{code}}
+        <td><span class="description">{{description}}</span>
           {{#obsolete}}
             <span class="mx-3 badge badge-danger">Deprecated</span>
             {{#if obsoletedBy}}
