@@ -514,6 +514,10 @@
     "description": "CARMIKE DIGITAL LAB"
   },
   {
+    "code": "CCL",
+    "description": "Cannes Cinema"
+  },
+  { 
     "code": "CCM",
     "description": "CINECOLOR MEXICO"
   },
