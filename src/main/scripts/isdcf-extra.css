@@ -1,29 +1,12 @@
-@media only screen and (max-width: 600px) {
+a.anchor {
+    display: block;
+    position: relative;
+    top: -70px;
+    visibility: hidden;
+}  
 
-    a.anchor {
-        display: block;
-        position: relative;
-        top: -90px;
-        visibility: hidden;
-    }  
-
-        body { 
-        padding-top: 75px; 
-    }
-}
-
-@media only screen and (min-width: 600px) {
-
-    a.anchor {
-        display: block;
-        position: relative;
-        top: -70px;
-        visibility: hidden;
-    }  
-
-        body { 
-        padding-top: 55px; 
-    }
+    body { 
+    padding-top: 55px; 
 }
 
 .scroll {

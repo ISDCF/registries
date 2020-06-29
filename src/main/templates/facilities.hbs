@@ -8,27 +8,32 @@
     integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
   <link rel="stylesheet" type="text/css" href="isdcf-extra.css">
   <title>ISDCF Facilities List</title>
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
   <script type="application/javascript" src="facilities.js" defer></script>
   <script type="application/javascript" src="backtotop.js"></script>
 </head>
 
 <body>
-  <nav class="navbar navbar-expand navbar-light fixed-top bg-light d-print-block d-flex justify-content-between">
+  <nav class="navbar navbar-expand-md navbar-light fixed-top bg-light d-print-block d-flex">
     <a class="navbar-brand" href="#">ISDCF Facilities List</a>
-    <ul class="navbar-nav align-items-center d-print-none">
-      <li class="nav-item">
-        <a id="json-feed" target="_blank" class="nav-link" href="http://registry.isdcf.com/facilities">JSON Feed</a>
-      </li>
-      <li class="nav-item">
-        <a id="pdf-download" class="mx-3 btn btn-primary btn-sm" title="Download as PDF" href="{{pdf_path}}">Download as
-          PDF</a>
-      </li>
-      <li class="nav-item">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse d-print-none" id="navbarNav">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item">
+          <a id="json-feed" target="_blank" class="nav-link" href="http://registry.isdcf.com/facilities">JSON Feed</a>
+        </li>
+        <li class="nav-item">
+          <a id="pdf-download" target="_blank" class="nav-link" title="Download as PDF" href="{{pdf_path}}">Download PDF</a>
+        </li>
+      </ul>
         <form class="form-inline">
           <input id="search" class="form-control" type="search" placeholder="Search Facilities" aria-label="Search">
         </form>
-      </li>
-    </ul>
+    </div>
   </nav>
   <a href="#" id="toTopBtn" class="cd-top text-replace js-cd-top cd-top--is-visible cd-top--fade-out" data-abc="true"></a>
   <a class="anchor" id="top" href="#top"></a>
