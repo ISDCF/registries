@@ -1,4 +1,4 @@
-name: build and test
+name: validate
 
 on: [push, pull_request]
 
@@ -12,9 +12,4 @@ jobs:
       with:
         node-version: '10'
     - run: npm install
-    - run: npm run build
-    - uses: peaceiris/actions-gh-pages@v3
-      if: github.ref == 'refs/heads/master'
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./build
+    - run: npm run validate
