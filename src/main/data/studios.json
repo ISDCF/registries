@@ -1,0 +1,962 @@
+[
+  {
+    "code": "01S",
+    "description": "01_STUDIO P.I."
+  },
+  {
+    "code": "3DV",
+    "description": "DEEP VISION 3D"
+  },
+  {
+    "code": "9LE",
+    "description": "9 LIGHT ENTERTAINMENT"
+  },
+  {
+    "code": "ADS",
+    "description": "ALLIANCE DIGITAL STUDIOS"
+  },
+  {
+    "code": "AFG",
+    "description": "ARCHANGEL FILM GROUP"
+  },
+  {
+    "code": "AFLM",
+    "description": "A. FILM PRODUCTION"
+  },
+  {
+    "code": "AI",
+    "description": "ATOMIC IMAGING, CHICAGO"
+  },
+  {
+    "code": "AK",
+    "description": "ALASTI KINO"
+  },
+  {
+    "code": "ALIB",
+    "description": "ALIBABA GROUP"
+  },
+  {
+    "code": "ALT",
+    "description": "ALTIMETER FILMS"
+  },
+  {
+    "code": "AMBI",
+    "description": "AMBI Media Group"
+  },
+  {
+    "code": "AMBL",
+    "description": "AMBLIN ENTERTAINMENT"
+  },
+  {
+    "code": "AMZN",
+    "description": "Amazon Studios"
+  },
+  {
+    "code": "ANIM",
+    "description": "ANIMASIA STUDIOS"
+  },
+  {
+    "code": "ANT",
+    "description": "ANTAVIANA FILMS"
+  },
+  {
+    "code": "AP",
+    "description": "ANNAPURNA PICTURES"
+  },
+  {
+    "code": "API",
+    "description": "ATTICUS PRODUCTIONS"
+  },
+  {
+    "code": "ARC",
+    "description": "Arctic Life Film"
+  },
+  {
+    "code": "ARP",
+    "description": "ARP"
+  },
+  {
+    "code": "ART",
+    "description": "ARTHOUSE, ZURICH"
+  },
+  {
+    "code": "ARWS",
+    "description": "AIRWESS PRODUCTIONS"
+  },
+  {
+    "code": "AS",
+    "description": "ASTRO SHAW"
+  },
+  {
+    "code": "ATF",
+    "description": "ASIA TROPICAL FILMS"
+  },
+  {
+    "code": "AVD",
+    "description": "AV-DESIGN"
+  },
+  {
+    "code": "BBF",
+    "description": "Bad Blood Films"
+  },
+  {
+    "code": "BF",
+    "description": "BELARUSFILM"
+  },
+  {
+    "code": "BG",
+    "description": "Basement Games"
+  },
+  {
+    "code": "BH",
+    "description": "BLUMHOUSE PRODUCTIONS"
+  },
+  {
+    "code": "BHS",
+    "description": "BLACK HANGER STUDIOS"
+  },
+  {
+    "code": "BLNK",
+    "description": "BLANKTAPE"
+  },
+  {
+    "code": "BMG",
+    "description": "BUSCH MEDIA GROUP"
+  },
+  {
+    "code": "BOY",
+    "description": "Bannerboy AB"
+  },
+  {
+    "code": "BRM",
+    "description": "BERRYMOUNT AUTOMATION"
+  },
+  {
+    "code": "BRW",
+    "description": "BREAKWATER STUDIOS"
+  },
+  {
+    "code": "BS",
+    "description": "BANTAM STREET"
+  },
+  {
+    "code": "BV",
+    "description": "Bertone Visuals"
+  },
+  {
+    "code": "CCC",
+    "description": "COLUMBIA COLLEGE CHICAGO"
+  },
+  {
+    "code": "CDC",
+    "description": "CDC UNITED NETWORK"
+  },
+  {
+    "code": "CF",
+    "description": "CHALIA FILMS"
+  },
+  {
+    "code": "CFSL",
+    "description": "CAFETICO FILMS"
+  },
+  {
+    "code": "CFV",
+    "description": "CONSTANTIN FILM VERLEIH"
+  },
+  {
+    "code": "CJM",
+    "description": "CINEJOY MOVIES GMBH"
+  },
+  {
+    "code": "CL",
+    "description": "CINEMALIVE"
+  },
+  {
+    "code": "CLF",
+    "description": "Cinelume Postproduction"
+  },
+  {
+    "code": "CLS",
+    "description": "CINEMA LIBRE STUDIO"
+  },
+  {
+    "code": "CNRA",
+    "description": "CINERAMA"
+  },
+  {
+    "code": "COP",
+    "description": "COLOSO POST STUDIO"
+  },
+  {
+    "code": "CPR",
+    "description": "ColorPRO"
+  },
+  {
+    "code": "CPSB",
+    "description": "CURRENT PICTURES"
+  },
+  {
+    "code": "CRO",
+    "description": "CROMOSOMA, S.A."
+  },
+  {
+    "code": "CRV",
+    "description": "CRISTIANA Video"
+  },
+  {
+    "code": "DA",
+    "description": "Dreamworks"
+  },
+  {
+    "code": "DBDK",
+    "description": "DIGIBIO.DK"
+  },
+  {
+    "code": "DCK",
+    "description": "DCI KOMPETENZZENTRUM"
+  },
+  {
+    "code": "DEFI",
+    "description": "DELPHI FILMVERLEIH GMBH"
+  },
+  {
+    "code": "DFS",
+    "description": "DUALFILM, STUTTGART"
+  },
+  {
+    "code": "DGWF",
+    "description": "Dogwolf, UK *No Registry request"
+  },
+  {
+    "code": "DI",
+    "description": "Disney"
+  },
+  {
+    "code": "DLB",
+    "description": "Dolby Laboratories"
+  },
+  {
+    "code": "DVF",
+    "description": "DUAL V FILMS"
+  },
+  {
+    "code": "EAG",
+    "description": "EAGLE PICTURES"
+  },
+  {
+    "code": "EDEL",
+    "description": "EDEL GERMANY GMBH"
+  },
+  {
+    "code": "EDF",
+    "description": "Early Day Films"
+  },
+  {
+    "code": "ELA",
+    "description": "ELAMEDIA"
+  },
+  {
+    "code": "ELO",
+    "description": "ELO FILM SCHOOL HELSINKI"
+  },
+  {
+    "code": "EP",
+    "description": "ELEVATION PICTURES"
+  },
+  {
+    "code": "EQF",
+    "description": "EQUINOXE FILMS"
+  },
+  {
+    "code": "EXC",
+    "description": "THE EXCHANGE"
+  },
+  {
+    "code": "FB",
+    "description": "FILM BILDER"
+  },
+  {
+    "code": "FE",
+    "description": "FATHOM EVENTS"
+  },
+  {
+    "code": "FF",
+    "description": "FOCUS FEATURES"
+  },
+  {
+    "code": "FFF",
+    "description": "Felix Fahle Film"
+  },
+  {
+    "code": "FG",
+    "description": "FEEL GOOD ENTERTAINMENT"
+  },
+  {
+    "code": "FHDO",
+    "description": "FACHHOCHSCHULE DORTMUND"
+  },
+  {
+    "code": "FIN",
+    "description": "FINAS PRODUCTIONS"
+  },
+  {
+    "code": "FINK",
+    "description": "Film Ink"
+  },
+  {
+    "code": "FMM",
+    "description": "FILMMUSEUM MÜNCHEN"
+  },
+  {
+    "code": "FRE",
+    "description": "FRENETIC FILMS"
+  },
+  {
+    "code": "FU",
+    "description": "SOFT Falmouth University UK"
+  },
+  {
+    "code": "FW",
+    "description": "FOCUS WORLD"
+  },
+  {
+    "code": "FX",
+    "description": "FOX SEARCHLIGHT"
+  },
+  {
+    "code": "FXS",
+    "description": "Fox Star"
+  },
+  {
+    "code": "FYF",
+    "description": "Firefly Films"
+  },
+  {
+    "code": "FZ",
+    "description": "FRENZI FILMS"
+  },
+  {
+    "code": "GAME",
+    "description": "Game Theory Films"
+  },
+  {
+    "code": "GB",
+    "description": "GRAND BRILLIANCE"
+  },
+  {
+    "code": "GKID",
+    "description": "GKIDS, Inc."
+  },
+  {
+    "code": "GPI",
+    "description": "GOLAN STUDIOS, CHICAGO"
+  },
+  {
+    "code": "GR",
+    "description": "GRAMERCY PICTURES"
+  },
+  {
+    "code": "GSF",
+    "description": "Gdynia Film School"
+  },
+  {
+    "code": "HBO",
+    "description": "Home Box Office"
+  },
+  {
+    "code": "HF",
+    "description": "HEIMATFILM"
+  },
+  {
+    "code": "HFF",
+    "description": "HFF KONRAD WOLF"
+  },
+  {
+    "code": "HOOD",
+    "description": "Hood River Entertainment"
+  },
+  {
+    "code": "HOOK",
+    "description": "STUDIO HOOK"
+  },
+  {
+    "code": "HSAL",
+    "description": "Homesick Angel Ltd"
+  },
+  {
+    "code": "HSLU",
+    "description": "HOCHSCHULE LUZERN"
+  },
+  {
+    "code": "ICON",
+    "description": "ICON ENTERTAINMENT"
+  },
+  {
+    "code": "IFC",
+    "description": "IFC FILMS"
+  },
+  {
+    "code": "IFI",
+    "description": "Italia Film International"
+  },
+  {
+    "code": "IFS",
+    "description": "IFS INTERNATIONALE FILMSCHULE KÖLN GMBH"
+  },
+  {
+    "code": "ILP",
+    "description": "INNERLENS PRODUCTIONS"
+  },
+  {
+    "code": "IMG",
+    "description": "IMAGINASTUDIO"
+  },
+  {
+    "code": "IMO",
+    "description": "INFINATE MOTION"
+  },
+  {
+    "code": "IMPR",
+    "description": "Imprudencia"
+  },
+  {
+    "code": "IND",
+    "description": "INDEPENDENT PICTURES"
+  },
+  {
+    "code": "INDI",
+    "description": "Unspecified Independent Film Studio"
+  },
+  {
+    "code": "IRP",
+    "description": "INFINITY ROAD PICTURES"
+  },
+  {
+    "code": "IRU",
+    "description": "IRUSOIN"
+  },
+  {
+    "code": "JAG",
+    "description": "JAGUAR FILMS PRODUCTIONS"
+  },
+  {
+    "code": "JOMA",
+    "description": "JOMA FILMS"
+  },
+  {
+    "code": "KCP",
+    "description": "KINO CYFROWE"
+  },
+  {
+    "code": "KHH",
+    "description": "Kinemathek Hamburg"
+  },
+  {
+    "code": "KHM",
+    "description": "KUNSTHOCHSCHULE FÜR MEDIEN"
+  },
+  {
+    "code": "KIP",
+    "description": "KINO-I PICTURES"
+  },
+  {
+    "code": "LA",
+    "description": "LOCAL ACQUISITION"
+  },
+  {
+    "code": "LANT",
+    "description": "Lantern Entertainment"
+  },
+  {
+    "code": "LEG",
+    "description": "LEGENDE DISTRIBUTION"
+  },
+  {
+    "code": "LFLM",
+    "description": "LUCAS FILMS"
+  },
+  {
+    "code": "LIFT",
+    "description": "LIAISON OF INDEPENDENT FILMMAKERS OF TORONTO"
+  },
+  {
+    "code": "LION",
+    "description": "LIONS GATE"
+  },
+  {
+    "code": "LITV",
+    "description": "LITVINSIGHT PRODUCTIONS"
+  },
+  {
+    "code": "LN36",
+    "description": "LINE 36 STUDIO"
+  },
+  {
+    "code": "LOC",
+    "description": "LOCOMOTIVE PRODUCTIONS (LATVIA)"
+  },
+  {
+    "code": "LOK",
+    "description": "LOOKNOW"
+  },
+  {
+    "code": "LOMO",
+    "description": "LOMOTION AG"
+  },
+  {
+    "code": "LP",
+    "description": "LEGENDARY PICTURES"
+  },
+  {
+    "code": "LSNP",
+    "description": "La Sombra Negra Producciones"
+  },
+  {
+    "code": "LSR",
+    "description": "LASERFILM CINE Y VÍDEO, SL"
+  },
+  {
+    "code": "LVLF",
+    "description": "Level Films"
+  },
+  {
+    "code": "LVT",
+    "description": "LVT"
+  },
+  {
+    "code": "MAD",
+    "description": "Madman Entertainment"
+  },
+  {
+    "code": "MAJ",
+    "description": "Majestic Filmverleih GmbH"
+  },
+  {
+    "code": "MAM",
+    "description": "Moving Adventures Medien GmbH"
+  },
+  {
+    "code": "MAX",
+    "description": "MAXIWORKS PRODUCTIONS"
+  },
+  {
+    "code": "MH",
+    "description": "MILKHAUS"
+  },
+  {
+    "code": "MI",
+    "description": "METRO INTERNATIONAL"
+  },
+  {
+    "code": "MMG",
+    "description": "MOMOTION GMBH"
+  },
+  {
+    "code": "MMP",
+    "description": "MAGNA MANA PRODUCTION"
+  },
+  {
+    "code": "MOM",
+    "description": "MOMENTUM PICTURES"
+  },
+  {
+    "code": "MOP",
+    "description": "MODO OPERANTE PRODUCOES"
+  },
+  {
+    "code": "MRMX",
+    "description": "MIRAMAX"
+  },
+  {
+    "code": "MRV",
+    "description": "MARVEL"
+  },
+  {
+    "code": "MSVP",
+    "description": "MYSTIC STUDIOS & VINAYAK PRODUCTIONS"
+  },
+  {
+    "code": "NDG",
+    "description": "NDG Studios"
+  },
+  {
+    "code": "NET",
+    "description": "NETFLIX"
+  },
+  {
+    "code": "NIM",
+    "description": "NIMIC PRODUCTIONS"
+  },
+  {
+    "code": "NLTS",
+    "description": "Northern Lights"
+  },
+  {
+    "code": "NOAH",
+    "description": "Noah Media Group"
+  },
+  {
+    "code": "NS",
+    "description": "NORRIS STUDIOS"
+  },
+  {
+    "code": "NT",
+    "description": "NEW LINE"
+  },
+  {
+    "code": "NULL",
+    "description": "Unspecified"
+  },
+  {
+    "code": "O2",
+    "description": "O2 FILMES"
+  },
+  {
+    "code": "OSCP",
+    "description": "OSCILLOSCOPE LABORATORIES"
+  },
+  {
+    "code": "OTA",
+    "description": "FOX ATOMIC"
+  },
+  {
+    "code": "OTL",
+    "description": "OTL Releasing"
+  },
+  {
+    "code": "OVSP",
+    "description": "OVERSPIL (DK)"
+  },
+  {
+    "code": "PAT",
+    "description": "PATHE DISTRIBUTION"
+  },
+  {
+    "code": "PC",
+    "description": "Paramount"
+  },
+  {
+    "code": "PEAK",
+    "description": "PEAK MEDIA"
+  },
+  {
+    "code": "PICH",
+    "description": "PICTUREHOUSE"
+  },
+  {
+    "code": "PIF",
+    "description": "PIFFL MEDIEN"
+  },
+  {
+    "code": "PINK",
+    "description": "PINK APPLE FILM"
+  },
+  {
+    "code": "PLNK",
+    "description": "Plank Film"
+  },
+  {
+    "code": "PMF",
+    "description": "Productora Multimedia Flash"
+  },
+  {
+    "code": "POLO",
+    "description": "POLO FILM (DK)"
+  },
+  {
+    "code": "PSR",
+    "description": "Paolo Sodi"
+  },
+  {
+    "code": "PSS",
+    "description": "PRETTY SWEET"
+  },
+  {
+    "code": "PV",
+    "description": "Paramount Vantage"
+  },
+  {
+    "code": "PW",
+    "description": "PRIMEWORKS"
+  },
+  {
+    "code": "PWSF",
+    "description": "The Polish National Film, Television and Theatre School in Lodz"
+  },
+  {
+    "code": "PXR",
+    "description": "PIXAR"
+  },
+  {
+    "code": "R29",
+    "description": "REFINERY29"
+  },
+  {
+    "code": "RAM",
+    "description": "RAM ENTERTAINMENT"
+  },
+  {
+    "code": "RBMH",
+    "description": "Red Bull Media House"
+  },
+  {
+    "code": "REC",
+    "description": "RECYCLED TV"
+  },
+  {
+    "code": "RED",
+    "description": "RED COMMUNICATIONS"
+  },
+  {
+    "code": "REL",
+    "description": "IM GLOBAL"
+  },
+  {
+    "code": "RF",
+    "description": "RAIN FILMS"
+  },
+  {
+    "code": "RFY",
+    "description": "roses for you film"
+  },
+  {
+    "code": "RIAL",
+    "description": "Rialto Distribution"
+  },
+  {
+    "code": "RIT",
+    "description": "RITCS (Royal Institute for Theatre, Cinema and Sound)"
+  },
+  {
+    "code": "RLD",
+    "description": "REALD"
+  },
+  {
+    "code": "ROC",
+    "description": "ROCK THE FILM"
+  },
+  {
+    "code": "RP",
+    "description": "ROGUE PICTURES"
+  },
+  {
+    "code": "RSS",
+    "description": "RED SKY STUDIOS"
+  },
+  {
+    "code": "RTA",
+    "description": "RELITA"
+  },
+  {
+    "code": "S4U",
+    "description": "BGProjets Sub4u"
+  },
+  {
+    "code": "SA",
+    "description": "SCREEN ATTRACTIONS"
+  },
+  {
+    "code": "SAF",
+    "description": "SIERRA/AFFINITY"
+  },
+  {
+    "code": "SB",
+    "description": "SHOWBOX"
+  },
+  {
+    "code": "SBF",
+    "description": "SOAPBOX FILMS"
+  },
+  {
+    "code": "SC",
+    "description": "STUDIOCANAL"
+  },
+  {
+    "code": "SEV",
+    "description": "Seville International"
+  },
+  {
+    "code": "SKOP",
+    "description": "SKOP PRODUCTIONS"
+  },
+  {
+    "code": "SKT",
+    "description": "SKT INTERNATIONAL"
+  },
+  {
+    "code": "SLP",
+    "description": "Searchlight Pictures"
+  },
+  {
+    "code": "SM",
+    "description": "SUHAN MOVIES"
+  },
+  {
+    "code": "SOLS",
+    "description": "Solstice Studios"
+  },
+  {
+    "code": "SOMA",
+    "description": "SOMAFILM"
+  },
+  {
+    "code": "SPE",
+    "description": "SONY PICTURES ENTERTAINMENT"
+  },
+  {
+    "code": "SPNC",
+    "description": "Studio Ponoc - Tokyo"
+  },
+  {
+    "code": "SPOT",
+    "description": "SPOT ON DISTRIBUTION"
+  },
+  {
+    "code": "ST10",
+    "description": "Studio 10 Filmes"
+  },
+  {
+    "code": "STIN",
+    "description": "STOUTLIGHT INCORPORATED"
+  },
+  {
+    "code": "STOR",
+    "description": "Stories AG"
+  },
+  {
+    "code": "STX",
+    "description": "STX ENTERTAINMENT"
+  },
+  {
+    "code": "SUM",
+    "description": "SUMMIT ENTERTAINMENT"
+  },
+  {
+    "code": "T25P",
+    "description": "TAKE 25 PICTURES"
+  },
+  {
+    "code": "TCF",
+    "description": "20th Century Fox"
+  },
+  {
+    "code": "TCP",
+    "description": "The Chimney Pot"
+  },
+  {
+    "code": "TCS",
+    "description": "20th Century Studios"
+  },
+  {
+    "code": "TDFC",
+    "description": "Te Digital Factory Ltd."
+  },
+  {
+    "code": "TGF",
+    "description": "Ted Green Films"
+  },
+  {
+    "code": "TMP",
+    "description": "Trino Motion Pictures"
+  },
+  {
+    "code": "TOB",
+    "description": "Tobis Film GmbH"
+  },
+  {
+    "code": "TRCL",
+    "description": "TREACLE LIMITED (HK)"
+  },
+  {
+    "code": "TRE",
+    "description": "Trench Enertainment"
+  },
+  {
+    "code": "TRIG",
+    "description": "TRIGON-FILM"
+  },
+  {
+    "code": "TSS",
+    "description": "The Solid State"
+  },
+  {
+    "code": "UFOH",
+    "description": "UFOH! AS"
+  },
+  {
+    "code": "UIG",
+    "description": "UIGIG ENTERTAINMENT (SPAIN)"
+  },
+  {
+    "code": "UP",
+    "description": "UNIVERSAL PICTURES"
+  },
+  {
+    "code": "UPI",
+    "description": "UNION PICTURES"
+  },
+  {
+    "code": "URT",
+    "description": "Urtext Film Productions"
+  },
+  {
+    "code": "UTM",
+    "description": "U2 MEDIA"
+  },
+  {
+    "code": "UTOP",
+    "description": "Utopia"
+  },
+  {
+    "code": "VE",
+    "description": "Village Entertainment"
+  },
+  {
+    "code": "VER",
+    "description": "VERACITY PRODUCTIONS"
+  },
+  {
+    "code": "VEX",
+    "description": "VIRTUAL EXPERIENCE"
+  },
+  {
+    "code": "VFS",
+    "description": "VFS FILMS"
+  },
+  {
+    "code": "VIC",
+    "description": "VICTORY STUDIOS"
+  },
+  {
+    "code": "WC",
+    "description": "WEINSTEIN CO."
+  },
+  {
+    "code": "WR",
+    "description": "WARNER BROS."
+  },
+  {
+    "code": "XM",
+    "description": "MGM"
+  },
+  {
+    "code": "XYZF",
+    "description": "XYZ Films"
+  },
+  {
+    "code": "ZBE",
+    "description": "Zombie Studio"
+  },
+  {
+    "code": "ZF",
+    "description": "Ustanova Zagreb film"
+  },
+  {
+    "code": "ZHDK",
+    "description": "ZÜRCHER HOCHSCHULE DER KÜNSTE"
+  },
+  {
+    "code": "ZM",
+    "description": "ZOOM-ENTERTAINMENT"
+  }
+]

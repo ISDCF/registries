@@ -19,45 +19,31 @@ CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING 
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
 
+const path = require('path')
 const fs = require('fs');
 const ajv = require('ajv');
 
-const DATA_PATH = "src/main/data/facilities.json";
-const DATA_SCHEMA_PATH = "src/main/schemas/facilities.schema.json";
+const DATA_PATH = "src/main/data/";
+const DATA_SCHEMA_PATH = "src/main/schemas/%s.schema.json";
+const DATA_VALIDATE_PATH = "src/main/scripts/%s.validate.js"; // additional checks
 
 /* load and validate the registry */
 
-let registry = JSON.parse(
-  fs.readFileSync(
-    DATA_PATH
-  )
-);
-
-if (!registry) {
-  throw "Cannot load registry";
-}
-
 var validator_factory = new ajv();
 
-let validator = validator_factory.compile(
-  JSON.parse(
-    fs.readFileSync(
-      DATA_SCHEMA_PATH
-    )
-  )
-);
+for (const dataFile of fs.readdirSync(DATA_PATH).filter(f => /.json$/.test(f))) {
+  console.log(`Checking ${dataFile}`)
+  const name = path.basename(dataFile, ".json")
+  const registry = JSON.parse(fs.readFileSync(path.join(DATA_PATH, dataFile)))
+  const schemaFile = DATA_SCHEMA_PATH.replace("%s", name)
+  const validateFile = DATA_VALIDATE_PATH.replace("%s", name)
+  const validator = validator_factory.compile(JSON.parse(fs.readFileSync(schemaFile)))
 
-if (! validator(registry)) {
-  console.log(validator.errors);
-  throw "Registry fails validation";
-};
+  if (!validator(registry))
+    throw `${name} registry fails validation`
 
-/* is the registry sorted */
-
-for(let i = 1; i < registry.length; i++) {
-  if (registry[i-1].code >= registry[i].code) {
-    throw "Registry key " + registry[i-1].code + " is " +
-      ((registry[i-1].code === registry[i].code) ? "duplicated" : "not sorted");
+  /* perform additional checks if applicable */
+  if (fs.statSync(validateFile)) {
+    require("./" + path.basename(validateFile))(registry)
   }
 }
-
