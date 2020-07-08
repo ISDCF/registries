@@ -66,6 +66,10 @@ for (const dataFile of fs.readdirSync(DATA_PATH).filter(f => /.json$/.test(f))) 
 
       const ptag = parseLanguageTag(langtag);
 
+      if (!ptag) {
+        throw "Invalid language tag: " + langtag
+      }
+
       const locale = parsedTagToCLDRLocale(ptag);
 
       if (!locale) {

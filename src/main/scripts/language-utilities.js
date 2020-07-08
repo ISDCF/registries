@@ -25,10 +25,10 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 const fs = require('fs');
 
-var LANGSUBTAG_RE = /[a-zA-Z]{2,3}|[a-zA-Z]{5,8}/;
-var SCRIPTSUBTAG_RE = /[a-zA-Z]{4}/;
-var REGIONSUBTAG_RE = /[a-zA-Z]{2}|[0-9]{3}/;
-var VARIANTSUBTAG_RE = /[a-zA-Z]{5,8}|(?:[0-9][0-9A-Za-z]{3})/;
+var LANGSUBTAG_RE = /^([a-zA-Z]{2,3}|[a-zA-Z]{5,8})$/;
+var SCRIPTSUBTAG_RE = /^[a-zA-Z]{4}$/;
+var REGIONSUBTAG_RE = /^([a-zA-Z]{2}|[0-9]{3})$/;
+var VARIANTSUBTAG_RE = /^([a-zA-Z]{5,8}|(?:[0-9][0-9A-Za-z]{3}))$/;
 
 const CLDRLANG_PATH = "node_modules/cldr-localenames-modern/main/en/languages.json";
 const CLDRSCRIPTS_PATH = "node_modules/cldr-localenames-modern/main/en/scripts.json";
