@@ -22,6 +22,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 const path = require('path')
 const fs = require('fs');
 const ajv = require('ajv');
+const { parseLanguageTag, parsedTagToCLDRLocale } = require('./language-utilities.js')
 
 const DATA_PATH = "src/main/data/";
 const DATA_SCHEMA_PATH = "src/main/schemas/%s.schema.json";
@@ -46,6 +47,29 @@ for (const dataFile of fs.readdirSync(DATA_PATH).filter(f => /.json$/.test(f))) 
       if (registry[i-1].code >= registry[i].code) {
         throw name + " registry key " + registry[i-1].code + " is " +
           ((registry[i-1].code === registry[i].code) ? "duplicated" : "not sorted");
+      }
+    }
+  }
+
+  if (name === 'languages') {
+    for (const i in registry) {
+
+      /* an RFC 5646 language tag is required */
+
+      const langtag = registry[i].rfc5646Tag;
+
+      if (! langtag) {
+        throw "Missing RFC5646 language tag name for entry #" + i;
+      }
+
+      /* the RFC 5646 language tag must be a valid CLDR locale */
+
+      const ptag = parseLanguageTag(langtag);
+
+      const locale = parsedTagToCLDRLocale(ptag);
+
+      if (!locale) {
+        throw "Cannot transform language tag to locale: " + langtag;
       }
     }
   }
