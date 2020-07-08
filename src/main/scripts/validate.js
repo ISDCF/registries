@@ -22,10 +22,10 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 const path = require('path')
 const fs = require('fs');
 const ajv = require('ajv');
-const { parseLanguageTag, parsedTagToCLDRLocale } = require('./language-utilities.js')
 
 const DATA_PATH = "src/main/data/";
 const DATA_SCHEMA_PATH = "src/main/schemas/%s.schema.json";
+const DATA_VALIDATE_PATH = "src/main/scripts/%s.validate.js"; // additional checks
 
 /* load and validate the registry */
 
@@ -36,45 +36,14 @@ for (const dataFile of fs.readdirSync(DATA_PATH).filter(f => /.json$/.test(f))) 
   const name = path.basename(dataFile, ".json")
   const registry = JSON.parse(fs.readFileSync(path.join(DATA_PATH, dataFile)))
   const schemaFile = DATA_SCHEMA_PATH.replace("%s", name)
+  const validateFile = DATA_VALIDATE_PATH.replace("%s", name)
   const validator = validator_factory.compile(JSON.parse(fs.readFileSync(schemaFile)))
 
   if (!validator(registry))
     throw `${name} registry fails validation`
 
-  if (name ==='studios' || name === 'facilities') {
-    /* is the registry sorted */
-    for (let i = 1; i < registry.length; i++) {
-      if (registry[i-1].code >= registry[i].code) {
-        throw name + " registry key " + registry[i-1].code + " is " +
-          ((registry[i-1].code === registry[i].code) ? "duplicated" : "not sorted");
-      }
-    }
-  }
-
-  if (name === 'languages') {
-    for (const i in registry) {
-
-      /* an RFC 5646 language tag is required */
-
-      const langtag = registry[i].rfc5646Tag;
-
-      if (! langtag) {
-        throw "Missing RFC5646 language tag name for entry #" + i;
-      }
-
-      /* the RFC 5646 language tag must be a valid CLDR locale */
-
-      const ptag = parseLanguageTag(langtag);
-
-      if (!ptag) {
-        throw "Invalid language tag: " + langtag
-      }
-
-      const locale = parsedTagToCLDRLocale(ptag);
-
-      if (!locale) {
-        throw "Cannot transform language tag to locale: " + langtag;
-      }
-    }
+  /* perform additional checks if applicable */
+  if (fs.statSync(validateFile)) {
+    require("./" + path.basename(validateFile))(registry)
   }
 }
