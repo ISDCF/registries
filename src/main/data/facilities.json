@@ -502,6 +502,10 @@
     "description": "CINEBOX"
   },
   {
+    "code": "CBZ",
+    "description": "Clara B. Zimmer Post"
+  },
+  {
     "code": "CC",
     "description": "CINEMA CONCEPTS"
   },
@@ -2699,6 +2703,10 @@
   {
     "code": "ONE",
     "description": "DIGITONE ACOSTICS (MUMBAI)"
+  },
+  {
+    "code": "OND",
+    "description": "old/new cinemaproductions"
   },
   {
     "code": "ONS",
