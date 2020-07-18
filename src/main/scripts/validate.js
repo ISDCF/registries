@@ -44,6 +44,6 @@ for (const dataFile of fs.readdirSync(DATA_PATH).filter(f => /.json$/.test(f))) 
 
   /* perform additional checks if applicable */
   if (fs.statSync(validateFile)) {
-    require("./" + path.basename(validateFile))(registry)
+    require("./" + path.basename(validateFile))(registry, name)
   }
 }

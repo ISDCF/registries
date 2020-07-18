@@ -1,4 +1,4 @@
-module.exports = registry => {
+module.exports = (registry, name) => {
   /* is the registry sorted */
   for (let i = 1; i < registry.length; i++) {
     if (registry[i-1].code >= registry[i].code) {
