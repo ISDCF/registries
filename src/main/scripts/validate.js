@@ -19,8 +19,10 @@ CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING 
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
 
-const path = require('path')
 const fs = require('fs');
+const { basename, join } = require('path')
+const { readFile, access, readdir } = require('fs').promises;
+const assert = require('assert')
 const ajv = require('ajv');
 
 const DATA_PATH = "src/main/data/";
@@ -31,19 +33,57 @@ const DATA_VALIDATE_PATH = "src/main/scripts/%s.validate.js"; // additional chec
 
 var validator_factory = new ajv();
 
-for (const dataFile of fs.readdirSync(DATA_PATH).filter(f => /.json$/.test(f))) {
-  console.log(`Checking ${dataFile}`)
-  const name = path.basename(dataFile, ".json")
-  const registry = JSON.parse(fs.readFileSync(path.join(DATA_PATH, dataFile)))
-  const schemaFile = DATA_SCHEMA_PATH.replace("%s", name)
-  const validateFile = DATA_VALIDATE_PATH.replace("%s", name)
-  const validator = validator_factory.compile(JSON.parse(fs.readFileSync(schemaFile)))
+async function loadValidators() {
+  /* create a mapping of schema/data name to validator */
+  return await (await readdir(DATA_PATH)).reduce(async (aProm, dataFile) => {
+    const a = await aProm
+    const name = basename(dataFile, ".json")
+    const schemaFile = DATA_SCHEMA_PATH.replace("%s", name)
+    const validateFile = DATA_VALIDATE_PATH.replace("%s", name)
+    const schema = JSON.parse(await readFile(schemaFile))
+    const schemaVersion = basename(schema.$id)
+    const schemaValidate = validator_factory.compile(schema)
+    const data = JSON.parse(await readFile(join(DATA_PATH, dataFile)))
 
-  if (!validator(registry))
-    throw `${name} registry fails validation`
+    let additionalChecks = () => {}
 
-  /* perform additional checks if applicable */
-  if (fs.statSync(validateFile)) {
-    require("./" + path.basename(validateFile))(registry, name)
-  }
+    /* perform additional checks if applicable */
+    try {
+      await access(validateFile, fs.constants.F_OK)
+      additionalChecks = require("./" + basename(validateFile))
+    }
+    catch (e) {
+      if (e.code !== "ENOENT")
+        throw e
+    }
+
+    const validate = (registry = data) => {
+      /* first check schema */
+      if (!schemaValidate(registry))
+        throw `${name} registry fails schema validation`
+
+      /* then invoke any additional checks not covered by JSON schema: */
+      additionalChecks(registry, name)
+    }
+
+    return { ...a, [name]: { schemaVersion, validate, data }}
+  }, {})
+
 }
+
+async function validateAll() {
+  const validators = await loadValidators()
+  Object.keys(validators).map(name => {
+    console.log(`Checking ${name}`)
+    validators[name].validate()
+  })
+}
+
+module.exports = {
+  loadValidators,
+  validateAll,
+}
+
+// invoke validateAll() if we're run as a script:
+if (require.main === module)
+  validateAll().catch(console.error)
