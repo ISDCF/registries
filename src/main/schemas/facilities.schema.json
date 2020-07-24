@@ -7,6 +7,25 @@
     "code" : {
         "type": "string",
         "pattern": "^[A-Z0-9]{2,3}$"
+    },
+    "url": {
+      "type": "string"
+    },
+    "contact": {
+      "type": "object",
+      "properties": {
+          "name": {
+              "type": "string"
+          },
+          "email": {
+              "type": "string",
+              "pattern": "^[a-z0-9]+(\\.[_a-z0-9]+)*@[a-z0-9-]+(\\.[a-z0-9-]+)*(\\.[a-z]{2,15})$"
+          },
+          "address": {
+              "type": "string"
+          }
+      },
+      "required": [ "name", "email","address"]
     }
   },
   "type": "array",
@@ -24,6 +43,12 @@
           "obsolete": {
             "type": "boolean",
             "const": false
+          },
+          "url": {
+            "$ref": "#/definitions/url"
+          },
+          "contact": {
+            "$ref": "#/definitions/contact"
           },
           "comments": {
             "type": "array",
@@ -53,6 +78,12 @@
             "uniqueItems" : true,
             "minItems": 1,
             "items": { "$ref": "#/definitions/code" }
+          },
+          "url": {
+            "$ref": "#/definitions/url"
+          },
+          "contact": {
+            "$ref": "#/definitions/contact"
           },
           "comments": {
             "type": "array",

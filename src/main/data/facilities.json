@@ -387,7 +387,7 @@
   },
   {
     "code": "BKH",
-    "description": "Blockhead VFX"
+    "description": "Blockhead VFX"  
   },
   {
     "code": "BL",
@@ -1047,7 +1047,8 @@
   },
   {
     "code": "DDR",
-    "description": "DELUXE ROME"
+    "description": "DELUXE ROME",
+    "url": "https://www.bydeluxe.com/" 
   },
   {
     "code": "DDS",
@@ -1143,7 +1144,8 @@
   },
   {
     "code": "DLN",
-    "description": "DELUXE NEW YORK"
+    "description": "DELUXE NEW YORK",
+    "url": "https://www.bydeluxe.com/" 
   },
   {
     "code": "DLS",
@@ -1237,11 +1239,18 @@
   },
   {
     "code": "DTA",
-    "description": "DELUXE AUSTRALIA"
+    "description": "DELUXE AUSTRALIA",
+    "url": "https://www.bydeluxe.com/" 
   },
   {
     "code": "DTB",
-    "description": "DELUXE BURBANK "
+    "description": "DELUXE BURBANK ",
+    "url": "https://www.bydeluxe.com/",
+    "contact": {
+      "name": "Steve LLamb",
+      "email": "steve.llamb@bydeluxe.com",
+      "address": "2233 N Ontario Street, Suite 300, Burbank, CA, 91504, US"
+    }
   },
   {
     "code": "DTC",
@@ -1251,11 +1260,13 @@
   },
   {
     "code": "DTF",
-    "description": "DELUXE PARIS "
+    "description": "DELUXE PARIS ",
+    "url": "https://www.bydeluxe.com/" 
   },
   {
     "code": "DTI",
-    "description": "Deluxe Bangalore (India) "
+    "description": "Deluxe Bangalore (India) ",
+    "url": "https://www.bydeluxe.com/" 
   },
   {
     "code": "DTL",
@@ -1263,15 +1274,18 @@
   },
   {
     "code": "DTM",
-    "description": "DELUXE MADRID"
+    "description": "DELUXE MADRID",
+    "url": "https://www.bydeluxe.com/" 
   },
   {
     "code": "DTT",
-    "description": "DELUXE TORONTO"
+    "description": "DELUXE TORONTO",
+    "url": "https://www.bydeluxe.com/" 
   },
   {
     "code": "DTU",
-    "description": "DELUXE UK "
+    "description": "DELUXE UK ",
+    "url": "https://www.bydeluxe.com/" 
   },
   {
     "code": "DUB",
@@ -2704,7 +2718,8 @@
   },
   {
     "code": "OND",
-    "description": "old/new cineproductions"
+    "description": "old/new cineproductions",
+    "url": "www.oldnew.de"
   },
   {
     "code": "ONE",
