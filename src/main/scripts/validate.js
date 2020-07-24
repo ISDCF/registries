@@ -22,7 +22,6 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 const fs = require('fs');
 const { basename, join } = require('path')
 const { readFile, access, readdir } = require('fs').promises;
-const assert = require('assert')
 const ajv = require('ajv');
 
 const DATA_PATH = "src/main/data/";
@@ -33,7 +32,7 @@ const DATA_VALIDATE_PATH = "src/main/scripts/%s.validate.js"; // additional chec
 
 var validator_factory = new ajv();
 
-async function loadValidators() {
+async function registries() {
   /* create a mapping of schema/data name to validator */
   return await (await readdir(DATA_PATH)).reduce(async (aProm, dataFile) => {
     const a = await aProm
@@ -66,21 +65,20 @@ async function loadValidators() {
       additionalChecks(registry, name)
     }
 
-    return { ...a, [name]: { schemaVersion, validate, data }}
+    return { ...a, [name]: { schemaVersion, validate, data, name }}
   }, {})
 
 }
 
 async function validateAll() {
-  const validators = await loadValidators()
-  Object.keys(validators).map(name => {
+  Object.values(await registries()).map(({ name, validate }) => {
     console.log(`Checking ${name}`)
-    validators[name].validate()
+    validate()
   })
 }
 
 module.exports = {
-  loadValidators,
+  registries,
   validateAll,
 }
 

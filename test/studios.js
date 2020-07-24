@@ -1,11 +1,11 @@
-const { loadValidators } = require("..")
+const { registries } = require("..")
 const chai = require('chai')
 const should = chai.should();
 const assert = chai.assert
 
 describe("studios schema", () => {
   let validate
-  before(async () => { ({ studios: { validate } } = await loadValidators() ) })
+  before(async () => { ({ studios: { validate } } = await registries() ) })
 
   it("schema exists", () => {
     validate.should.be.a('function')
