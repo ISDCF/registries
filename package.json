@@ -3,8 +3,10 @@
   "version": "1.0.0-beta.2",
   "description": "ISDCF registries",
   "scripts": {
+    "test": "mocha",
     "validate": "node src/main/scripts/validate.js"
   },
+  "main": "src/main/scripts/validate.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/isdcf/registries.git"
@@ -15,5 +17,9 @@
     "ajv": "^6.10.2",
     "cldr-core": "^36.0.0",
     "cldr-localenames-modern": "^36.0.0"
+  },
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1"
   }
 }
