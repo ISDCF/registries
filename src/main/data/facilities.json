@@ -1237,23 +1237,25 @@
   },
   {
     "code": "DTA",
-    "description": "DELUXE TECHNICOLOR AUSTRALIA"
+    "description": "DELUXE AUSTRALIA"
   },
   {
     "code": "DTB",
-    "description": "DELUXE TECHNICOLOR BURBANK "
+    "description": "DELUXE BURBANK "
   },
   {
     "code": "DTC",
-    "description": "DELUXE TECHNICOLOR CULVER CITY"
+    "description": "DELUXE CULVER CITY",
+    "obsolete": true,
+    "obsoletedBy": [ "DTB" ]
   },
   {
     "code": "DTF",
-    "description": "DELUXE TECHNICOLOR PARIS "
+    "description": "DELUXE PARIS "
   },
   {
     "code": "DTI",
-    "description": "Deluxe Technicolor Bangalore (India) "
+    "description": "Deluxe Bangalore (India) "
   },
   {
     "code": "DTL",
@@ -1261,15 +1263,15 @@
   },
   {
     "code": "DTM",
-    "description": "DELUXE TECHNICOLOR MADRID"
+    "description": "DELUXE MADRID"
   },
   {
     "code": "DTT",
-    "description": "DELUXE TECHNICOLOR TORONTO"
+    "description": "DELUXE TORONTO"
   },
   {
     "code": "DTU",
-    "description": "DELUXE TECHNICOLOR UK "
+    "description": "DELUXE UK "
   },
   {
     "code": "DUB",
