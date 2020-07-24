@@ -1,6 +1,6 @@
 {
   "name": "isdcf-registries",
-  "version": "1.0.0-beta.2",
+  "version": "1.0.0-beta.3",
   "description": "ISDCF registries",
   "scripts": {
     "test": "mocha",
