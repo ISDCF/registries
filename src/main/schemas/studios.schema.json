@@ -10,7 +10,8 @@
     },
     "url": {
       "type": "string",
-      "format": "uri"
+      "format": "uri",
+      "pattern": "^http(s)?"
     },
     "contact": {
       "type": "object",
