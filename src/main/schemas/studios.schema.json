@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/schema#",
-  "$id": "http://isdcf.com/ns/json-schemas/registries/studios/1.0.0-beta.1",
+  "$id": "http://isdcf.com/ns/json-schemas/registries/studios/1.0.0-beta.2",
   "$comment": "Copyright, ISDCF <info@isdcf.com>",
   "title": "Schema for the Studios Registry of the ISDCF",
   "definitions": {
@@ -9,7 +9,8 @@
         "pattern": "^[A-Z0-9]{2,4}$"
     },
     "url": {
-      "type": "string"
+      "type": "string",
+      "format": "uri"
     },
     "contact": {
       "type": "object",
@@ -19,7 +20,7 @@
           },
           "email": {
               "type": "string",
-              "pattern": "^[a-zA-Z0-9]+(\\.[_a-zA-Z0-9]+)*@[a-zA-Z0-9-]+(\\.[a-zA-Z0-9-]+)*(\\.[a-z]{2,15})$"
+              "format": "email"
           },
           "address": {
               "type": "string"

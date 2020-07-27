@@ -606,7 +606,10 @@
   },
   {
     "code": "NULL",
-    "description": "Unspecified"
+    "description": "Unspecified",
+    "comments": [
+      "This code is only use in the CTT. If using 429-16 metadata, the absence of the <Distributor> element shall denote the studio is 'Unspecified'"
+    ]
   },
   {
     "code": "O2",

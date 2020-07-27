@@ -387,7 +387,7 @@
   },
   {
     "code": "BKH",
-    "description": "Blockhead VFX"  
+    "description": "Blockhead VFX"
   },
   {
     "code": "BL",
@@ -2634,7 +2634,10 @@
   },
   {
     "code": "NUL",
-    "description": "Unspecified"
+    "description": "Unspecified",
+    "comments": [
+      "This code is only use in the CTT. If using 429-16 metadata, the absence of the <Facility> element shall denote the facility is 'Unspecified'"
+    ]
   },
   {
     "code": "NVL",
@@ -2719,7 +2722,7 @@
   {
     "code": "OND",
     "description": "old/new cineproductions",
-    "url": "www.oldnew.de"
+    "url": "http://www.oldnew.de"
   },
   {
     "code": "ONE",
