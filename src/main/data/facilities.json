@@ -247,7 +247,13 @@
   },
   {
     "code": "APP",
-    "description": "Arteus Post Production"
+    "description": "Arteus Post Production",
+    "url": "https://www.arteus.co.uk",
+    "contact": {
+      "name": "Ian Ballantyne",
+      "email": "ian.ballantyne@arteus.co.uk",
+      "address": "40 Dalintober Street, Glasgow G5 8NW, UK"
+    }
   },
   {
     "code": "APS",
