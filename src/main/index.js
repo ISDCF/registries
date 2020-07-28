@@ -19,42 +19,41 @@ CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING 
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
 
-const fs = require('fs');
 const { basename, join } = require('path')
-const { readFile, access, readdir } = require('fs').promises;
+const { readFile } = require('fs').promises;
 const ajv = require('ajv');
+const validator_factory = new ajv();
 
-const DATA_PATH = "src/main/data/";
-const DATA_SCHEMA_PATH = "src/main/schemas/%s.schema.json";
-const DATA_VALIDATE_PATH = "src/main/scripts/%s.validate.js"; // additional checks
+const registries = [
+  {
+    name: 'facilities',
+    dataFile: 'data/facilities.json',
+    schemaFile: 'schemas/facilities.schema.json',
+    validationFile: 'validate/facilities.validate.js',
+  },
+  {
+    name: 'studios',
+    dataFile: 'data/studios.json',
+    schemaFile: 'schemas/studios.schema.json',
+    validationFile: 'validate/studios.validate.js',
+  },
+  {
+    name: 'languages',
+    dataFile: 'data/languages.json',
+    schemaFile: 'schemas/languages.schema.json',
+    validationFile: 'validate/languages.validate.js',
+  },
+]
 
-/* load and validate the registry */
+module.exports.registries = async function () {
 
-var validator_factory = new ajv();
-
-async function registries() {
-  /* create a mapping of schema/data name to validator */
-  return await (await readdir(DATA_PATH)).reduce(async (aProm, dataFile) => {
+  return await registries.reduce(async (aProm, { name, dataFile, schemaFile, validationFile }) => {
     const a = await aProm
-    const name = basename(dataFile, ".json")
-    const schemaFile = DATA_SCHEMA_PATH.replace("%s", name)
-    const validateFile = DATA_VALIDATE_PATH.replace("%s", name)
-    const schema = JSON.parse(await readFile(schemaFile))
+    const schema = JSON.parse(await readFile(join(__dirname, schemaFile)))
     const schemaVersion = basename(schema.$id)
     const schemaValidate = validator_factory.compile(schema)
-    const data = JSON.parse(await readFile(join(DATA_PATH, dataFile)))
-
-    let additionalChecks = () => {}
-
-    /* perform additional checks if applicable */
-    try {
-      await access(validateFile, fs.constants.F_OK)
-      additionalChecks = require("./" + basename(validateFile))
-    }
-    catch (e) {
-      if (e.code !== "ENOENT")
-        throw e
-    }
+    const data = JSON.parse(await readFile(join(__dirname, dataFile)))
+    const additionalChecks = validationFile ? require(join(__dirname, validationFile)) : () => {}
 
     const validate = (registry = data) => {
       /* first check schema */
@@ -67,21 +66,4 @@ async function registries() {
 
     return { ...a, [name]: { schemaVersion, validate, data, name }}
   }, {})
-
 }
-
-async function validateAll() {
-  Object.values(await registries()).map(({ name, validate }) => {
-    console.log(`Checking ${name}`)
-    validate()
-  })
-}
-
-module.exports = {
-  registries,
-  validateAll,
-}
-
-// invoke validateAll() if we're run as a script:
-if (require.main === module)
-  validateAll().catch(console.error)

@@ -1,4 +1,4 @@
-const { parseLanguageTag, parsedTagToCLDRLocale } = require('./language-utilities.js')
+const { parseLanguageTag, parsedTagToCLDRLocale } = require('../scripts/language-utilities.js')
 
 module.exports = registry => {
   for (const i in registry) {
@@ -12,7 +12,6 @@ module.exports = registry => {
     }
 
     /* the RFC 5646 language tag must be a valid CLDR locale */
-
     const ptag = parseLanguageTag(langtag);
 
     if (!ptag) {
