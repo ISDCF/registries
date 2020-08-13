@@ -1,12 +1,33 @@
 {
   "$schema": "http://json-schema.org/schema#",
-  "$id": "http://isdcf.com/ns/json-schemas/registries/facilities/1.0.0-beta.2",
+  "$id": "http://isdcf.com/ns/json-schemas/registries/facilities/1.0.0-beta.3",
   "$comment": "Copyright, ISDCF <info@isdcf.com>",
   "title": "Schema for the Facilities registry of the ISDCF",
   "definitions": {
     "code" : {
         "type": "string",
         "pattern": "^[A-Z0-9]{2,3}$"
+    },
+    "url": {
+      "type": "string",
+      "format": "uri",
+      "pattern": "^http(s)?"
+    },
+    "contact": {
+      "type": "object",
+      "properties": {
+          "name": {
+              "type": "string"
+          },
+          "email": {
+              "type": "string",
+              "format": "email"
+          },
+          "address": {
+              "type": "string"
+          }
+      },
+      "required": [ "name", "email","address"]
     }
   },
   "type": "array",
@@ -24,6 +45,12 @@
           "obsolete": {
             "type": "boolean",
             "const": false
+          },
+          "url": {
+            "$ref": "#/definitions/url"
+          },
+          "contact": {
+            "$ref": "#/definitions/contact"
           },
           "comments": {
             "type": "array",
@@ -53,6 +80,12 @@
             "uniqueItems" : true,
             "minItems": 1,
             "items": { "$ref": "#/definitions/code" }
+          },
+          "url": {
+            "$ref": "#/definitions/url"
+          },
+          "contact": {
+            "$ref": "#/definitions/contact"
           },
           "comments": {
             "type": "array",

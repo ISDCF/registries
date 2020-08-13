@@ -171,7 +171,8 @@
   },
   {
     "code": "CJOY",
-    "description": "CINEJOY MOVIES GMBH"
+    "description": "CINEJOY MOVIES GMBH",
+    "url": "http://www.cinejoymovies.ch"
   },
   {
     "code": "CL",
@@ -335,7 +336,8 @@
   },
   {
     "code": "FYF",
-    "description": "Firefly Films"
+    "description": "Firefly Films",
+    "url": "https://www.fireflyfilms.co.nz"
   },
   {
     "code": "FZ",
@@ -611,7 +613,10 @@
   },
   {
     "code": "NULL",
-    "description": "Unspecified"
+    "description": "Unspecified",
+    "comments": [
+      "This code is only use in the CTT. If using 429-16 metadata, the absence of the <Distributor> element shall denote the studio is 'Unspecified'"
+    ]
   },
   {
     "code": "O2",
@@ -659,7 +664,8 @@
   },
   {
     "code": "PLNK",
-    "description": "Plank Film"
+    "description": "Plank Film",
+    "url": "http://plankfilm.ee"
   },
   {
     "code": "PMF",
