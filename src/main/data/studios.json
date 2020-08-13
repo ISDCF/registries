@@ -165,6 +165,12 @@
   },
   {
     "code": "CJM",
+    "description": "CINEJOY MOVIES GMBH",
+    "obsolete": true,
+    "obsoletedBy": [ "CJOY" ]
+  },
+  {
+    "code": "CJOY",
     "description": "CINEJOY MOVIES GMBH"
   },
   {
