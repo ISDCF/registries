@@ -21,7 +21,13 @@
   },
   {
     "code": "1VP",
-    "description": "123 Vision Pictures"
+    "description": "123 Vision Pictures",
+    "url": "https://www.123vp.com",
+    "contact": {
+      "name": "Mr.Ma",
+      "email": "mali@123vp.com",
+      "address": "Feiteng Art Space Zoom A, No.173,Caochangdi, Chaoyang district, Beijing, China"
+    }
   },
   {
     "code": "1Z1",
@@ -514,7 +520,13 @@
   },
    {
     "code": "CBT",
-    "description": "Cobalt Films"
+    "description": "Cobalt Films",
+    "url": "https://www.cobaltfilms.be/",
+    "contact": {
+      "name": "Mr. Loup Brenta",
+      "email": "info@cobaltfilms.be",
+      "address": "108c rue des tanneurs, 1000 Brussels, Belgium"
+    }
   },
    {
     "code": "CBX",
@@ -2573,7 +2585,13 @@
   },
   {
     "code": "NAF",
-    "description": "Non-Aligned Films"
+    "description": "Non-Aligned Films",
+    "url": "http://nonalignedfilms.com",
+    "contact": {
+      "name": "Mr. Stefan Ivančić",
+      "email": "info@nonalignedfilms.com",
+      "address": "Valjevska 8, 26000 Pančevo, Serbia"
+    }
   },
   {
     "code": "NAV",
@@ -3266,7 +3284,13 @@
   },
   {
     "code": "S4U",
-    "description": "Sub4u"
+    "description": "Sub4u",
+    "url": "http://www.sub4u.be",
+    "contact": {
+      "name": "Mr. Jean Timmerman",
+      "email": "jean@sub4u.be",
+      "address": "6, Sentier Kleindal, 1180 Bruxelles, Belgium"
+    }
   },
   {
     "code": "S76",
