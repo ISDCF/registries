@@ -26,7 +26,7 @@ require('./validate').registries().then(regs => {
 
   for (var reg_name in regs) {
     console.log("Canonicalizing " + regs[reg_name].name + " registry");
-    data = fs.writeFileSync(
+    fs.writeFileSync(
       regs[reg_name].dataFilePath,
       JSON.stringify(
         JSON.parse(
@@ -34,7 +34,7 @@ require('./validate').registries().then(regs => {
         ),
         null,
         2
-      )
+      ) + "\n"
     );
   }
 }).catch(err => {
