@@ -42,7 +42,8 @@ async function registries() {
     const schema = JSON.parse(await readFile(schemaFile))
     const schemaVersion = basename(schema.$id)
     const schemaValidate = validator_factory.compile(schema)
-    const data = JSON.parse(await readFile(join(DATA_PATH, dataFile)))
+    const dataFilePath = join(DATA_PATH, dataFile)
+    const data = JSON.parse(await readFile(dataFilePath))
 
     let additionalChecks = () => {}
 
@@ -65,7 +66,7 @@ async function registries() {
       additionalChecks(registry, name)
     }
 
-    return { ...a, [name]: { schemaVersion, validate, data, name }}
+    return { ...a, [name]: { schemaVersion, validate, data, name, dataFilePath }}
   }, {})
 
 }

@@ -19,18 +19,24 @@ CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING 
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
 
-module.exports = (registry, name) => {
-  /* is the registry sorted */
-  for (let i = 1; i < registry.length; i++) {
-    if (registry[i-1].code >= registry[i].code) {
-      throw name + " registry key " + registry[i-1].code + " is " +
-        ((registry[i-1].code === registry[i].code) ? "duplicated" : "not sorted");
-    }
+/* Canonicalize the registries */
 
-    /* ensure all obsoletedBy codes are found */
-    (registry[i].obsoletedBy||[]).forEach(obs => {
-      if (!registry.find(r => r.code === obs))
-        throw `${name}: ${registry[i].description} is obsoletedBy '${obs}' which is an invalid code`
-    })
+require('./validate').registries().then(regs => {
+  const fs = require('fs');
+
+  for (var reg_name in regs) {
+    console.log("Canonicalizing " + regs[reg_name].name + " registry");
+    data = fs.writeFileSync(
+      regs[reg_name].dataFilePath,
+      JSON.stringify(
+        JSON.parse(
+          fs.readFileSync(regs[reg_name].dataFilePath)
+        ),
+        null,
+        2
+      )
+    );
   }
-}
+}).catch(err => {
+  console.log("Cannot load registries")
+});
