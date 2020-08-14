@@ -26,7 +26,7 @@ jobs:
       run: |
           npm run canonicalize
           git add src/main/data
-          git diff-index --quiet HEAD --
+          git diff-index --quiet HEAD src/main/data
 
     - name: commit canonicalized registries
       if: github.ref != 'refs/heads/master' && github.event_name != 'pull_request'
@@ -35,5 +35,5 @@ jobs:
           git add src/main/data
           git config --global user.name 'ISDCF Registries Canonicalizer'
           git config --global user.email 'admin@isdcf.com'
-          git diff-index --quiet HEAD -- || git commit -m "Registries have been canonicalized"
+          git diff-index --quiet HEAD src/main/data || git commit -m "Registries have been canonicalized"
           git push
