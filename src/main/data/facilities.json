@@ -21,13 +21,13 @@
   },
   {
     "code": "1VP",
-    "description": "123 Vision Pictures",
-    "url": "https://www.123vp.com",
     "contact": {
-      "name": "Mr.Ma",
+      "address": "Feiteng Art Space Zoom A, No.173,Caochangdi, Chaoyang district, Beijing, China",
       "email": "mali@123vp.com",
-      "address": "Feiteng Art Space Zoom A, No.173,Caochangdi, Chaoyang district, Beijing, China"
-    }
+      "name": "Mr.Ma"
+    },
+    "description": "123 Vision Pictures",
+    "url": "https://www.123vp.com"
   },
   {
     "code": "1Z1",
@@ -259,13 +259,13 @@
   },
   {
     "code": "APP",
-    "description": "Arteus Post Production",
-    "url": "https://www.arteus.co.uk",
     "contact": {
-      "name": "Ian Ballantyne",
+      "address": "40 Dalintober Street, Glasgow G5 8NW, UK",
       "email": "ian.ballantyne@arteus.co.uk",
-      "address": "40 Dalintober Street, Glasgow G5 8NW, UK"
-    }
+      "name": "Ian Ballantyne"
+    },
+    "description": "Arteus Post Production",
+    "url": "https://www.arteus.co.uk"
   },
   {
     "code": "APS",
@@ -522,13 +522,13 @@
   },
   {
     "code": "CBT",
-    "description": "Cobalt Films",
-    "url": "https://www.cobaltfilms.be/",
     "contact": {
-      "name": "Mr. Loup Brenta",
+      "address": "108c rue des tanneurs, 1000 Brussels, Belgium",
       "email": "info@cobaltfilms.be",
-      "address": "108c rue des tanneurs, 1000 Brussels, Belgium"
-    }
+      "name": "Mr. Loup Brenta"
+    },
+    "description": "Cobalt Films",
+    "url": "https://www.cobaltfilms.be/"
   },
   {
     "code": "CBX",
@@ -1288,13 +1288,13 @@
   },
   {
     "code": "DTB",
-    "description": "DELUXE BURBANK ",
-    "url": "https://www.bydeluxe.com/",
     "contact": {
-      "name": "Steve LLamb",
+      "address": "2233 N Ontario Street, Suite 300, Burbank, CA, 91504, US",
       "email": "steve.llamb@bydeluxe.com",
-      "address": "2233 N Ontario Street, Suite 300, Burbank, CA, 91504, US"
-    }
+      "name": "Steve LLamb"
+    },
+    "description": "DELUXE BURBANK ",
+    "url": "https://www.bydeluxe.com/"
   },
   {
     "code": "DTC",
@@ -2608,13 +2608,13 @@
   },
   {
     "code": "NAF",
-    "description": "Non-Aligned Films",
-    "url": "http://nonalignedfilms.com",
     "contact": {
-      "name": "Mr. Stefan Ivančić",
+      "address": "Valjevska 8, 26000 Pančevo, Serbia",
       "email": "info@nonalignedfilms.com",
-      "address": "Valjevska 8, 26000 Pančevo, Serbia"
-    }
+      "name": "Mr. Stefan Ivančić"
+    },
+    "description": "Non-Aligned Films",
+    "url": "http://nonalignedfilms.com"
   },
   {
     "code": "NAV",
@@ -2698,10 +2698,10 @@
   },
   {
     "code": "NUL",
-    "description": "Unspecified",
     "comments": [
       "This code is only use in the CTT. If using 429-16 metadata, the absence of the <Facility> element shall denote the facility is 'Unspecified'"
-    ]
+    ],
+    "description": "Unspecified"
   },
   {
     "code": "NVL",
@@ -3311,13 +3311,13 @@
   },
   {
     "code": "S4U",
-    "description": "Sub4u",
-    "url": "http://www.sub4u.be",
     "contact": {
-      "name": "Mr. Jean Timmerman",
+      "address": "6, Sentier Kleindal, 1180 Bruxelles, Belgium",
       "email": "jean@sub4u.be",
-      "address": "6, Sentier Kleindal, 1180 Bruxelles, Belgium"
-    }
+      "name": "Mr. Jean Timmerman"
+    },
+    "description": "Sub4u",
+    "url": "http://www.sub4u.be"
   },
   {
     "code": "S76",
