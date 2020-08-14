@@ -38,5 +38,6 @@ require('./validate').registries().then(regs => {
     );
   }
 }).catch(err => {
-  console.log("Cannot load registries")
+  console.error("Cannot load registries")
+  process.exit(1)
 });
