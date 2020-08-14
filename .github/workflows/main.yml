@@ -26,5 +26,6 @@ jobs:
           npm run canonicalize
           git config --global user.name 'ISDCF Registries Canonicalizer'
           git config --global user.email 'admin@isdcf.com'
-          git commit -am "Registries have been canonicalized"
+          git add src/main/data
+          git commit -m "Registries have been canonicalized"
           git push
