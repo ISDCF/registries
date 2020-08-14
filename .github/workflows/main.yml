@@ -1,13 +1,10 @@
 name: validate
 
-on:
-  push:
-    if: github.event.pull_request.head.repo.full_name == github.repository
-  pull_request:
-    if: github.event.pull_request.head.repo.full_name != github.repository
+on: [push, pull_request]
 
 jobs:
   build:
+    if: (github.event.push.head.repo.full_name == github.repository && github.event == push) || (github.event.pull_request.head.repo.full_name != github.repository && github.event == pull_request)
     runs-on: ubuntu-latest
 
     steps:
