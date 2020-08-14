@@ -4,6 +4,7 @@ on: [push, pull_request]
 
 jobs:
   build:
+    if: github.event_name == 'push' || (github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name != github.repository)
     runs-on: ubuntu-latest
 
     steps:
@@ -11,6 +12,28 @@ jobs:
     - uses: actions/setup-node@v1
       with:
         node-version: '10'
+
     - run: npm install
-    - run: npm test
-    - run: npm run validate
+
+    - name: test scripts
+      run: npm test
+
+    - name: validate registries
+      run: npm run validate
+
+    - name: verify that the registries are canonicalized
+      if: github.ref == 'refs/heads/master' || github.event_name == 'pull_request'
+      run: |
+          npm run canonicalize
+          git add src/main/data
+          git diff-index --quiet HEAD src/main/data
+
+    - name: commit canonicalized registries
+      if: github.ref != 'refs/heads/master' && github.event_name != 'pull_request'
+      run: |
+          npm run canonicalize
+          git add src/main/data
+          git config --global user.name 'ISDCF Registries Canonicalizer'
+          git config --global user.email 'admin@isdcf.com'
+          git diff-index --quiet HEAD src/main/data || git commit -m "Registries have been canonicalized"
+          git push
