@@ -27,5 +27,5 @@ jobs:
           git config --global user.name 'ISDCF Registries Canonicalizer'
           git config --global user.email 'admin@isdcf.com'
           git add src/main/data
-          git commit -m "Registries have been canonicalized"
+          git diff-index --quiet HEAD || git commit -m "Registries have been canonicalized"
           git push
