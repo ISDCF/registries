@@ -21,6 +21,8 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 /* Canonicalize the registries */
 
+const stringify = require('json-stable-stringify');
+
 require('./validate').registries().then(regs => {
   const fs = require('fs');
 
@@ -28,12 +30,9 @@ require('./validate').registries().then(regs => {
     console.log("Canonicalizing " + regs[reg_name].name + " registry");
     fs.writeFileSync(
       regs[reg_name].dataFilePath,
-      JSON.stringify(
-        JSON.parse(
-          fs.readFileSync(regs[reg_name].dataFilePath)
-        ),
-        null,
-        2
+      stringify(
+        JSON.parse(fs.readFileSync(regs[reg_name].dataFilePath)),
+        { space: '  ' },
       ) + "\n"
     );
   }
