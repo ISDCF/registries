@@ -1,6 +1,6 @@
 {
   "name": "isdcf-registries",
-  "version": "1.0.0-beta.4",
+  "version": "1.0.0",
   "description": "ISDCF registries",
   "scripts": {
     "test": "mocha",
@@ -20,6 +20,6 @@
   },
   "dependencies": {
     "chai": "^4.2.0",
-    "mocha": "^8.0.1"
+    "mocha": "^8.1.1"
   }
 }
