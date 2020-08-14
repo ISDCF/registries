@@ -21,7 +21,13 @@
   },
   {
     "code": "1VP",
-    "description": "123 Vision Pictures"
+    "description": "123 Vision Pictures",
+    "url": "https://www.123vp.com",
+    "contact": {
+      "name": "Mr.Ma",
+      "email": "mali@123vp.com",
+      "address": "Feiteng Art Space Zoom A, No.173,Caochangdi, Chaoyang district, Beijing, China"
+    }
   },
   {
     "code": "1Z1",
@@ -251,7 +257,13 @@
   },
   {
     "code": "APP",
-    "description": "Arteus Post Production"
+    "description": "Arteus Post Production",
+    "url": "https://www.arteus.co.uk",
+    "contact": {
+      "name": "Ian Ballantyne",
+      "email": "ian.ballantyne@arteus.co.uk",
+      "address": "40 Dalintober Street, Glasgow G5 8NW, UK"
+    }
   },
   {
     "code": "APS",
@@ -395,7 +407,8 @@
   },
   {
     "code": "BKH",
-    "description": "Blockhead VFX"
+    "description": "Blockhead VFX",
+    "url": "https://www.blockheadvfx.com"
   },
   {
     "code": "BL",
@@ -507,7 +520,13 @@
   },
    {
     "code": "CBT",
-    "description": "Cobalt Films"
+    "description": "Cobalt Films",
+    "url": "https://www.cobaltfilms.be/",
+    "contact": {
+      "name": "Mr. Loup Brenta",
+      "email": "info@cobaltfilms.be",
+      "address": "108c rue des tanneurs, 1000 Brussels, Belgium"
+    }
   },
    {
     "code": "CBX",
@@ -1059,7 +1078,8 @@
   },
   {
     "code": "DDR",
-    "description": "DELUXE ROME"
+    "description": "DELUXE ROME",
+    "url": "https://www.bydeluxe.com/" 
   },
   {
     "code": "DDS",
@@ -1155,7 +1175,8 @@
   },
   {
     "code": "DLN",
-    "description": "DELUXE NEW YORK"
+    "description": "DELUXE NEW YORK",
+    "url": "https://www.bydeluxe.com/" 
   },
   {
     "code": "DLS",
@@ -1249,11 +1270,18 @@
   },
   {
     "code": "DTA",
-    "description": "DELUXE AUSTRALIA"
+    "description": "DELUXE AUSTRALIA",
+    "url": "https://www.bydeluxe.com/" 
   },
   {
     "code": "DTB",
-    "description": "DELUXE BURBANK "
+    "description": "DELUXE BURBANK ",
+    "url": "https://www.bydeluxe.com/",
+    "contact": {
+      "name": "Steve LLamb",
+      "email": "steve.llamb@bydeluxe.com",
+      "address": "2233 N Ontario Street, Suite 300, Burbank, CA, 91504, US"
+    }
   },
   {
     "code": "DTC",
@@ -1263,11 +1291,13 @@
   },
   {
     "code": "DTF",
-    "description": "DELUXE PARIS "
+    "description": "DELUXE PARIS ",
+    "url": "https://www.bydeluxe.com/" 
   },
   {
     "code": "DTI",
-    "description": "Deluxe Bangalore (India) "
+    "description": "Deluxe Bangalore (India) ",
+    "url": "https://www.bydeluxe.com/" 
   },
   {
     "code": "DTL",
@@ -1275,15 +1305,18 @@
   },
   {
     "code": "DTM",
-    "description": "DELUXE MADRID"
+    "description": "DELUXE MADRID",
+    "url": "https://www.bydeluxe.com/" 
   },
   {
     "code": "DTT",
-    "description": "DELUXE TORONTO"
+    "description": "DELUXE TORONTO",
+    "url": "https://www.bydeluxe.com/" 
   },
   {
     "code": "DTU",
-    "description": "DELUXE UK "
+    "description": "DELUXE UK ",
+    "url": "https://www.bydeluxe.com/" 
   },
   {
     "code": "DUB",
@@ -2552,7 +2585,13 @@
   },
   {
     "code": "NAF",
-    "description": "Non-Aligned Films"
+    "description": "Non-Aligned Films",
+    "url": "http://nonalignedfilms.com",
+    "contact": {
+      "name": "Mr. Stefan Ivančić",
+      "email": "info@nonalignedfilms.com",
+      "address": "Valjevska 8, 26000 Pančevo, Serbia"
+    }
   },
   {
     "code": "NAV",
@@ -2636,7 +2675,10 @@
   },
   {
     "code": "NUL",
-    "description": "Unspecified"
+    "description": "Unspecified",
+    "comments": [
+      "This code is only use in the CTT. If using 429-16 metadata, the absence of the <Facility> element shall denote the facility is 'Unspecified'"
+    ]
   },
   {
     "code": "NVL",
@@ -2720,7 +2762,8 @@
   },
   {
     "code": "OND",
-    "description": "old/new cineproductions"
+    "description": "old/new cineproductions",
+    "url": "http://www.oldnew.de"
   },
   {
     "code": "ONE",
@@ -3241,7 +3284,13 @@
   },
   {
     "code": "S4U",
-    "description": "Sub4u"
+    "description": "Sub4u",
+    "url": "http://www.sub4u.be",
+    "contact": {
+      "name": "Mr. Jean Timmerman",
+      "email": "jean@sub4u.be",
+      "address": "6, Sentier Kleindal, 1180 Bruxelles, Belgium"
+    }
   },
   {
     "code": "S76",
