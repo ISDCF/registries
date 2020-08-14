@@ -177,7 +177,9 @@
     "code": "AIX",
     "description": "ACCESS IT",
     "obsolete": true,
-    "obsoletedBy": [ "CIN" ]
+    "obsoletedBy": [
+      "CIN"
+    ]
   },
   {
     "code": "AK",
@@ -518,7 +520,7 @@
     "code": "CBD",
     "description": "COLOR BY DEJONGHE"
   },
-   {
+  {
     "code": "CBT",
     "description": "Cobalt Films",
     "url": "https://www.cobaltfilms.be/",
@@ -528,7 +530,7 @@
       "address": "108c rue des tanneurs, 1000 Brussels, Belgium"
     }
   },
-   {
+  {
     "code": "CBX",
     "description": "CINEBOX"
   },
@@ -556,7 +558,7 @@
     "code": "CCL",
     "description": "Cannes Cinema"
   },
-  { 
+  {
     "code": "CCM",
     "description": "CINECOLOR MEXICO"
   },
@@ -852,7 +854,9 @@
     "code": "CPT",
     "description": "CINEPOST",
     "obsolete": true,
-    "obsoletedBy" : [ "PFX" ]
+    "obsoletedBy": [
+      "PFX"
+    ]
   },
   {
     "code": "CPX",
@@ -986,7 +990,9 @@
     "code": "DAU",
     "description": "DELUXE AUSTRALIA",
     "obsolete": true,
-    "obsoletedBy": [ "DTA" ]
+    "obsoletedBy": [
+      "DTA"
+    ]
   },
   {
     "code": "DB",
@@ -1079,13 +1085,16 @@
   {
     "code": "DDR",
     "description": "DELUXE ROME",
-    "url": "https://www.bydeluxe.com/" 
+    "url": "https://www.bydeluxe.com/"
   },
   {
     "code": "DDS",
     "description": "Disney",
     "obsolete": true,
-    "obsoletedBy": [ "DSS", "WDS" ]
+    "obsoletedBy": [
+      "DSS",
+      "WDS"
+    ]
   },
   {
     "code": "DEF",
@@ -1159,7 +1168,9 @@
     "code": "DLA",
     "description": "DELUXE LA",
     "obsolete": true,
-    "obsoletedBy": [ "DTB" ]
+    "obsoletedBy": [
+      "DTB"
+    ]
   },
   {
     "code": "DLB",
@@ -1176,7 +1187,7 @@
   {
     "code": "DLN",
     "description": "DELUXE NEW YORK",
-    "url": "https://www.bydeluxe.com/" 
+    "url": "https://www.bydeluxe.com/"
   },
   {
     "code": "DLS",
@@ -1258,7 +1269,9 @@
     "code": "DSP",
     "description": "DELUXE SPAIN",
     "obsolete": true,
-    "obsoletedBy": [ "DTM" ]
+    "obsoletedBy": [
+      "DTM"
+    ]
   },
   {
     "code": "DSS",
@@ -1271,7 +1284,7 @@
   {
     "code": "DTA",
     "description": "DELUXE AUSTRALIA",
-    "url": "https://www.bydeluxe.com/" 
+    "url": "https://www.bydeluxe.com/"
   },
   {
     "code": "DTB",
@@ -1287,17 +1300,19 @@
     "code": "DTC",
     "description": "DELUXE CULVER CITY",
     "obsolete": true,
-    "obsoletedBy": [ "DTB" ]
+    "obsoletedBy": [
+      "DTB"
+    ]
   },
   {
     "code": "DTF",
     "description": "DELUXE PARIS ",
-    "url": "https://www.bydeluxe.com/" 
+    "url": "https://www.bydeluxe.com/"
   },
   {
     "code": "DTI",
     "description": "Deluxe Bangalore (India) ",
-    "url": "https://www.bydeluxe.com/" 
+    "url": "https://www.bydeluxe.com/"
   },
   {
     "code": "DTL",
@@ -1306,17 +1321,17 @@
   {
     "code": "DTM",
     "description": "DELUXE MADRID",
-    "url": "https://www.bydeluxe.com/" 
+    "url": "https://www.bydeluxe.com/"
   },
   {
     "code": "DTT",
     "description": "DELUXE TORONTO",
-    "url": "https://www.bydeluxe.com/" 
+    "url": "https://www.bydeluxe.com/"
   },
   {
     "code": "DTU",
     "description": "DELUXE UK ",
-    "url": "https://www.bydeluxe.com/" 
+    "url": "https://www.bydeluxe.com/"
   },
   {
     "code": "DUB",
@@ -1326,7 +1341,9 @@
     "code": "DUK",
     "description": "DELUXE UK",
     "obsolete": true,
-    "obsoletedBy": [ "DTU" ]
+    "obsoletedBy": [
+      "DTU"
+    ]
   },
   {
     "code": "DVF",
@@ -1368,13 +1385,17 @@
     "code": "DXL",
     "description": "DCINEX - LIÈGE",
     "obsolete": true,
-    "obsoletedBy": [ "EBL" ]
+    "obsoletedBy": [
+      "EBL"
+    ]
   },
   {
     "code": "DXT",
     "description": "DCINEX - TUEBINGEN",
     "obsolete": true,
-    "obsoletedBy": [ "EGB" ]
+    "obsoletedBy": [
+      "EGB"
+    ]
   },
   {
     "code": "EA",
@@ -1396,7 +1417,9 @@
     "code": "ECL",
     "description": "ÉCLAIR LABS",
     "obsolete": true,
-    "obsoletedBy": [ "EFP" ]
+    "obsoletedBy": [
+      "EFP"
+    ]
   },
   {
     "code": "ECP",
@@ -2756,7 +2779,7 @@
     "code": "OM",
     "description": "OPTIONMEDIA"
   },
-   {
+  {
     "code": "OMN",
     "description": "OMNIMAGO"
   },
@@ -2998,7 +3021,9 @@
     "code": "PSP",
     "description": "PROMOSCAPE",
     "obsolete": true,
-    "obsoletedBy": [ "RDL" ]
+    "obsoletedBy": [
+      "RDL"
+    ]
   },
   {
     "code": "PSR",
@@ -3040,7 +3065,9 @@
     "code": "PX",
     "description": "PIXAR",
     "obsolete": true,
-    "obsoletedBy": [ "PXR" ]
+    "obsoletedBy": [
+      "PXR"
+    ]
   },
   {
     "code": "PXB",
@@ -3344,7 +3371,9 @@
     "code": "SDC",
     "description": "SOHO DIGITAL CINEMA",
     "obsolete": true,
-    "obsoletedBy" : [ "VDM" ]
+    "obsoletedBy": [
+      "VDM"
+    ]
   },
   {
     "code": "SDL",
@@ -3354,7 +3383,9 @@
     "code": "SDM",
     "description": "SOHO DIGITAL MEDIA",
     "obsolete": true,
-    "obsoletedBy": [ "SDC" ]
+    "obsoletedBy": [
+      "SDC"
+    ]
   },
   {
     "code": "SDP",
@@ -3652,7 +3683,9 @@
     "code": "TDC",
     "description": "TECHNICOLOR DIGITAL CINEMA LA",
     "obsolete": true,
-    "obsoletedBy" : [ "DTB" ]
+    "obsoletedBy": [
+      "DTB"
+    ]
   },
   {
     "code": "TDE",
@@ -3670,7 +3703,9 @@
     "code": "TE",
     "description": "TRENCH ENTERTAINMENT",
     "obsolete": true,
-    "obsoletedBy": [ "TRD" ]
+    "obsoletedBy": [
+      "TRD"
+    ]
   },
   {
     "code": "TEF",
@@ -3684,7 +3719,9 @@
     "code": "TEU",
     "description": "TECHNICOLOR DIGITAL CINEMA UK",
     "obsolete": true,
-    "obsoletedBy": [ "DTU" ]
+    "obsoletedBy": [
+      "DTU"
+    ]
   },
   {
     "code": "TFD",
@@ -3934,7 +3971,9 @@
     "code": "VG",
     "description": "VISION GLOBALE",
     "obsolete": true,
-    "obsoletedBy": [ "MEL" ]
+    "obsoletedBy": [
+      "MEL"
+    ]
   },
   {
     "code": "VIC",
@@ -4052,7 +4091,9 @@
     "code": "XDC",
     "description": "XDC DIGITAL LAB",
     "obsolete": true,
-    "obsoletedBy": [ "DXL" ]
+    "obsoletedBy": [
+      "DXL"
+    ]
   },
   {
     "code": "XXL",
@@ -4062,19 +4103,25 @@
     "code": "YBA",
     "description": "YMAGIS BARCELONA",
     "obsolete": true,
-    "obsoletedBy": [ "ESB" ]
+    "obsoletedBy": [
+      "ESB"
+    ]
   },
   {
     "code": "YBE",
     "description": "YMAGIS BERLIN",
     "obsolete": true,
-    "obsoletedBy": [ "EGB" ]
+    "obsoletedBy": [
+      "EGB"
+    ]
   },
   {
     "code": "YMA",
     "description": "YMAGIS",
     "obsolete": true,
-    "obsoletedBy": [ "EFP" ]
+    "obsoletedBy": [
+      "EFP"
+    ]
   },
   {
     "code": "YMF",
@@ -4089,7 +4136,9 @@
     "code": "YPA",
     "description": "YMAGIS PARIS",
     "obsolete": true,
-    "obsoletedBy": [ "EFP" ]
+    "obsoletedBy": [
+      "EFP"
+    ]
   },
   {
     "code": "YPP",
