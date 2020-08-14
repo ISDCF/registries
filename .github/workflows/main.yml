@@ -2,9 +2,9 @@ name: validate
 
 on:
   push:
-    branches:
-      - master
+    if: github.event.pull_request.head.repo.full_name == github.repository
   pull_request:
+    if: github.event.pull_request.head.repo.full_name != github.repository
 
 jobs:
   build:
