@@ -625,6 +625,11 @@
     "description": "O2 FILMES"
   },
   {
+    "code": "ONE",
+    "description": "ONE FILMVERLEIH",
+    "url": "https://one-filmverleih.de"
+  },
+  {
     "code": "OSCP",
     "description": "OSCILLOSCOPE LABORATORIES"
   },
@@ -928,6 +933,11 @@
   {
     "code": "VER",
     "description": "VERACITY PRODUCTIONS"
+  },
+  {
+    "code": "VES",
+    "description": "VESTRON PICTURES",
+    "url": "https://vestron.pictures"
   },
   {
     "code": "VEX",
