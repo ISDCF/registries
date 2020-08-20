@@ -2463,6 +2463,16 @@
     "description": "MAGICLAB"
   },
   {
+    "code": "MLO",
+    "contact": {
+      "address": "Vuorikatu 9, 50100 Mikkeli, FINLAND",
+      "email": "jussi.siponen@leffabuumi.fi",
+      "name": "Mr. Jussi Siponen"
+    },
+    "description": "Mika Luukkonen Oy",
+    "url": "https://leffabuumi.fi/"
+  },
+  {
     "code": "MM",
     "description": "M&M MEDIA"
   },
