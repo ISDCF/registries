@@ -675,5 +675,16 @@
       "audio",
       "text"
     ]
+  },
+  {
+    "comments": [
+      "DCNC notes: Khmer"
+    ],
+    "dcncTag": "KM",
+    "rfc5646Tag": "km",
+    "use": [
+      "audio",
+      "text"
+    ]
   }
 ]
