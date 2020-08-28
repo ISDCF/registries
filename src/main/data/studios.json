@@ -811,6 +811,16 @@
     "description": "SUHAN MOVIES"
   },
   {
+    "code": "SNP",
+    "contact": {
+      "address": "Ernst-Augustin-Straße 12, 12489 Berlin, Germany",
+      "email": "simon@shootnpost.de",
+      "name": "Mr. Veroneg"
+    },
+    "description": "Shoot'n'Post",
+    "url": "http://www.shootnpost.de"
+  },
+  {
     "code": "SOLS",
     "description": "Solstice Studios"
   },
