@@ -12,6 +12,10 @@
     "description": "9 LIGHT ENTERTAINMENT"
   },
   {
+    "code": "AD",
+    "description": "ART DOYDU"
+  },
+  {
     "code": "ADS",
     "description": "ALLIANCE DIGITAL STUDIOS"
   },
@@ -793,6 +797,10 @@
   {
     "code": "SEV",
     "description": "Seville International"
+  },
+  {
+    "code": "SF",
+    "description": "SakhaFilm"
   },
   {
     "code": "SKOP",
