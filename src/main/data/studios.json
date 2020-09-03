@@ -14,9 +14,9 @@
   {
     "code": "AD",
     "contact": {
-    "address": "57-16, Stroda str., Yakutsk, Sakha Republic, Russia",
-    "email": "bertjickty@yandex.ru",
-    "name": "Mr. Jacob E. Alexandrov"
+      "address": "57-16, Stroda str., Yakutsk, Sakha Republic, Russia",
+      "email": "bertjickty@yandex.ru",
+      "name": "Mr. Jacob E. Alexandrov"
     },
     "description": "ART DOYDU",
     "url":"http://artdoydu.com"
@@ -807,9 +807,9 @@
   {
     "code": "SF",
     "contact": {
-    "address": "57-16, Stroda str., Yakutsk, Sakha Republic, Russia",
-    "email": "bertjickty@yandex.ru",
-    "name": "Mr. Jacob E. Alexandrov"
+      "address": "57-16, Stroda str., Yakutsk, Sakha Republic, Russia",
+      "email": "bertjickty@yandex.ru",
+      "name": "Mr. Jacob E. Alexandrov"
     },
     "description": "SakhaFilm",
     "url":"http://sakhafilm.com/"
