@@ -154,6 +154,16 @@
     "description": "Bertone Visuals"
   },
   {
+    "code": "BVF",
+    "contact": {
+      "address": "Oberstr. 99, 45134 Essen",
+      "email": "info@bigvisions.dd",
+      "name": "Julius Wieler"
+    },
+    "description": "BigVisions",
+    "url": "https://www.bigvisions.de"
+  },
+  {
     "code": "CCC",
     "description": "COLUMBIA COLLEGE CHICAGO"
   },
