@@ -418,6 +418,11 @@
     "description": "BLINK"
   },
   {
+    "code": "BLP",
+    "description": "Baseline Post",
+    "url": "https://baseline.amsterdam"
+  },
+  {
     "code": "BLU",
     "description": "Blue Post"
   },
