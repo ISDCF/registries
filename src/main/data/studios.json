@@ -490,6 +490,11 @@
     "description": "KINO-I PICTURES"
   },
   {
+    "code": "KMP",
+    "description": "Kominek Motion Pictures",
+    "url": "https://kominek.ca"
+  },
+  {
     "code": "LA",
     "description": "LOCAL ACQUISITION"
   },
