@@ -3448,6 +3448,10 @@
     "description": "STUDIO L'EQUIPE"
   },
   {
+    "code": "RES",
+    "description": "Resolution Post"
+  },
+  {
     "code": "SET",
     "description": "Sette Postproduction"
   },
