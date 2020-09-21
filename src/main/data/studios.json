@@ -631,6 +631,16 @@
     "description": "Noah Media Group"
   },
   {
+    "code": "NP",
+    "contact": {
+      "address": "11 S. Main Street Dayton, OH 45458",
+      "email": "nicheproductions@nicheproductions.com",
+      "name": "Allen Farst"
+    },
+    "description": "Niche Productions",
+    "url": "https://www.nicheproductions.com"
+  },
+  {
     "code": "NS",
     "description": "NORRIS STUDIOS"
   },
@@ -960,6 +970,10 @@
   {
     "code": "UIG",
     "description": "UIGIG ENTERTAINMENT (SPAIN)"
+  },
+  {
+    "code": "UMBE",
+    "description": "Umbrella Entertainment"
   },
   {
     "code": "UP",
