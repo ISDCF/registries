@@ -766,7 +766,13 @@
   },
   {
     "code": "CMQ",
-    "description": "CINEMATIQ"
+    "contact": {
+      "address": "200 6th Street Suite #3B Brooklyn, NY 11225, USA",
+      "email": "zachary@dakoitpictures.com",
+      "name": "Zachary Ludescher",
+    },
+    "description": "CINEMATIQ",
+    "url": ""
   },
   {
     "code": "CMR",
