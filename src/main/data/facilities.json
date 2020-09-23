@@ -766,7 +766,13 @@
   },
   {
     "code": "CMQ",
-    "description": "CINEMATIQ"
+    "contact": {
+      "address": "2180 Bryant St, Suite 210, San Francisco, CA 94110",
+      "email": "info@cinematiq.com",
+      "name": "Paul Scolieri"
+    },
+    "description": "CINEMATIQ",
+    "url": "https://cinematiq.com"
   },
   {
     "code": "CMR",
