@@ -1,65 +1,53 @@
 [
   {
-    "comments": [
-      "DCNC notes: Albanian"
-    ],
     "dcncTag": "SQ",
-    "rfc5646Tag": "sq",
+    "language": "Albanian",
+		"rfc5646Tag": "sq",
     "use": [
       "audio",
       "text"
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Arabic"
-    ],
     "dcncTag": "AR",
-    "rfc5646Tag": "ar",
+    "language": "Arabic",
+		"rfc5646Tag": "ar",
     "use": [
       "audio",
       "text"
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Bosnian"
-    ],
     "dcncTag": "BS",
-    "rfc5646Tag": "bs",
+    "language": "Bosnian",
+		"rfc5646Tag": "bs",
     "use": [
       "audio",
       "text"
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Bulgarian"
-    ],
     "dcncTag": "BG",
-    "rfc5646Tag": "bg",
+    "language": "Bulgarian",
+		"rfc5646Tag": "bg",
     "use": [
       "audio",
       "text"
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Catalan"
-    ],
     "dcncTag": "CA",
-    "rfc5646Tag": "ca",
+    "language": "Catalan",
+		"rfc5646Tag": "ca",
     "use": [
       "audio",
       "text"
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Chinese - Cantonese"
-    ],
     "dcncTag": "YUE",
-    "rfc5646Tag": "yue",
+    "language": "Chinese - Cantonese",
+		"rfc5646Tag": "yue",
     "use": [
       "audio",
       "text"
@@ -67,621 +55,522 @@
   },
   {
     "comments": [
-      "DCNC notes: (Audio only) - Chinese - Mandarin PRC"
+      "(Audio only)"
     ],
     "dcncTag": "CMN",
-    "rfc5646Tag": "cmn",
+    "language": "Chinese - Mandarin PRC",
+		"rfc5646Tag": "cmn",
     "use": [
       "audio"
     ]
   },
   {
     "comments": [
-      "DCNC notes: (Subtitles only) - Chinese - Mandarin Simplified"
+      "(Subtitles only)"
     ],
     "dcncTag": "QMS",
-    "rfc5646Tag": "cmn-Hans",
+    "language": "Chinese - Mandarin Simplified",
+		"rfc5646Tag": "cmn-Hans",
     "use": [
       "text"
     ]
   },
   {
     "comments": [
-      "DCNC notes: (Subtitles only) - Chinese - Mandarin Traditional"
+      "(Subtitles only)"
     ],
     "dcncTag": "QMT",
-    "rfc5646Tag": "cmn-Hant",
+    "language": "Chinese - Mandarin Traditional",
+		"rfc5646Tag": "cmn-Hant",
     "use": [
       "text"
     ]
   },
   {
     "comments": [
-      "DCNC notes: (Audio only) - Chinese - Taiwanese"
+      "(Audio only)"
     ],
     "dcncTag": "NAN",
-    "rfc5646Tag": "nan",
+    "language": "Chinese - Taiwanese",
+		"rfc5646Tag": "nan",
     "use": [
       "audio"
     ]
   },
   {
     "comments": [
-      "DCNC notes: (Audio only) - Chinese - Taiwanese Mandarin"
+      "(Audio only)"
     ],
     "dcncTag": "QTM",
-    "rfc5646Tag": "cmn-TW",
+    "language": "Chinese - Taiwanese Mandarin",
+		"rfc5646Tag": "cmn-TW",
     "use": [
       "audio"
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Croatian"
-    ],
     "dcncTag": "HR",
-    "rfc5646Tag": "hr",
+    "language": "Croatian",
+		"rfc5646Tag": "hr",
     "use": [
       "audio",
       "text"
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Czech"
-    ],
     "dcncTag": "CS",
-    "rfc5646Tag": "cs",
+    "language": "Czech",
+		"rfc5646Tag": "cs",
     "use": [
       "audio",
       "text"
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Danish"
-    ],
     "dcncTag": "DA",
-    "rfc5646Tag": "da",
+    "language": "Danish",
+		"rfc5646Tag": "da",
     "use": [
       "audio",
       "text"
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Dutch"
-    ],
     "dcncTag": "NL",
-    "rfc5646Tag": "nl",
+    "language": "Dutch",
+		"rfc5646Tag": "nl",
     "use": [
       "audio",
       "text"
     ]
   },
   {
-    "comments": [
-      "DCNC notes: English"
-    ],
     "dcncTag": "EN",
-    "rfc5646Tag": "en",
+    "language": "English",
+		"rfc5646Tag": "en",
     "use": [
       "audio",
       "text"
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Estonian"
-    ],
     "dcncTag": "ET",
-    "rfc5646Tag": "et",
+    "language": "Estonian",
+		"rfc5646Tag": "et",
     "use": [
       "audio",
       "text"
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Euskara"
-    ],
     "dcncTag": "EU",
-    "rfc5646Tag": "eu",
+    "language": "Euskara",
+		"rfc5646Tag": "eu",
     "use": [
       "audio",
       "text"
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Finnish"
-    ],
     "dcncTag": "FI",
-    "rfc5646Tag": "fi",
+    "language": "Finnish",
+		"rfc5646Tag": "fi",
     "use": [
       "audio",
       "text"
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Flemish"
-    ],
     "dcncTag": "VLS",
-    "rfc5646Tag": "nl-BE",
+    "language": "Flemish",
+		"rfc5646Tag": "nl-BE",
     "use": [
       "audio",
       "text"
     ]
   },
   {
-    "comments": [
-      "DCNC notes: French"
-    ],
     "dcncTag": "FR",
-    "rfc5646Tag": "fr",
+    "language": "French",
+		"rfc5646Tag": "fr",
     "use": [
       "audio",
       "text"
     ]
   },
   {
-    "comments": [
-      "DCNC notes: French - Canadian"
-    ],
     "dcncTag": "QFC",
-    "rfc5646Tag": "fr-CA",
+    "language": "French - Canadian",
+		"rfc5646Tag": "fr-CA",
     "use": [
       "audio",
       "text"
     ]
   },
   {
-    "comments": [
-      "DCNC notes: German"
-    ],
     "dcncTag": "DE",
-    "rfc5646Tag": "de",
+    "language": "German",
+		"rfc5646Tag": "de",
     "use": [
       "audio",
       "text"
     ]
   },
   {
-    "comments": [
-      "DCNC notes: German - Swiss"
-    ],
     "dcncTag": "GSW",
-    "rfc5646Tag": "gsw",
+    "language": "German - Swiss",
+		"rfc5646Tag": "gsw",
     "use": [
       "audio",
       "text"
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Greek"
-    ],
     "dcncTag": "EL",
-    "rfc5646Tag": "el",
+    "language": "Greek",
+		"rfc5646Tag": "el",
     "use": [
       "audio",
       "text"
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Hebrew"
-    ],
     "dcncTag": "HE",
-    "rfc5646Tag": "he",
+    "language": "Hebrew",
+		"rfc5646Tag": "he",
     "use": [
       "audio",
       "text"
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Hindi"
-    ],
     "dcncTag": "HI",
-    "rfc5646Tag": "hi",
+    "language": "Hindi",
+		"rfc5646Tag": "hi",
     "use": [
       "audio",
       "text"
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Hungarian"
-    ],
     "dcncTag": "HU",
-    "rfc5646Tag": "hu",
+    "language": "Hungarian",
+		"rfc5646Tag": "hu",
     "use": [
       "audio",
       "text"
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Icelandic"
-    ],
     "dcncTag": "IS",
-    "rfc5646Tag": "is",
+    "language": "Icelandic",
+		"rfc5646Tag": "is",
     "use": [
       "audio",
       "text"
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Indonesian Bahasa"
-    ],
     "dcncTag": "IND",
-    "rfc5646Tag": "id",
+    "language": "Indonesian Bahasa",
+		"rfc5646Tag": "id",
     "use": [
       "audio",
       "text"
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Italian"
-    ],
     "dcncTag": "IT",
-    "rfc5646Tag": "it",
+    "language": "Italian",
+		"rfc5646Tag": "it",
     "use": [
       "audio",
       "text"
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Japanese"
-    ],
     "dcncTag": "JA",
-    "rfc5646Tag": "ja",
+    "language": "Japanese",
+		"rfc5646Tag": "ja",
     "use": [
       "audio",
       "text"
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Kazakh"
-    ],
     "dcncTag": "KK",
-    "rfc5646Tag": "kk",
+    "language": "Kazakh",
+		"rfc5646Tag": "kk",
     "use": [
       "audio",
       "text"
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Korean"
-    ],
-    "dcncTag": "KO",
-    "rfc5646Tag": "ko",
-    "use": [
-      "audio",
-      "text"
-    ]
-  },
-  {
-    "comments": [
-      "DCNC notes: Kyrgyz"
-    ],
-    "dcncTag": "KG",
-    "rfc5646Tag": "ky",
-    "use": [
-      "audio",
-      "text"
-    ]
-  },
-  {
-    "comments": [
-      "DCNC notes: Latvian"
-    ],
-    "dcncTag": "LV",
-    "rfc5646Tag": "lv",
-    "use": [
-      "audio",
-      "text"
-    ]
-  },
-  {
-    "comments": [
-      "DCNC notes: Lithuanian"
-    ],
-    "dcncTag": "LT",
-    "rfc5646Tag": "lt",
-    "use": [
-      "audio",
-      "text"
-    ]
-  },
-  {
-    "comments": [
-      "DCNC notes: Malay Bahasa"
-    ],
-    "dcncTag": "MSA",
-    "rfc5646Tag": "ms",
-    "use": [
-      "audio",
-      "text"
-    ]
-  },
-  {
-    "comments": [
-      "DCNC notes: Mongolian"
-    ],
-    "dcncTag": "MN",
-    "rfc5646Tag": "mn",
-    "use": [
-      "audio",
-      "text"
-    ]
-  },
-  {
-    "comments": [
-      "DCNC notes: Navajo"
-    ],
-    "dcncTag": "",
-    "rfc5646Tag": "nv",
-    "use": [
-      "audio",
-      "text"
-    ]
-  },
-  {
-    "comments": [
-      "DCNC notes: Norwegian"
-    ],
-    "dcncTag": "NO",
-    "rfc5646Tag": "no",
-    "use": [
-      "audio",
-      "text"
-    ]
-  },
-  {
-    "comments": [
-      "DCNC notes: Polish"
-    ],
-    "dcncTag": "PL",
-    "rfc5646Tag": "pl",
-    "use": [
-      "audio",
-      "text"
-    ]
-  },
-  {
-    "comments": [
-      "DCNC notes: Portugese - Brazilian"
-    ],
-    "dcncTag": "QBP",
-    "rfc5646Tag": "pt-BR",
-    "use": [
-      "audio",
-      "text"
-    ]
-  },
-  {
-    "comments": [
-      "DCNC notes: Portugese - European"
-    ],
-    "dcncTag": "PT",
-    "rfc5646Tag": "pt",
-    "use": [
-      "audio",
-      "text"
-    ]
-  },
-  {
-    "comments": [
-      "DCNC notes: Romanian"
-    ],
-    "dcncTag": "RO",
-    "rfc5646Tag": "ro",
-    "use": [
-      "audio",
-      "text"
-    ]
-  },
-  {
-    "comments": [
-      "DCNC notes: Russian"
-    ],
-    "dcncTag": "RU",
-    "rfc5646Tag": "ru",
-    "use": [
-      "audio",
-      "text"
-    ]
-  },
-  {
-    "comments": [
-      "DCNC notes: Serbian"
-    ],
-    "dcncTag": "SR",
-    "rfc5646Tag": "sr",
-    "use": [
-      "audio",
-      "text"
-    ]
-  },
-  {
-    "comments": [
-      "DCNC notes: Slovak"
-    ],
-    "dcncTag": "SK",
-    "rfc5646Tag": "sk",
-    "use": [
-      "audio",
-      "text"
-    ]
-  },
-  {
-    "comments": [
-      "DCNC notes: Slovenian"
-    ],
-    "dcncTag": "SL",
-    "rfc5646Tag": "sl",
-    "use": [
-      "audio",
-      "text"
-    ]
-  },
-  {
-    "comments": [
-      "DCNC notes: Spanish - Argentina"
-    ],
-    "dcncTag": "QSA",
-    "rfc5646Tag": "es-AR",
-    "use": [
-      "audio",
-      "text"
-    ]
-  },
-  {
-    "comments": [
-      "DCNC notes: Spanish - Castilian"
-    ],
-    "dcncTag": "ES",
-    "rfc5646Tag": "es",
-    "use": [
-      "audio",
-      "text"
-    ]
-  },
-  {
-    "comments": [
-      "DCNC notes: Spanish - Latin America"
-    ],
-    "dcncTag": "LAS",
-    "rfc5646Tag": "es-419",
-    "use": [
-      "audio",
-      "text"
-    ]
-  },
-  {
-    "comments": [
-      "DCNC notes: Spanish - Mexican"
-    ],
-    "dcncTag": "QSM",
-    "rfc5646Tag": "es-MX",
-    "use": [
-      "audio",
-      "text"
-    ]
-  },
-  {
-    "comments": [
-      "DCNC notes: Swedish"
-    ],
-    "dcncTag": "SV",
-    "rfc5646Tag": "sv",
-    "use": [
-      "audio",
-      "text"
-    ]
-  },
-  {
-    "comments": [
-      "DCNC notes: Tamil"
-    ],
-    "dcncTag": "TA",
-    "rfc5646Tag": "ta",
-    "use": [
-      "audio",
-      "text"
-    ]
-  },
-  {
-    "comments": [
-      "DCNC notes: Telugu"
-    ],
-    "dcncTag": "TE",
-    "rfc5646Tag": "te",
-    "use": [
-      "audio",
-      "text"
-    ]
-  },
-  {
-    "comments": [
-      "DCNC notes: Thai"
-    ],
-    "dcncTag": "TH",
-    "rfc5646Tag": "th",
-    "use": [
-      "audio",
-      "text"
-    ]
-  },
-  {
-    "comments": [
-      "DCNC notes: Turkish"
-    ],
-    "dcncTag": "TR",
-    "rfc5646Tag": "tr",
-    "use": [
-      "audio",
-      "text"
-    ]
-  },
-  {
-    "comments": [
-      "DCNC notes: Ukranian"
-    ],
-    "dcncTag": "UK",
-    "rfc5646Tag": "uk",
-    "use": [
-      "audio",
-      "text"
-    ]
-  },
-  {
-    "comments": [
-      "DCNC notes: Urdu"
-    ],
-    "dcncTag": "UR",
-    "rfc5646Tag": "ur",
-    "use": [
-      "audio",
-      "text"
-    ]
-  },
-  {
-    "comments": [
-      "DCNC notes: Vietnamese"
-    ],
-    "dcncTag": "VI",
-    "rfc5646Tag": "vi",
-    "use": [
-      "audio",
-      "text"
-    ]
-  },
-  {
-    "comments": [
-      "DCNC notes: Welsh"
-    ],
-    "dcncTag": "WEL",
-    "rfc5646Tag": "cy",
-    "use": [
-      "audio",
-      "text"
-    ]
-  },
-  {
-    "comments": [
-      "DCNC notes: Khmer"
-    ],
     "dcncTag": "KM",
-    "rfc5646Tag": "km",
+    "language": "Khmer",
+		"rfc5646Tag": "km",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncTag": "KO",
+    "language": "Korean",
+		"rfc5646Tag": "ko",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncTag": "KG",
+    "language": "Kyrgyz",
+		"rfc5646Tag": "ky",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncTag": "LV",
+    "language": "Latvian",
+		"rfc5646Tag": "lv",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncTag": "LT",
+    "language": "Lithuanian",
+		"rfc5646Tag": "lt",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncTag": "MSA",
+    "language": "Malay Bahasa",
+		"rfc5646Tag": "ms",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncTag": "MN",
+    "language": "Mongolian",
+		"rfc5646Tag": "mn",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncTag": "",
+    "language": "Navajo",
+		"rfc5646Tag": "nv",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncTag": "NO",
+    "language": "Norwegian",
+		"rfc5646Tag": "no",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncTag": "PL",
+    "language": "Polish",
+		"rfc5646Tag": "pl",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncTag": "QBP",
+    "language": "Portugese - Brazilian",
+		"rfc5646Tag": "pt-BR",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncTag": "PT",
+    "language": "Portugese - European",
+		"rfc5646Tag": "pt",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncTag": "RO",
+    "language": "Romanian",
+		"rfc5646Tag": "ro",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncTag": "RU",
+    "language": "Russian",
+		"rfc5646Tag": "ru",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncTag": "SR",
+    "language": "Serbian",
+		"rfc5646Tag": "sr",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncTag": "SK",
+    "language": "Slovak",
+		"rfc5646Tag": "sk",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncTag": "SL",
+    "language": "Slovenian",
+		"rfc5646Tag": "sl",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncTag": "QSA",
+    "language": "Spanish - Argentina",
+		"rfc5646Tag": "es-AR",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncTag": "ES",
+    "language": "Spanish - Castilian",
+		"rfc5646Tag": "es",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncTag": "LAS",
+    "language": "Spanish - Latin America",
+		"rfc5646Tag": "es-419",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncTag": "QSM",
+    "language": "Spanish - Mexican",
+		"rfc5646Tag": "es-MX",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncTag": "SV",
+    "language": "Swedish",
+		"rfc5646Tag": "sv",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncTag": "TA",
+    "language": "Tamil",
+		"rfc5646Tag": "ta",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncTag": "TE",
+    "language": "Telugu",
+		"rfc5646Tag": "te",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncTag": "TH",
+    "language": "Thai",
+		"rfc5646Tag": "th",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncTag": "TR",
+    "language": "Turkish",
+		"rfc5646Tag": "tr",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncTag": "UK",
+    "language": "Ukranian",
+		"rfc5646Tag": "uk",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncTag": "UR",
+    "language": "Urdu",
+		"rfc5646Tag": "ur",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncTag": "VI",
+    "language": "Vietnamese",
+		"rfc5646Tag": "vi",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncTag": "WEL",
+    "language": "Welsh",
+		"rfc5646Tag": "cy",
     "use": [
       "audio",
       "text"

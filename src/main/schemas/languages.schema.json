@@ -1,16 +1,25 @@
 {
   "$schema": "http://json-schema.org/schema#",
-  "$id": "http://isdcf.com/ns/json-schemas/registries/languages/1.0.0-beta.1",
+  "$id": "http://isdcf.com/ns/json-schemas/registries/languages/1.0.0-beta.2",
   "$comment": "Copyright, ISDCF <info@isdcf.com>",
   "title": "Schema for the Languages Registry of the ISDCF",
   "type": "array",
   "items": {
     "type": "object",
     "properties": {
-      "rfc5646Tag": {
-        "type": "string"
+      "comments": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
       },
       "dcncTag": {
+        "type": "string"
+      },
+      "language": {
+        "type": "string"
+      },
+      "rfc5646Tag": {
         "type": "string"
       },
       "use": {
@@ -20,12 +29,6 @@
         "items": {
           "type": "string",
           "enum": ["audio", "text"]
-        }
-      },
-      "comments": {
-        "type": "array",
-        "items": {
-          "type": "string"
         }
       }
     },

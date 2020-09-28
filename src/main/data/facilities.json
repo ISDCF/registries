@@ -2739,13 +2739,6 @@
     "description": "NUI Visual Arts Studio"
   },
   {
-    "code": "NUL",
-    "comments": [
-      "This code is only use in the CTT. If using 429-16 metadata, the absence of the <Facility> element shall denote the facility is 'Unspecified'"
-    ],
-    "description": "Unspecified"
-  },
-  {
     "code": "NVL",
     "description": "NOVELO FILMES"
   },
@@ -3228,6 +3221,10 @@
     "description": "RELITA"
   },
   {
+    "code": "RES",
+    "description": "Resolution Post"
+  },
+  {
     "code": "REV",
     "description": "REV13 FILMS INC"
   },
@@ -3452,10 +3449,6 @@
   {
     "code": "SEQ",
     "description": "STUDIO L'EQUIPE"
-  },
-  {
-    "code": "RES",
-    "description": "Resolution Post"
   },
   {
     "code": "SET",
