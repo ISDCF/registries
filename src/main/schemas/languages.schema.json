@@ -13,10 +13,10 @@
           "type": "string"
         }
       },
-      "dcncTag": {
+      "dcncLanguage": {
         "type": "string"
       },
-      "dcncLanguage": {
+      "dcncTag": {
         "type": "string"
       },
       "rfc5646Tag": {
