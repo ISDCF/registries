@@ -16,7 +16,7 @@
       "dcncTag": {
         "type": "string"
       },
-      "language": {
+      "dcncLanguage": {
         "type": "string"
       },
       "rfc5646Tag": {
