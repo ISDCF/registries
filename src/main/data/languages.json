@@ -1,8 +1,6 @@
 [
   {
-    "comments": [
-      "DCNC notes: Albanian"
-    ],
+    "dcncLanguage": "Albanian",
     "dcncTag": "SQ",
     "rfc5646Tag": "sq",
     "use": [
@@ -11,9 +9,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Arabic"
-    ],
+    "dcncLanguage": "Arabic",
     "dcncTag": "AR",
     "rfc5646Tag": "ar",
     "use": [
@@ -22,9 +18,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Bosnian"
-    ],
+    "dcncLanguage": "Bosnian",
     "dcncTag": "BS",
     "rfc5646Tag": "bs",
     "use": [
@@ -33,9 +27,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Bulgarian"
-    ],
+    "dcncLanguage": "Bulgarian",
     "dcncTag": "BG",
     "rfc5646Tag": "bg",
     "use": [
@@ -44,9 +36,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Catalan"
-    ],
+    "dcncLanguage": "Catalan",
     "dcncTag": "CA",
     "rfc5646Tag": "ca",
     "use": [
@@ -55,9 +45,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Chinese - Cantonese"
-    ],
+    "dcncLanguage": "Chinese - Cantonese",
     "dcncTag": "YUE",
     "rfc5646Tag": "yue",
     "use": [
@@ -66,9 +54,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: (Audio only) - Chinese - Mandarin PRC"
-    ],
+    "dcncLanguage": "Chinese - Mandarin PRC",
     "dcncTag": "CMN",
     "rfc5646Tag": "cmn",
     "use": [
@@ -77,8 +63,9 @@
   },
   {
     "comments": [
-      "DCNC notes: (Subtitles only) - Chinese - Mandarin Simplified"
+      "(Subtitles only)"
     ],
+    "dcncLanguage": "Chinese - Mandarin Simplified",
     "dcncTag": "QMS",
     "rfc5646Tag": "cmn-Hans",
     "use": [
@@ -87,8 +74,9 @@
   },
   {
     "comments": [
-      "DCNC notes: (Subtitles only) - Chinese - Mandarin Traditional"
+      "(Subtitles only)"
     ],
+    "dcncLanguage": "Chinese - Mandarin Traditional",
     "dcncTag": "QMT",
     "rfc5646Tag": "cmn-Hant",
     "use": [
@@ -96,9 +84,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: (Audio only) - Chinese - Taiwanese"
-    ],
+    "dcncLanguage": "Chinese - Taiwanese",
     "dcncTag": "NAN",
     "rfc5646Tag": "nan",
     "use": [
@@ -106,9 +92,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: (Audio only) - Chinese - Taiwanese Mandarin"
-    ],
+    "dcncLanguage": "Chinese - Taiwanese Mandarin",
     "dcncTag": "QTM",
     "rfc5646Tag": "cmn-TW",
     "use": [
@@ -116,9 +100,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Croatian"
-    ],
+    "dcncLanguage": "Croatian",
     "dcncTag": "HR",
     "rfc5646Tag": "hr",
     "use": [
@@ -127,9 +109,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Czech"
-    ],
+    "dcncLanguage": "Czech",
     "dcncTag": "CS",
     "rfc5646Tag": "cs",
     "use": [
@@ -138,9 +118,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Danish"
-    ],
+    "dcncLanguage": "Danish",
     "dcncTag": "DA",
     "rfc5646Tag": "da",
     "use": [
@@ -149,9 +127,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Dutch"
-    ],
+    "dcncLanguage": "Dutch",
     "dcncTag": "NL",
     "rfc5646Tag": "nl",
     "use": [
@@ -160,9 +136,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: English"
-    ],
+    "dcncLanguage": "English",
     "dcncTag": "EN",
     "rfc5646Tag": "en",
     "use": [
@@ -171,9 +145,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Estonian"
-    ],
+    "dcncLanguage": "Estonian",
     "dcncTag": "ET",
     "rfc5646Tag": "et",
     "use": [
@@ -182,9 +154,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Euskara"
-    ],
+    "dcncLanguage": "Euskara",
     "dcncTag": "EU",
     "rfc5646Tag": "eu",
     "use": [
@@ -193,9 +163,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Finnish"
-    ],
+    "dcncLanguage": "Finnish",
     "dcncTag": "FI",
     "rfc5646Tag": "fi",
     "use": [
@@ -204,9 +172,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Flemish"
-    ],
+    "dcncLanguage": "Flemish",
     "dcncTag": "VLS",
     "rfc5646Tag": "nl-BE",
     "use": [
@@ -215,9 +181,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: French"
-    ],
+    "dcncLanguage": "French",
     "dcncTag": "FR",
     "rfc5646Tag": "fr",
     "use": [
@@ -226,9 +190,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: French - Canadian"
-    ],
+    "dcncLanguage": "French - Canadian",
     "dcncTag": "QFC",
     "rfc5646Tag": "fr-CA",
     "use": [
@@ -237,9 +199,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: German"
-    ],
+    "dcncLanguage": "German",
     "dcncTag": "DE",
     "rfc5646Tag": "de",
     "use": [
@@ -248,9 +208,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: German - Swiss"
-    ],
+    "dcncLanguage": "German - Swiss",
     "dcncTag": "GSW",
     "rfc5646Tag": "gsw",
     "use": [
@@ -259,9 +217,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Greek"
-    ],
+    "dcncLanguage": "Greek",
     "dcncTag": "EL",
     "rfc5646Tag": "el",
     "use": [
@@ -270,9 +226,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Hebrew"
-    ],
+    "dcncLanguage": "Hebrew",
     "dcncTag": "HE",
     "rfc5646Tag": "he",
     "use": [
@@ -281,9 +235,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Hindi"
-    ],
+    "dcncLanguage": "Hindi",
     "dcncTag": "HI",
     "rfc5646Tag": "hi",
     "use": [
@@ -292,9 +244,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Hungarian"
-    ],
+    "dcncLanguage": "Hungarian",
     "dcncTag": "HU",
     "rfc5646Tag": "hu",
     "use": [
@@ -303,9 +253,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Icelandic"
-    ],
+    "dcncLanguage": "Icelandic",
     "dcncTag": "IS",
     "rfc5646Tag": "is",
     "use": [
@@ -314,9 +262,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Indonesian Bahasa"
-    ],
+    "dcncLanguage": "Indonesian Bahasa",
     "dcncTag": "IND",
     "rfc5646Tag": "id",
     "use": [
@@ -325,9 +271,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Italian"
-    ],
+    "dcncLanguage": "Italian",
     "dcncTag": "IT",
     "rfc5646Tag": "it",
     "use": [
@@ -336,9 +280,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Japanese"
-    ],
+    "dcncLanguage": "Japanese",
     "dcncTag": "JA",
     "rfc5646Tag": "ja",
     "use": [
@@ -347,9 +289,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Kazakh"
-    ],
+    "dcncLanguage": "Kazakh",
     "dcncTag": "KK",
     "rfc5646Tag": "kk",
     "use": [
@@ -358,9 +298,16 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Korean"
-    ],
+    "dcncLanguage": "Khmer",
+    "dcncTag": "KM",
+    "rfc5646Tag": "km",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Korean",
     "dcncTag": "KO",
     "rfc5646Tag": "ko",
     "use": [
@@ -369,9 +316,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Kyrgyz"
-    ],
+    "dcncLanguage": "Kyrgyz",
     "dcncTag": "KG",
     "rfc5646Tag": "ky",
     "use": [
@@ -380,9 +325,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Latvian"
-    ],
+    "dcncLanguage": "Latvian",
     "dcncTag": "LV",
     "rfc5646Tag": "lv",
     "use": [
@@ -391,9 +334,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Lithuanian"
-    ],
+    "dcncLanguage": "Lithuanian",
     "dcncTag": "LT",
     "rfc5646Tag": "lt",
     "use": [
@@ -402,9 +343,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Malay Bahasa"
-    ],
+    "dcncLanguage": "Malay Bahasa",
     "dcncTag": "MSA",
     "rfc5646Tag": "ms",
     "use": [
@@ -413,9 +352,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Mongolian"
-    ],
+    "dcncLanguage": "Mongolian",
     "dcncTag": "MN",
     "rfc5646Tag": "mn",
     "use": [
@@ -424,9 +361,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Navajo"
-    ],
+    "dcncLanguage": "Navajo",
     "dcncTag": "",
     "rfc5646Tag": "nv",
     "use": [
@@ -435,9 +370,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Norwegian"
-    ],
+    "dcncLanguage": "Norwegian",
     "dcncTag": "NO",
     "rfc5646Tag": "no",
     "use": [
@@ -446,9 +379,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Polish"
-    ],
+    "dcncLanguage": "Polish",
     "dcncTag": "PL",
     "rfc5646Tag": "pl",
     "use": [
@@ -457,9 +388,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Portugese - Brazilian"
-    ],
+    "dcncLanguage": "Portugese - Brazilian",
     "dcncTag": "QBP",
     "rfc5646Tag": "pt-BR",
     "use": [
@@ -468,9 +397,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Portugese - European"
-    ],
+    "dcncLanguage": "Portugese - European",
     "dcncTag": "PT",
     "rfc5646Tag": "pt",
     "use": [
@@ -479,9 +406,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Romanian"
-    ],
+    "dcncLanguage": "Romanian",
     "dcncTag": "RO",
     "rfc5646Tag": "ro",
     "use": [
@@ -490,9 +415,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Russian"
-    ],
+    "dcncLanguage": "Russian",
     "dcncTag": "RU",
     "rfc5646Tag": "ru",
     "use": [
@@ -501,9 +424,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Serbian"
-    ],
+    "dcncLanguage": "Serbian",
     "dcncTag": "SR",
     "rfc5646Tag": "sr",
     "use": [
@@ -512,9 +433,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Slovak"
-    ],
+    "dcncLanguage": "Slovak",
     "dcncTag": "SK",
     "rfc5646Tag": "sk",
     "use": [
@@ -523,9 +442,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Slovenian"
-    ],
+    "dcncLanguage": "Slovenian",
     "dcncTag": "SL",
     "rfc5646Tag": "sl",
     "use": [
@@ -534,9 +451,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Spanish - Argentina"
-    ],
+    "dcncLanguage": "Spanish - Argentina",
     "dcncTag": "QSA",
     "rfc5646Tag": "es-AR",
     "use": [
@@ -545,9 +460,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Spanish - Castilian"
-    ],
+    "dcncLanguage": "Spanish - Castilian",
     "dcncTag": "ES",
     "rfc5646Tag": "es",
     "use": [
@@ -556,9 +469,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Spanish - Latin America"
-    ],
+    "dcncLanguage": "Spanish - Latin America",
     "dcncTag": "LAS",
     "rfc5646Tag": "es-419",
     "use": [
@@ -567,9 +478,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Spanish - Mexican"
-    ],
+    "dcncLanguage": "Spanish - Mexican",
     "dcncTag": "QSM",
     "rfc5646Tag": "es-MX",
     "use": [
@@ -578,9 +487,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Swedish"
-    ],
+    "dcncLanguage": "Swedish",
     "dcncTag": "SV",
     "rfc5646Tag": "sv",
     "use": [
@@ -589,9 +496,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Tamil"
-    ],
+    "dcncLanguage": "Tamil",
     "dcncTag": "TA",
     "rfc5646Tag": "ta",
     "use": [
@@ -600,9 +505,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Telugu"
-    ],
+    "dcncLanguage": "Telugu",
     "dcncTag": "TE",
     "rfc5646Tag": "te",
     "use": [
@@ -611,9 +514,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Thai"
-    ],
+    "dcncLanguage": "Thai",
     "dcncTag": "TH",
     "rfc5646Tag": "th",
     "use": [
@@ -622,9 +523,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Turkish"
-    ],
+    "dcncLanguage": "Turkish",
     "dcncTag": "TR",
     "rfc5646Tag": "tr",
     "use": [
@@ -633,9 +532,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Ukranian"
-    ],
+    "dcncLanguage": "Ukranian",
     "dcncTag": "UK",
     "rfc5646Tag": "uk",
     "use": [
@@ -644,9 +541,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Urdu"
-    ],
+    "dcncLanguage": "Urdu",
     "dcncTag": "UR",
     "rfc5646Tag": "ur",
     "use": [
@@ -655,9 +550,7 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Vietnamese"
-    ],
+    "dcncLanguage": "Vietnamese",
     "dcncTag": "VI",
     "rfc5646Tag": "vi",
     "use": [
@@ -666,22 +559,9 @@
     ]
   },
   {
-    "comments": [
-      "DCNC notes: Welsh"
-    ],
+    "dcncLanguage": "Welsh",
     "dcncTag": "WEL",
     "rfc5646Tag": "cy",
-    "use": [
-      "audio",
-      "text"
-    ]
-  },
-  {
-    "comments": [
-      "DCNC notes: Khmer"
-    ],
-    "dcncTag": "KM",
-    "rfc5646Tag": "km",
     "use": [
       "audio",
       "text"

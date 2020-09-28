@@ -9,25 +9,20 @@ describe("languages schema", () => {
   it("valid", () => {
     assert.doesNotThrow(() => validate([
       {
+        "dcncLanguage": "Albanian",
         "dcncTag": "SQ",
         "rfc5646Tag": "sq",
         "use": [
           "audio",
           "text"
-        ],
-        "comments": [
-          "DCNC notes: Albanian"
         ]
       },
       {
-        "dcncTag": "AR",
-        "rfc5646Tag": "ar",
+        "dcncLanguage": "Chinese - Mandarin PRC",
+        "dcncTag": "CMN",
+        "rfc5646Tag": "cmn",
         "use": [
-          "audio",
-          "text"
-        ],
-        "comments": [
-          "DCNC notes: Arabic"
+          "audio"
         ]
       }]))
   })

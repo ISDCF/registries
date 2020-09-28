@@ -649,13 +649,6 @@
     "description": "NEW LINE"
   },
   {
-    "code": "NULL",
-    "comments": [
-      "This code is only use in the CTT. If using 429-16 metadata, the absence of the <Distributor> element shall denote the studio is 'Unspecified'"
-    ],
-    "description": "Unspecified"
-  },
-  {
     "code": "O2",
     "description": "O2 FILMES"
   },
