@@ -1796,6 +1796,16 @@
     "description": "FUGITIVE"
   },
   {
+    "code": "FVR",
+    "contact": {
+      "address": "Distelweg 80 L, 1031 HH, Amsterdam",
+      "email": "info@feverfilm.nl",
+      "name": "Bart van den Broek"
+    },
+    "description": "FeverFilm B.V.",
+    "url": "https://www.feverfilm.nl"
+  },
+  {
     "code": "FWD",
     "description": "Filmworkers Dallas"
   },
