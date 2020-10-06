@@ -1,0 +1,39 @@
+{
+  "$schema": "http://json-schema.org/schema#",
+  "$id": "http://isdcf.com/ns/json-schemas/registries/territories/1.0.0-beta.1",
+  "$comment": "Copyright, ISDCF <info@isdcf.com>",
+  "title": "Schema for the Territories Registry of the ISDCF",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "comments": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "name": {
+        "type": "string",
+        "pattern": "^[a-zA-Z ']+$"
+      },
+      "dcncTag": {
+        "type": "string",
+        "pattern": "^[A-Z0-9]{2}$"
+      },
+      "tag": {
+        "type": "string"
+      },
+      "tagScope": {
+        "type": "string",
+        "format": "uri",
+        "default" : "http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata#scope/release-territory/UNM49"
+      }
+    },
+    "required": [
+      "tag",
+      "name"
+    ],
+    "additionalProperties": false
+  }
+}
