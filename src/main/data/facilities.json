@@ -2186,6 +2186,16 @@
     "description": "KIT DIGITAL"
   },
   {
+    "code": "KMR",
+    "contact": {
+      "address": "Wallstraße 21, 14770 Brandenburg (Germany)",
+      "email": "mark.uriona@kameradisten.info",
+      "name": "Mark Uriona"
+    },
+    "description": "Kameradisten.org",
+    "url": "https://Kameradisten.org"
+  },
+  {
     "code": "KNO",
     "description": "KINOKONTOR"
   },
