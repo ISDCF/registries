@@ -897,6 +897,16 @@
     "description": "STOUTLIGHT INCORPORATED"
   },
   {
+    "code": "STKA",
+    "contact": {
+      "address": "Germany, Friedrich-Engels-Straße 22, 14473 Potsdam",
+      "email": "mark.uriona@studio-kalliope.de",
+      "name": "Maria Kling"
+    },
+    "description": "Studio Kalliope",
+    "url": "https://www.studio-kalliope.de/"
+  },
+  {
     "code": "STOR",
     "description": "Stories AG"
   },
@@ -943,6 +953,10 @@
   {
     "code": "TRCL",
     "description": "TREACLE LIMITED (HK)"
+  },
+  {
+    "code": "TRCO",
+    "description": "The Reset Collective"
   },
   {
     "code": "TRE",
