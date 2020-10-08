@@ -1756,6 +1756,16 @@
     "description": "FILMPRINT DIGITAL"
   },
   {
+    "code": "FPM",
+    "contact": {
+      "address": "Schomburgstrasse 46, 22767 Hamburg",
+      "email": "info@filmprojektion.de",
+      "name": "Mr. Christopher Mondt"
+    },
+    "description": "Filmprojektion Mondt",
+    "url": "http://www.filmprojektion.de"
+  },
+  {
     "code": "FRA",
     "description": "FRAMELAB"
   },
@@ -1794,6 +1804,16 @@
   {
     "code": "FUG",
     "description": "FUGITIVE"
+  },
+  {
+    "code": "FVR",
+    "contact": {
+      "address": "Distelweg 80 L, 1031 HH, Amsterdam",
+      "email": "info@feverfilm.nl",
+      "name": "Bart van den Broek"
+    },
+    "description": "FeverFilm B.V.",
+    "url": "https://www.feverfilm.nl"
   },
   {
     "code": "FWD",
@@ -2184,6 +2204,16 @@
   {
     "code": "KIT",
     "description": "KIT DIGITAL"
+  },
+  {
+    "code": "KMR",
+    "contact": {
+      "address": "Wallstraße 21, 14770 Brandenburg (Germany)",
+      "email": "mark.uriona@kameradisten.info",
+      "name": "Mark Uriona"
+    },
+    "description": "Kameradisten.org",
+    "url": "https://Kameradisten.org"
   },
   {
     "code": "KNO",
@@ -2878,6 +2908,11 @@
   {
     "code": "OXI",
     "description": "OXIDO"
+  },
+  {
+    "code": "PAP",
+    "description": "Paprika Post-Production",
+    "url": "http://www.paprika.be"
   },
   {
     "code": "PBC",
@@ -3621,6 +3656,11 @@
   {
     "code": "SSP",
     "description": "SEARLE STREET POST"
+  },
+  {
+    "code": "STD",
+    "description": "Stealth Donkey Moving Pictures",
+    "url": "http://www.stealthdonkey.com"
   },
   {
     "code": "STE",
