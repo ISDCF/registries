@@ -1,624 +1,624 @@
 [
   {
-    "tag": "AE",
     "dcncTag": "AE",
-    "dcncTerritory": "United Arab Emirates"
+    "dcncTerritory": "United Arab Emirates",
+    "tag": "AE"
   },
   {
-    "tag": "AL",
     "dcncTag": "AL",
-    "dcncTerritory": "Albania"
+    "dcncTerritory": "Albania",
+    "tag": "AL"
   },
   {
-    "tag": "CW",
     "dcncTag": "AN",
-    "dcncTerritory": "Curacao"
+    "dcncTerritory": "Curacao",
+    "tag": "CW"
   },
   {
-    "tag": "AM",
     "dcncTag": "AM",
-    "dcncTerritory": "Armenia"
+    "dcncTerritory": "Armenia",
+    "tag": "AM"
   },
   {
-    "tag": "AR",
     "dcncTag": "AR",
-    "dcncTerritory": "Argentina"
+    "dcncTerritory": "Argentina",
+    "tag": "AR"
   },
   {
-    "tag": "AT",
     "dcncTag": "AT",
-    "dcncTerritory": "Austria"
+    "dcncTerritory": "Austria",
+    "tag": "AT"
   },
   {
-    "tag": "AU",
     "dcncTag": "AU",
-    "dcncTerritory": "Australia"
+    "dcncTerritory": "Australia",
+    "tag": "AU"
   },
   {
-    "tag": "AW",
     "dcncTag": "AW",
-    "dcncTerritory": "Aruba"
+    "dcncTerritory": "Aruba",
+    "tag": "AW"
   },
   {
-    "tag": "AZ",
     "dcncTag": "AZ",
-    "dcncTerritory": "Azerbaijan"
+    "dcncTerritory": "Azerbaijan",
+    "tag": "AZ"
   },
   {
-    "tag": "BA",
     "dcncTag": "BA",
-    "dcncTerritory": "Bosnia and Herzegovina"
+    "dcncTerritory": "Bosnia and Herzegovina",
+    "tag": "BA"
   },
   {
-    "tag": "BE",
     "dcncTag": "BE",
-    "dcncTerritory": "Belgium"
+    "dcncTerritory": "Belgium",
+    "tag": "BE"
   },
   {
-    "tag": "BG",
     "dcncTag": "BG",
-    "dcncTerritory": "Bulgaria"
+    "dcncTerritory": "Bulgaria",
+    "tag": "BG"
   },
   {
-    "tag": "BH",
     "dcncTag": "BH",
-    "dcncTerritory": "Bahrain"
+    "dcncTerritory": "Bahrain",
+    "tag": "BH"
   },
   {
-    "tag": "BO",
     "dcncTag": "BO",
-    "dcncTerritory": "Bolivia"
+    "dcncTerritory": "Bolivia",
+    "tag": "BO"
   },
   {
-    "tag": "BR",
     "dcncTag": "BR",
-    "dcncTerritory": "Brazil"
+    "dcncTerritory": "Brazil",
+    "tag": "BR"
   },
   {
-    "tag": "BY",
     "dcncTag": "BY",
-    "dcncTerritory": "Belarus"
+    "dcncTerritory": "Belarus",
+    "tag": "BY"
   },
   {
-    "tag": "BZ",
     "dcncTag": "BZ",
-    "dcncTerritory": "Belize"
+    "dcncTerritory": "Belize",
+    "tag": "BZ"
   },
   {
-    "tag": "CA",
     "dcncTag": "CA",
-    "dcncTerritory": "Canada"
+    "dcncTerritory": "Canada",
+    "tag": "CA"
   },
   {
-    "tag": "CH",
     "dcncTag": "CH",
-    "dcncTerritory": "Switzerland"
+    "dcncTerritory": "Switzerland",
+    "tag": "CH"
   },
   {
-    "tag": "CL",
     "dcncTag": "CL",
-    "dcncTerritory": "Chile"
+    "dcncTerritory": "Chile",
+    "tag": "CL"
   },
   {
-    "tag": "CN",
     "dcncTag": "CN",
-    "dcncTerritory": "China"
+    "dcncTerritory": "China",
+    "tag": "CN"
   },
   {
-    "tag": "CO",
     "dcncTag": "CO",
-    "dcncTerritory": "Colombia"
+    "dcncTerritory": "Colombia",
+    "tag": "CO"
   },
   {
-    "tag": "CR",
     "dcncTag": "CR",
-    "dcncTerritory": "Costa Rica"
+    "dcncTerritory": "Costa Rica",
+    "tag": "CR"
   },
   {
-    "tag": "RS",
     "dcncTag": "CS",
-    "dcncTerritory": "Serbia"
+    "dcncTerritory": "Serbia",
+    "tag": "RS"
   },
   {
-    "tag": "CY",
     "dcncTag": "CY",
-    "dcncTerritory": "Cyprus"
+    "dcncTerritory": "Cyprus",
+    "tag": "CY"
   },
   {
-    "tag": "CZ",
     "dcncTag": "CZ",
-    "dcncTerritory": "Czech Republic"
+    "dcncTerritory": "Czech Republic",
+    "tag": "CZ"
   },
   {
-    "tag": "DE",
     "dcncTag": "DE",
-    "dcncTerritory": "Germany"
+    "dcncTerritory": "Germany",
+    "tag": "DE"
   },
   {
-    "tag": "DK",
     "dcncTag": "DK",
-    "dcncTerritory": "Denmark"
+    "dcncTerritory": "Denmark",
+    "tag": "DK"
   },
   {
-    "tag": "DO",
     "dcncTag": "DO",
-    "dcncTerritory": "Dominican Republic"
+    "dcncTerritory": "Dominican Republic",
+    "tag": "DO"
   },
   {
-    "tag": "AE-DU",
-    "tagScope": "https://isdcf.com/ns/cpl/territories",
     "dcncTag": "DU",
-    "dcncTerritory": "Dubai"
+    "dcncTerritory": "Dubai",
+    "tag": "AE-DU",
+    "tagScope": "https://isdcf.com/ns/cplmd/territories"
   },
   {
-    "tag": "EC",
     "dcncTag": "EC",
-    "dcncTerritory": "Ecuador"
+    "dcncTerritory": "Ecuador",
+    "tag": "EC"
   },
   {
-    "tag": "EE",
     "dcncTag": "EE",
-    "dcncTerritory": "Estonia"
+    "dcncTerritory": "Estonia",
+    "tag": "EE"
   },
   {
-    "tag": "EG",
     "dcncTag": "EG",
-    "dcncTerritory": "Egypt"
+    "dcncTerritory": "Egypt",
+    "tag": "EG"
   },
   {
-    "tag": "ES",
     "dcncTag": "ES",
-    "dcncTerritory": "Spain"
+    "dcncTerritory": "Spain",
+    "tag": "ES"
   },
   {
-    "tag": "ET",
     "dcncTag": "ET",
-    "dcncTerritory": "Ethiopia"
+    "dcncTerritory": "Ethiopia",
+    "tag": "ET"
   },
   {
-    "tag": "FI",
     "dcncTag": "FI",
-    "dcncTerritory": "Finland"
+    "dcncTerritory": "Finland",
+    "tag": "FI"
   },
   {
-    "tag": "FR",
     "dcncTag": "FR",
-    "dcncTerritory": "France"
+    "dcncTerritory": "France",
+    "tag": "FR"
   },
   {
-    "tag": "GE",
     "dcncTag": "GE",
-    "dcncTerritory": "Georgia"
+    "dcncTerritory": "Georgia",
+    "tag": "GE"
   },
   {
-    "tag": "GH",
     "dcncTag": "GH",
-    "dcncTerritory": "Ghana"
+    "dcncTerritory": "Ghana",
+    "tag": "GH"
   },
   {
-    "tag": "GP",
     "dcncTag": "GP",
-    "dcncTerritory": "Guadeloupe"
+    "dcncTerritory": "Guadeloupe",
+    "tag": "GP"
   },
   {
-    "tag": "GR",
     "dcncTag": "GR",
-    "dcncTerritory": "Greece"
+    "dcncTerritory": "Greece",
+    "tag": "GR"
   },
   {
-    "tag": "GT",
     "dcncTag": "GT",
-    "dcncTerritory": "Guatemala"
+    "dcncTerritory": "Guatemala",
+    "tag": "GT"
   },
   {
-    "tag": "HK",
     "dcncTag": "HK",
-    "dcncTerritory": "Hong Kong"
+    "dcncTerritory": "Hong Kong",
+    "tag": "HK"
   },
   {
-    "tag": "HN",
     "dcncTag": "HN",
-    "dcncTerritory": "Honduras"
+    "dcncTerritory": "Honduras",
+    "tag": "HN"
   },
   {
-    "tag": "HR",
     "dcncTag": "HR",
-    "dcncTerritory": "Croatia"
+    "dcncTerritory": "Croatia",
+    "tag": "HR"
   },
   {
-    "tag": "HU",
     "dcncTag": "HU",
-    "dcncTerritory": "Hungary"
+    "dcncTerritory": "Hungary",
+    "tag": "HU"
   },
   {
-    "tag": "ID",
     "dcncTag": "ID",
-    "dcncTerritory": "Indonesia"
+    "dcncTerritory": "Indonesia",
+    "tag": "ID"
   },
   {
-    "tag": "IE",
     "dcncTag": "IE",
-    "dcncTerritory": "Ireland"
+    "dcncTerritory": "Ireland",
+    "tag": "IE"
   },
   {
-    "tag": "IL",
     "dcncTag": "IL",
-    "dcncTerritory": "Israel"
+    "dcncTerritory": "Israel",
+    "tag": "IL"
   },
   {
-    "tag": "IN",
     "dcncTag": "IN",
-    "dcncTerritory": "India"
+    "dcncTerritory": "India",
+    "tag": "IN"
   },
   {
-    "tag": "IQ",
     "dcncTag": "IQ",
-    "dcncTerritory": "Iraq"
+    "dcncTerritory": "Iraq",
+    "tag": "IQ"
   },
   {
-    "tag": "IS",
     "dcncTag": "IS",
-    "dcncTerritory": "Iceland"
+    "dcncTerritory": "Iceland",
+    "tag": "IS"
   },
   {
-    "tag": "IT",
     "dcncTag": "IT",
-    "dcncTerritory": "Italy"
+    "dcncTerritory": "Italy",
+    "tag": "IT"
   },
   {
-    "tag": "JM",
     "dcncTag": "JM",
-    "dcncTerritory": "Jamaica"
+    "dcncTerritory": "Jamaica",
+    "tag": "JM"
   },
   {
-    "tag": "JO",
     "dcncTag": "JO",
-    "dcncTerritory": "Jordan"
+    "dcncTerritory": "Jordan",
+    "tag": "JO"
   },
   {
-    "tag": "JP",
     "dcncTag": "JP",
-    "dcncTerritory": "Japan"
+    "dcncTerritory": "Japan",
+    "tag": "JP"
   },
   {
-    "tag": "KE",
     "dcncTag": "KE",
-    "dcncTerritory": "Kenya"
+    "dcncTerritory": "Kenya",
+    "tag": "KE"
   },
   {
-    "tag": "KG",
     "dcncTag": "KG",
-    "dcncTerritory": "Kyrgyzstan"
+    "dcncTerritory": "Kyrgyzstan",
+    "tag": "KG"
   },
   {
-    "tag": "KH",
     "dcncTag": "KH",
-    "dcncTerritory": "Cambodia"
+    "dcncTerritory": "Cambodia",
+    "tag": "KH"
   },
   {
-    "tag": "KR",
     "dcncTag": "KR",
-    "dcncTerritory": "South Korea"
+    "dcncTerritory": "South Korea",
+    "tag": "KR"
   },
   {
-    "tag": "KW",
     "dcncTag": "KW",
-    "dcncTerritory": "Kuwait"
+    "dcncTerritory": "Kuwait",
+    "tag": "KW"
   },
   {
-    "tag": "KZ",
     "dcncTag": "KZ",
-    "dcncTerritory": "Kazakhstan"
+    "dcncTerritory": "Kazakhstan",
+    "tag": "KZ"
   },
   {
-    "tag": "LA",
     "dcncTag": "LA",
-    "dcncTerritory": "Lao People's Democratic Republic"
+    "dcncTerritory": "Lao People's Democratic Republic",
+    "tag": "LA"
   },
   {
-    "tag": "LB",
     "dcncTag": "LB",
-    "dcncTerritory": "Lebanon"
+    "dcncTerritory": "Lebanon",
+    "tag": "LB"
   },
   {
-    "tag": "LK",
     "dcncTag": "LK",
-    "dcncTerritory": "Sri Lanka"
+    "dcncTerritory": "Sri Lanka",
+    "tag": "LK"
   },
   {
-    "tag": "LT",
     "dcncTag": "LT",
-    "dcncTerritory": "Lithuania"
+    "dcncTerritory": "Lithuania",
+    "tag": "LT"
   },
   {
-    "tag": "LU",
     "dcncTag": "LU",
-    "dcncTerritory": "Luxembourg"
+    "dcncTerritory": "Luxembourg",
+    "tag": "LU"
   },
   {
-    "tag": "LV",
     "dcncTag": "LV",
-    "dcncTerritory": "Latvia"
+    "dcncTerritory": "Latvia",
+    "tag": "LV"
   },
   {
-    "tag": "MA",
     "dcncTag": "MA",
-    "dcncTerritory": "Morocco"
+    "dcncTerritory": "Morocco",
+    "tag": "MA"
   },
   {
-    "tag": "MD",
     "dcncTag": "MD",
-    "dcncTerritory": "Moldova"
+    "dcncTerritory": "Moldova",
+    "tag": "MD"
   },
   {
-    "tag": "ME",
     "dcncTag": "ME",
-    "dcncTerritory": "Montenegro"
+    "dcncTerritory": "Montenegro",
+    "tag": "ME"
   },
   {
-    "tag": "MK",
     "dcncTag": "MK",
-    "dcncTerritory": "Macedonia"
+    "dcncTerritory": "Macedonia",
+    "tag": "MK"
   },
   {
-    "tag": "MM",
     "dcncTag": "MM",
-    "dcncTerritory": "Myanmar"
+    "dcncTerritory": "Myanmar",
+    "tag": "MM"
   },
   {
-    "tag": "MN",
     "dcncTag": "MN",
-    "dcncTerritory": "Mongolia"
+    "dcncTerritory": "Mongolia",
+    "tag": "MN"
   },
   {
-    "tag": "MQ",
     "dcncTag": "MQ",
-    "dcncTerritory": "Martinique"
+    "dcncTerritory": "Martinique",
+    "tag": "MQ"
   },
   {
-    "tag": "MT",
     "dcncTag": "MT",
-    "dcncTerritory": "Malta"
+    "dcncTerritory": "Malta",
+    "tag": "MT"
   },
   {
-    "tag": "MU",
     "dcncTag": "MU",
-    "dcncTerritory": "Mauritius"
+    "dcncTerritory": "Mauritius",
+    "tag": "MU"
   },
   {
-    "tag": "MX",
     "dcncTag": "MX",
-    "dcncTerritory": "Mexico"
+    "dcncTerritory": "Mexico",
+    "tag": "MX"
   },
   {
-    "tag": "MY",
     "dcncTag": "MY",
-    "dcncTerritory": "Malaysia"
+    "dcncTerritory": "Malaysia",
+    "tag": "MY"
   },
   {
-    "tag": "NC",
     "dcncTag": "NC",
-    "dcncTerritory": "New Caledonia"
+    "dcncTerritory": "New Caledonia",
+    "tag": "NC"
   },
   {
-    "tag": "NG",
     "dcncTag": "NG",
-    "dcncTerritory": "Nigeria"
+    "dcncTerritory": "Nigeria",
+    "tag": "NG"
   },
   {
-    "tag": "NI",
     "dcncTag": "NI",
-    "dcncTerritory": "Nicaragua"
+    "dcncTerritory": "Nicaragua",
+    "tag": "NI"
   },
   {
-    "tag": "NL",
     "dcncTag": "NL",
-    "dcncTerritory": "Netherlands"
+    "dcncTerritory": "Netherlands",
+    "tag": "NL"
   },
   {
-    "tag": "NO",
     "dcncTag": "NO",
-    "dcncTerritory": "Norway"
+    "dcncTerritory": "Norway",
+    "tag": "NO"
   },
   {
-    "tag": "NP",
     "dcncTag": "NP",
-    "dcncTerritory": "Nepal"
+    "dcncTerritory": "Nepal",
+    "tag": "NP"
   },
   {
-    "tag": "NZ",
     "dcncTag": "NZ",
-    "dcncTerritory": "New Zealand"
+    "dcncTerritory": "New Zealand",
+    "tag": "NZ"
   },
   {
-    "tag": "OM",
     "dcncTag": "OM",
-    "dcncTerritory": "Oman"
+    "dcncTerritory": "Oman",
+    "tag": "OM"
   },
   {
-    "tag": "PA",
     "dcncTag": "PA",
-    "dcncTerritory": "Panama"
+    "dcncTerritory": "Panama",
+    "tag": "PA"
   },
   {
-    "tag": "PE",
     "dcncTag": "PE",
-    "dcncTerritory": "Peru"
+    "dcncTerritory": "Peru",
+    "tag": "PE"
   },
   {
-    "tag": "PF",
     "dcncTag": "PF",
-    "dcncTerritory": "French Polynesia"
+    "dcncTerritory": "French Polynesia",
+    "tag": "PF"
   },
   {
-    "tag": "PH",
     "dcncTag": "PH",
-    "dcncTerritory": "Philippines"
+    "dcncTerritory": "Philippines",
+    "tag": "PH"
   },
   {
-    "tag": "PK",
     "dcncTag": "PK",
-    "dcncTerritory": "Pakistan"
+    "dcncTerritory": "Pakistan",
+    "tag": "PK"
   },
   {
-    "tag": "PL",
     "dcncTag": "PL",
-    "dcncTerritory": "Poland"
+    "dcncTerritory": "Poland",
+    "tag": "PL"
   },
   {
-    "tag": "PT",
     "dcncTag": "PT",
-    "dcncTerritory": "Portugal"
+    "dcncTerritory": "Portugal",
+    "tag": "PT"
   },
   {
-    "tag": "PY",
     "dcncTag": "PY",
-    "dcncTerritory": "Paraguay"
+    "dcncTerritory": "Paraguay",
+    "tag": "PY"
   },
   {
-    "tag": "QA",
     "dcncTag": "QA",
-    "dcncTerritory": "Qatar"
+    "dcncTerritory": "Qatar",
+    "tag": "QA"
   },
   {
-    "tag": "RE",
     "dcncTag": "RE",
-    "dcncTerritory": "Reunion"
+    "dcncTerritory": "Reunion",
+    "tag": "RE"
   },
   {
-    "tag": "RO",
     "dcncTag": "RO",
-    "dcncTerritory": "Romania"
+    "dcncTerritory": "Romania",
+    "tag": "RO"
   },
   {
-    "tag": "RU",
     "dcncTag": "RU",
-    "dcncTerritory": "Russia"
+    "dcncTerritory": "Russia",
+    "tag": "RU"
   },
   {
-    "tag": "SA",
     "dcncTag": "SA",
-    "dcncTerritory": "Saudi Arabia"
+    "dcncTerritory": "Saudi Arabia",
+    "tag": "SA"
   },
   {
-    "tag": "SE",
     "dcncTag": "SE",
-    "dcncTerritory": "Sweden"
+    "dcncTerritory": "Sweden",
+    "tag": "SE"
   },
   {
-    "tag": "SG",
     "dcncTag": "SG",
-    "dcncTerritory": "Singapore"
+    "dcncTerritory": "Singapore",
+    "tag": "SG"
   },
   {
-    "tag": "SI",
     "dcncTag": "SI",
-    "dcncTerritory": "Slovenia"
+    "dcncTerritory": "Slovenia",
+    "tag": "SI"
   },
   {
-    "tag": "SK",
     "dcncTag": "SK",
-    "dcncTerritory": "Slovakia"
+    "dcncTerritory": "Slovakia",
+    "tag": "SK"
   },
   {
-    "tag": "SN",
     "dcncTag": "SN",
-    "dcncTerritory": "Senegal"
+    "dcncTerritory": "Senegal",
+    "tag": "SN"
   },
   {
-    "tag": "SV",
     "dcncTag": "SV",
-    "dcncTerritory": "El Salvador"
+    "dcncTerritory": "El Salvador",
+    "tag": "SV"
   },
   {
-    "tag": "SY",
     "dcncTag": "SY",
-    "dcncTerritory": "Syrian Arab Republic"
+    "dcncTerritory": "Syrian Arab Republic",
+    "tag": "SY"
   },
   {
-    "tag": "TH",
     "dcncTag": "TH",
-    "dcncTerritory": "Thailand"
+    "dcncTerritory": "Thailand",
+    "tag": "TH"
   },
   {
-    "tag": "TJ",
     "dcncTag": "TJ",
-    "dcncTerritory": "Tjikistan"
+    "dcncTerritory": "Tjikistan",
+    "tag": "TJ"
   },
   {
-    "tag": "TM",
     "dcncTag": "TM",
-    "dcncTerritory": "Turkmenistan"
+    "dcncTerritory": "Turkmenistan",
+    "tag": "TM"
   },
   {
-    "tag": "TN",
     "dcncTag": "TN",
-    "dcncTerritory": "Tunisia"
+    "dcncTerritory": "Tunisia",
+    "tag": "TN"
   },
   {
-    "tag": "TR",
     "dcncTag": "TR",
-    "dcncTerritory": "Turkey"
+    "dcncTerritory": "Turkey",
+    "tag": "TR"
   },
   {
-    "tag": "TT",
     "dcncTag": "TT",
-    "dcncTerritory": "Trinidad"
+    "dcncTerritory": "Trinidad",
+    "tag": "TT"
   },
   {
-    "tag": "TW",
     "dcncTag": "TW",
-    "dcncTerritory": "Taiwan"
+    "dcncTerritory": "Taiwan",
+    "tag": "TW"
   },
   {
-    "tag": "TZ",
     "dcncTag": "TZ",
-    "dcncTerritory": "Tanzania"
+    "dcncTerritory": "Tanzania",
+    "tag": "TZ"
   },
   {
-    "tag": "UA",
     "dcncTag": "UA",
-    "dcncTerritory": "Ukraine"
+    "dcncTerritory": "Ukraine",
+    "tag": "UA"
   },
   {
-    "tag": "GB",
     "dcncTag": "UK",
-    "dcncTerritory": "United Kingdom"
+    "dcncTerritory": "United Kingdom",
+    "tag": "GB"
   },
   {
-    "tag": "US",
     "dcncTag": "US",
-    "dcncTerritory": "United States"
+    "dcncTerritory": "United States",
+    "tag": "US"
   },
   {
-    "tag": "UY",
     "dcncTag": "UY",
-    "dcncTerritory": "Uruguay"
+    "dcncTerritory": "Uruguay",
+    "tag": "UY"
   },
   {
-    "tag": "UZ",
     "dcncTag": "UZ",
-    "dcncTerritory": "Uzbekistan"
+    "dcncTerritory": "Uzbekistan",
+    "tag": "UZ"
   },
   {
-    "tag": "VE",
     "dcncTag": "VE",
-    "dcncTerritory": "Venezuela"
+    "dcncTerritory": "Venezuela",
+    "tag": "VE"
   },
   {
-    "tag": "VN",
     "dcncTag": "VN",
-    "dcncTerritory": "Vietnam"
+    "dcncTerritory": "Vietnam",
+    "tag": "VN"
   },
   {
-    "tag": "ZA",
     "dcncTag": "ZA",
-    "dcncTerritory": "South Africa"
+    "dcncTerritory": "South Africa",
+    "tag": "ZA"
   },
   {
-    "tag": "XK",
-    "tagScope": "https://isdcf.com/ns/cpl/territories",
     "dcncTag": "ZK",
-    "dcncTerritory": "Kosovo"
+    "dcncTerritory": "Kosovo",
+    "tag": "XK",
+    "tagScope": "https://isdcf.com/ns/cplmd/territories"
   }
- ]
+]

@@ -15,7 +15,7 @@ describe("territories schema", () => {
       },
       {
         "tag": "XK",
-        "tagScope": "https://isdcf.com/ns/cpl/territories",
+        "tagScope": "https://isdcf.com/ns/cplmd/territories",
         "dcncTag": "ZK",
         "dcncTerritory": "Kosovo",
         "comments": ["XK is not yet part of ISO 3166"]
