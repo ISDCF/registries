@@ -11,13 +11,13 @@ describe("territories schema", () => {
       {
         "tag": "ZA",
         "dcncTag": "ZA",
-        "name": "South Africa"
+        "dcncTerritory": "South Africa"
       },
       {
         "tag": "XK",
         "tagScope": "https://isdcf.com/ns/cpl/territories",
         "dcncTag": "ZK",
-        "name": "Kosovo",
+        "dcncTerritory": "Kosovo",
         "comments": ["XK is not yet part of ISO 3166"]
       }
     ]))
@@ -28,17 +28,17 @@ describe("territories schema", () => {
       {
         "tag": "XX",
         "dcncTag": "XX",
-        "name": "XXX"
+        "dcncTerritory": "XXX"
       }
     ]), /not a valid IANA region/)
   })
 
 
-  it("missing name", () => {
+  it("missing tag", () => {
     assert.throw(() => validate([
       {
-        "tag": "CA",
         "dcncTag": "CA",
+        "dcncTerritory": "XXX"
       }
     ]), /fails schema/)
   })

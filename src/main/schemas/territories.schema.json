@@ -13,7 +13,7 @@
           "type": "string"
         }
       },
-      "name": {
+      "dcncTerritory": {
         "type": "string",
         "pattern": "^[a-zA-Z ']+$"
       },
@@ -31,8 +31,7 @@
       }
     },
     "required": [
-      "tag",
-      "name"
+      "tag"
     ],
     "additionalProperties": false
   }
