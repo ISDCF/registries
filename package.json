@@ -17,7 +17,8 @@
   "devDependencies": {
     "ajv": "^6.10.2",
     "cldr-core": "^36.0.0",
-    "cldr-localenames-modern": "^36.0.0"
+    "cldr-localenames-modern": "^36.0.0",
+    "language-subtag-registry": "^0.3.20"
   },
   "dependencies": {
     "chai": "^4.2.0",
