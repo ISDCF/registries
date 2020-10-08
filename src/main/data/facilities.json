@@ -3658,6 +3658,11 @@
     "description": "SEARLE STREET POST"
   },
   {
+    "code": "STD",
+    "description": "Stealth Donkey Moving Pictures",
+    "url": "http://www.stealthdonkey.com"
+  },
+  {
     "code": "STE",
     "description": "STEMPEL"
   },
