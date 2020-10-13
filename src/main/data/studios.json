@@ -885,6 +885,16 @@
     "description": "Studio Ponoc - Tokyo"
   },
   {
+    "code": "SPOO",
+    "contact": {
+      "address": "Le Chesnay, 22130 Languenan France",
+      "email": "contact@spoonprod.com",
+      "name": "Simon Guyomard"
+    },
+    "description": "Spoon Productions",
+    "url": "http://www.spoonprod.com"
+  },
+  {
     "code": "SPOT",
     "description": "SPOT ON DISTRIBUTION"
   },
