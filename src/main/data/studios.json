@@ -678,6 +678,16 @@
     "url": "https://one-filmverleih.de"
   },
   {
+    "code": "ORG",
+    "contact": {
+      "address": "P.O. Box 94, North Reading, MA 01864",
+      "email": "jbird@oceanicresearch.org",
+      "name": "Jonathan Bird"
+    },
+    "description": "Oceanic Research Group, Inc.",
+    "url": "http://www.oceanicresearch.org"
+  },
+  {
     "code": "OSCP",
     "description": "OSCILLOSCOPE LABORATORIES"
   },
