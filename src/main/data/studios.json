@@ -611,6 +611,16 @@
     "description": "MYSTIC STUDIOS & VINAYAK PRODUCTIONS"
   },
   {
+    "code": "MZTR",
+    "contact": {
+      "address": "Kodrigktonos 21, 10434, Athens,  GREECE",
+      "email": "mzeis@trianon.gr",
+      "name": "Michael Zeis"
+    },
+    "description": "FILMCENTER TRIANON",
+    "url": "http://www.trianon.gr/v1/"
+  },
+  {
     "code": "NDG",
     "description": "NDG Studios"
   },
