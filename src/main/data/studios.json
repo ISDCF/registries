@@ -233,6 +233,11 @@
     "description": "CRISTIANA Video"
   },
   {
+    "code": "CUP",
+    "description": "cineUP",
+    "url": "https://www.cineup.de"
+  },
+  {
     "code": "DA",
     "description": "Dreamworks"
   },
