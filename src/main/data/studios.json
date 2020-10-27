@@ -367,6 +367,16 @@
     "url": "https://www.fireflyfilms.co.nz"
   },
   {
+    "code": "FYM",
+    "contact": {
+      "address": "Calle Princesa, 18, 1ro",
+      "email": "rhernandez@fym.tv",
+      "name": "Rosana Hernández"
+    },
+    "description": "Free Your Mind",
+    "url": "http://www.fym.tv"
+  },
+  {
     "code": "FZ",
     "description": "FRENZI FILMS"
   },
