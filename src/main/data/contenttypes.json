@@ -1,0 +1,146 @@
+[
+  {
+    "code": "FTR",
+    "contentKind": {
+      "definingDoc": "SMPTE ST 429-7",
+      "scope": "http://www.smpte-ra.org/schemas/429-7/2006/CPL#standard-content",
+      "value": "feature"
+    },
+    "description": "A theatrical feature."
+  },
+  {
+    "code": "TLR",
+    "contentKind": {
+      "definingDoc": "SMPTE ST 429-7",
+      "scope": "http://www.smpte-ra.org/schemas/429-7/2006/CPL#standard-content",
+      "value": "trailer"
+    },
+    "description": "Short (2 to 3 minutes) content promoting an upcoming theatrical feature."
+  },
+  {
+    "code": "TSR",
+    "contentKind": {
+      "definingDoc": "SMPTE ST 429-7",
+      "scope": "http://www.smpte-ra.org/schemas/429-7/2006/CPL#standard-content",
+      "value": "teaser"
+    },
+    "description": "Very short (typically less than 1 minute) content promoting an upcoming theatrical feature."
+  },
+  {
+    "code": "TST",
+    "contentKind": {
+      "definingDoc": "SMPTE ST 429-7",
+      "scope": "http://www.smpte-ra.org/schemas/429-7/2006/CPL#standard-content",
+      "value": "test"
+    },
+    "description": "Content used to test, calibrate or setup D-Cinema exhibition equipment."
+  },
+  {
+    "code": "RTG",
+    "contentKind": {
+      "definingDoc": "SMPTE ST 429-7",
+      "scope": "http://www.smpte-ra.org/schemas/429-7/2006/CPL#standard-content",
+      "value": "rating"
+    },
+    "description": "Slate/still picture indicating the recommended age group permitted to view the content to follow. This rating is generally unique per country."
+  },
+  {
+    "code": "ADV",
+    "contentKind": {
+      "definingDoc": "SMPTE ST 429-7",
+      "scope": "http://www.smpte-ra.org/schemas/429-7/2006/CPL#standard-content",
+      "value": "advertisement"
+    },
+    "description": "Content promoting a product or service other than an upcoming feature."
+  },
+  {
+    "code": "SHR",
+    "contentKind": {
+      "definingDoc": "SMPTE ST 429-7",
+      "scope": "http://www.smpte-ra.org/schemas/429-7/2006/CPL#standard-content",
+      "value": "short"
+    },
+    "description": "Non advertising/promotional content (3 to 15 minutes) typically before a theatrical feature."
+  },
+  {
+    "code": "XSN",
+    "contentKind": {
+      "definingDoc": "SMPTE ST 429-7",
+      "scope": "http://www.smpte-ra.org/schemas/429-7/2006/CPL#standard-content",
+      "value": "transitional"
+    },
+    "description": "Extremely short content (1 to 15 seconds) separating unrelated compositions."
+  },
+  {
+    "code": "PSA",
+    "contentKind": {
+      "definingDoc": "SMPTE ST 429-7",
+      "scope": "http://www.smpte-ra.org/schemas/429-7/2006/CPL#standard-content",
+      "value": "psa"
+    },
+    "description": "Public service announcement."
+  },
+  {
+    "code": "POL",
+    "contentKind": {
+      "definingDoc": "SMPTE ST 429-7",
+      "scope": "http://www.smpte-ra.org/schemas/429-7/2006/CPL#standard-content",
+      "value": "policy"
+    },
+    "description": "Content defining the code of conduct for patrons."
+  },
+  {
+    "code": "CLP",
+    "contentKind": {
+      "definingDoc": "SMPTE ST 429-16",
+      "scope": "http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata#scope/content-kind",
+      "value": "clip"
+    },
+    "description": "An excerpt from a longer piece of content that may be displayed on its own or with other clips."
+  },
+  {
+    "code": "PRO",
+    "contentKind": {
+      "definingDoc": "SMPTE ST 429-16",
+      "scope": "http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata#scope/content-kind",
+      "value": "promo"
+    },
+    "description": "A piece of promotional publicity or advertising."
+  },
+  {
+    "code": "STR",
+    "contentKind": {
+      "definingDoc": "SMPTE ST 429-16",
+      "scope": "http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata#scope/content-kind",
+      "value": "stereocard"
+    },
+    "description": "'Please Put Your 3D Glasses On Now' card"
+  },
+  {
+    "code": "EPS",
+    "contentKind": {
+      "definingDoc": "SMPTE ST 2067-3",
+      "scope": "http://www.smpte-ra.org/schemas/2067-3/2013#content-kind",
+      "value": "episode"
+    },
+    "description": "Part of a dramatic work such as a serial television program."
+  },
+  {
+    "code": "HLT",
+    "contentKind": {
+      "definingDoc": "SMPTE ST 2067-3",
+      "scope": "http://www.smpte-ra.org/schemas/2067-3/2013#content-kind",
+      "value": "highlights"
+    },
+    "description": "Edited sequence of one or more memorable parts of an event, feature, episode or period of time."
+  },
+  {
+    "code": "EVT",
+    "contentKind": {
+      "definingDoc": "SMPTE ST 2067-3",
+      "scope": "http://www.smpte-ra.org/schemas/2067-3/2013#content-kind",
+      "value": "event"
+    },
+    "description": "Activity that happens at a given place and time, especially one of importance, including a music performance, a contest making up a sports competition."
+  }
+]

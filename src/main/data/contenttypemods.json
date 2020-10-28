@@ -1,0 +1,131 @@
+[
+  {
+    "code": "[VersionNumber]",
+    "cplMetadata": {
+      "definingDoc": "SMPTE ST 429-16",
+      "element": "VersionNumber",
+      "metaType": "Element Value",
+      "scope": "http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata",
+      "value": "[xs:nonNegativeInteger of VersionNumber]"
+    },
+    "description": "Indicates the version number of the Composition."
+  },
+  {
+    "code": "Final",
+    "cplMetadata": {
+      "attribute": "status",
+      "definingDoc": "SMPTE ST 429-16",
+      "element": "VersionNumber",
+      "metaType": "Element Attribute Value",
+      "scope": "http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata",
+      "value": "final"
+    },
+    "description": "Final composition, including final sound, picture and accessibility features. Note: You should not use this modifier code in the CTT - this is present only to show the intended value of the VersionNumber's 'status' attribute in a 'Final' Composition."
+  },
+  {
+    "code": "Temp",
+    "cplMetadata": {
+      "attribute": "status",
+      "definingDoc": "SMPTE ST 429-16",
+      "element": "VersionNumber",
+      "metaType": "Element Attribute Value",
+      "scope": "http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata",
+      "value": "temp"
+    },
+    "description": "Temporary composition, e.g. preview or rough-cut version. Picture and/or sound are temporary and unfinished."
+  },
+  {
+    "code": "Pre",
+    "cplMetadata": {
+      "attribute": "status",
+      "definingDoc": "SMPTE ST 429-16",
+      "element": "VersionNumber",
+      "metaType": "Element Attribute Value",
+      "scope": "http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata",
+      "value": "pre"
+    },
+    "description": "Pre-release Composition. Picture and sound are final, but not all features of the final version such as accessibility features are present."
+  },
+  {
+    "code": "[CHAIN]",
+    "cplMetadata": {
+      "definingDoc": "SMPTE ST 429-16",
+      "element": "Chain",
+      "metaType": "Element Value",
+      "scope": "http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata",
+      "value": "[Chain]"
+    },
+    "description": "A human-readable name of the specific targeted use (specific theatre chain or event) for which the Composition Playlist is intended."
+  },
+  {
+    "code": "ALT",
+    "cplMetadata": {
+      "definingDoc": "SMPTE ST 429-16",
+      "element": "Chain",
+      "metaType": "Element Value",
+      "scope": "http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata",
+      "value": "Alt"
+    },
+    "description": "Alternative version - You have the option of using the word 'ALT' in the theatre chain sub-field instead of naming a specific theatre chain or event."
+  },
+  {
+    "code": "2D",
+    "cplMetadata": {
+      "definingDoc": "SMPTE ST 429-7",
+      "element": "MainPicture",
+      "metaType": "Element Present",
+      "scope": "http://www.smpte-ra.org/schemas/429-7/2006/CPL#standard-content"
+    },
+    "description": "If the product is in both 2D and 3D, label the 2D version: '2D'. If the product only exists in 2D, you do not need to label it '2D' - it will be assumed to be in 2D if it is not otherwise described."
+  },
+  {
+    "code": "3D",
+    "cplMetadata": {
+      "definingDoc": "SMPTE ST 429-10",
+      "element": "MainStereoscopicPicture",
+      "metaType": "Element Present",
+      "scope": "http://www.smpte-ra.org/schemas/429-10/2008/Main-Stereo-Picture-CPL"
+    },
+    "description": "If the product is 3D."
+  },
+  {
+    "code": "[Luminance]fl",
+    "cplMetadata": {
+      "definingDoc": "SMPTE ST 429-16",
+      "element": "Luminance",
+      "metaType": "Element Value",
+      "scope": "http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata",
+      "value": "[xs:decimal of Luminance]"
+    },
+    "description": "There is currently no luminance standard for mastering 3D content. Some films are color timed at 3.5 foot lamberts, others at 4, 4.5, 6, 7, and even 10 foot lamberts. If you have multiple luminance versions of your product, put the foot lamberts numerical value here in order to signal which version the DCP contains. Do not use decimal points for the CTT."
+  },
+  {
+    "code": "[FPS]",
+    "cplMetadata": {
+      "definingDoc": "SMPTE ST 429-16",
+      "element": "EditRate",
+      "metaType": "Element Value",
+      "scope": "http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata",
+      "value": "[cpl:Rational of FPS]"
+    },
+    "description": "Frame Rate numerical value (if other than 24 frames per second)."
+  },
+  {
+    "code": "DVis",
+    "cplMetadata": {
+      "definingDoc": "https://www.isdcf.com/site/registry-cpl-extensions/",
+      "metaType": "Extension Present",
+      "scope": "http://www.dolby.com/schemas/2014/EDR-metadata",
+      "value": "Dolby EDR"
+    },
+    "description": "Dolby Vision graded image."
+  },
+  {
+    "code": "EC",
+    "cplMetadata": {
+      "definingDoc": "https://www.isdcf.com/site/registry-cpl-extensions/",
+      "metaType": "None"
+    },
+    "description": "Eclaircolor graded image."
+  }
+]
