@@ -233,6 +233,11 @@
     "description": "CRISTIANA Video"
   },
   {
+    "code": "CUP",
+    "description": "cineUP",
+    "url": "https://www.cineup.de"
+  },
+  {
     "code": "DA",
     "description": "Dreamworks"
   },
@@ -360,6 +365,16 @@
     "code": "FYF",
     "description": "Firefly Films",
     "url": "https://www.fireflyfilms.co.nz"
+  },
+  {
+    "code": "FYM",
+    "contact": {
+      "address": "Calle Princesa, 18, 1ro",
+      "email": "rhernandez@fym.tv",
+      "name": "Rosana Hernández"
+    },
+    "description": "Free Your Mind",
+    "url": "http://www.fym.tv"
   },
   {
     "code": "FZ",
