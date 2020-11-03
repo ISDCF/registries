@@ -1305,6 +1305,11 @@
   },
   {
     "code": "DTA",
+    "contact": {
+      "address": "Level 5,6, Eden Park Dr, Macquarie Park, NSW, 2113, AUS",
+      "email": "daniel.smith@bydeluxe.com",
+      "name": "Daniel Smith"
+    },
     "description": "DELUXE AUSTRALIA",
     "url": "https://www.bydeluxe.com/"
   },
@@ -1328,6 +1333,11 @@
   },
   {
     "code": "DTF",
+    "contact": {
+      "address": "47 quai du Président Carnot, 92210 Saint-Cloud, France",
+      "email": "Olivier.Gravenhorst@bydeluxe.com",
+      "name": "Olivier Gravenhorst"
+    },
     "description": "DELUXE PARIS ",
     "url": "https://www.bydeluxe.com/"
   },
@@ -1342,6 +1352,11 @@
   },
   {
     "code": "DTM",
+    "contact": {
+      "address": "Calle de Miguel Fleta 5, 28037 Madrid, Spain",
+      "email": "Juanjo.Carretero@bydeluxe.com",
+      "name": "Juanjo Carretero"
+    },
     "description": "DELUXE MADRID",
     "url": "https://www.bydeluxe.com/"
   },
@@ -1352,6 +1367,11 @@
   },
   {
     "code": "DTU",
+    "contact": {
+      "address": "32 Perivale Park, Horsenden Lane, Perivale, London, UB6 7RL, UK",
+      "email": "Ian.Stockton@bydeluxe.com",
+      "name": "Ian Stockton"
+    },
     "description": "DELUXE UK ",
     "url": "https://www.bydeluxe.com/"
   },
@@ -1470,6 +1490,11 @@
   {
     "code": "EDT",
     "description": "EDIT STUDIOS"
+  },
+  {
+    "code": "EEC",
+    "description": "Eclair Classics",
+    "url": "http://www.imageretrouvee.fr/"
   },
   {
     "code": "EFF",

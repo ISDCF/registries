@@ -233,6 +233,11 @@
     "description": "CRISTIANA Video"
   },
   {
+    "code": "CUP",
+    "description": "cineUP",
+    "url": "https://www.cineup.de"
+  },
+  {
     "code": "DA",
     "description": "Dreamworks"
   },
@@ -360,6 +365,16 @@
     "code": "FYF",
     "description": "Firefly Films",
     "url": "https://www.fireflyfilms.co.nz"
+  },
+  {
+    "code": "FYM",
+    "contact": {
+      "address": "Calle Princesa, 18, 1ro",
+      "email": "rhernandez@fym.tv",
+      "name": "Rosana Hernández"
+    },
+    "description": "Free Your Mind",
+    "url": "http://www.fym.tv"
   },
   {
     "code": "FZ",
@@ -611,6 +626,16 @@
     "description": "MYSTIC STUDIOS & VINAYAK PRODUCTIONS"
   },
   {
+    "code": "MZTR",
+    "contact": {
+      "address": "Kodrigktonos 21, 10434, Athens,  GREECE",
+      "email": "mzeis@trianon.gr",
+      "name": "Michael Zeis"
+    },
+    "description": "FILMCENTER TRIANON",
+    "url": "http://www.trianon.gr/v1/"
+  },
+  {
     "code": "NDG",
     "description": "NDG Studios"
   },
@@ -666,6 +691,16 @@
     "code": "ONE",
     "description": "ONE FILMVERLEIH",
     "url": "https://one-filmverleih.de"
+  },
+  {
+    "code": "ORG",
+    "contact": {
+      "address": "P.O. Box 94, North Reading, MA 01864",
+      "email": "jbird@oceanicresearch.org",
+      "name": "Jonathan Bird"
+    },
+    "description": "Oceanic Research Group, Inc.",
+    "url": "http://www.oceanicresearch.org"
   },
   {
     "code": "OSCP",
@@ -883,6 +918,16 @@
   {
     "code": "SPNC",
     "description": "Studio Ponoc - Tokyo"
+  },
+  {
+    "code": "SPOO",
+    "contact": {
+      "address": "Le Chesnay, 22130 Languenan France",
+      "email": "contact@spoonprod.com",
+      "name": "Simon Guyomard"
+    },
+    "description": "Spoon Productions",
+    "url": "http://www.spoonprod.com"
   },
   {
     "code": "SPOT",
