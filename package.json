@@ -6,7 +6,7 @@
     "test": "mocha",
     "validate": "node src/main/scripts/validate.js",
     "canonicalize": "node src/main/scripts/canonicalize.js",
-    "make-ratings": "node src/main/scripts/ratings-make.js"
+    "make-ratings": "node src/main/scripts/ratings-make.js & node src/main/scripts/canonicalize.js"
   },
   "main": "src/main/scripts/validate.js",
   "repository": {
