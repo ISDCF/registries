@@ -8,6 +8,7 @@
       "value": "[xs:nonNegativeInteger of VersionNumber]"
     },
     "dcncCode": "[VersionNumber]",
+    "dcncSortOrder": 1,
     "description": "Indicates the version number of the Composition."
   },
   {
@@ -20,6 +21,7 @@
       "value": "final"
     },
     "dcncCode": "Final",
+    "dcncSortOrder": 2,
     "description": "Final composition, including final sound, picture and accessibility features. Note: You should not use this modifier code in the CTT - this is present only to show the intended value of the VersionNumber's 'status' attribute in a 'Final' Composition."
   },
   {
@@ -32,6 +34,7 @@
       "value": "temp"
     },
     "dcncCode": "Temp",
+    "dcncSortOrder": 3,
     "description": "Temporary composition, e.g. preview or rough-cut version. Picture and/or sound are temporary and unfinished."
   },
   {
@@ -44,6 +47,7 @@
       "value": "pre"
     },
     "dcncCode": "Pre",
+    "dcncSortOrder": 4,
     "description": "Pre-release Composition. Picture and sound are final, but not all features of the final version such as accessibility features are present."
   },
   {
@@ -55,6 +59,7 @@
       "value": "[Chain]"
     },
     "dcncCode": "[CHAIN]",
+    "dcncSortOrder": 5,
     "description": "A human-readable name of the specific targeted use (specific theatre chain or event) for which the Composition Playlist is intended."
   },
   {
@@ -66,6 +71,7 @@
       "value": "Alt"
     },
     "dcncCode": "ALT",
+    "dcncSortOrder": 6,
     "description": "Alternative version - You have the option of using the word 'ALT' in the theatre chain sub-field instead of naming a specific theatre chain or event."
   },
   {
@@ -76,6 +82,7 @@
       "scope": "http://www.smpte-ra.org/schemas/429-7/2006/CPL#standard-content"
     },
     "dcncCode": "2D",
+    "dcncSortOrder": 7,
     "description": "If the product is in both 2D and 3D, label the 2D version: '2D'. If the product only exists in 2D, you do not need to label it '2D' - it will be assumed to be in 2D if it is not otherwise described."
   },
   {
@@ -86,6 +93,7 @@
       "scope": "http://www.smpte-ra.org/schemas/429-10/2008/Main-Stereo-Picture-CPL"
     },
     "dcncCode": "3D",
+    "dcncSortOrder": 8,
     "description": "If the product is 3D."
   },
   {
@@ -97,6 +105,7 @@
       "value": "[xs:decimal of Luminance]"
     },
     "dcncCode": "[Luminance]fl",
+    "dcncSortOrder": 9,
     "description": "There is currently no luminance standard for mastering 3D content. Some films are color timed at 3.5 foot lamberts, others at 4, 4.5, 6, 7, and even 10 foot lamberts. If you have multiple luminance versions of your product, put the foot lamberts numerical value here in order to signal which version the DCP contains. Do not use decimal points for the CTT."
   },
   {
@@ -108,6 +117,7 @@
       "value": "[cpl:Rational of FPS]"
     },
     "dcncCode": "[FPS]",
+    "dcncSortOrder": 10,
     "description": "Frame Rate numerical value (if other than 24 frames per second)."
   },
   {
@@ -118,6 +128,7 @@
       "value": "Dolby EDR"
     },
     "dcncCode": "DVis",
+    "dcncSortOrder": 11,
     "description": "Dolby Vision graded image."
   },
   {
@@ -126,6 +137,7 @@
       "metaType": "None"
     },
     "dcncCode": "EC",
+    "dcncSortOrder": 12,
     "description": "Eclaircolor graded image."
   }
 ]

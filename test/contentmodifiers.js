@@ -9,24 +9,26 @@ describe("contentmodifiers schema", () => {
   it("valid", () => {
     assert.doesNotThrow(() => validate([
       {
-        "dcncCode": "[VersionNumber]",
         "cplMetadata": {
-          "metaType": "Element Value",
+          "definingDoc": "SMPTE ST 429-16",
           "element": "VersionNumber",
-          "value": "[xs:nonNegativeInteger of VersionNumber]",
+          "metaType": "Element Value",
           "scope": "http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata",
-          "definingDoc": "SMPTE ST 429-16"
+          "value": "[xs:nonNegativeInteger of VersionNumber]"
         },
+        "dcncCode": "[VersionNumber]",
+        "dcncSortOrder": 1,
         "description": "Indicates the version number of the Composition."
       },
       {
-        "dcncCode": "3D",
         "cplMetadata": {
-          "metaType": "Element Present",
+          "definingDoc": "SMPTE ST 429-10",
           "element": "MainStereoscopicPicture",
-          "scope": "http://www.smpte-ra.org/schemas/429-10/2008/Main-Stereo-Picture-CPL",
-          "definingDoc": "SMPTE ST 429-10"
+          "metaType": "Element Present",
+          "scope": "http://www.smpte-ra.org/schemas/429-10/2008/Main-Stereo-Picture-CPL"
         },
+        "dcncCode": "3D",
+        "dcncSortOrder": 8,
         "description": "If the product is 3D."
       }
     ]))
@@ -37,6 +39,39 @@ describe("contentmodifiers schema", () => {
       {
         "dcncCode": "3D",
         "description": "If the product is 3D."
+      }
+    ]), /fails schema/)
+  })
+
+  it("missing sort order", () => {
+    assert.throw(() => validate([
+      {
+        "cplMetadata": {
+          "definingDoc": "SMPTE ST 429-16",
+          "element": "VersionNumber",
+          "metaType": "Element Value",
+          "scope": "http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata",
+          "value": "[xs:nonNegativeInteger of VersionNumber]"
+        },
+        "dcncCode": "[VersionNumber]",
+        "description": "Indicates the version number of the Composition."
+      }
+    ]), /fails schema/)
+  })
+
+  it("sort order not an integer", () => {
+    assert.throw(() => validate([
+      {
+        "cplMetadata": {
+          "definingDoc": "SMPTE ST 429-16",
+          "element": "VersionNumber",
+          "metaType": "Element Value",
+          "scope": "http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata",
+          "value": "[xs:nonNegativeInteger of VersionNumber]"
+        },
+        "dcncCode": "[VersionNumber]",
+        "dcncSortOrder": "2.4",
+        "description": "Indicates the version number of the Composition."
       }
     ]), /fails schema/)
   })

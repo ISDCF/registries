@@ -48,6 +48,10 @@
       "dcncCode": {
         "$ref": "#/definitions/dcncCode"
       },
+      "dcncSortOrder": {
+        "type": "integer",
+        "minimum": 1
+      },
       "description": {
         "type": "string"
       },
@@ -55,7 +59,7 @@
         "$ref": "#/definitions/cplMetadata"
       }
     },
-    "required": [ "dcncCode", "cplMetadata", "description" ],
+    "required": [ "dcncCode", "dcncSortOrder", "cplMetadata", "description" ],
     "additionalProperties": false
   }
 }

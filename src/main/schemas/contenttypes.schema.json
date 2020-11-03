@@ -10,6 +10,10 @@
       "dcncCode": {
         "$ref": "#/definitions/dcncCode"
       },
+      "dcncSortOrder": {
+        "type": "integer",
+        "minimum": 1
+      },
       "cplContentKind": {
         "$ref": "#/definitions/cplContentKind"
       },
@@ -17,7 +21,7 @@
         "type": "string"
       }
     },
-    "required": [ "dcncCode", "cplContentKind", "description" ],
+    "required": [ "dcncCode", "dcncSortOrder", "cplContentKind", "description" ],
     "additionalProperties": false
   },
   "definitions": {
