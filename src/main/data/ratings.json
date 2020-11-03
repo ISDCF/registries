@@ -1,17 +1,10 @@
 [
   {
     "agency": {
-      "system": "MOI",
+      "identifier": "http://www.movielabs.com/md/ratings/AE/NMC/0",
       "organization": "MOI",
-      "identifier": "http://www.movielabs.com/md/ratings/AE/NMC/0"
+      "system": "MOI"
     },
-    "region": {
-      "code": "AE",
-      "name": "UNITED ARAB EMIRATES"
-    },
-    "use": [
-      "feature"
-    ],
     "ratings": [
       "PG",
       "G",
@@ -23,22 +16,21 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2020-01-09T17:22:01)",
       "url": "https://movielabs.com/md/ratings/"
-    }
+    },
+    "region": {
+      "code": "AE",
+      "name": "UNITED ARAB EMIRATES"
+    },
+    "use": [
+      "feature"
+    ]
   },
   {
     "agency": {
-      "system": "INCAA",
+      "identifier": "http://www.movielabs.com/md/ratings/AR/INCAA/0",
       "organization": "INCAA",
-      "identifier": "http://www.movielabs.com/md/ratings/AR/INCAA/0"
+      "system": "INCAA"
     },
-    "region": {
-      "code": "AR",
-      "name": "ARGENTINA"
-    },
-    "use": [
-      "feature",
-      "trailer"
-    ],
     "ratings": [
       "ATP",
       "SAM13",
@@ -49,22 +41,22 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2020-01-16T22:10:25)",
       "url": "https://movielabs.com/md/ratings/"
-    }
-  },
-  {
-    "agency": {
-      "system": "BMUKK",
-      "organization": "JMK",
-      "identifier": "http://www.movielabs.com/md/ratings/AT/BMUKK/1"
     },
     "region": {
-      "code": "AT",
-      "name": "AUSTRIA"
+      "code": "AR",
+      "name": "ARGENTINA"
     },
     "use": [
       "feature",
       "trailer"
-    ],
+    ]
+  },
+  {
+    "agency": {
+      "identifier": "http://www.movielabs.com/md/ratings/AT/BMUKK/1",
+      "organization": "JMK",
+      "system": "BMUKK"
+    },
     "ratings": [
       "AA",
       "6",
@@ -77,21 +69,22 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2019-06-18T15:43:40)",
       "url": "https://movielabs.com/md/ratings/"
-    }
+    },
+    "region": {
+      "code": "AT",
+      "name": "AUSTRIA"
+    },
+    "use": [
+      "feature",
+      "trailer"
+    ]
   },
   {
     "agency": {
-      "system": "NCS",
+      "identifier": "http://www.movielabs.com/md/ratings/AU/NCS/1",
       "organization": "CB-DCA",
-      "identifier": "http://www.movielabs.com/md/ratings/AU/NCS/1"
+      "system": "NCS"
     },
-    "region": {
-      "code": "AU",
-      "name": "AUSTRALIA"
-    },
-    "use": [
-      "feature"
-    ],
     "ratings": [
       "G",
       "PG",
@@ -105,21 +98,21 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2019-06-18T18:39:26)",
       "url": "https://movielabs.com/md/ratings/"
-    }
-  },
-  {
-    "agency": {
-      "system": "CICF",
-      "organization": "CSF",
-      "identifier": "http://www.movielabs.com/md/ratings/BE/CICF/1"
     },
     "region": {
-      "code": "BE",
-      "name": "BELGIUM"
+      "code": "AU",
+      "name": "AUSTRALIA"
     },
     "use": [
       "feature"
-    ],
+    ]
+  },
+  {
+    "agency": {
+      "identifier": "http://www.movielabs.com/md/ratings/BE/CICF/1",
+      "organization": "CSF",
+      "system": "CICF"
+    },
     "ratings": [
       "KT/EA",
       "E",
@@ -128,21 +121,21 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2018-02-05T21:48:12)",
       "url": "https://movielabs.com/md/ratings/"
-    }
-  },
-  {
-    "agency": {
-      "system": "NFRC",
-      "organization": "NFRC",
-      "identifier": "http://www.movielabs.com/md/ratings/BG/NFRC/2"
     },
     "region": {
-      "code": "BG",
-      "name": "BULGARIA"
+      "code": "BE",
+      "name": "BELGIUM"
     },
     "use": [
       "feature"
-    ],
+    ]
+  },
+  {
+    "agency": {
+      "identifier": "http://www.movielabs.com/md/ratings/BG/NFRC/2",
+      "organization": "NFRC",
+      "system": "NFRC"
+    },
     "ratings": [
       "B",
       "A",
@@ -153,21 +146,21 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2020-01-16T23:14:28)",
       "url": "https://movielabs.com/md/ratings/"
-    }
-  },
-  {
-    "agency": {
-      "system": "MIA",
-      "organization": "MIA",
-      "identifier": "http://www.movielabs.com/md/ratings/BH/MIA/0"
     },
     "region": {
-      "code": "BH",
-      "name": "BAHRAIN"
+      "code": "BG",
+      "name": "BULGARIA"
     },
     "use": [
       "feature"
-    ],
+    ]
+  },
+  {
+    "agency": {
+      "identifier": "http://www.movielabs.com/md/ratings/BH/MIA/0",
+      "organization": "MIA",
+      "system": "MIA"
+    },
     "ratings": [
       "PG",
       "G",
@@ -179,22 +172,21 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2020-02-28T20:42:04)",
       "url": "https://movielabs.com/md/ratings/"
-    }
+    },
+    "region": {
+      "code": "BH",
+      "name": "BAHRAIN"
+    },
+    "use": [
+      "feature"
+    ]
   },
   {
     "agency": {
-      "system": "Film",
+      "identifier": "http://www.movielabs.com/md/ratings/BN/Film/0",
       "organization": "",
-      "identifier": "http://www.movielabs.com/md/ratings/BN/Film/0"
+      "system": "Film"
     },
-    "region": {
-      "code": "BN",
-      "name": "BRUNEI DARUSSALAM"
-    },
-    "use": [
-      "feature",
-      "trailer"
-    ],
     "ratings": [
       "U",
       "A/PG",
@@ -203,21 +195,22 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2020-02-28T20:42:45)",
       "url": "https://movielabs.com/md/ratings/"
-    }
+    },
+    "region": {
+      "code": "BN",
+      "name": "BRUNEI DARUSSALAM"
+    },
+    "use": [
+      "feature",
+      "trailer"
+    ]
   },
   {
     "agency": {
-      "system": "Film",
+      "identifier": "http://www.movielabs.com/md/ratings/BO/Film/0",
       "organization": "",
-      "identifier": "http://www.movielabs.com/md/ratings/BO/Film/0"
+      "system": "Film"
     },
-    "region": {
-      "code": "BO",
-      "name": "BOLIVIA"
-    },
-    "use": [
-      "feature"
-    ],
     "ratings": [
       "TP",
       "14",
@@ -227,21 +220,21 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2020-02-28T20:43:05)",
       "url": "https://movielabs.com/md/ratings/"
-    }
-  },
-  {
-    "agency": {
-      "system": "DJCTQ",
-      "organization": "DJCTQ",
-      "identifier": "http://www.movielabs.com/md/ratings/BR/DJCTQ/4"
     },
     "region": {
-      "code": "BR",
-      "name": "BRAZIL"
+      "code": "BO",
+      "name": "BOLIVIA"
     },
     "use": [
       "feature"
-    ],
+    ]
+  },
+  {
+    "agency": {
+      "identifier": "http://www.movielabs.com/md/ratings/BR/DJCTQ/4",
+      "organization": "DJCTQ",
+      "system": "DJCTQ"
+    },
     "ratings": [
       "ER",
       "L",
@@ -269,22 +262,21 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2020-04-27T16:40:52)",
       "url": "https://movielabs.com/md/ratings/"
-    }
+    },
+    "region": {
+      "code": "BR",
+      "name": "BRAZIL"
+    },
+    "use": [
+      "feature"
+    ]
   },
   {
     "agency": {
-      "system": "MKRF",
+      "identifier": "http://www.movielabs.com/md/ratings/BY/IBC/0",
       "organization": "",
-      "identifier": "http://www.movielabs.com/md/ratings/BY/IBC/0"
+      "system": "MKRF"
     },
-    "region": {
-      "code": "BY",
-      "name": "BELARUS"
-    },
-    "use": [
-      "feature",
-      "trailer"
-    ],
     "ratings": [
       "16+",
       "18+",
@@ -295,21 +287,22 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2020-01-09T18:05:58)",
       "url": "https://movielabs.com/md/ratings/"
-    }
+    },
+    "region": {
+      "code": "BY",
+      "name": "BELARUS"
+    },
+    "use": [
+      "feature",
+      "trailer"
+    ]
   },
   {
     "agency": {
-      "system": "AFC",
+      "identifier": "http://www.movielabs.com/md/ratings/CA/AFC/2",
       "organization": "AFC",
-      "identifier": "http://www.movielabs.com/md/ratings/CA/AFC/2"
+      "system": "AFC"
     },
-    "region": {
-      "code": "CA-AB",
-      "name": "CANADA"
-    },
-    "use": [
-      "feature"
-    ],
     "ratings": [
       "G",
       "PG",
@@ -320,22 +313,21 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2019-12-18T19:22:10)",
       "url": "https://movielabs.com/md/ratings/"
-    }
-  },
-  {
-    "agency": {
-      "system": "CBSC",
-      "organization": "CBSC",
-      "identifier": "http://www.movielabs.com/md/ratings/CA/CBSC/2"
     },
     "region": {
-      "code": "CA-ON",
+      "code": "CA-AB",
       "name": "CANADA"
     },
     "use": [
-      "feature",
-      "trailer"
-    ],
+      "feature"
+    ]
+  },
+  {
+    "agency": {
+      "identifier": "http://www.movielabs.com/md/ratings/CA/CBSC/2",
+      "organization": "CBSC",
+      "system": "CBSC"
+    },
     "ratings": [
       "C",
       "E",
@@ -348,21 +340,22 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2020-01-16T23:18:33)",
       "url": "https://movielabs.com/md/ratings/"
-    }
-  },
-  {
-    "agency": {
-      "system": "CPBC-T",
-      "organization": "CPBC",
-      "identifier": "http://www.movielabs.com/md/ratings/CA/CPBC-T/2"
     },
     "region": {
-      "code": "CA-BC",
+      "code": "CA-ON",
       "name": "CANADA"
     },
     "use": [
+      "feature",
       "trailer"
-    ],
+    ]
+  },
+  {
+    "agency": {
+      "identifier": "http://www.movielabs.com/md/ratings/CA/CPBC-T/2",
+      "organization": "CPBC",
+      "system": "CPBC-T"
+    },
     "ratings": [
       "AP",
       "SP",
@@ -372,21 +365,21 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2020-01-16T23:21:19)",
       "url": "https://movielabs.com/md/ratings/"
-    }
-  },
-  {
-    "agency": {
-      "system": "CPBC",
-      "organization": "CPBC",
-      "identifier": "http://www.movielabs.com/md/ratings/CA/CPBC/2"
     },
     "region": {
       "code": "CA-BC",
       "name": "CANADA"
     },
     "use": [
-      "feature"
-    ],
+      "trailer"
+    ]
+  },
+  {
+    "agency": {
+      "identifier": "http://www.movielabs.com/md/ratings/CA/CPBC/2",
+      "organization": "CPBC",
+      "system": "CPBC"
+    },
     "ratings": [
       "G",
       "PG",
@@ -398,13 +391,34 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2020-01-16T23:20:59)",
       "url": "https://movielabs.com/md/ratings/"
-    }
+    },
+    "region": {
+      "code": "CA-BC",
+      "name": "CANADA"
+    },
+    "use": [
+      "feature"
+    ]
   },
   {
     "agency": {
-      "system": "MFCB",
+      "identifier": "http://www.movielabs.com/md/ratings/CA/MFCB/2",
       "organization": "MFCB",
-      "identifier": "http://www.movielabs.com/md/ratings/CA/MFCB/2"
+      "system": "MFCB"
+    },
+    "ratings": [
+      "G",
+      "PG",
+      "14A",
+      "18A",
+      "R",
+      "A",
+      "XXX",
+      "AA"
+    ],
+    "reference": {
+      "description": "MovieLabs, Common Metadata Ratings (2019-12-02T20:27:23)",
+      "url": "https://movielabs.com/md/ratings/"
     },
     "region": {
       "code": "CA-PE",
@@ -413,7 +427,14 @@
     "use": [
       "feature",
       "trailer"
-    ],
+    ]
+  },
+  {
+    "agency": {
+      "identifier": "http://www.movielabs.com/md/ratings/CA/MFCB/2",
+      "organization": "MFCB",
+      "system": "MFCB"
+    },
     "ratings": [
       "G",
       "PG",
@@ -427,13 +448,6 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2019-12-02T20:27:23)",
       "url": "https://movielabs.com/md/ratings/"
-    }
-  },
-  {
-    "agency": {
-      "system": "MFCB",
-      "organization": "MFCB",
-      "identifier": "http://www.movielabs.com/md/ratings/CA/MFCB/2"
     },
     "region": {
       "code": "CA-NB",
@@ -442,7 +456,14 @@
     "use": [
       "feature",
       "trailer"
-    ],
+    ]
+  },
+  {
+    "agency": {
+      "identifier": "http://www.movielabs.com/md/ratings/CA/MFCB/2",
+      "organization": "MFCB",
+      "system": "MFCB"
+    },
     "ratings": [
       "G",
       "PG",
@@ -456,13 +477,6 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2019-12-02T20:27:23)",
       "url": "https://movielabs.com/md/ratings/"
-    }
-  },
-  {
-    "agency": {
-      "system": "MFCB",
-      "organization": "MFCB",
-      "identifier": "http://www.movielabs.com/md/ratings/CA/MFCB/2"
     },
     "region": {
       "code": "CA-NS",
@@ -471,36 +485,14 @@
     "use": [
       "feature",
       "trailer"
-    ],
-    "ratings": [
-      "G",
-      "PG",
-      "14A",
-      "18A",
-      "R",
-      "A",
-      "XXX",
-      "AA"
-    ],
-    "reference": {
-      "description": "MovieLabs, Common Metadata Ratings (2019-12-02T20:27:23)",
-      "url": "https://movielabs.com/md/ratings/"
-    }
+    ]
   },
   {
     "agency": {
-      "system": "OFRB",
+      "identifier": "http://www.movielabs.com/md/ratings/CA/OFRB/2",
       "organization": "OFRB",
-      "identifier": "http://www.movielabs.com/md/ratings/CA/OFRB/2"
+      "system": "OFRB"
     },
-    "region": {
-      "code": "CA-ON",
-      "name": "CANADA"
-    },
-    "use": [
-      "feature",
-      "trailer"
-    ],
     "ratings": [
       "G",
       "PG",
@@ -511,22 +503,22 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2019-12-03T21:43:50)",
       "url": "https://movielabs.com/md/ratings/"
-    }
-  },
-  {
-    "agency": {
-      "system": "RCQ",
-      "organization": "MCC",
-      "identifier": "http://www.movielabs.com/md/ratings/CA/RCQ/2"
     },
     "region": {
-      "code": "CA-QC",
+      "code": "CA-ON",
       "name": "CANADA"
     },
     "use": [
       "feature",
       "trailer"
-    ],
+    ]
+  },
+  {
+    "agency": {
+      "identifier": "http://www.movielabs.com/md/ratings/CA/RCQ/2",
+      "organization": "MCC",
+      "system": "RCQ"
+    },
     "ratings": [
       "G",
       "13+",
@@ -537,21 +529,22 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2019-12-06T19:11:48)",
       "url": "https://movielabs.com/md/ratings/"
-    }
+    },
+    "region": {
+      "code": "CA-QC",
+      "name": "CANADA"
+    },
+    "use": [
+      "feature",
+      "trailer"
+    ]
   },
   {
     "agency": {
-      "system": "Film",
+      "identifier": "http://www.movielabs.com/md/ratings/CH/Film/2",
       "organization": "",
-      "identifier": "http://www.movielabs.com/md/ratings/CH/Film/2"
+      "system": "Film"
     },
-    "region": {
-      "code": "CH",
-      "name": "SWITZERLAND"
-    },
-    "use": [
-      "feature"
-    ],
     "ratings": [
       "0",
       "6",
@@ -565,22 +558,21 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2020-06-30T17:03:44)",
       "url": "https://movielabs.com/md/ratings/"
-    }
+    },
+    "region": {
+      "code": "CH",
+      "name": "SWITZERLAND"
+    },
+    "use": [
+      "feature"
+    ]
   },
   {
     "agency": {
-      "system": "ANATEL",
+      "identifier": "http://www.movielabs.com/md/ratings/CL/ANATEL/0",
       "organization": "ANATEL",
-      "identifier": "http://www.movielabs.com/md/ratings/CL/ANATEL/0"
+      "system": "ANATEL"
     },
-    "region": {
-      "code": "CL",
-      "name": "CHILE"
-    },
-    "use": [
-      "feature",
-      "trailer"
-    ],
     "ratings": [
       "F",
       "I",
@@ -593,21 +585,22 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2018-02-05T21:53:01)",
       "url": "https://movielabs.com/md/ratings/"
-    }
-  },
-  {
-    "agency": {
-      "system": "CCC",
-      "organization": "CCC",
-      "identifier": "http://www.movielabs.com/md/ratings/CL/CCC/1"
     },
     "region": {
       "code": "CL",
       "name": "CHILE"
     },
     "use": [
-      "feature"
-    ],
+      "feature",
+      "trailer"
+    ]
+  },
+  {
+    "agency": {
+      "identifier": "http://www.movielabs.com/md/ratings/CL/CCC/1",
+      "organization": "CCC",
+      "system": "CCC"
+    },
     "ratings": [
       "TE",
       "6",
@@ -617,21 +610,21 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2018-02-05T19:14:07)",
       "url": "https://movielabs.com/md/ratings/"
-    }
-  },
-  {
-    "agency": {
-      "system": "MOC",
-      "organization": "MoC",
-      "identifier": "http://www.movielabs.com/md/ratings/CO/MOC/1"
     },
     "region": {
-      "code": "CO",
-      "name": "COLOMBIA"
+      "code": "CL",
+      "name": "CHILE"
     },
     "use": [
       "feature"
-    ],
+    ]
+  },
+  {
+    "agency": {
+      "identifier": "http://www.movielabs.com/md/ratings/CO/MOC/1",
+      "organization": "MoC",
+      "system": "MOC"
+    },
     "ratings": [
       "E",
       "T",
@@ -645,21 +638,21 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2020-01-17T00:07:33)",
       "url": "https://movielabs.com/md/ratings/"
-    }
-  },
-  {
-    "agency": {
-      "system": "CCEP",
-      "organization": "CCEP",
-      "identifier": "http://www.movielabs.com/md/ratings/CR/CCEP/0"
     },
     "region": {
-      "code": "CR",
-      "name": "COSTA RICA"
+      "code": "CO",
+      "name": "COLOMBIA"
     },
     "use": [
       "feature"
-    ],
+    ]
+  },
+  {
+    "agency": {
+      "identifier": "http://www.movielabs.com/md/ratings/CR/CCEP/0",
+      "organization": "CCEP",
+      "system": "CCEP"
+    },
     "ratings": [
       "15",
       "18",
@@ -671,22 +664,21 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2020-02-28T21:46:15)",
       "url": "https://movielabs.com/md/ratings/"
-    }
+    },
+    "region": {
+      "code": "CR",
+      "name": "COSTA RICA"
+    },
+    "use": [
+      "feature"
+    ]
   },
   {
     "agency": {
-      "system": "Film",
+      "identifier": "http://www.movielabs.com/md/ratings/CZ/Film/1",
       "organization": "SFK",
-      "identifier": "http://www.movielabs.com/md/ratings/CZ/Film/1"
+      "system": "Film"
     },
-    "region": {
-      "code": "CZ",
-      "name": "CZECH REPUBLIC"
-    },
-    "use": [
-      "feature",
-      "trailer"
-    ],
     "ratings": [
       "U",
       "12",
@@ -697,21 +689,22 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2020-01-17T00:18:10)",
       "url": "https://movielabs.com/md/ratings/"
-    }
+    },
+    "region": {
+      "code": "CZ",
+      "name": "CZECH REPUBLIC"
+    },
+    "use": [
+      "feature",
+      "trailer"
+    ]
   },
   {
     "agency": {
-      "system": "FSK",
+      "identifier": "http://www.movielabs.com/md/ratings/DE/FSK/1",
       "organization": "Freiwillige Selbstkontrolle der Filmwirtschaft",
-      "identifier": "http://www.movielabs.com/md/ratings/DE/FSK/1"
+      "system": "FSK"
     },
-    "region": {
-      "code": "DE",
-      "name": "GERMANY"
-    },
-    "use": [
-      "feature"
-    ],
     "ratings": [
       "0",
       "6",
@@ -723,21 +716,21 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2019-12-17T22:22:56)",
       "url": "https://movielabs.com/md/ratings/"
-    }
-  },
-  {
-    "agency": {
-      "system": "MCCYP",
-      "organization": "The Media Council for Children and Young People",
-      "identifier": "http://www.movielabs.com/md/ratings/DK/MCCYP/1"
     },
     "region": {
-      "code": "DK",
-      "name": "DENMARK"
+      "code": "DE",
+      "name": "GERMANY"
     },
     "use": [
       "feature"
-    ],
+    ]
+  },
+  {
+    "agency": {
+      "identifier": "http://www.movielabs.com/md/ratings/DK/MCCYP/1",
+      "organization": "The Media Council for Children and Young People",
+      "system": "MCCYP"
+    },
     "ratings": [
       "A",
       "7",
@@ -747,21 +740,21 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2020-01-09T21:21:13)",
       "url": "https://movielabs.com/md/ratings/"
-    }
-  },
-  {
-    "agency": {
-      "system": "CNE",
-      "organization": "CNE",
-      "identifier": "http://www.movielabs.com/md/ratings/EC/CNE/0"
     },
     "region": {
-      "code": "EC",
-      "name": "ECUADOR"
+      "code": "DK",
+      "name": "DENMARK"
     },
     "use": [
       "feature"
-    ],
+    ]
+  },
+  {
+    "agency": {
+      "identifier": "http://www.movielabs.com/md/ratings/EC/CNE/0",
+      "organization": "CNE",
+      "system": "CNE"
+    },
     "ratings": [
       "TP",
       "12",
@@ -772,22 +765,21 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2020-02-04T22:31:26)",
       "url": "https://movielabs.com/md/ratings/"
-    }
+    },
+    "region": {
+      "code": "EC",
+      "name": "ECUADOR"
+    },
+    "use": [
+      "feature"
+    ]
   },
   {
     "agency": {
-      "system": "Film",
+      "identifier": "http://www.movielabs.com/md/ratings/EE/Film/1",
       "organization": "",
-      "identifier": "http://www.movielabs.com/md/ratings/EE/Film/1"
+      "system": "Film"
     },
-    "region": {
-      "code": "EE",
-      "name": "ESTONIA"
-    },
-    "use": [
-      "feature",
-      "trailer"
-    ],
     "ratings": [
       "Pere",
       "L",
@@ -801,22 +793,22 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2020-02-28T20:44:09)",
       "url": "https://movielabs.com/md/ratings/"
-    }
-  },
-  {
-    "agency": {
-      "system": "Film",
-      "organization": "",
-      "identifier": "http://www.movielabs.com/md/ratings/EG/Film/2"
     },
     "region": {
-      "code": "EG",
-      "name": "EGYPT"
+      "code": "EE",
+      "name": "ESTONIA"
     },
     "use": [
       "feature",
       "trailer"
-    ],
+    ]
+  },
+  {
+    "agency": {
+      "identifier": "http://www.movielabs.com/md/ratings/EG/Film/2",
+      "organization": "",
+      "system": "Film"
+    },
     "ratings": [
       "16",
       "GN",
@@ -827,22 +819,22 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2020-02-28T20:44:31)",
       "url": "https://movielabs.com/md/ratings/"
-    }
-  },
-  {
-    "agency": {
-      "system": "ICAA",
-      "organization": "ICAA",
-      "identifier": "http://www.movielabs.com/md/ratings/ES/ICAA/2"
     },
     "region": {
-      "code": "ES",
-      "name": "SPAIN"
+      "code": "EG",
+      "name": "EGYPT"
     },
     "use": [
       "feature",
       "trailer"
-    ],
+    ]
+  },
+  {
+    "agency": {
+      "identifier": "http://www.movielabs.com/md/ratings/ES/ICAA/2",
+      "organization": "ICAA",
+      "system": "ICAA"
+    },
     "ratings": [
       "APTA",
       "ER",
@@ -856,22 +848,22 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2019-12-23T21:16:23)",
       "url": "https://movielabs.com/md/ratings/"
-    }
-  },
-  {
-    "agency": {
-      "system": "MEKU",
-      "organization": "MEKU",
-      "identifier": "http://www.movielabs.com/md/ratings/FI/MEKU/2"
     },
     "region": {
-      "code": "FI",
-      "name": "FINLAND"
+      "code": "ES",
+      "name": "SPAIN"
     },
     "use": [
       "feature",
       "trailer"
-    ],
+    ]
+  },
+  {
+    "agency": {
+      "identifier": "http://www.movielabs.com/md/ratings/FI/MEKU/2",
+      "organization": "MEKU",
+      "system": "MEKU"
+    },
     "ratings": [
       "S",
       "7",
@@ -882,22 +874,22 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2019-12-23T21:08:36)",
       "url": "https://movielabs.com/md/ratings/"
-    }
-  },
-  {
-    "agency": {
-      "system": "CNC",
-      "organization": "Commission de classification cinématographique",
-      "identifier": "http://www.movielabs.com/md/ratings/FR/CNC/3"
     },
     "region": {
-      "code": "FR",
-      "name": "FRANCE"
+      "code": "FI",
+      "name": "FINLAND"
     },
     "use": [
       "feature",
       "trailer"
-    ],
+    ]
+  },
+  {
+    "agency": {
+      "identifier": "http://www.movielabs.com/md/ratings/FR/CNC/3",
+      "organization": "Commission de classification cinématographique",
+      "system": "CNC"
+    },
     "ratings": [
       "T",
       "12",
@@ -908,21 +900,22 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2019-12-11T23:39:15)",
       "url": "https://movielabs.com/md/ratings/"
-    }
+    },
+    "region": {
+      "code": "FR",
+      "name": "FRANCE"
+    },
+    "use": [
+      "feature",
+      "trailer"
+    ]
   },
   {
     "agency": {
-      "system": "BBFC",
+      "identifier": "http://www.movielabs.com/md/ratings/GB/BBFC/1",
       "organization": "British Board of Film Classification",
-      "identifier": "http://www.movielabs.com/md/ratings/GB/BBFC/1"
+      "system": "BBFC"
     },
-    "region": {
-      "code": "GB",
-      "name": "UNITED KINGDOM"
-    },
-    "use": [
-      "feature"
-    ],
     "ratings": [
       "U",
       "PG",
@@ -935,13 +928,33 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2019-11-05T23:05:50)",
       "url": "https://movielabs.com/md/ratings/"
-    }
+    },
+    "region": {
+      "code": "GB",
+      "name": "UNITED KINGDOM"
+    },
+    "use": [
+      "feature"
+    ]
   },
   {
     "agency": {
-      "system": "Film",
+      "identifier": "http://www.movielabs.com/md/ratings/GR/Film/0",
       "organization": "",
-      "identifier": "http://www.movielabs.com/md/ratings/GR/Film/0"
+      "system": "Film"
+    },
+    "ratings": [
+      "K",
+      "E",
+      "K-12",
+      "K-13",
+      "K-15",
+      "K-17",
+      "18+"
+    ],
+    "reference": {
+      "description": "MovieLabs, Common Metadata Ratings (2020-01-17T00:30:23)",
+      "url": "https://movielabs.com/md/ratings/"
     },
     "region": {
       "code": "GR",
@@ -950,7 +963,14 @@
     "use": [
       "feature",
       "trailer"
-    ],
+    ]
+  },
+  {
+    "agency": {
+      "identifier": "http://www.movielabs.com/md/ratings/GR/Film/0",
+      "organization": "",
+      "system": "Film"
+    },
     "ratings": [
       "K",
       "E",
@@ -963,13 +983,6 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2020-01-17T00:30:23)",
       "url": "https://movielabs.com/md/ratings/"
-    }
-  },
-  {
-    "agency": {
-      "system": "Film",
-      "organization": "",
-      "identifier": "http://www.movielabs.com/md/ratings/GR/Film/0"
     },
     "region": {
       "code": "CY",
@@ -978,34 +991,14 @@
     "use": [
       "feature",
       "trailer"
-    ],
-    "ratings": [
-      "K",
-      "E",
-      "K-12",
-      "K-13",
-      "K-15",
-      "K-17",
-      "18+"
-    ],
-    "reference": {
-      "description": "MovieLabs, Common Metadata Ratings (2020-01-17T00:30:23)",
-      "url": "https://movielabs.com/md/ratings/"
-    }
+    ]
   },
   {
     "agency": {
-      "system": "FCO",
+      "identifier": "http://www.movielabs.com/md/ratings/HK/FCO/1",
       "organization": "Office for Film, Newspaper and Article Administration",
-      "identifier": "http://www.movielabs.com/md/ratings/HK/FCO/1"
+      "system": "FCO"
     },
-    "region": {
-      "code": "HK",
-      "name": "HONG KONG"
-    },
-    "use": [
-      "feature"
-    ],
     "ratings": [
       "I",
       "IIA",
@@ -1015,22 +1008,21 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2019-12-16T18:10:53)",
       "url": "https://movielabs.com/md/ratings/"
-    }
+    },
+    "region": {
+      "code": "HK",
+      "name": "HONG KONG"
+    },
+    "use": [
+      "feature"
+    ]
   },
   {
     "agency": {
-      "system": "Film",
+      "identifier": "http://www.movielabs.com/md/ratings/HN/Film/0",
       "organization": "",
-      "identifier": "http://www.movielabs.com/md/ratings/HN/Film/0"
+      "system": "Film"
     },
-    "region": {
-      "code": "HN",
-      "name": "HONDURAS"
-    },
-    "use": [
-      "feature",
-      "trailer"
-    ],
     "ratings": [
       "G",
       "12",
@@ -1040,22 +1032,22 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2020-02-04T22:39:18)",
       "url": "https://movielabs.com/md/ratings/"
-    }
-  },
-  {
-    "agency": {
-      "system": "HAVC",
-      "organization": "HAVC",
-      "identifier": "http://www.movielabs.com/md/ratings/HR/HAVC/0"
     },
     "region": {
-      "code": "HR",
-      "name": "CROATIA"
+      "code": "HN",
+      "name": "HONDURAS"
     },
     "use": [
       "feature",
       "trailer"
-    ],
+    ]
+  },
+  {
+    "agency": {
+      "identifier": "http://www.movielabs.com/md/ratings/HR/HAVC/0",
+      "organization": "HAVC",
+      "system": "HAVC"
+    },
     "ratings": [
       "SU",
       "12",
@@ -1065,21 +1057,22 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2020-01-10T00:26:58)",
       "url": "https://movielabs.com/md/ratings/"
-    }
+    },
+    "region": {
+      "code": "HR",
+      "name": "CROATIA"
+    },
+    "use": [
+      "feature",
+      "trailer"
+    ]
   },
   {
     "agency": {
-      "system": "RCNOF",
+      "identifier": "http://www.movielabs.com/md/ratings/HU/RCNOF/2",
       "organization": "NATIONAL MEDIA AND COMMUNICATIONS AUTHORITY",
-      "identifier": "http://www.movielabs.com/md/ratings/HU/RCNOF/2"
+      "system": "RCNOF"
     },
-    "region": {
-      "code": "HU",
-      "name": "HUNGARY"
-    },
-    "use": [
-      "feature"
-    ],
     "ratings": [
       "I",
       "II",
@@ -1091,22 +1084,21 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2020-01-17T00:45:00)",
       "url": "https://movielabs.com/md/ratings/"
-    }
+    },
+    "region": {
+      "code": "HU",
+      "name": "HUNGARY"
+    },
+    "use": [
+      "feature"
+    ]
   },
   {
     "agency": {
-      "system": "LSF",
+      "identifier": "http://www.movielabs.com/md/ratings/ID/LSF/1",
       "organization": "Lembaga Sensor Film",
-      "identifier": "http://www.movielabs.com/md/ratings/ID/LSF/1"
+      "system": "LSF"
     },
-    "region": {
-      "code": "ID",
-      "name": "INDONESIA"
-    },
-    "use": [
-      "feature",
-      "trailer"
-    ],
     "ratings": [
       "SU",
       "A",
@@ -1117,21 +1109,22 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2018-02-05T21:54:29)",
       "url": "https://movielabs.com/md/ratings/"
-    }
+    },
+    "region": {
+      "code": "ID",
+      "name": "INDONESIA"
+    },
+    "use": [
+      "feature",
+      "trailer"
+    ]
   },
   {
     "agency": {
-      "system": "IFCOF",
+      "identifier": "http://www.movielabs.com/md/ratings/IE/IFCOF/1",
       "organization": "Irish Film Classification Office",
-      "identifier": "http://www.movielabs.com/md/ratings/IE/IFCOF/1"
+      "system": "IFCOF"
     },
-    "region": {
-      "code": "IE",
-      "name": "IRELAND"
-    },
-    "use": [
-      "feature"
-    ],
     "ratings": [
       "G",
       "PG",
@@ -1143,21 +1136,21 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2020-01-10T00:30:10)",
       "url": "https://movielabs.com/md/ratings/"
-    }
-  },
-  {
-    "agency": {
-      "system": "Film",
-      "organization": "Film Review Board",
-      "identifier": "http://www.movielabs.com/md/ratings/IL/Film/0"
     },
     "region": {
-      "code": "IL",
-      "name": "ISRAEL"
+      "code": "IE",
+      "name": "IRELAND"
     },
     "use": [
       "feature"
-    ],
+    ]
+  },
+  {
+    "agency": {
+      "identifier": "http://www.movielabs.com/md/ratings/IL/Film/0",
+      "organization": "Film Review Board",
+      "system": "Film"
+    },
     "ratings": [
       "ALL",
       "12",
@@ -1168,21 +1161,21 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2020-01-17T20:25:24)",
       "url": "https://movielabs.com/md/ratings/"
-    }
-  },
-  {
-    "agency": {
-      "system": "CBFC",
-      "organization": "Central Board of Film Certification",
-      "identifier": "http://www.movielabs.com/md/ratings/IN/CBFC/1"
     },
     "region": {
-      "code": "IN",
-      "name": "INDIA"
+      "code": "IL",
+      "name": "ISRAEL"
     },
     "use": [
       "feature"
-    ],
+    ]
+  },
+  {
+    "agency": {
+      "identifier": "http://www.movielabs.com/md/ratings/IN/CBFC/1",
+      "organization": "Central Board of Film Certification",
+      "system": "CBFC"
+    },
     "ratings": [
       "U",
       "UA",
@@ -1192,22 +1185,21 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2013-12-29T19:13:42)",
       "url": "https://movielabs.com/md/ratings/"
-    }
+    },
+    "region": {
+      "code": "IN",
+      "name": "INDIA"
+    },
+    "use": [
+      "feature"
+    ]
   },
   {
     "agency": {
-      "system": "FRISK",
+      "identifier": "http://www.movielabs.com/md/ratings/IS/FRISK/0",
       "organization": "Frisk",
-      "identifier": "http://www.movielabs.com/md/ratings/IS/FRISK/0"
+      "system": "FRISK"
     },
-    "region": {
-      "code": "IS",
-      "name": "ICELAND"
-    },
-    "use": [
-      "feature",
-      "trailer"
-    ],
     "ratings": [
       "L",
       "6",
@@ -1219,13 +1211,6 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2020-01-17T20:27:39)",
       "url": "https://movielabs.com/md/ratings/"
-    }
-  },
-  {
-    "agency": {
-      "system": "SMAIS",
-      "organization": "SMAIS",
-      "identifier": "http://www.movielabs.com/md/ratings/IS/SMAIS/2"
     },
     "region": {
       "code": "IS",
@@ -1234,7 +1219,14 @@
     "use": [
       "feature",
       "trailer"
-    ],
+    ]
+  },
+  {
+    "agency": {
+      "identifier": "http://www.movielabs.com/md/ratings/IS/SMAIS/2",
+      "organization": "SMAIS",
+      "system": "SMAIS"
+    },
     "ratings": [
       "L",
       "7",
@@ -1246,21 +1238,22 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2020-01-17T20:27:27)",
       "url": "https://movielabs.com/md/ratings/"
-    }
+    },
+    "region": {
+      "code": "IS",
+      "name": "ICELAND"
+    },
+    "use": [
+      "feature",
+      "trailer"
+    ]
   },
   {
     "agency": {
-      "system": "MBACT",
+      "identifier": "http://www.movielabs.com/md/ratings/IT/MBACT/2",
       "organization": "Ministero dei Beni e delle Attività Culturali e del Turismo",
-      "identifier": "http://www.movielabs.com/md/ratings/IT/MBACT/2"
+      "system": "MBACT"
     },
-    "region": {
-      "code": "IT",
-      "name": "ITALY"
-    },
-    "use": [
-      "feature"
-    ],
     "ratings": [
       "T",
       "VM14",
@@ -1270,21 +1263,21 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2020-01-17T21:06:01)",
       "url": "https://movielabs.com/md/ratings/"
-    }
-  },
-  {
-    "agency": {
-      "system": "MC-JO",
-      "organization": "MC-JO",
-      "identifier": "http://www.movielabs.com/md/ratings/JO/MC-JO/0"
     },
     "region": {
-      "code": "JO",
-      "name": "JORDAN"
+      "code": "IT",
+      "name": "ITALY"
     },
     "use": [
       "feature"
-    ],
+    ]
+  },
+  {
+    "agency": {
+      "identifier": "http://www.movielabs.com/md/ratings/JO/MC-JO/0",
+      "organization": "MC-JO",
+      "system": "MC-JO"
+    },
     "ratings": [
       "PG",
       "G",
@@ -1296,21 +1289,21 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2020-02-04T23:07:58)",
       "url": "https://movielabs.com/md/ratings/"
-    }
-  },
-  {
-    "agency": {
-      "system": "EIRIN",
-      "organization": "EIGA RINRI IINKAI",
-      "identifier": "http://www.movielabs.com/md/ratings/JP/ERIN/1"
     },
     "region": {
-      "code": "JP",
-      "name": "JAPAN"
+      "code": "JO",
+      "name": "JORDAN"
     },
     "use": [
       "feature"
-    ],
+    ]
+  },
+  {
+    "agency": {
+      "identifier": "http://www.movielabs.com/md/ratings/JP/ERIN/1",
+      "organization": "EIGA RINRI IINKAI",
+      "system": "EIRIN"
+    },
     "ratings": [
       "G",
       "PG12",
@@ -1320,22 +1313,21 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2020-02-05T18:18:20)",
       "url": "https://movielabs.com/md/ratings/"
-    }
+    },
+    "region": {
+      "code": "JP",
+      "name": "JAPAN"
+    },
+    "use": [
+      "feature"
+    ]
   },
   {
     "agency": {
-      "system": "KFCB",
+      "identifier": "http://www.movielabs.com/md/ratings/KE/KFCB/1",
       "organization": "Kenya Film Classification Board",
-      "identifier": "http://www.movielabs.com/md/ratings/KE/KFCB/1"
+      "system": "KFCB"
     },
-    "region": {
-      "code": "KE",
-      "name": "KENYA"
-    },
-    "use": [
-      "feature",
-      "trailer"
-    ],
     "ratings": [
       "G",
       "PG",
@@ -1345,21 +1337,22 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2013-10-28T19:13:23)",
       "url": "https://movielabs.com/md/ratings/"
-    }
+    },
+    "region": {
+      "code": "KE",
+      "name": "KENYA"
+    },
+    "use": [
+      "feature",
+      "trailer"
+    ]
   },
   {
     "agency": {
-      "system": "MCFA-KH",
+      "identifier": "http://www.movielabs.com/md/ratings/KH/MCFA-KH/0",
       "organization": "MCFA-KH",
-      "identifier": "http://www.movielabs.com/md/ratings/KH/MCFA-KH/0"
+      "system": "MCFA-KH"
     },
-    "region": {
-      "code": "KH",
-      "name": "CAMBODIA"
-    },
-    "use": [
-      "feature"
-    ],
     "ratings": [
       "G",
       "PG-13",
@@ -1369,22 +1362,21 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2020-02-28T20:44:59)",
       "url": "https://movielabs.com/md/ratings/"
-    }
+    },
+    "region": {
+      "code": "KH",
+      "name": "CAMBODIA"
+    },
+    "use": [
+      "feature"
+    ]
   },
   {
     "agency": {
-      "system": "KMRB",
+      "identifier": "http://www.movielabs.com/md/ratings/KR/KMRB/2",
       "organization": "Korea Media Rating Board",
-      "identifier": "http://www.movielabs.com/md/ratings/KR/KMRB/2"
+      "system": "KMRB"
     },
-    "region": {
-      "code": "KR",
-      "name": "KOREA, REP"
-    },
-    "use": [
-      "feature",
-      "trailer"
-    ],
     "ratings": [
       "G",
       "12+",
@@ -1395,21 +1387,22 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2020-02-28T21:22:39)",
       "url": "https://movielabs.com/md/ratings/"
-    }
+    },
+    "region": {
+      "code": "KR",
+      "name": "KOREA, REP"
+    },
+    "use": [
+      "feature",
+      "trailer"
+    ]
   },
   {
     "agency": {
-      "system": "KCB",
+      "identifier": "http://www.movielabs.com/md/ratings/KW/KCB/0",
       "organization": "KCB",
-      "identifier": "http://www.movielabs.com/md/ratings/KW/KCB/0"
+      "system": "KCB"
     },
-    "region": {
-      "code": "KW",
-      "name": "KUWAIT"
-    },
-    "use": [
-      "feature"
-    ],
     "ratings": [
       "PG",
       "G",
@@ -1421,21 +1414,21 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2020-02-05T00:15:16)",
       "url": "https://movielabs.com/md/ratings/"
-    }
-  },
-  {
-    "agency": {
-      "system": "KCB",
-      "organization": "KCB",
-      "identifier": "http://www.movielabs.com/md/ratings/KZ/KCB/0"
     },
     "region": {
-      "code": "KZ",
-      "name": "KAZAKHSTAN"
+      "code": "KW",
+      "name": "KUWAIT"
     },
     "use": [
       "feature"
-    ],
+    ]
+  },
+  {
+    "agency": {
+      "identifier": "http://www.movielabs.com/md/ratings/KZ/KCB/0",
+      "organization": "KCB",
+      "system": "KCB"
+    },
     "ratings": [
       "K",
       "BA",
@@ -1447,21 +1440,21 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2020-02-04T23:40:02)",
       "url": "https://movielabs.com/md/ratings/"
-    }
-  },
-  {
-    "agency": {
-      "system": "LCB",
-      "organization": "LCB",
-      "identifier": "http://www.movielabs.com/md/ratings/LB/LCB/0"
     },
     "region": {
-      "code": "LB",
-      "name": "LEBANON"
+      "code": "KZ",
+      "name": "KAZAKHSTAN"
     },
     "use": [
       "feature"
-    ],
+    ]
+  },
+  {
+    "agency": {
+      "identifier": "http://www.movielabs.com/md/ratings/LB/LCB/0",
+      "organization": "LCB",
+      "system": "LCB"
+    },
     "ratings": [
       "PG",
       "G",
@@ -1473,21 +1466,21 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2020-02-05T17:17:02)",
       "url": "https://movielabs.com/md/ratings/"
-    }
-  },
-  {
-    "agency": {
-      "system": "LKC",
-      "organization": "LKC",
-      "identifier": "http://www.movielabs.com/md/ratings/LT/LKC/0"
     },
     "region": {
-      "code": "LT",
-      "name": "LITHUANIA"
+      "code": "LB",
+      "name": "LEBANON"
     },
     "use": [
       "feature"
-    ],
+    ]
+  },
+  {
+    "agency": {
+      "identifier": "http://www.movielabs.com/md/ratings/LT/LKC/0",
+      "organization": "LKC",
+      "system": "LKC"
+    },
     "ratings": [
       "V",
       "N-7",
@@ -1498,21 +1491,21 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2020-02-05T17:27:58)",
       "url": "https://movielabs.com/md/ratings/"
-    }
-  },
-  {
-    "agency": {
-      "system": "CSCF",
-      "organization": "Commission de surveillance de la classification des films",
-      "identifier": "http://www.movielabs.com/md/ratings/LU/CSCF/1"
     },
     "region": {
-      "code": "LU",
-      "name": "LUXEMBOURG"
+      "code": "LT",
+      "name": "LITHUANIA"
     },
     "use": [
       "feature"
-    ],
+    ]
+  },
+  {
+    "agency": {
+      "identifier": "http://www.movielabs.com/md/ratings/LU/CSCF/1",
+      "organization": "Commission de surveillance de la classification des films",
+      "system": "CSCF"
+    },
     "ratings": [
       "A",
       "6",
@@ -1524,21 +1517,21 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2020-01-10T22:45:24)",
       "url": "https://movielabs.com/md/ratings/"
-    }
-  },
-  {
-    "agency": {
-      "system": "NKC-LV",
-      "organization": "National Film Center of Latvia",
-      "identifier": "http://www.movielabs.com/md/ratings/LV/NKC-LV/1"
     },
     "region": {
-      "code": "LV",
-      "name": "LATVIA"
+      "code": "LU",
+      "name": "LUXEMBOURG"
     },
     "use": [
       "feature"
-    ],
+    ]
+  },
+  {
+    "agency": {
+      "identifier": "http://www.movielabs.com/md/ratings/LV/NKC-LV/1",
+      "organization": "National Film Center of Latvia",
+      "system": "NKC-LV"
+    },
     "ratings": [
       "U",
       "7+",
@@ -1549,21 +1542,21 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2015-08-19T15:42:45)",
       "url": "https://movielabs.com/md/ratings/"
-    }
-  },
-  {
-    "agency": {
-      "system": "MCCAA",
-      "organization": "Film Age-Classification Board",
-      "identifier": "http://www.movielabs.com/md/ratings/MT/MCCAA/1"
     },
     "region": {
-      "code": "MT",
-      "name": "MALTA"
+      "code": "LV",
+      "name": "LATVIA"
     },
     "use": [
       "feature"
-    ],
+    ]
+  },
+  {
+    "agency": {
+      "identifier": "http://www.movielabs.com/md/ratings/MT/MCCAA/1",
+      "organization": "Film Age-Classification Board",
+      "system": "MCCAA"
+    },
     "ratings": [
       "U",
       "PG",
@@ -1577,21 +1570,21 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2013-10-28T19:19:32)",
       "url": "https://movielabs.com/md/ratings/"
-    }
-  },
-  {
-    "agency": {
-      "system": "NBC",
-      "organization": "National Bureau of Classification",
-      "identifier": "http://www.movielabs.com/md/ratings/MV/NBC/1"
     },
     "region": {
-      "code": "MV",
-      "name": "MALDIVES"
+      "code": "MT",
+      "name": "MALTA"
     },
     "use": [
       "feature"
-    ],
+    ]
+  },
+  {
+    "agency": {
+      "identifier": "http://www.movielabs.com/md/ratings/MV/NBC/1",
+      "organization": "National Bureau of Classification",
+      "system": "NBC"
+    },
     "ratings": [
       "G",
       "PG",
@@ -1604,22 +1597,21 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2018-02-05T21:55:39)",
       "url": "https://movielabs.com/md/ratings/"
-    }
+    },
+    "region": {
+      "code": "MV",
+      "name": "MALDIVES"
+    },
+    "use": [
+      "feature"
+    ]
   },
   {
     "agency": {
-      "system": "RTC",
+      "identifier": "http://www.movielabs.com/md/ratings/MX/RTC/1",
       "organization": "DIRECCIÓN GENERAL DE RADIO, TELEVISIÓN Y CINEMATOGRAFÍA",
-      "identifier": "http://www.movielabs.com/md/ratings/MX/RTC/1"
+      "system": "RTC"
     },
-    "region": {
-      "code": "MX",
-      "name": "MEXICO"
-    },
-    "use": [
-      "feature",
-      "trailer"
-    ],
     "ratings": [
       "AA",
       "A",
@@ -1631,21 +1623,22 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2018-04-02T21:26:22)",
       "url": "https://movielabs.com/md/ratings/"
-    }
+    },
+    "region": {
+      "code": "MX",
+      "name": "MEXICO"
+    },
+    "use": [
+      "feature",
+      "trailer"
+    ]
   },
   {
     "agency": {
-      "system": "FCBM",
+      "identifier": "http://www.movielabs.com/md/ratings/MY/FCBM/1",
       "organization": "Film Censorship Board of Malaysia",
-      "identifier": "http://www.movielabs.com/md/ratings/MY/FCBM/1"
+      "system": "FCBM"
     },
-    "region": {
-      "code": "MY",
-      "name": "MALAYSIA"
-    },
-    "use": [
-      "feature"
-    ],
     "ratings": [
       "U",
       "P13",
@@ -1658,21 +1651,21 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2019-11-11T23:21:37)",
       "url": "https://movielabs.com/md/ratings/"
-    }
-  },
-  {
-    "agency": {
-      "system": "NFVCB",
-      "organization": "National Film and Video Censors' Board",
-      "identifier": "http://www.movielabs.com/md/ratings/NG/NFVCB/1"
     },
     "region": {
-      "code": "NG",
-      "name": "NIGERIA"
+      "code": "MY",
+      "name": "MALAYSIA"
     },
     "use": [
       "feature"
-    ],
+    ]
+  },
+  {
+    "agency": {
+      "identifier": "http://www.movielabs.com/md/ratings/NG/NFVCB/1",
+      "organization": "National Film and Video Censors' Board",
+      "system": "NFVCB"
+    },
     "ratings": [
       "G",
       "PG",
@@ -1685,21 +1678,21 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2019-06-18T19:40:30)",
       "url": "https://movielabs.com/md/ratings/"
-    }
-  },
-  {
-    "agency": {
-      "system": "Kijkwijzer",
-      "organization": "Nederlands Instituut voor de Classificatie     van Audiovisuele Media",
-      "identifier": "http://www.movielabs.com/md/ratings/NL/Kijkwijzer/2"
     },
     "region": {
-      "code": "NL",
-      "name": "NETHERLANDS"
+      "code": "NG",
+      "name": "NIGERIA"
     },
     "use": [
       "feature"
-    ],
+    ]
+  },
+  {
+    "agency": {
+      "identifier": "http://www.movielabs.com/md/ratings/NL/Kijkwijzer/2",
+      "organization": "Nederlands Instituut voor de Classificatie     van Audiovisuele Media",
+      "system": "Kijkwijzer"
+    },
     "ratings": [
       "AL",
       "6",
@@ -1712,22 +1705,21 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2020-01-17T18:18:48)",
       "url": "https://movielabs.com/md/ratings/"
-    }
+    },
+    "region": {
+      "code": "NL",
+      "name": "NETHERLANDS"
+    },
+    "use": [
+      "feature"
+    ]
   },
   {
     "agency": {
-      "system": "Medietilsynet",
+      "identifier": "http://www.movielabs.com/md/ratings/NO/Medietilsynet/2",
       "organization": "Medietilsynet",
-      "identifier": "http://www.movielabs.com/md/ratings/NO/Medietilsynet/2"
+      "system": "Medietilsynet"
     },
-    "region": {
-      "code": "NO",
-      "name": "NORWAY"
-    },
-    "use": [
-      "feature",
-      "trailer"
-    ],
     "ratings": [
       "A",
       "6",
@@ -1741,21 +1733,22 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2019-06-19T13:24:01)",
       "url": "https://movielabs.com/md/ratings/"
-    }
+    },
+    "region": {
+      "code": "NO",
+      "name": "NORWAY"
+    },
+    "use": [
+      "feature",
+      "trailer"
+    ]
   },
   {
     "agency": {
-      "system": "OFLC",
+      "identifier": "http://www.movielabs.com/md/ratings/NZ/OFLC/2",
       "organization": "Office of FIlm and Literature Classification",
-      "identifier": "http://www.movielabs.com/md/ratings/NZ/OFLC/2"
+      "system": "OFLC"
     },
-    "region": {
-      "code": "NZ",
-      "name": "NEW ZEALAND"
-    },
-    "use": [
-      "feature"
-    ],
     "ratings": [
       "G",
       "PG",
@@ -1772,21 +1765,21 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2017-08-07T14:25:35)",
       "url": "https://movielabs.com/md/ratings/"
-    }
-  },
-  {
-    "agency": {
-      "system": "Film",
-      "organization": "MDC",
-      "identifier": "http://www.movielabs.com/md/ratings/PE/Film/0"
     },
     "region": {
-      "code": "PE",
-      "name": "PERU"
+      "code": "NZ",
+      "name": "NEW ZEALAND"
     },
     "use": [
       "feature"
-    ],
+    ]
+  },
+  {
+    "agency": {
+      "identifier": "http://www.movielabs.com/md/ratings/PE/Film/0",
+      "organization": "MDC",
+      "system": "Film"
+    },
     "ratings": [
       "PT",
       "PG",
@@ -1796,22 +1789,21 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2020-01-11T00:33:08)",
       "url": "https://movielabs.com/md/ratings/"
-    }
+    },
+    "region": {
+      "code": "PE",
+      "name": "PERU"
+    },
+    "use": [
+      "feature"
+    ]
   },
   {
     "agency": {
-      "system": "MTRCB",
+      "identifier": "http://www.movielabs.com/md/ratings/PH/MTRCB/1",
       "organization": "MOVIE AND TELEVISION REVIEW AND CLASSIFICATION BOARD",
-      "identifier": "http://www.movielabs.com/md/ratings/PH/MTRCB/1"
+      "system": "MTRCB"
     },
-    "region": {
-      "code": "PH",
-      "name": "PHILIPPINES"
-    },
-    "use": [
-      "feature",
-      "trailer"
-    ],
     "ratings": [
       "G-TV",
       "G",
@@ -1826,22 +1818,22 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2014-09-05T19:55:26)",
       "url": "https://movielabs.com/md/ratings/"
-    }
-  },
-  {
-    "agency": {
-      "system": "NBC-PL",
-      "organization": "National Broadcasting Council",
-      "identifier": "http://www.movielabs.com/md/ratings/PL/NBC-PL/1"
     },
     "region": {
-      "code": "PL",
-      "name": "POLAND"
+      "code": "PH",
+      "name": "PHILIPPINES"
     },
     "use": [
       "feature",
       "trailer"
-    ],
+    ]
+  },
+  {
+    "agency": {
+      "identifier": "http://www.movielabs.com/md/ratings/PL/NBC-PL/1",
+      "organization": "National Broadcasting Council",
+      "system": "NBC-PL"
+    },
     "ratings": [
       "I",
       "II",
@@ -1852,13 +1844,35 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2020-01-11T00:35:13)",
       "url": "https://movielabs.com/md/ratings/"
-    }
+    },
+    "region": {
+      "code": "PL",
+      "name": "POLAND"
+    },
+    "use": [
+      "feature",
+      "trailer"
+    ]
   },
   {
     "agency": {
-      "system": "CCE",
+      "identifier": "http://www.movielabs.com/md/ratings/PT/CCE/0",
       "organization": "Comissão de Classificação de Espectáculos",
-      "identifier": "http://www.movielabs.com/md/ratings/PT/CCE/0"
+      "system": "CCE"
+    },
+    "ratings": [
+      "A",
+      "M/3",
+      "M/4",
+      "M/6",
+      "M/12",
+      "M/16",
+      "M/18",
+      "M/18-P"
+    ],
+    "reference": {
+      "description": "MovieLabs, Common Metadata Ratings (2020-01-11T00:37:43)",
+      "url": "https://movielabs.com/md/ratings/"
     },
     "region": {
       "code": "PT",
@@ -1867,7 +1881,14 @@
     "use": [
       "feature",
       "trailer"
-    ],
+    ]
+  },
+  {
+    "agency": {
+      "identifier": "http://www.movielabs.com/md/ratings/PT/CCE/0",
+      "organization": "Comissão de Classificação de Espectáculos",
+      "system": "CCE"
+    },
     "ratings": [
       "A",
       "M/3",
@@ -1881,13 +1902,6 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2020-01-11T00:37:43)",
       "url": "https://movielabs.com/md/ratings/"
-    }
-  },
-  {
-    "agency": {
-      "system": "CCE",
-      "organization": "Comissão de Classificação de Espectáculos",
-      "identifier": "http://www.movielabs.com/md/ratings/PT/CCE/0"
     },
     "region": {
       "code": "MO",
@@ -1896,36 +1910,14 @@
     "use": [
       "feature",
       "trailer"
-    ],
-    "ratings": [
-      "A",
-      "M/3",
-      "M/4",
-      "M/6",
-      "M/12",
-      "M/16",
-      "M/18",
-      "M/18-P"
-    ],
-    "reference": {
-      "description": "MovieLabs, Common Metadata Ratings (2020-01-11T00:37:43)",
-      "url": "https://movielabs.com/md/ratings/"
-    }
+    ]
   },
   {
     "agency": {
-      "system": "CNA",
+      "identifier": "http://www.movielabs.com/md/ratings/RO/CNA/1",
       "organization": "CONSILIUL NATIONAL AL AUDIOVIZUALULUI - CNA",
-      "identifier": "http://www.movielabs.com/md/ratings/RO/CNA/1"
+      "system": "CNA"
     },
-    "region": {
-      "code": "RO",
-      "name": "ROMANIA"
-    },
-    "use": [
-      "feature",
-      "trailer"
-    ],
     "ratings": [
       "AP",
       "12",
@@ -1937,13 +1929,33 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2020-01-11T00:39:44)",
       "url": "https://movielabs.com/md/ratings/"
-    }
+    },
+    "region": {
+      "code": "RO",
+      "name": "ROMANIA"
+    },
+    "use": [
+      "feature",
+      "trailer"
+    ]
   },
   {
     "agency": {
-      "system": "MKRF",
+      "identifier": "http://www.movielabs.com/md/ratings/RU/MKRF/1",
       "organization": "Ministry of Culture of the Russian Federation",
-      "identifier": "http://www.movielabs.com/md/ratings/RU/MKRF/1"
+      "system": "MKRF"
+    },
+    "ratings": [
+      "0",
+      "6",
+      "12",
+      "14",
+      "16",
+      "18"
+    ],
+    "reference": {
+      "description": "MovieLabs, Common Metadata Ratings (2020-01-16T23:09:58)",
+      "url": "https://movielabs.com/md/ratings/"
     },
     "region": {
       "code": "RU",
@@ -1952,7 +1964,14 @@
     "use": [
       "feature",
       "trailer"
-    ],
+    ]
+  },
+  {
+    "agency": {
+      "identifier": "http://www.movielabs.com/md/ratings/RU/MKRF/1",
+      "organization": "Ministry of Culture of the Russian Federation",
+      "system": "MKRF"
+    },
     "ratings": [
       "0",
       "6",
@@ -1964,13 +1983,6 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2020-01-16T23:09:58)",
       "url": "https://movielabs.com/md/ratings/"
-    }
-  },
-  {
-    "agency": {
-      "system": "MKRF",
-      "organization": "Ministry of Culture of the Russian Federation",
-      "identifier": "http://www.movielabs.com/md/ratings/RU/MKRF/1"
     },
     "region": {
       "code": "AM",
@@ -1979,7 +1991,14 @@
     "use": [
       "feature",
       "trailer"
-    ],
+    ]
+  },
+  {
+    "agency": {
+      "identifier": "http://www.movielabs.com/md/ratings/RU/MKRF/1",
+      "organization": "Ministry of Culture of the Russian Federation",
+      "system": "MKRF"
+    },
     "ratings": [
       "0",
       "6",
@@ -1991,13 +2010,6 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2020-01-16T23:09:58)",
       "url": "https://movielabs.com/md/ratings/"
-    }
-  },
-  {
-    "agency": {
-      "system": "MKRF",
-      "organization": "Ministry of Culture of the Russian Federation",
-      "identifier": "http://www.movielabs.com/md/ratings/RU/MKRF/1"
     },
     "region": {
       "code": "BY",
@@ -2006,33 +2018,14 @@
     "use": [
       "feature",
       "trailer"
-    ],
-    "ratings": [
-      "0",
-      "6",
-      "12",
-      "14",
-      "16",
-      "18"
-    ],
-    "reference": {
-      "description": "MovieLabs, Common Metadata Ratings (2020-01-16T23:09:58)",
-      "url": "https://movielabs.com/md/ratings/"
-    }
+    ]
   },
   {
     "agency": {
-      "system": "CIC-SA",
+      "identifier": "http://www.movielabs.com/md/ratings/SA/GCAM/0",
       "organization": "GCAM",
-      "identifier": "http://www.movielabs.com/md/ratings/SA/GCAM/0"
+      "system": "CIC-SA"
     },
-    "region": {
-      "code": "SA",
-      "name": "SAUDI ARABIA"
-    },
-    "use": [
-      "feature"
-    ],
     "ratings": [
       "G",
       "PG",
@@ -2044,22 +2037,21 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2020-06-30T17:00:28)",
       "url": "https://movielabs.com/md/ratings/"
-    }
+    },
+    "region": {
+      "code": "SA",
+      "name": "SAUDI ARABIA"
+    },
+    "use": [
+      "feature"
+    ]
   },
   {
     "agency": {
-      "system": "SM-SA",
+      "identifier": "http://www.movielabs.com/md/ratings/SE/SM-SA/1",
       "organization": "Statens medieråd (National Media Council)",
-      "identifier": "http://www.movielabs.com/md/ratings/SE/SM-SA/1"
+      "system": "SM-SA"
     },
-    "region": {
-      "code": "SE",
-      "name": "SWEDEN"
-    },
-    "use": [
-      "feature",
-      "trailer"
-    ],
     "ratings": [
       "Barntillåten",
       "7",
@@ -2069,22 +2061,22 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2016-12-20T21:45:13)",
       "url": "https://movielabs.com/md/ratings/"
-    }
-  },
-  {
-    "agency": {
-      "system": "MDA",
-      "organization": "Infocomm Media Development Authority",
-      "identifier": "http://www.movielabs.com/md/ratings/SG/MDA/2"
     },
     "region": {
-      "code": "SG",
-      "name": "SINGAPORE"
+      "code": "SE",
+      "name": "SWEDEN"
     },
     "use": [
       "feature",
       "trailer"
-    ],
+    ]
+  },
+  {
+    "agency": {
+      "identifier": "http://www.movielabs.com/md/ratings/SG/MDA/2",
+      "organization": "Infocomm Media Development Authority",
+      "system": "MDA"
+    },
     "ratings": [
       "G",
       "PG",
@@ -2096,22 +2088,22 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2019-06-18T17:50:27)",
       "url": "https://movielabs.com/md/ratings/"
-    }
-  },
-  {
-    "agency": {
-      "system": "Film",
-      "organization": "",
-      "identifier": "http://www.movielabs.com/md/ratings/SK/Film/1"
     },
     "region": {
-      "code": "SK",
-      "name": "SLOVAKIA"
+      "code": "SG",
+      "name": "SINGAPORE"
     },
     "use": [
       "feature",
       "trailer"
-    ],
+    ]
+  },
+  {
+    "agency": {
+      "identifier": "http://www.movielabs.com/md/ratings/SK/Film/1",
+      "organization": "",
+      "system": "Film"
+    },
     "ratings": [
       "G",
       "7",
@@ -2122,22 +2114,22 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2020-02-28T20:45:52)",
       "url": "https://movielabs.com/md/ratings/"
-    }
-  },
-  {
-    "agency": {
-      "system": "Film",
-      "organization": "",
-      "identifier": "http://www.movielabs.com/md/ratings/SV/Film/0"
     },
     "region": {
-      "code": "SV",
-      "name": "EL SALVADOR"
+      "code": "SK",
+      "name": "SLOVAKIA"
     },
     "use": [
       "feature",
       "trailer"
-    ],
+    ]
+  },
+  {
+    "agency": {
+      "identifier": "http://www.movielabs.com/md/ratings/SV/Film/0",
+      "organization": "",
+      "system": "Film"
+    },
     "ratings": [
       "AA",
       "A",
@@ -2149,22 +2141,22 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2020-02-04T22:36:23)",
       "url": "https://movielabs.com/md/ratings/"
-    }
-  },
-  {
-    "agency": {
-      "system": "BFVC",
-      "organization": "Board of Filmand Video Censors",
-      "identifier": "http://www.movielabs.com/md/ratings/TH/BFVC/0"
     },
     "region": {
-      "code": "TH",
-      "name": "THAILAND"
+      "code": "SV",
+      "name": "EL SALVADOR"
     },
     "use": [
       "feature",
       "trailer"
-    ],
+    ]
+  },
+  {
+    "agency": {
+      "identifier": "http://www.movielabs.com/md/ratings/TH/BFVC/0",
+      "organization": "Board of Filmand Video Censors",
+      "system": "BFVC"
+    },
     "ratings": [
       "G",
       "E",
@@ -2177,21 +2169,22 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2020-01-11T00:51:42)",
       "url": "https://movielabs.com/md/ratings/"
-    }
+    },
+    "region": {
+      "code": "TH",
+      "name": "THAILAND"
+    },
+    "use": [
+      "feature",
+      "trailer"
+    ]
   },
   {
     "agency": {
-      "system": "IBMCT",
+      "identifier": "http://www.movielabs.com/md/ratings/TR/IBMCT/0",
       "organization": "Inspection Board, Ministry of Culture and Tourism",
-      "identifier": "http://www.movielabs.com/md/ratings/TR/IBMCT/0"
+      "system": "IBMCT"
     },
-    "region": {
-      "code": "TR",
-      "name": "TURKEY"
-    },
-    "use": [
-      "feature"
-    ],
     "ratings": [
       "GA",
       "7A",
@@ -2205,22 +2198,21 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2016-12-20T15:36:33)",
       "url": "https://movielabs.com/md/ratings/"
-    }
+    },
+    "region": {
+      "code": "TR",
+      "name": "TURKEY"
+    },
+    "use": [
+      "feature"
+    ]
   },
   {
     "agency": {
-      "system": "MOC-TW",
+      "identifier": "http://www.movielabs.com/md/ratings/TW/MOC-TW/2",
       "organization": "Ministry of Culture - Tawan",
-      "identifier": "http://www.movielabs.com/md/ratings/TW/MOC-TW/2"
+      "system": "MOC-TW"
     },
-    "region": {
-      "code": "TW",
-      "name": "TAIWAN"
-    },
-    "use": [
-      "feature",
-      "trailer"
-    ],
     "ratings": [
       "G",
       "P",
@@ -2232,22 +2224,22 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2019-06-19T16:09:14)",
       "url": "https://movielabs.com/md/ratings/"
-    }
-  },
-  {
-    "agency": {
-      "system": "Ukraine",
-      "organization": "Ukrainian State Film Agency",
-      "identifier": "http://www.movielabs.com/md/ratings/UA/Ukraine/1"
     },
     "region": {
-      "code": "UA",
-      "name": "UKRAINE"
+      "code": "TW",
+      "name": "TAIWAN"
     },
     "use": [
       "feature",
       "trailer"
-    ],
+    ]
+  },
+  {
+    "agency": {
+      "identifier": "http://www.movielabs.com/md/ratings/UA/Ukraine/1",
+      "organization": "Ukrainian State Film Agency",
+      "system": "Ukraine"
+    },
     "ratings": [
       "For",
       "Yes",
@@ -2261,21 +2253,22 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2020-01-17T22:12:23)",
       "url": "https://movielabs.com/md/ratings/"
-    }
+    },
+    "region": {
+      "code": "UA",
+      "name": "UKRAINE"
+    },
+    "use": [
+      "feature",
+      "trailer"
+    ]
   },
   {
     "agency": {
-      "system": "FAB",
+      "identifier": "http://www.movielabs.com/md/ratings/US/FAB/3",
       "organization": "Film Advisory Board",
-      "identifier": "http://www.movielabs.com/md/ratings/US/FAB/3"
+      "system": "FAB"
     },
-    "region": {
-      "code": "US",
-      "name": "UNITED STATES"
-    },
-    "use": [
-      "feature"
-    ],
     "ratings": [
       "F",
       "C",
@@ -2289,35 +2282,6 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2020-04-28T23:18:12)",
       "url": "https://movielabs.com/md/ratings/"
-    }
-  },
-  {
-    "agency": {
-      "system": "MPAAT",
-      "organization": "Motion Picture Association of America, Inc.",
-      "identifier": "http://www.movielabs.com/md/ratings/US/MPAAT/1"
-    },
-    "region": {
-      "code": "US",
-      "name": "UNITED STATES"
-    },
-    "use": [
-      "trailer"
-    ],
-    "ratings": [
-      "GB",
-      "RB"
-    ],
-    "reference": {
-      "description": "MovieLabs, Common Metadata Ratings (2013-10-28T19:44:10)",
-      "url": "https://movielabs.com/md/ratings/"
-    }
-  },
-  {
-    "agency": {
-      "system": "MPAA",
-      "organization": "MPAA",
-      "identifier": "http://www.movielabs.com/md/ratings/US/MPAA/2"
     },
     "region": {
       "code": "US",
@@ -2325,7 +2289,36 @@
     },
     "use": [
       "feature"
+    ]
+  },
+  {
+    "agency": {
+      "identifier": "http://www.movielabs.com/md/ratings/US/MPAAT/1",
+      "organization": "Motion Picture Association of America, Inc.",
+      "system": "MPAAT"
+    },
+    "ratings": [
+      "GB",
+      "RB"
     ],
+    "reference": {
+      "description": "MovieLabs, Common Metadata Ratings (2013-10-28T19:44:10)",
+      "url": "https://movielabs.com/md/ratings/"
+    },
+    "region": {
+      "code": "US",
+      "name": "UNITED STATES"
+    },
+    "use": [
+      "trailer"
+    ]
+  },
+  {
+    "agency": {
+      "identifier": "http://www.movielabs.com/md/ratings/US/MPAA/2",
+      "organization": "MPAA",
+      "system": "MPAA"
+    },
     "ratings": [
       "G",
       "PG",
@@ -2339,22 +2332,21 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2018-02-05T21:56:37)",
       "url": "https://movielabs.com/md/ratings/"
-    }
+    },
+    "region": {
+      "code": "US",
+      "name": "UNITED STATES"
+    },
+    "use": [
+      "feature"
+    ]
   },
   {
     "agency": {
-      "system": "INAU",
+      "identifier": "http://www.movielabs.com/md/ratings/-t.b.d.-/-t.b.d.-/0",
       "organization": "INAU",
-      "identifier": "http://www.movielabs.com/md/ratings/-t.b.d.-/-t.b.d.-/0"
+      "system": "INAU"
     },
-    "region": {
-      "code": "UY",
-      "name": "URUGUAY"
-    },
-    "use": [
-      "feature",
-      "trailer"
-    ],
     "ratings": [
       "6",
       "9",
@@ -2366,21 +2358,22 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2019-12-17T23:00:48)",
       "url": "https://movielabs.com/md/ratings/"
-    }
+    },
+    "region": {
+      "code": "UY",
+      "name": "URUGUAY"
+    },
+    "use": [
+      "feature",
+      "trailer"
+    ]
   },
   {
     "agency": {
-      "system": "RESORTE-Health",
+      "identifier": "http://www.movielabs.com/md/ratings/VE/RESORTE-Health/1",
       "organization": "SiBCI",
-      "identifier": "http://www.movielabs.com/md/ratings/VE/RESORTE-Health/1"
+      "system": "RESORTE-Health"
     },
-    "region": {
-      "code": "VE",
-      "name": "VENEZUELA"
-    },
-    "use": [
-      "feature"
-    ],
     "ratings": [
       "A",
       "B",
@@ -2390,13 +2383,6 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2019-06-11T12:50:34)",
       "url": "https://movielabs.com/md/ratings/"
-    }
-  },
-  {
-    "agency": {
-      "system": "RESORTE-Language",
-      "organization": "SiBCI",
-      "identifier": "http://www.movielabs.com/md/ratings/VE/RESORTE-Language/1"
     },
     "region": {
       "code": "VE",
@@ -2404,7 +2390,14 @@
     },
     "use": [
       "feature"
-    ],
+    ]
+  },
+  {
+    "agency": {
+      "identifier": "http://www.movielabs.com/md/ratings/VE/RESORTE-Language/1",
+      "organization": "SiBCI",
+      "system": "RESORTE-Language"
+    },
     "ratings": [
       "A",
       "B",
@@ -2413,13 +2406,6 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2019-06-11T12:50:21)",
       "url": "https://movielabs.com/md/ratings/"
-    }
-  },
-  {
-    "agency": {
-      "system": "RESORTE-Sexo",
-      "organization": "SiBCI",
-      "identifier": "http://www.movielabs.com/md/ratings/VE/RESORTE-Sexo/1"
     },
     "region": {
       "code": "VE",
@@ -2427,7 +2413,14 @@
     },
     "use": [
       "feature"
-    ],
+    ]
+  },
+  {
+    "agency": {
+      "identifier": "http://www.movielabs.com/md/ratings/VE/RESORTE-Sexo/1",
+      "organization": "SiBCI",
+      "system": "RESORTE-Sexo"
+    },
     "ratings": [
       "A",
       "B",
@@ -2438,13 +2431,6 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2019-06-11T12:51:56)",
       "url": "https://movielabs.com/md/ratings/"
-    }
-  },
-  {
-    "agency": {
-      "system": "RESORTE-Violencia",
-      "organization": "SiBCI",
-      "identifier": "http://www.movielabs.com/md/ratings/VE/RESORTE-Violencia/1"
     },
     "region": {
       "code": "VE",
@@ -2452,7 +2438,14 @@
     },
     "use": [
       "feature"
-    ],
+    ]
+  },
+  {
+    "agency": {
+      "identifier": "http://www.movielabs.com/md/ratings/VE/RESORTE-Violencia/1",
+      "organization": "SiBCI",
+      "system": "RESORTE-Violencia"
+    },
     "ratings": [
       "A",
       "B",
@@ -2463,21 +2456,21 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2019-06-11T12:52:57)",
       "url": "https://movielabs.com/md/ratings/"
-    }
-  },
-  {
-    "agency": {
-      "system": "MCST",
-      "organization": "Ministry of Culture, Sports and Tourism of Viet Nam",
-      "identifier": "http://www.movielabs.com/md/ratings/VN/MCST/2"
     },
     "region": {
-      "code": "VN",
-      "name": "VIET NAM"
+      "code": "VE",
+      "name": "VENEZUELA"
     },
     "use": [
       "feature"
-    ],
+    ]
+  },
+  {
+    "agency": {
+      "identifier": "http://www.movielabs.com/md/ratings/VN/MCST/2",
+      "organization": "Ministry of Culture, Sports and Tourism of Viet Nam",
+      "system": "MCST"
+    },
     "ratings": [
       "P",
       "0",
@@ -2490,22 +2483,21 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2020-01-17T22:15:23)",
       "url": "https://movielabs.com/md/ratings/"
-    }
+    },
+    "region": {
+      "code": "VN",
+      "name": "VIET NAM"
+    },
+    "use": [
+      "feature"
+    ]
   },
   {
     "agency": {
-      "system": "FPB",
+      "identifier": "http://www.movielabs.com/md/ratings/ZA/FPB/4",
       "organization": "Film & Publication Board",
-      "identifier": "http://www.movielabs.com/md/ratings/ZA/FPB/4"
+      "system": "FPB"
     },
-    "region": {
-      "code": "ZA",
-      "name": "SOUTH AFRICA"
-    },
-    "use": [
-      "feature",
-      "trailer"
-    ],
     "ratings": [
       "A",
       "PG",
@@ -2522,22 +2514,22 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2020-01-17T22:16:51)",
       "url": "https://movielabs.com/md/ratings/"
-    }
-  },
-  {
-    "agency": {
-      "system": "UNRATED",
-      "organization": "Motion Picture Laboratories, Inc.",
-      "identifier": "http://www.movielabs.com/md/ratings/ZZ/UNRATED/0"
     },
     "region": {
-      "code": "ZZ",
-      "name": "Global"
+      "code": "ZA",
+      "name": "SOUTH AFRICA"
     },
     "use": [
       "feature",
       "trailer"
-    ],
+    ]
+  },
+  {
+    "agency": {
+      "identifier": "http://www.movielabs.com/md/ratings/ZZ/UNRATED/0",
+      "organization": "Motion Picture Laboratories, Inc.",
+      "system": "UNRATED"
+    },
     "ratings": [
       "ALL",
       "UNRATED",
@@ -2547,6 +2539,14 @@
     "reference": {
       "description": "MovieLabs, Common Metadata Ratings (2014-08-01T15:14:44)",
       "url": "https://movielabs.com/md/ratings/"
-    }
+    },
+    "region": {
+      "code": "ZZ",
+      "name": "Global"
+    },
+    "use": [
+      "feature",
+      "trailer"
+    ]
   }
 ]
