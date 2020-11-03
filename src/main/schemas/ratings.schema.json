@@ -1,0 +1,90 @@
+{
+  "$schema": "http://json-schema.org/schema#",
+  "$id": "http://isdcf.com/ns/json-schemas/registries/ratings/1.0.0-beta.1",
+  "$comment": "Copyright, ISDCF <info@isdcf.com>",
+  "title": "Schema for the Ratings registry of the ISDCF",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "agency": {
+        "type": "object",
+        "properties": {
+          "identifier": {
+            "type": "string",
+            "format": "uri"
+          },
+          "system": {
+            "type": "string"
+          },
+          "organization": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "identifier",
+          "system",
+          "organization"
+        ],
+        "additionalProperties": false
+      },
+      "region": {
+        "type": "object",
+        "properties": {
+          "code": {
+            "type": "string"
+          },
+          "name": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "code",
+          "name"
+        ],
+        "additionalProperties": false
+      },
+      "use": {
+        "type": "array",
+        "minItems": 1,
+        "uniqueItems": true,
+        "items": {
+          "type": "string",
+          "enum": ["trailer", "feature"]
+        }
+      },
+      "ratings": {
+        "type": "array",
+        "minItems": 1,
+        "uniqueItems": true,
+        "items": {
+          "type": "string"
+        }
+      },
+      "reference": {
+        "type": "object",
+        "properties": {
+          "description": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string",
+            "format": "uri"
+          }
+        },
+        "required": [
+          "description"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "required": [
+      "agency",
+      "region",
+      "use",
+      "ratings",
+      "reference"
+    ],
+    "additionalProperties": false
+  }
+}

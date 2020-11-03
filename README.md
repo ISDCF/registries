@@ -1,7 +1,6 @@
-ISDCF Metadata Registries
-=========================
+# ISDCF Metadata Registries
 
-_EXPERIMENTAL_
+## Overview
 
 Metadata registries maintained by the InterSociety Digital Cinema Forum (ISDCF).
 
@@ -12,3 +11,7 @@ The registry data is:
 * available through an API at https://registry.isdcf.com
 
 * published as HTML at https://isdcf.com/dcnc/
+
+## Notes
+
+The _ratings_ registry is generated from the information at <https://movielabs.com/md/ratings/>, which is maintained by [MovieLabs](https://movielabs.com/).
