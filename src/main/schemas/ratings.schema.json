@@ -16,15 +16,11 @@
           },
           "system": {
             "type": "string"
-          },
-          "organization": {
-            "type": "string"
           }
         },
         "required": [
           "identifier",
-          "system",
-          "organization"
+          "system"
         ],
         "additionalProperties": false
       },

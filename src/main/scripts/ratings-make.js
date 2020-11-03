@@ -97,8 +97,6 @@ function convertMLRatingsRegistry(registry_str) {
 
       entry.agency.system = systems.item(i).getElementsByTagNameNS(MDCR_NS, "System").item(0).textContent;
 
-      entry.agency.organization = systems.item(i).getElementsByTagNameNS(MDCR_NS, "RatingsOrg").item(0).getAttribute("organizationID");
-
       entry.agency.identifier = systems.item(i).getElementsByTagNameNS(MDCR_NS, "URI").item(0).textContent;
 
       countries = regions.item(j).getElementsByTagNameNS(MD_NS, "country");
