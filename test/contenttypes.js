@@ -9,8 +9,8 @@ describe("contenttypes schema", () => {
   it("valid", () => {
     assert.doesNotThrow(() => validate([
       {
-        "code": "EPS",
-        "contentKind": {
+        "dcncCode": "EPS",
+        "cplContentKind": {
           "value": "episode",
           "scope": "http://www.smpte-ra.org/schemas/2067-3/2013#content-kind",
           "definingDoc": "SMPTE ST 2067-3"
@@ -18,8 +18,8 @@ describe("contenttypes schema", () => {
         "description": "Part of a dramatic work such as a serial television program."
       },
       {
-        "code": "FTR",
-        "contentKind": {
+        "dcncCode": "FTR",
+        "cplContentKind": {
           "value": "feature",
           "scope": "http://www.smpte-ra.org/schemas/429-7/2006/CPL#standard-content",
           "definingDoc": "SMPTE ST 429-7"
@@ -29,9 +29,16 @@ describe("contenttypes schema", () => {
     ]))
   })
 
-  it("invalid", () => {
+  it("missing scope", () => {
     assert.throw(() => validate([
-      "foo"
+      {
+        "dcncCode": "FTR",
+        "cplContentKind": {
+          "value": "feature",
+          "definingDoc": "SMPTE ST 429-7"
+        },
+        "description": "A theatrical feature."
+      }
     ]), /fails schema/)
   })
 

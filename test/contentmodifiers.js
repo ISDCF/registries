@@ -3,13 +3,13 @@ const chai = require('chai')
 const should = chai.should();
 const assert = chai.assert
 
-describe("contenttypemods schema", () => {
-  before(async () => { ({ contenttypemods: { validate } } = await registries() ) })
+describe("contentmodifiers schema", () => {
+  before(async () => { ({ contentmodifiers: { validate } } = await registries() ) })
 
   it("valid", () => {
     assert.doesNotThrow(() => validate([
       {
-        "code": "[VersionNumber]",
+        "dcncCode": "[VersionNumber]",
         "cplMetadata": {
           "metaType": "Element Value",
           "element": "VersionNumber",
@@ -20,7 +20,7 @@ describe("contenttypemods schema", () => {
         "description": "Indicates the version number of the Composition."
       },
       {
-        "code": "3D",
+        "dcncCode": "3D",
         "cplMetadata": {
           "metaType": "Element Present",
           "element": "MainStereoscopicPicture",
@@ -32,9 +32,12 @@ describe("contenttypemods schema", () => {
     ]))
   })
 
-  it("invalid", () => {
+  it("missing metadata", () => {
     assert.throw(() => validate([
-      "foo"
+      {
+        "dcncCode": "3D",
+        "description": "If the product is 3D."
+      }
     ]), /fails schema/)
   })
 

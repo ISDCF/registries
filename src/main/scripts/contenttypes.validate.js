@@ -25,10 +25,10 @@ module.exports = (registry, name) => {
   const keys = []
 
   for (i in registry) {
-    if (keys.includes(registry[i].code)) {
-      throw name + " registry key " + registry[i].code + " is " + "duplicated";
+    if (keys.includes(registry[i].dcncCode)) {
+      throw name + " registry key " + registry[i].dcncCode + " is " + "duplicated";
     }
-    keys.push(registry[i].code)
+    keys.push(registry[i].dcncCode)
   }
   
 }
