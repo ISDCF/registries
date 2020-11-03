@@ -1,0 +1,65 @@
+{
+  "$schema": "http://json-schema.org/schema#",
+  "$id": "http://isdcf.com/ns/json-schemas/registries/contentmodifiers/1.0.0-beta.1",
+  "$comment": "Copyright, ISDCF <info@isdcf.com>",
+  "title": "Schema for the Content Modifiers Registry of the ISDCF",
+  "definitions": {
+    "dcncCode" : {
+        "type": "string",
+        "pattern": "^\\[?[A-Z0-9]\\]?"
+    },
+    "cplMetadata": {
+      "type": "object",
+      "properties": {
+          "metaType": {
+              "type": "string",
+              "enum": [
+                "Element Value",
+                "Element Attribute Value",
+                "Element Present",
+                "Extension Present",
+                "None"
+              ]
+          },
+          "scope": {
+              "type": "string",
+              "format": "uri"
+          },
+          "element": {
+              "type": "string"
+          },
+          "attribute": {
+              "type": "string"
+          },
+          "value": {
+              "type": "string"
+          },
+          "definingDoc": {
+              "type": "string"
+          }
+      },
+      "required": [ "metaType", "definingDoc"]
+    }
+  },
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "dcncCode": {
+        "$ref": "#/definitions/dcncCode"
+      },
+      "dcncSortOrder": {
+        "type": "integer",
+        "minimum": 1
+      },
+      "description": {
+        "type": "string"
+      },
+      "cplMetadata": {
+        "$ref": "#/definitions/cplMetadata"
+      }
+    },
+    "required": [ "dcncCode", "dcncSortOrder", "cplMetadata", "description" ],
+    "additionalProperties": false
+  }
+}
