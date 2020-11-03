@@ -5,7 +5,8 @@
   "scripts": {
     "test": "mocha",
     "validate": "node src/main/scripts/validate.js",
-    "canonicalize": "node src/main/scripts/canonicalize.js"
+    "canonicalize": "node src/main/scripts/canonicalize.js",
+    "make-ratings": "node src/main/scripts/ratings-make.js & node src/main/scripts/canonicalize.js"
   },
   "main": "src/main/scripts/validate.js",
   "repository": {
@@ -15,14 +16,15 @@
   "author": "InterSociety Digital Cinema Forum (ISDCF) <info@isdcf.com>",
   "license": "CC-BY-4.0",
   "devDependencies": {
-    "ajv": "^6.10.2",
     "cldr-core": "^36.0.0",
     "cldr-localenames-modern": "^36.0.0",
-    "language-subtag-registry": "^0.3.20"
-  },
-  "dependencies": {
+    "language-subtag-registry": "^0.3.20",
+    "xmldom": "^0.4.0",
     "chai": "^4.2.0",
     "json-stable-stringify": "^1.0.1",
     "mocha": "^8.1.1"
+  },
+  "dependencies": {
+    "ajv": "^6.10.2"
   }
 }
