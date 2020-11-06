@@ -5,11 +5,12 @@
       "element": "VersionNumber",
       "metaType": "Element Value",
       "scope": "http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata",
-      "value": "[xs:nonNegativeInteger of VersionNumber]"
+      "value": "[VersionNumber as xs:nonNegativeInteger]"
     },
     "dcncCode": "[VersionNumber]",
     "dcncSortOrder": 1,
-    "description": "Indicates the version number of the Composition."
+    "description": "Indicates the version number of the Composition.",
+    "variableValue": true
   },
   {
     "cplMetadata": {
@@ -56,11 +57,12 @@
       "element": "Chain",
       "metaType": "Element Value",
       "scope": "http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata",
-      "value": "[Chain]"
+      "value": "[CHAIN]"
     },
     "dcncCode": "[CHAIN]",
     "dcncSortOrder": 5,
-    "description": "A human-readable name of the specific targeted use (specific theatre chain or event) for which the Composition Playlist is intended."
+    "description": "A human-readable name of the specific targeted use (specific theatre chain or event) for which the Composition Playlist is intended.",
+    "variableValue": true
   },
   {
     "cplMetadata": {
@@ -102,11 +104,12 @@
       "element": "Luminance",
       "metaType": "Element Value",
       "scope": "http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata",
-      "value": "[xs:decimal of Luminance]"
+      "value": "[Luminance as xs:decimal]"
     },
     "dcncCode": "[Luminance]fl",
     "dcncSortOrder": 9,
-    "description": "There is currently no luminance standard for mastering 3D content. Some films are color timed at 3.5 foot lamberts, others at 4, 4.5, 6, 7, and even 10 foot lamberts. If you have multiple luminance versions of your product, put the foot lamberts numerical value here in order to signal which version the DCP contains. Do not use decimal points for the CTT."
+    "description": "There is currently no luminance standard for mastering 3D content. Some films are color timed at 3.5 foot lamberts, others at 4, 4.5, 6, 7, and even 10 foot lamberts. If you have multiple luminance versions of your product, put the foot lamberts numerical value here in order to signal which version the DCP contains. Do not use decimal points for the CTT.",
+    "variableValue": true
   },
   {
     "cplMetadata": {
@@ -114,11 +117,12 @@
       "element": "EditRate",
       "metaType": "Element Value",
       "scope": "http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata",
-      "value": "[cpl:Rational of FPS]"
+      "value": "[FPS as cpl:Rational]"
     },
     "dcncCode": "[FPS]",
     "dcncSortOrder": 10,
-    "description": "Frame Rate numerical value (if other than 24 frames per second)."
+    "description": "Frame Rate numerical value (if other than 24 frames per second).",
+    "variableValue": true
   },
   {
     "cplMetadata": {
