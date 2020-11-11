@@ -3,9 +3,9 @@
     "cplMetadata": {
       "definingDoc": "SMPTE ST 429-16",
       "element": "VersionNumber",
+      "elementValue": "[VersionNumber]",
       "metaType": "Element Value",
-      "scope": "http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata",
-      "value": "[VersionNumber as xs:nonNegativeInteger]"
+      "scope": "http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata"
     },
     "dcncCode": "[VersionNumber]",
     "dcncSortOrder": 1,
@@ -15,11 +15,11 @@
   {
     "cplMetadata": {
       "attribute": "status",
+      "attributeValue": "final",
       "definingDoc": "SMPTE ST 429-16",
       "element": "VersionNumber",
       "metaType": "Element Attribute Value",
-      "scope": "http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata",
-      "value": "final"
+      "scope": "http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata"
     },
     "dcncCode": "Final",
     "dcncSortOrder": 2,
@@ -28,11 +28,11 @@
   {
     "cplMetadata": {
       "attribute": "status",
+      "attributeValue": "temp",
       "definingDoc": "SMPTE ST 429-16",
       "element": "VersionNumber",
       "metaType": "Element Attribute Value",
-      "scope": "http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata",
-      "value": "temp"
+      "scope": "http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata"
     },
     "dcncCode": "Temp",
     "dcncSortOrder": 3,
@@ -53,14 +53,29 @@
   },
   {
     "cplMetadata": {
+      "definingDoc": "SMPTE ST 429-7",
+      "element": "Rating",
+      "metaType": "Sub Element Value",
+      "scope": "http://www.smpte-ra.org/schemas/429-7/2006/CPL",
+      "subElement": {
+        "Agency": "http://www.movielabs.com/md/ratings/US/MPAAT/1",
+        "Label": "RB"
+      }
+    },
+    "dcncCode": "RedBand",
+    "dcncSortOrder": 5,
+    "description": "  For US released trailers, NATO and the MPAA have requested that trailers with the Red Band MPAA rating be clearly marked early in the DCP file name. This is so theatres will more clearly see the trailer is restricted, and not accidently place a Red Band trailer with a G, PG, or PG-13 movie."
+  },
+  {
+    "cplMetadata": {
       "definingDoc": "SMPTE ST 429-16",
       "element": "Chain",
+      "elementValue": "[CHAIN]",
       "metaType": "Element Value",
-      "scope": "http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata",
-      "value": "[CHAIN]"
+      "scope": "http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata"
     },
     "dcncCode": "[CHAIN]",
-    "dcncSortOrder": 5,
+    "dcncSortOrder": 6,
     "description": "A human-readable name of the specific targeted use (specific theatre chain or event) for which the Composition Playlist is intended.",
     "variableValue": true
   },
@@ -68,12 +83,12 @@
     "cplMetadata": {
       "definingDoc": "SMPTE ST 429-16",
       "element": "Chain",
+      "elementValue": "Alt",
       "metaType": "Element Value",
-      "scope": "http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata",
-      "value": "Alt"
+      "scope": "http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata"
     },
     "dcncCode": "ALT",
-    "dcncSortOrder": 6,
+    "dcncSortOrder": 7,
     "description": "Alternative version - You have the option of using the word 'ALT' in the theatre chain sub-field instead of naming a specific theatre chain or event."
   },
   {
@@ -84,7 +99,7 @@
       "scope": "http://www.smpte-ra.org/schemas/429-7/2006/CPL#standard-content"
     },
     "dcncCode": "2D",
-    "dcncSortOrder": 7,
+    "dcncSortOrder": 8,
     "description": "If the product is in both 2D and 3D, label the 2D version: '2D'. If the product only exists in 2D, you do not need to label it '2D' - it will be assumed to be in 2D if it is not otherwise described."
   },
   {
@@ -95,19 +110,21 @@
       "scope": "http://www.smpte-ra.org/schemas/429-10/2008/Main-Stereo-Picture-CPL"
     },
     "dcncCode": "3D",
-    "dcncSortOrder": 8,
+    "dcncSortOrder": 9,
     "description": "If the product is 3D."
   },
   {
     "cplMetadata": {
+      "attribute": "units",
+      "attributeValue": "foot-lambert",
       "definingDoc": "SMPTE ST 429-16",
       "element": "Luminance",
-      "metaType": "Element Value",
-      "scope": "http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata",
-      "value": "[Luminance as xs:decimal]"
+      "elementValue": "[Luminance]",
+      "metaType": "Element and Attribute Value",
+      "scope": "http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata"
     },
     "dcncCode": "[Luminance]fl",
-    "dcncSortOrder": 9,
+    "dcncSortOrder": 10,
     "description": "There is currently no luminance standard for mastering 3D content. Some films are color timed at 3.5 foot lamberts, others at 4, 4.5, 6, 7, and even 10 foot lamberts. If you have multiple luminance versions of your product, put the foot lamberts numerical value here in order to signal which version the DCP contains. Do not use decimal points for the CTT.",
     "variableValue": true
   },
@@ -115,24 +132,27 @@
     "cplMetadata": {
       "definingDoc": "SMPTE ST 429-16",
       "element": "EditRate",
+      "elementValue": "[FPS]",
       "metaType": "Element Value",
-      "scope": "http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata",
-      "value": "[FPS as cpl:Rational]"
+      "scope": "http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata"
     },
     "dcncCode": "[FPS]",
-    "dcncSortOrder": 10,
+    "dcncSortOrder": 11,
     "description": "Frame Rate numerical value (if other than 24 frames per second).",
     "variableValue": true
   },
   {
     "cplMetadata": {
       "definingDoc": "https://www.isdcf.com/site/registry-cpl-extensions/",
+      "extName": "Dolby EDR",
+      "extScope": "http://www.dolby.com/schemas/2014/EDR-metadata",
+      "extpropName": "image transfer function",
+      "extpropValue": "PQ10K",
       "metaType": "Extension Present",
-      "scope": "http://www.dolby.com/schemas/2014/EDR-metadata",
-      "value": "Dolby EDR"
+      "scope": "http://www.dolby.com/schemas/2014/EDR-metadata"
     },
     "dcncCode": "DVis",
-    "dcncSortOrder": 11,
+    "dcncSortOrder": 12,
     "description": "Dolby Vision graded image."
   },
   {
@@ -141,7 +161,7 @@
       "metaType": "None"
     },
     "dcncCode": "EC",
-    "dcncSortOrder": 12,
+    "dcncSortOrder": 13,
     "description": "Eclaircolor graded image."
   }
 ]
