@@ -5,7 +5,7 @@
       "element": "VersionNumber",
       "metaType": "Element Value",
       "scope": "http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata",
-      "value": "[VersionNumber as xs:nonNegativeInteger]"
+      "value": "CTT [VersionNumber]"
     },
     "dcncCode": "[VersionNumber]",
     "dcncSortOrder": 1,
@@ -57,7 +57,7 @@
       "element": "Chain",
       "metaType": "Element Value",
       "scope": "http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata",
-      "value": "[CHAIN]"
+      "value": "CTT [CHAIN]"
     },
     "dcncCode": "[CHAIN]",
     "dcncSortOrder": 5,
@@ -104,7 +104,7 @@
       "element": "Luminance",
       "metaType": "Element Value",
       "scope": "http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata",
-      "value": "[Luminance as xs:decimal]"
+      "value": "CTT [Luminance]"
     },
     "dcncCode": "[Luminance]fl",
     "dcncSortOrder": 9,
@@ -117,7 +117,7 @@
       "element": "EditRate",
       "metaType": "Element Value",
       "scope": "http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata",
-      "value": "[FPS as cpl:Rational]"
+      "value": "CTT [FPS]"
     },
     "dcncCode": "[FPS]",
     "dcncSortOrder": 10,
