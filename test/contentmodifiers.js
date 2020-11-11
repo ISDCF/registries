@@ -12,13 +12,14 @@ describe("contentmodifiers schema", () => {
         "cplMetadata": {
           "definingDoc": "SMPTE ST 429-16",
           "element": "VersionNumber",
+          "elementValue": "[VersionNumber]",
           "metaType": "Element Value",
-          "scope": "http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata",
-          "value": "[xs:nonNegativeInteger of VersionNumber]"
+          "scope": "http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata"
         },
         "dcncCode": "[VersionNumber]",
         "dcncSortOrder": 1,
-        "description": "Indicates the version number of the Composition."
+        "description": "Indicates the version number of the Composition.",
+        "variableValue": true
       },
       {
         "cplMetadata": {
@@ -28,7 +29,7 @@ describe("contentmodifiers schema", () => {
           "scope": "http://www.smpte-ra.org/schemas/429-10/2008/Main-Stereo-Picture-CPL"
         },
         "dcncCode": "3D",
-        "dcncSortOrder": 8,
+        "dcncSortOrder": 9,
         "description": "If the product is 3D."
       }
     ]))
@@ -49,12 +50,13 @@ describe("contentmodifiers schema", () => {
         "cplMetadata": {
           "definingDoc": "SMPTE ST 429-16",
           "element": "VersionNumber",
+          "elementValue": "[VersionNumber]",
           "metaType": "Element Value",
-          "scope": "http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata",
-          "value": "[xs:nonNegativeInteger of VersionNumber]"
+          "scope": "http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata"
         },
         "dcncCode": "[VersionNumber]",
-        "description": "Indicates the version number of the Composition."
+        "description": "Indicates the version number of the Composition.",
+        "variableValue": true
       }
     ]), /fails schema/)
   })
@@ -65,13 +67,14 @@ describe("contentmodifiers schema", () => {
         "cplMetadata": {
           "definingDoc": "SMPTE ST 429-16",
           "element": "VersionNumber",
+          "elementValue": "[VersionNumber]",
           "metaType": "Element Value",
-          "scope": "http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata",
-          "value": "[xs:nonNegativeInteger of VersionNumber]"
+          "scope": "http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata"
         },
         "dcncCode": "[VersionNumber]",
-        "dcncSortOrder": "2.4",
-        "description": "Indicates the version number of the Composition."
+        "dcncSortOrder": "2.5",
+        "description": "Indicates the version number of the Composition.",
+        "variableValue": true
       }
     ]), /fails schema/)
   })

@@ -16,6 +16,8 @@
               "enum": [
                 "Element Value",
                 "Element Attribute Value",
+                "Element and Attribute Value",
+                "Sub Element Value",
                 "Element Present",
                 "Extension Present",
                 "None"
@@ -31,8 +33,14 @@
           "attribute": {
               "type": "string"
           },
-          "value": {
+          "elementValue": {
               "type": "string"
+          },
+          "attributeValue": {
+              "type": "string"
+          },
+          "subElement": {
+              "type": "object"
           },
           "definingDoc": {
               "type": "string"
