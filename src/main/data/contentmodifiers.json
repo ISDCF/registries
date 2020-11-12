@@ -41,11 +41,11 @@
   {
     "cplMetadata": {
       "attribute": "status",
+      "attributeValue": "pre",
       "definingDoc": "SMPTE ST 429-16",
       "element": "VersionNumber",
       "metaType": "Element Attribute Value",
-      "scope": "http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata",
-      "value": "pre"
+      "scope": "http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata"
     },
     "dcncCode": "Pre",
     "dcncSortOrder": 4,
