@@ -2935,6 +2935,11 @@
     "description": "OXIDO"
   },
   {
+    "code": "PAN",
+    "description": "Panoptimo GmbH",
+    "url": "https://panoptimo.com/"
+  },
+  {
     "code": "PAP",
     "description": "Paprika Post-Production",
     "url": "http://www.paprika.be"
