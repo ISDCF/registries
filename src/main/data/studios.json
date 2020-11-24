@@ -522,6 +522,16 @@
     "description": "LEGENDE DISTRIBUTION"
   },
   {
+    "code": "LEO",
+    "contact": {
+      "address": "Taunusstraße 21-23, 80807 Munich, Germany",
+      "email": "linda.ellwanger@leoninestudios.com",
+      "name": "Mrs. Linda Ellwanger"
+    },
+    "description": "LEONINE Distribution GmbH",
+    "url": "https://www.leoninedistribution.com/"
+  },
+  {
     "code": "LFLM",
     "description": "LUCAS FILMS"
   },
