@@ -1,5 +1,14 @@
 [
   {
+    "dcncLanguage": "Armenian",
+    "dcncTag": "HY",
+    "rfc5646Tag": "hy",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
     "dcncLanguage": "Albanian",
     "dcncTag": "SQ",
     "rfc5646Tag": "sq",
