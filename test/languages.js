@@ -24,13 +24,48 @@ describe("languages schema", () => {
         "use": [
           "audio"
         ]
-      }]))
+      }
+    ]))
   })
 
-  it("invalid", () => {
+  it("missing RFC Tag", () => {
     assert.throw(() => validate([
-      "foo"
+      {
+        "dcncLanguage": "Albanian",
+        "dcncTag": "SQ",
+        "use": [
+          "audio",
+          "text"
+        ]
+      },
+      {
+        "dcncLanguage": "Chinese - Mandarin PRC",
+        "dcncTag": "CMN",
+        "rfc5646Tag": "cmn",
+        "use": [
+          "audio"
+        ]
+      }
     ]), /fails schema/)
   })
+
+  it("missing use", () => {
+    assert.throw(() => validate([
+      {
+        "dcncLanguage": "Albanian",
+        "dcncTag": "SQ",
+        "use": [
+          "audio",
+          "text"
+        ]
+      },
+      {
+        "dcncLanguage": "Chinese - Mandarin PRC",
+        "dcncTag": "CMN",
+        "rfc5646Tag": "cmn"
+      }
+    ]), /fails schema/)
+  })
+
 
 })

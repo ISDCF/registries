@@ -1,0 +1,163 @@
+[
+  {
+    "cplMetadata": {
+      "MCATagSymbol": "sg51",
+      "MainSoundConfigurationTag": "51",
+      "definingDoc": [
+        "SMPTE ST 429-16",
+        "SMPTE ST 429-2",
+        "SMPTE ST 428-12"
+      ]
+    },
+    "dcncCode": "51",
+    "dcncSortOrder": 1,
+    "description": "5.1"
+  },
+  {
+    "cplMetadata": {
+      "MCATagSymbol": "sg71",
+      "MainSoundConfigurationTag": "71",
+      "definingDoc": [
+        "SMPTE ST 429-16",
+        "SMPTE ST 429-2",
+        "SMPTE ST 428-12"
+      ]
+    },
+    "dcncCode": "71",
+    "dcncSortOrder": 2,
+    "description": "7.1"
+  },
+  {
+    "cplMetadata": {
+      "MCATagSymbol": "sgM",
+      "MainSoundConfigurationTag": "M",
+      "definingDoc": [
+        "SMPTE ST 429-16",
+        "SMPTE ST 429-2",
+        "SMPTE ST 428-12"
+      ]
+    },
+    "dcncCode": "10",
+    "dcncSortOrder": 3,
+    "description": "1.0 (Center Channel Mono)"
+  },
+  {
+    "dcncCode": "20",
+    "dcncSortOrder": 4,
+    "description": "2.0 (Stereo)",
+    "note": "Only discrete audio should be used in a DCP; matrixed audio, such as Lt/Rt, should not be used."
+  },
+  {
+    "dcncCode": "21",
+    "dcncSortOrder": 5,
+    "description": "2.1 (Stereo with Sub)"
+  },
+  {
+    "cplMetadata": {
+      "MainSoundConfigurationTag": "-",
+      "definingDoc": [
+        "SMPTE ST 428-16"
+      ]
+    },
+    "dcncCode": "MOS",
+    "dcncSortOrder": 6,
+    "description": "No audio (Silent)"
+  },
+  {
+    "cplMetadata": {
+      "definingDoc": [
+        "https://isdcf.com/papers/ISDCF-Doc15-IAB-Profile-1-202006012.pdf"
+      ],
+      "extension": {
+        "extName": "Application",
+        "extScope": "http://isdcf.com/ns/cplmd/app",
+        "extpropName": "IAB Profile",
+        "extpropValue": "SMPTE-ST-2098-2:2019-P1"
+      }
+    },
+    "dcncCode": "IAB",
+    "dcncSortOrder": 7,
+    "description": "Immesive Audio Bitstream (SMPTE ST2098-2) Profile 1"
+  },
+  {
+    "cplMetadata": {
+      "MCATagSymbol": "sgHI",
+      "MainSoundConfigurationTag": "HI",
+      "definingDoc": [
+        "SMPTE ST 429-16",
+        "SMPTE ST 429-2",
+        "SMPTE ST 428-12"
+      ]
+    },
+    "dcncCode": "HI",
+    "dcncSortOrder": 8,
+    "description": "Assisted Listening Track"
+  },
+  {
+    "cplMetadata": {
+      "MCATagSymbol": "sgVIN",
+      "MainSoundConfigurationTag": "VIN",
+      "definingDoc": [
+        "SMPTE ST 429-16",
+        "SMPTE ST 429-2",
+        "SMPTE ST 428-12"
+      ]
+    },
+    "dcncCode": "VI",
+    "dcncSortOrder": 9,
+    "description": "Audio Description Track"
+  },
+  {
+    "cplMetadata": {
+      "MCATagSymbol": "SLVS",
+      "MainSoundConfigurationTag": "SLVS",
+      "definingDoc": [
+        "https://isdcf.com/papers/ISDCF-Doc13-Sign-Language-Video-Encoding-for-Digital-Cinema.pdf"
+      ],
+      "extension": {
+        "extName": "Sign Language Video",
+        "extScope": "http://isdcf.com/2017/10/SignLanguageVideo",
+        "extpropName": "Language Tag",
+        "extpropValue": "[Language]"
+      }
+    },
+    "dcncCode": "SL",
+    "dcncSortOrder": 10,
+    "description": "Sign Language Track",
+    "note": "Where [DESCRIPTION] is a Language-Tag, as specified in IETF RFC 5646, that identifies the sign language present in the Sign Language Video Track"
+  },
+  {
+    "dcncCode": "Atmos",
+    "dcncSortOrder": 11,
+    "description": "Dolby ATMOS Immersive Audio",
+    "note": "Expect a change in the way Atmos content is labeled! IAB (Immersive Audio Bitstream) is the SMPTE standard for Immersive Audio. All Atmos is IAB Profile 1. Many authoring companies are planning to stop labeling Atmos and using the IAB label only."
+  },
+  {
+    "dcncCode": "Auro",
+    "dcncSortOrder": 12,
+    "description": "Barco AURO Immersive Audio"
+  },
+  {
+    "dcncCode": "DTSX",
+    "dcncSortOrder": 13,
+    "description": "DTS-X Immersive Audio"
+  },
+  {
+    "cplMetadata": {
+      "MCATagSymbol": "DBOX",
+      "MainSoundConfigurationTag": "DBOX",
+      "definingDoc": [
+        "https://www.d-box.com/wp-content/uploads/2020/09/124-915-0005.pdf"
+      ],
+      "extension": {
+        "extName": "D-BOX Enabled",
+        "extScope": "http://www.d-box.com/technical_notes/124-915-0005",
+        "extpropName": "D-BOX Motion Code Primary Stream",
+        "extpropValue": "true"
+      }
+    },
+    "dcncCode": "DBox",
+    "dcncSortOrder": 14,
+    "description": "DBox Motion Control"
+  }
+]

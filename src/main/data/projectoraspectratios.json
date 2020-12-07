@@ -1,0 +1,80 @@
+[
+  {
+    "cplMetadata": {
+      "2K": {
+        "MainPictureStoredArea": {
+          "Height": 1080,
+          "Width": 1998
+        },
+        "ScreenAspectRatio": "1998 1080"
+      },
+      "4K": {
+        "MainPictureStoredArea": {
+          "Height": 2160,
+          "Width": 3996
+        },
+        "ScreenAspectRatio": "3996 2160"
+      },
+      "definingDoc": [
+        "SMPTE ST 429-16",
+        "SMPTE ST 429-2",
+        "SMPTE ST 429-7"
+      ]
+    },
+    "dcncCode": "F",
+    "dcncSortOrder": 1,
+    "description": "Flat (1.85:1)"
+  },
+  {
+    "cplMetadata": {
+      "2K": {
+        "MainPictureStoredArea": {
+          "Height": 858,
+          "Width": 2048
+        },
+        "ScreenAspectRatio": "2048 858"
+      },
+      "4K": {
+        "MainPictureStoredArea": {
+          "Height": 1716,
+          "Width": 4096
+        },
+        "ScreenAspectRatio": "4096 1716"
+      },
+      "definingDoc": [
+        "SMPTE ST 429-16",
+        "SMPTE ST 429-2",
+        "SMPTE ST 429-7"
+      ]
+    },
+    "dcncCode": "S",
+    "dcncSortOrder": 2,
+    "description": "Scope (2.39:1)"
+  },
+  {
+    "cplMetadata": {
+      "2K": {
+        "MainPictureStoredArea": {
+          "Height": 1080,
+          "Width": 2048
+        },
+        "ScreenAspectRatio": "2048 1080"
+      },
+      "4K": {
+        "MainPictureStoredArea": {
+          "Height": 2160,
+          "Width": 4096
+        },
+        "ScreenAspectRatio": "4096 2160"
+      },
+      "definingDoc": [
+        "SMPTE ST 429-16",
+        "SMPTE ST 429-2",
+        "SMPTE ST 429-7"
+      ]
+    },
+    "dcncCode": "C",
+    "dcncSortOrder": 3,
+    "description": "Full Container (1.90:1)"
+  }
+]

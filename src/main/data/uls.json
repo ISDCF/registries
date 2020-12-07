@@ -1,0 +1,122 @@
+[
+  {
+    "definingDoc": "http://isdcf.com/papers/ISDCF-Doc13-Sign-Language-Video-Encoding-for-Digital-Cinema.pdf",
+    "name": "Sign Language Video Stream",
+    "note": "MCATagSymbol = 'SLVS' (Identifies an Audio Channel that contains a Sign Language Video Stream)",
+    "ul": "urn:smpte:ul:060e2b34.0401010d.0d0f0302.01010000",
+    "usage": "Label"
+  },
+  {
+    "definingDoc": "asdcplib-2.5.11",
+    "name": "ATMOS_ESSENCE_CODING",
+    "ul": "urn:smpte:ul:060e2b34.04010105.0e090604.00000000",
+    "usage": "Label"
+  },
+  {
+    "contact": "John.Kellogg@dts.com",
+    "name": "DTS:X MDA",
+    "ul": "urn:smpte:ul:060e2b34.0401010e.0e1d0101.01010100",
+    "usage": "Label"
+  },
+  {
+    "definingDoc": "http://www.d-box.com/technical_notes/124-915-0001.pdf",
+    "deprecated": true,
+    "name": "Configuration D1",
+    "note": "Not currently used (see http://www.d-box.com/technical_notes/124-915-0002.pdf for latest D-BOX packaging recommendations)",
+    "ul": "urn:smpte:ul:060e2b34.0401010d.0e160101.01010101",
+    "usage": "Label"
+  },
+  {
+    "definingDoc": "http://www.d-box.com/technical_notes/124-915-0001.pdf",
+    "deprecated": true,
+    "name": "Configuration D2",
+    "note": "Not currently used (see http://www.d-box.com/technical_notes/124-915-0002.pdf for latest D-BOX packaging recommendations)",
+    "ul": "urn:smpte:ul:060e2b34.0401010d.0e160101.01010102",
+    "usage": "Label"
+  },
+  {
+    "definingDoc": "http://www.d-box.com/technical_notes/124-915-0001.pdf",
+    "deprecated": true,
+    "name": "Configuration D3",
+    "note": "Not currently used (see http://www.d-box.com/technical_notes/124-915-0002.pdf for latest D-BOX packaging recommendations)",
+    "ul": "urn:smpte:ul:060e2b34.0401010d.0e160101.01010103",
+    "usage": "Label"
+  },
+  {
+    "definingDoc": "http://www.d-box.com/technical_notes/124-915-0001.pdf",
+    "deprecated": true,
+    "name": "Configuration D5",
+    "note": "Not currently used (see http://www.d-box.com/technical_notes/124-915-0002.pdf for latest D-BOX packaging recommendations)",
+    "ul": "urn:smpte:ul:060e2b34.0401010d.0e160101.01010105",
+    "usage": "Label"
+  },
+  {
+    "definingDoc": "http://www.d-box.com/technical_notes/124-915-0001.pdf",
+    "name": "D-BOX Motion Code Primary Stream",
+    "note": "MCA Tag Symbol = 'DBOX' (see http://www.d-box.com/technical_notes/124-915-0002.pdf for latest D-BOX packaging recommendations)",
+    "ul": "urn:smpte:ul:060e2b34.0401010d.0e160101.01010201",
+    "usage": "Label"
+  },
+  {
+    "definingDoc": "http://www.d-box.com/technical_notes/124-915-0001.pdf",
+    "name": "D-BOX Motion Code Primary Stream",
+    "note": "MCA Tag Symbol = 'DBOX2' (see http://www.d-box.com/technical_notes/124-915-0002.pdf for latest D-BOX packaging recommendations)",
+    "ul": "urn:smpte:ul:060e2b34.0401010d.0e160101.01010202",
+    "usage": "Label"
+  },
+  {
+    "definingDoc": "asdcplib-2.5.11",
+    "name": "DolbyAtmosSubDescriptor_AtmosVersion",
+    "note": "Key of an item found in the DolbyAtmosSubDescriptor",
+    "ul": "urn:smpte:ul:060e2b34.01010105.0e090506.00000000",
+    "usage": "Property Key"
+  },
+  {
+    "definingDoc": "asdcplib-2.5.11",
+    "name": "DolbyAtmosSubDescriptor_MaxChannelCount",
+    "note": "Key of an item found in the DolbyAtmosSubDescriptor",
+    "ul": "urn:smpte:ul:060e2b34.01010105.0e090507.00000000",
+    "usage": "Property Key"
+  },
+  {
+    "definingDoc": "asdcplib-2.5.11",
+    "name": "DolbyAtmosSubDescriptor_MaxObjectCount",
+    "note": "Key of an item found in the DolbyAtmosSubDescriptor",
+    "ul": "urn:smpte:ul:060e2b34.01010105.0e090508.00000000",
+    "usage": "Property Key"
+  },
+  {
+    "definingDoc": "asdcplib-2.5.11",
+    "name": "DolbyAtmosSubDescriptor_AtmosID",
+    "note": "Key of an item found in the DolbyAtmosSubDescriptor",
+    "ul": "urn:smpte:ul:060e2b34.01010105.0e090509.00000000",
+    "usage": "Property Key"
+  },
+  {
+    "definingDoc": "asdcplib-2.5.11",
+    "name": "DolbyAtmosSubDescriptor",
+    "ul": "urn:smpte:ul:060e2b34.02530105.0e090606.00000000",
+    "usage": "Group Key"
+  },
+  {
+    "definingDoc": "asdcplib-2.5.11",
+    "name": "DCDataDescriptor",
+    "note": "Currently used by asdcplib instead of the key defined at Section 9 of ST 430-14",
+    "ul": "urn:smpte:ul:060e2b34.02530105.0e090603.00000000",
+    "usage": "Group Key"
+  },
+  {
+    "definingDoc": "asdcplib-2.5.11",
+    "name": "DCDataWrappingFrame",
+    "note": "Currently used by asdcplib instead of the key defined at Section 6.1 of ST 430-14",
+    "ul": "urn:smpte:ul:060e2b34.04010105.0e090605.00000000",
+    "usage": "Essence Element Key"
+  },
+  {
+    "definingDoc": "asdcplib-2.5.11",
+    "name": "DCDataEssence",
+    "note": "Currently used by asdcplib instead of the key defined at Section 8 of ST 430-14",
+    "ul": "urn:smpte:ul:060e2b34.01020105.0e090601.00000000",
+    "usage": "Essence Container Key"
+  }
+]

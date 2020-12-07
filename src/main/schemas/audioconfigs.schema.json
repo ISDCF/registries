@@ -1,0 +1,73 @@
+{
+  "$schema": "http://json-schema.org/schema#",
+  "$id": "http://isdcf.com/ns/json-schemas/registries/audioconfigs/1.0.0-beta.1",
+  "$comment": "Copyright, ISDCF <info@isdcf.com>",
+  "title": "Schema for the Audio Configurations Registry of the ISDCF",
+  "definitions": {
+    "dcncCode" : {
+        "type": "string",
+        "pattern": "^\\[?[A-Z0-9]\\]?"
+    },
+    "cplMetadata": {
+      "type": "object",
+      "properties": {
+          "MainSoundConfigurationTag": {
+              "type": "string"
+          },
+          "MCATagSymbol": {
+              "type": "string"
+          },
+          "extension": {
+            "$ref": "#/definitions/extension"
+          },
+          "definingDoc": {
+              "type": "array"
+          }
+      },
+      "required": [ "definingDoc"]
+    },
+    "extension": {
+      "type": "object",
+      "properties": {
+          "extName": {
+              "type": "string"
+          },
+          "extScope": {
+              "type": "string",
+              "format": "uri"
+          },
+          "extpropName": {
+              "type": "string"
+          },
+          "extpropValue": {
+              "type": "string"
+          }
+      },
+      "required": [ "extName", "extScope", "extpropName", "extpropValue"]
+    }
+  },
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "dcncCode": {
+        "$ref": "#/definitions/dcncCode"
+      },
+      "dcncSortOrder": {
+        "type": "integer",
+        "minimum": 1
+      },
+      "description": {
+        "type": "string"
+      },
+      "cplMetadata": {
+        "$ref": "#/definitions/cplMetadata"
+      },
+      "note": {
+        "type": "string"
+      }
+    },
+    "required": [ "dcncCode", "dcncSortOrder", "description" ],
+    "additionalProperties": false
+  }
+}
