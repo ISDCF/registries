@@ -24,7 +24,7 @@ describe("projectoraspectratios schema", () => {
             },
             "ScreenAspectRatio": "3996 2160"
           },
-          "definingDoc": [
+          "definingDocs": [
             {
               "name": "SMPTE ST 429-16:2014",
               "url": "https://doi.org/10.5594/SMPTE.ST429-16.2014"
@@ -50,7 +50,7 @@ describe("projectoraspectratios schema", () => {
     assert.throw(() => validate([
       {
         "cplMetadata": {
-          "definingDoc": [
+          "definingDocs": [
             {
               "name": "SMPTE ST 429-16:2014",
               "url": "https://doi.org/10.5594/SMPTE.ST429-16.2014"
@@ -129,7 +129,7 @@ describe("projectoraspectratios schema", () => {
             },
             "ScreenAspectRatio": "3996 2160"
           },
-          "definingDoc": [
+          "definingDocs": [
             {
               "name": "SMPTE ST 429-16:2014",
               "url": "https://doi.org/10.5594/SMPTE.ST429-16.2014"
@@ -169,7 +169,7 @@ describe("projectoraspectratios schema", () => {
             },
             "ScreenAspectRatio": "3996 2160"
           },
-          "definingDoc": [
+          "definingDocs": [
             {
               "name": "SMPTE ST 429-16:2014",
               "url": "https://doi.org/10.5594/SMPTE.ST429-16.2014"
@@ -209,7 +209,7 @@ describe("projectoraspectratios schema", () => {
             },
             "ScreenAspectRatio": "3996 2160"
           },
-          "definingDoc": [
+          "definingDocs": [
             {
               "name": "SMPTE ST 429-16:2014",
               "url": "https://doi.org/10.5594/SMPTE.ST429-16.2014"
@@ -248,7 +248,7 @@ describe("projectoraspectratios schema", () => {
             },
             "ScreenAspectRatio": "3996 2160"
           },
-          "definingDoc": [
+          "definingDocs": [
             {
               "name": "SMPTE ST 429-16:2014",
               "url": "https://doi.org/10.5594/SMPTE.ST429-16.2014"

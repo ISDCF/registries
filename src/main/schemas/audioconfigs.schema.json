@@ -20,7 +20,7 @@
           "extension": {
             "$ref": "#/definitions/extension"
           },
-          "definingDoc": {
+          "definingDocs": {
             "type": "array",
             "items": {
               "type": "object",
@@ -36,7 +36,7 @@
             }
           }
       },
-      "required": [ "definingDoc"]
+      "required": [ "definingDocs"]
     },
     "extension": {
       "type": "object",

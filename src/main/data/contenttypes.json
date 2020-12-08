@@ -1,7 +1,7 @@
 [
   {
     "cplContentKind": {
-      "definingDoc": [
+      "definingDocs": [
         {
           "name": "SMPTE ST 429-7:2006",
           "url": "https://doi.org/10.5594/SMPTE.ST429-7.2006"
@@ -16,7 +16,7 @@
   },
   {
     "cplContentKind": {
-      "definingDoc": [
+      "definingDocs": [
         {
           "name": "SMPTE ST 429-7:2006",
           "url": "https://doi.org/10.5594/SMPTE.ST429-7.2006"
@@ -31,7 +31,7 @@
   },
   {
     "cplContentKind": {
-      "definingDoc": [
+      "definingDocs": [
         {
           "name": "SMPTE ST 429-7:2006",
           "url": "https://doi.org/10.5594/SMPTE.ST429-7.2006"
@@ -46,7 +46,7 @@
   },
   {
     "cplContentKind": {
-      "definingDoc": [
+      "definingDocs": [
         {
           "name": "SMPTE ST 429-7:2006",
           "url": "https://doi.org/10.5594/SMPTE.ST429-7.2006"
@@ -61,7 +61,7 @@
   },
   {
     "cplContentKind": {
-      "definingDoc": [
+      "definingDocs": [
         {
           "name": "SMPTE ST 429-7:2006",
           "url": "https://doi.org/10.5594/SMPTE.ST429-7.2006"
@@ -76,7 +76,7 @@
   },
   {
     "cplContentKind": {
-      "definingDoc": [
+      "definingDocs": [
         {
           "name": "SMPTE ST 429-7:2006",
           "url": "https://doi.org/10.5594/SMPTE.ST429-7.2006"
@@ -91,7 +91,7 @@
   },
   {
     "cplContentKind": {
-      "definingDoc": [
+      "definingDocs": [
         {
           "name": "SMPTE ST 429-7:2006",
           "url": "https://doi.org/10.5594/SMPTE.ST429-7.2006"
@@ -106,7 +106,7 @@
   },
   {
     "cplContentKind": {
-      "definingDoc": [
+      "definingDocs": [
         {
           "name": "SMPTE ST 429-7:2006",
           "url": "https://doi.org/10.5594/SMPTE.ST429-7.2006"
@@ -121,7 +121,7 @@
   },
   {
     "cplContentKind": {
-      "definingDoc": [
+      "definingDocs": [
         {
           "name": "SMPTE ST 429-7:2006",
           "url": "https://doi.org/10.5594/SMPTE.ST429-7.2006"
@@ -136,7 +136,7 @@
   },
   {
     "cplContentKind": {
-      "definingDoc": [
+      "definingDocs": [
         {
           "name": "SMPTE ST 429-7:2006",
           "url": "https://doi.org/10.5594/SMPTE.ST429-7.2006"
@@ -151,7 +151,7 @@
   },
   {
     "cplContentKind": {
-      "definingDoc": [
+      "definingDocs": [
         {
           "name": "SMPTE ST 429-16:2014",
           "url": "https://doi.org/10.5594/SMPTE.ST429-16.2014"
@@ -166,7 +166,7 @@
   },
   {
     "cplContentKind": {
-      "definingDoc": [
+      "definingDocs": [
         {
           "name": "SMPTE ST 429-16:2014",
           "url": "https://doi.org/10.5594/SMPTE.ST429-16.2014"
@@ -181,7 +181,7 @@
   },
   {
     "cplContentKind": {
-      "definingDoc": [
+      "definingDocs": [
         {
           "name": "SMPTE ST 429-16:2014",
           "url": "https://doi.org/10.5594/SMPTE.ST429-16.2014"
@@ -196,7 +196,7 @@
   },
   {
     "cplContentKind": {
-      "definingDoc": [
+      "definingDocs": [
         {
           "name": "SMPTE ST 2067-3:2013",
           "url": "https://doi.org/10.5594/SMPTE.ST2067-3.2013"
@@ -211,7 +211,7 @@
   },
   {
     "cplContentKind": {
-      "definingDoc": [
+      "definingDocs": [
         {
           "name": "SMPTE ST 2067-3:2013",
           "url": "https://doi.org/10.5594/SMPTE.ST2067-3.2013"
@@ -226,7 +226,7 @@
   },
   {
     "cplContentKind": {
-      "definingDoc": [
+      "definingDocs": [
         {
           "name": "SMPTE ST 2067-3:2013",
           "url": "https://doi.org/10.5594/SMPTE.ST2067-3.2013"

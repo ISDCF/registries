@@ -1,6 +1,6 @@
 [
   {
-    "definingDoc": [
+    "definingDocs": [
       {
         "name": "DCI DCSS",
         "url": "https://www.dcimovies.com/specification/index.html"
@@ -11,7 +11,7 @@
     "uri": "http://www.dcimovies.com/430-1/2006/KDM#mrkflg-audio-disable-above-channel-XX"
   },
   {
-    "definingDoc": [
+    "definingDocs": [
       {
         "name": "SMPTE ST 430-1:2017",
         "url": "https://doi.org/10.5594/SMPTE.ST430-1.2017"
@@ -21,7 +21,7 @@
     "uri": "http://www.smpte-ra.org/430-1/2006/KDM#mrkflg-picture-disable"
   },
   {
-    "definingDoc": [
+    "definingDocs": [
       {
         "name": "SMPTE ST 430-1:2017",
         "url": "https://doi.org/10.5594/SMPTE.ST430-1.2017"

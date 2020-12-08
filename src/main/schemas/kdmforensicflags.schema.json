@@ -17,7 +17,7 @@
       "note": {
         "type": "string"
       },
-      "definingDoc": {
+      "definingDocs": {
         "type": "array",
         "items": {
           "type": "object",
@@ -33,7 +33,7 @@
         }
       }
     },
-    "required": [ "uri", "description", "definingDoc" ],
+    "required": [ "uri", "description", "definingDocs" ],
     "additionalProperties": false
   }
 }

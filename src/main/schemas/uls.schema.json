@@ -17,7 +17,7 @@
       "note": {
         "type": "string"
       },
-      "definingDoc": {
+      "definingDocs": {
         "type": "array",
         "items": {
           "type": "object",

@@ -39,7 +39,7 @@
               "type": "string",
               "format": "uri"
           },
-          "definingDoc": {
+          "definingDocs": {
             "type": "array",
             "items": {
               "type": "object",
@@ -55,7 +55,7 @@
             }
           }
       },
-      "required": [ "value", "scope", "definingDoc"]
+      "required": [ "value", "scope", "definingDocs"]
     }
   }
 }

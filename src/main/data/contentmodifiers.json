@@ -1,7 +1,7 @@
 [
   {
     "cplMetadata": {
-      "definingDoc": [
+      "definingDocs": [
         {
           "name": "SMPTE ST 429-16:2014",
           "url": "https://doi.org/10.5594/SMPTE.ST429-16.2014"
@@ -21,7 +21,7 @@
     "cplMetadata": {
       "attribute": "status",
       "attributeValue": "final",
-      "definingDoc": [
+      "definingDocs": [
         {
           "name": "SMPTE ST 429-16:2014",
           "url": "https://doi.org/10.5594/SMPTE.ST429-16.2014"
@@ -39,7 +39,7 @@
     "cplMetadata": {
       "attribute": "status",
       "attributeValue": "temp",
-      "definingDoc": [
+      "definingDocs": [
         {
           "name": "SMPTE ST 429-16:2014",
           "url": "https://doi.org/10.5594/SMPTE.ST429-16.2014"
@@ -57,7 +57,7 @@
     "cplMetadata": {
       "attribute": "status",
       "attributeValue": "pre",
-      "definingDoc": [
+      "definingDocs": [
         {
           "name": "SMPTE ST 429-16:2014",
           "url": "https://doi.org/10.5594/SMPTE.ST429-16.2014"
@@ -73,7 +73,7 @@
   },
   {
     "cplMetadata": {
-      "definingDoc": [
+      "definingDocs": [
         {
           "name": "SMPTE ST 429-7:2006",
           "url": "https://doi.org/10.5594/SMPTE.ST429-7.2006"
@@ -93,7 +93,7 @@
   },
   {
     "cplMetadata": {
-      "definingDoc": [
+      "definingDocs": [
         {
           "name": "SMPTE ST 429-16:2014",
           "url": "https://doi.org/10.5594/SMPTE.ST429-16.2014"
@@ -111,7 +111,7 @@
   },
   {
     "cplMetadata": {
-      "definingDoc": [
+      "definingDocs": [
         {
           "name": "SMPTE ST 429-16:2014",
           "url": "https://doi.org/10.5594/SMPTE.ST429-16.2014"
@@ -128,7 +128,7 @@
   },
   {
     "cplMetadata": {
-      "definingDoc": [
+      "definingDocs": [
         {
           "name": "SMPTE ST 429-7:2006",
           "url": "https://doi.org/10.5594/SMPTE.ST429-7.2006"
@@ -144,7 +144,7 @@
   },
   {
     "cplMetadata": {
-      "definingDoc": [
+      "definingDocs": [
         {
           "name": "SMPTE ST 429-10:2008",
           "url": "https://doi.org/10.5594/SMPTE.ST429-10.2008"
@@ -162,7 +162,7 @@
     "cplMetadata": {
       "attribute": "units",
       "attributeValue": "foot-lambert",
-      "definingDoc": [
+      "definingDocs": [
         {
           "name": "SMPTE ST 429-16:2014",
           "url": "https://doi.org/10.5594/SMPTE.ST429-16.2014"
@@ -180,7 +180,7 @@
   },
   {
     "cplMetadata": {
-      "definingDoc": [
+      "definingDocs": [
         {
           "name": "SMPTE ST 429-16:2014",
           "url": "https://doi.org/10.5594/SMPTE.ST429-16.2014"
@@ -198,7 +198,7 @@
   },
   {
     "cplMetadata": {
-      "definingDoc": [
+      "definingDocs": [
         {
           "name": "ISDCF CPL Metadata Extensions",
           "url": "https://www.isdcf.com/site/registry-cpl-extensions/"
@@ -217,7 +217,7 @@
   },
   {
     "cplMetadata": {
-      "definingDoc": [
+      "definingDocs": [
       ],
       "metaType": "None"
     },

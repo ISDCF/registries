@@ -9,7 +9,7 @@ describe("uls schema", () => {
   it("valid", () => {
     assert.doesNotThrow(() => validate([
       {
-        "definingDoc": [
+        "definingDocs": [
           {
             "name": "ISDCF Doc 13",
             "url": "https://isdcf.com/papers/ISDCF-Doc13-Sign-Language-Video-Encoding-for-Digital-Cinema.pdf"
@@ -26,7 +26,7 @@ describe("uls schema", () => {
   it("missing ul", () => {
     assert.throw(() => validate([
       {
-        "definingDoc": [
+        "definingDocs": [
           {
             "name": "ISDCF Doc 13",
             "url": "https://isdcf.com/papers/ISDCF-Doc13-Sign-Language-Video-Encoding-for-Digital-Cinema.pdf"
@@ -42,7 +42,7 @@ describe("uls schema", () => {
   it("obsolete not boolean", () => {
     assert.throw(() => validate([
       {
-        "definingDoc": [
+        "definingDocs": [
           {
             "name": "ISDCF Doc 13",
             "url": "https://isdcf.com/papers/ISDCF-Doc13-Sign-Language-Video-Encoding-for-Digital-Cinema.pdf"

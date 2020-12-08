@@ -14,7 +14,7 @@ describe("contenttypes schema", () => {
         "cplContentKind": {
           "value": "feature",
           "scope": "http://www.smpte-ra.org/schemas/429-7/2006/CPL#standard-content",
-          "definingDoc": [
+          "definingDocs": [
             {
               "name": "SMPTE ST 429-7:2006",
               "url": "https://doi.org/10.5594/SMPTE.ST429-7.2006"
@@ -29,7 +29,7 @@ describe("contenttypes schema", () => {
         "cplContentKind": {
           "value": "episode",
           "scope": "http://www.smpte-ra.org/schemas/2067-3/2013#content-kind",
-          "definingDoc": [
+          "definingDocs": [
             {
               "name": "SMPTE ST 2067-3:2013",
               "url": "https://doi.org/10.5594/SMPTE.ST2067-3.2013"
@@ -47,7 +47,7 @@ describe("contenttypes schema", () => {
         "dcncCode": "FTR",
         "cplContentKind": {
           "value": "feature",
-          "definingDoc": [
+          "definingDocs": [
             {
               "name": "SMPTE ST 429-7:2006",
               "url": "https://doi.org/10.5594/SMPTE.ST429-7.2006"
@@ -63,7 +63,7 @@ describe("contenttypes schema", () => {
     assert.throw(() => validate([
       {
         "cplContentKind": {
-          "definingDoc": [
+          "definingDocs": [
             {
               "name": "SMPTE ST 429-7:2006",
               "url": "https://doi.org/10.5594/SMPTE.ST429-7.2006"
@@ -82,7 +82,7 @@ describe("contenttypes schema", () => {
     assert.throw(() => validate([
       {
         "cplContentKind": {
-          "definingDoc": [
+          "definingDocs": [
             {
               "name": "SMPTE ST 429-7:2006",
               "url": "https://doi.org/10.5594/SMPTE.ST429-7.2006"

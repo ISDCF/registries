@@ -3,7 +3,7 @@
     "cplMetadata": {
       "MCATagSymbol": "sg51",
       "MainSoundConfigurationTag": "51",
-      "definingDoc": [
+      "definingDocs": [
         {
           "name": "SMPTE ST 429-16:2014",
           "url": "https://doi.org/10.5594/SMPTE.ST429-16.2014"
@@ -26,7 +26,7 @@
     "cplMetadata": {
       "MCATagSymbol": "sg71",
       "MainSoundConfigurationTag": "71",
-      "definingDoc": [
+      "definingDocs": [
         {
           "name": "SMPTE ST 429-16:2014",
           "url": "https://doi.org/10.5594/SMPTE.ST429-16.2014"
@@ -49,7 +49,7 @@
     "cplMetadata": {
       "MCATagSymbol": "sgM",
       "MainSoundConfigurationTag": "M",
-      "definingDoc": [
+      "definingDocs": [
         {
           "name": "SMPTE ST 429-16:2014",
           "url": "https://doi.org/10.5594/SMPTE.ST429-16.2014"
@@ -82,7 +82,7 @@
   {
     "cplMetadata": {
       "MainSoundConfigurationTag": "-",
-      "definingDoc": [
+      "definingDocs": [
         {
           "name": "SMPTE ST 429-16:2014",
           "url": "https://doi.org/10.5594/SMPTE.ST429-16.2014"
@@ -95,7 +95,7 @@
   },
   {
     "cplMetadata": {
-      "definingDoc": [
+      "definingDocs": [
         {
           "name": "ISDCF Doc 15",
           "url": "https://isdcf.com/papers/ISDCF-Doc15-IAB-Profile-1-202006012.pdf"
@@ -116,7 +116,7 @@
     "cplMetadata": {
       "MCATagSymbol": "sgHI",
       "MainSoundConfigurationTag": "HI",
-      "definingDoc": [
+      "definingDocs": [
         {
           "name": "SMPTE ST 429-16:2014",
           "url": "https://doi.org/10.5594/SMPTE.ST429-16.2014"
@@ -139,7 +139,7 @@
     "cplMetadata": {
       "MCATagSymbol": "sgVIN",
       "MainSoundConfigurationTag": "VIN",
-      "definingDoc": [
+      "definingDocs": [
         {
           "name": "SMPTE ST 429-16:2014",
           "url": "https://doi.org/10.5594/SMPTE.ST429-16.2014"
@@ -162,7 +162,7 @@
     "cplMetadata": {
       "MCATagSymbol": "SLVS",
       "MainSoundConfigurationTag": "SLVS",
-      "definingDoc": [
+      "definingDocs": [
         {
           "name": "ISDCF Doc 13",
           "url": "https://isdcf.com/papers/ISDCF-Doc13-Sign-Language-Video-Encoding-for-Digital-Cinema.pdf"
@@ -200,7 +200,7 @@
     "cplMetadata": {
       "MCATagSymbol": "DBOX",
       "MainSoundConfigurationTag": "DBOX",
-      "definingDoc": [
+      "definingDocs": [
         {
           "name": "DBOX Technical Note 124-915-0005-A02",
           "url": "https://www.d-box.com/wp-content/uploads/2020/09/124-915-0005.pdf"

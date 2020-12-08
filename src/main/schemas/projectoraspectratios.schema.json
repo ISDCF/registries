@@ -11,7 +11,7 @@
     "cplMetadata": {
       "type": "object",
       "properties": {
-        "definingDoc": {
+        "definingDocs": {
             "type": "array",
             "items": {
               "type": "object",
@@ -33,7 +33,7 @@
           "$ref": "#/definitions/4K"
         }
       },
-      "required": [ "definingDoc", "2K", "4K"]
+      "required": [ "definingDocs", "2K", "4K"]
     },
     "2K": {
       "type": "object",

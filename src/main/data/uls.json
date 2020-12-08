@@ -1,6 +1,6 @@
 [
   {
-    "definingDoc": [
+    "definingDocs": [
       {
         "name": "ISDCF Doc 13",
         "url": "https://isdcf.com/papers/ISDCF-Doc13-Sign-Language-Video-Encoding-for-Digital-Cinema.pdf"
@@ -12,7 +12,7 @@
     "usage": "Label"
   },
   {
-    "definingDoc": [
+    "definingDocs": [
       {
         "name": "asdcplib-2.5.11",
         "url": "https://github.com/cinecert/asdcplib"
@@ -29,7 +29,7 @@
     "usage": "Label"
   },
   {
-    "definingDoc": [
+    "definingDocs": [
       {
         "name": "DBOX Technical Note 124-915-0001-A05",
         "url": "http://www.d-box.com/technical_notes/124-915-0001.pdf"
@@ -42,7 +42,7 @@
     "usage": "Label"
   },
   {
-    "definingDoc": [
+    "definingDocs": [
       {
         "name": "DBOX Technical Note 124-915-0001-A05",
         "url": "http://www.d-box.com/technical_notes/124-915-0001.pdf"
@@ -55,7 +55,7 @@
     "usage": "Label"
   },
   {
-    "definingDoc": [
+    "definingDocs": [
       {
         "name": "DBOX Technical Note 124-915-0001-A05",
         "url": "http://www.d-box.com/technical_notes/124-915-0001.pdf"
@@ -68,7 +68,7 @@
     "usage": "Label"
   },
   {
-    "definingDoc": [
+    "definingDocs": [
       {
         "name": "DBOX Technical Note 124-915-0001-A05",
         "url": "http://www.d-box.com/technical_notes/124-915-0001.pdf"
@@ -81,7 +81,7 @@
     "usage": "Label"
   },
   {
-    "definingDoc": [
+    "definingDocs": [
       {
         "name": "DBOX Technical Note 124-915-0001-A05",
         "url": "http://www.d-box.com/technical_notes/124-915-0001.pdf"
@@ -93,7 +93,7 @@
     "usage": "Label"
   },
   {
-    "definingDoc": [
+    "definingDocs": [
       {
         "name": "DBOX Technical Note 124-915-0001-A05",
         "url": "http://www.d-box.com/technical_notes/124-915-0001.pdf"
@@ -105,7 +105,7 @@
     "usage": "Label"
   },
   {
-    "definingDoc": [
+    "definingDocs": [
       {
         "name": "asdcplib-2.5.11",
         "url": "https://github.com/cinecert/asdcplib"
@@ -117,7 +117,7 @@
     "usage": "Property Key"
   },
   {
-    "definingDoc": [
+    "definingDocs": [
       {
         "name": "asdcplib-2.5.11",
         "url": "https://github.com/cinecert/asdcplib"
@@ -129,7 +129,7 @@
     "usage": "Property Key"
   },
   {
-    "definingDoc": [
+    "definingDocs": [
       {
         "name": "asdcplib-2.5.11",
         "url": "https://github.com/cinecert/asdcplib"
@@ -141,7 +141,7 @@
     "usage": "Property Key"
   },
   {
-    "definingDoc": [
+    "definingDocs": [
       {
         "name": "asdcplib-2.5.11",
         "url": "https://github.com/cinecert/asdcplib"
@@ -153,7 +153,7 @@
     "usage": "Property Key"
   },
   {
-    "definingDoc": [
+    "definingDocs": [
       {
         "name": "asdcplib-2.5.11",
         "url": "https://github.com/cinecert/asdcplib"
@@ -164,7 +164,7 @@
     "usage": "Group Key"
   },
   {
-    "definingDoc": [
+    "definingDocs": [
       {
         "name": "asdcplib-2.5.11",
         "url": "https://github.com/cinecert/asdcplib"
@@ -176,7 +176,7 @@
     "usage": "Group Key"
   },
   {
-    "definingDoc": [
+    "definingDocs": [
       {
         "name": "asdcplib-2.5.11",
         "url": "https://github.com/cinecert/asdcplib"
@@ -188,7 +188,7 @@
     "usage": "Essence Element Key"
   },
   {
-    "definingDoc": [
+    "definingDocs": [
       {
         "name": "asdcplib-2.5.11",
         "url": "https://github.com/cinecert/asdcplib"

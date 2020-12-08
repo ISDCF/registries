@@ -15,7 +15,7 @@
         },
         "ScreenAspectRatio": "3996 2160"
       },
-      "definingDoc": [
+      "definingDocs": [
         {
           "name": "SMPTE ST 429-16:2014",
           "url": "https://doi.org/10.5594/SMPTE.ST429-16.2014"
@@ -50,7 +50,7 @@
         },
         "ScreenAspectRatio": "4096 1716"
       },
-      "definingDoc": [
+      "definingDocs": [
         {
           "name": "SMPTE ST 429-16:2014",
           "url": "https://doi.org/10.5594/SMPTE.ST429-16.2014"
@@ -85,7 +85,7 @@
         },
         "ScreenAspectRatio": "4096 2160"
       },
-      "definingDoc": [
+      "definingDocs": [
         {
           "name": "SMPTE ST 429-16:2014",
           "url": "https://doi.org/10.5594/SMPTE.ST429-16.2014"

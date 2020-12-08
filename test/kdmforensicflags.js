@@ -9,7 +9,7 @@ describe("kdmforensicflags schema", () => {
   it("valid", () => {
     assert.doesNotThrow(() => validate([
       {
-        "definingDoc": [
+        "definingDocs": [
           {
             "name": "DCI DCSS",
             "url": "https://www.dcimovies.com/specification/index.html"
@@ -25,7 +25,7 @@ describe("kdmforensicflags schema", () => {
   it("missing uri", () => {
     assert.throw(() => validate([
       {
-        "definingDoc": [
+        "definingDocs": [
           {
             "name": "DCI DCSS",
             "url": "https://www.dcimovies.com/specification/index.html"

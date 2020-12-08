@@ -10,7 +10,7 @@ describe("contentmodifiers schema", () => {
     assert.doesNotThrow(() => validate([
       {
         "cplMetadata": {
-          "definingDoc": [
+          "definingDocs": [
             {
               "name": "SMPTE ST 429-16:2014",
               "url": "https://doi.org/10.5594/SMPTE.ST429-16.2014"
@@ -28,7 +28,7 @@ describe("contentmodifiers schema", () => {
       },
       {
         "cplMetadata": {
-          "definingDoc": [
+          "definingDocs": [
             {
               "name": "SMPTE ST 429-10:2008",
               "url": "https://doi.org/10.5594/SMPTE.ST429-10.2008"
@@ -58,7 +58,7 @@ describe("contentmodifiers schema", () => {
     assert.throw(() => validate([
       {
         "cplMetadata": {
-          "definingDoc": [
+          "definingDocs": [
             {
               "name": "SMPTE ST 429-16:2014",
               "url": "https://doi.org/10.5594/SMPTE.ST429-16.2014"
@@ -80,7 +80,7 @@ describe("contentmodifiers schema", () => {
     assert.throw(() => validate([
       {
         "cplMetadata": {
-          "definingDoc": [
+          "definingDocs": [
             {
               "name": "SMPTE ST 429-16:2014",
               "url": "https://doi.org/10.5594/SMPTE.ST429-16.2014"

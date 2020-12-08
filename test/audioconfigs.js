@@ -12,7 +12,7 @@ describe("audioconfigs schema", () => {
         "cplMetadata": {
           "MCATagSymbol": "sg51",
           "MainSoundConfigurationTag": "51",
-          "definingDoc": [
+          "definingDocs": [
             {
               "name": "SMPTE ST 429-16:2014",
               "url": "https://doi.org/10.5594/SMPTE.ST429-16.2014"
@@ -33,7 +33,7 @@ describe("audioconfigs schema", () => {
       },
       {
         "cplMetadata": {
-          "definingDoc": [
+          "definingDocs": [
             {
               "name": "ISDCF Doc 15",
               "url": "https://isdcf.com/papers/ISDCF-Doc15-IAB-Profile-1-202006012.pdf"
@@ -73,7 +73,7 @@ describe("audioconfigs schema", () => {
         "cplMetadata": {
           "MCATagSymbol": "DBOX",
           "MainSoundConfigurationTag": "DBOX",
-          "definingDoc": [
+          "definingDocs": [
             {
               "name": "DBOX Technical Note 124-915-0005-A02",
               "url": "https://www.d-box.com/wp-content/uploads/2020/09/124-915-0005.pdf"

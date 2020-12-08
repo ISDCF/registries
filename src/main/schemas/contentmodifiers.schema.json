@@ -42,7 +42,7 @@
           "subElement": {
               "type": "object"
           },
-          "definingDoc": {
+          "definingDocs": {
             "type": "array",
             "items": {
               "type": "object",
@@ -58,7 +58,7 @@
             }
           }
       },
-      "required": [ "metaType", "definingDoc"]
+      "required": [ "metaType", "definingDocs"]
     }
   },
   "type": "array",
