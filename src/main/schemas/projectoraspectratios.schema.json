@@ -27,7 +27,8 @@
       "type": "object",
       "properties": {
         "ScreenAspectRatio": {
-          "type": "string"
+          "type": "string",
+          "pattern": "^\\d+ \\d+?"
         },
         "MainPictureStoredArea": {
           "$ref": "#/definitions/MainPictureStoredArea"
@@ -39,7 +40,8 @@
       "type": "object",
       "properties": {
         "ScreenAspectRatio": {
-          "type": "string"
+          "type": "string",
+          "pattern": "^\\d+ \\d+?"
         },  
         "MainPictureStoredArea": {
           "$ref": "#/definitions/MainPictureStoredArea"

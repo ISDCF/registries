@@ -29,14 +29,14 @@ describe("uls schema", () => {
     ]), /fails schema/)
   })
 
-  it("deprecated no boolean", () => {
+  it("obsolete not boolean", () => {
     assert.throw(() => validate([
       {
         "definingDoc": "http://isdcf.com/papers/ISDCF-Doc13-Sign-Language-Video-Encoding-for-Digital-Cinema.pdf",
         "name": "Sign Language Video Stream",
         "note": "MCATagSymbol = 'SLVS' (Identifies an Audio Channel that contains a Sign Language Video Stream)",
         "usage": "Label",
-        "deprecated": "yes"
+        "obsolete": "yes"
       }
     ]), /fails schema/)
   })

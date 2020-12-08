@@ -20,7 +20,7 @@
   },
   {
     "definingDoc": "http://www.d-box.com/technical_notes/124-915-0001.pdf",
-    "deprecated": true,
+    "obsolete": true,
     "name": "Configuration D1",
     "note": "Not currently used (see http://www.d-box.com/technical_notes/124-915-0002.pdf for latest D-BOX packaging recommendations)",
     "ul": "urn:smpte:ul:060e2b34.0401010d.0e160101.01010101",
@@ -28,7 +28,7 @@
   },
   {
     "definingDoc": "http://www.d-box.com/technical_notes/124-915-0001.pdf",
-    "deprecated": true,
+    "obsolete": true,
     "name": "Configuration D2",
     "note": "Not currently used (see http://www.d-box.com/technical_notes/124-915-0002.pdf for latest D-BOX packaging recommendations)",
     "ul": "urn:smpte:ul:060e2b34.0401010d.0e160101.01010102",
@@ -36,7 +36,7 @@
   },
   {
     "definingDoc": "http://www.d-box.com/technical_notes/124-915-0001.pdf",
-    "deprecated": true,
+    "obsolete": true,
     "name": "Configuration D3",
     "note": "Not currently used (see http://www.d-box.com/technical_notes/124-915-0002.pdf for latest D-BOX packaging recommendations)",
     "ul": "urn:smpte:ul:060e2b34.0401010d.0e160101.01010103",
@@ -44,7 +44,7 @@
   },
   {
     "definingDoc": "http://www.d-box.com/technical_notes/124-915-0001.pdf",
-    "deprecated": true,
+    "obsolete": true,
     "name": "Configuration D5",
     "note": "Not currently used (see http://www.d-box.com/technical_notes/124-915-0002.pdf for latest D-BOX packaging recommendations)",
     "ul": "urn:smpte:ul:060e2b34.0401010d.0e160101.01010105",

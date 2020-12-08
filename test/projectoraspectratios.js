@@ -37,6 +37,32 @@ describe("projectoraspectratios schema", () => {
     ]))
   })
 
+  it("ScreenAspectRatio not a ratio", () => {
+    assert.throw(() => validate([
+      {
+        "cplMetadata": {
+          "2K": {
+            "MainPictureStoredArea": {
+              "Height": 1080,
+              "Width": 1998
+            },
+            "ScreenAspectRatio": "1998x1080"
+          },
+          "4K": {
+            "MainPictureStoredArea": {
+              "Height": 2160,
+              "Width": 3996
+            },
+            "ScreenAspectRatio": "3996 2160"
+          }
+        },
+        "dcncCode": "F",
+        "dcncSortOrder": 1,
+        "description": "Flat (1.85:1)"
+      }
+    ]), /fails schema/)
+  })
+
   it("missing metadata definingDoc", () => {
     assert.throw(() => validate([
       {
