@@ -21,7 +21,10 @@
             "$ref": "#/definitions/extension"
           },
           "definingDoc": {
-              "type": "array"
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
           }
       },
       "required": [ "definingDoc"]

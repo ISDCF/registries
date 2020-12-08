@@ -12,7 +12,10 @@
       "type": "object",
       "properties": {
         "definingDoc": {
-          "type": "array"
+          "type": "array",
+          "items": {
+                "type": "string"
+              }
         },
         "2K": {
           "$ref": "#/definitions/2K"
