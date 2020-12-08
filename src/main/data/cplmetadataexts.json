@@ -1,0 +1,53 @@
+[
+  {
+    "definingDoc": "https://ieeexplore.ieee.org/document/9161348",
+    "description": "SMPTE Bv2.1 DCP (SMPTE RDD52)",
+    "extension": {
+      "extName": "Application",
+      "extScope": "http://isdcf.com/ns/cplmd/app",
+      "extpropName": "DCP Constraints Profile",
+      "extpropValue": "SMPTE-RDD-52:2020-Bv2.1"
+    }
+  },
+  {
+    "definingDoc": "https://isdcf.com/papers/ISDCF-Doc15-IAB-Profile-1-202006012.pdf",
+    "description": "Immesive Audio Bitstream (SMPTE ST2098-2) Profile 1",
+    "extension": {
+      "extName": "Application",
+      "extScope": "http://isdcf.com/ns/cplmd/app",
+      "extpropName": "IAB Profile",
+      "extpropValue": "SMPTE-ST-2098-2:2019-P1"
+    }
+  },
+  {
+    "definingDoc": "https://isdcf.com/papers/ISDCF-Doc13-Sign-Language-Video-Encoding-for-Digital-Cinema.pdf",
+    "description": "Sign Language Track",
+    "extension": {
+      "extName": "Sign Language Video",
+      "extScope": "http://isdcf.com/2017/10/SignLanguageVideo",
+      "extpropName": "Language Tag",
+      "extpropValue": "[DESCRIPTION]"
+    },
+    "note": "Where [DESCRIPTION] is a Language-Tag, as specified in IETF RFC 5646, that identifies the sign language present in the Sign Language Video Track"
+  },
+  {
+    "contact": "mrenl@dolby.com",
+    "description": "Dolby Vision",
+    "extension": {
+      "extName": "Dolby EDR",
+      "extScope": "http://www.dolby.com/schemas/2014/EDR-metadata",
+      "extpropName": "image transfer function",
+      "extpropValue": "PQ10K"
+    }
+  },
+  {
+    "definingDoc": "https://www.d-box.com/wp-content/uploads/2020/09/124-915-0005.pdf",
+    "description": "DBox Motion Control",
+    "extension": {
+      "extName": "D-BOX Enabled",
+      "extScope": "http://www.d-box.com/technical_notes/124-915-0005",
+      "extpropName": "D-BOX Motion Code Primary Stream",
+      "extpropValue": "true"
+    }
+  }
+]

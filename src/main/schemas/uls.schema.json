@@ -1,0 +1,36 @@
+{
+  "$schema": "http://json-schema.org/schema#",
+  "$id": "http://isdcf.com/ns/json-schemas/registries/uls/1.0.0-beta.1",
+  "$comment": "Copyright, ISDCF <info@isdcf.com>",
+  "title": "Schema for the ULs Registry of the ISDCF",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "name": {
+        "type": "string"
+      },
+      "ul": {
+        "type": "string",
+        "format": "uri"
+      },
+      "note": {
+        "type": "string"
+      },
+      "definingDoc": {
+        "type": "string"
+      },
+      "contact": {
+        "type": "string"
+      },
+      "usage": {
+        "type": "string"
+      },
+      "obsolete": {
+        "type": "boolean"
+      }
+    },
+    "required": [ "ul", "name" ],
+    "additionalProperties": false
+  }
+}

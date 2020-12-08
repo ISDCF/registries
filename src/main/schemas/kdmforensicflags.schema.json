@@ -1,0 +1,27 @@
+{
+  "$schema": "http://json-schema.org/schema#",
+  "$id": "http://isdcf.com/ns/json-schemas/registries/kdmforensicflags/1.0.0-beta.1",
+  "$comment": "Copyright, ISDCF <info@isdcf.com>",
+  "title": "Schema for the KDM Forensic Flags Registry of the ISDCF",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "description": {
+        "type": "string"
+      },
+      "uri": {
+        "type": "string",
+        "format": "uri"
+      },
+      "note": {
+        "type": "string"
+      },
+      "definingDoc": {
+        "type": "string"
+      }
+    },
+    "required": [ "uri", "description", "definingDoc" ],
+    "additionalProperties": false
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "$schema": "http://json-schema.org/schema#",
+  "$id": "http://isdcf.com/ns/json-schemas/registries/cplmetadataexts/1.0.0-beta.1",
+  "$comment": "Copyright, ISDCF <info@isdcf.com>",
+  "title": "Schema for the CPL Metadata Extentions Registry of the ISDCF",
+  "definitions": {
+    "extension": {
+      "type": "object",
+      "properties": {
+          "extName": {
+              "type": "string"
+          },
+          "extScope": {
+              "type": "string",
+              "format": "uri"
+          },
+          "extpropName": {
+              "type": "string"
+          },
+          "extpropValue": {
+              "type": "string"
+          }
+      },
+      "required": [ "extName", "extScope", "extpropName", "extpropValue"]
+    }
+  },
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "description": {
+        "type": "string"
+      },
+      "extension": {
+        "$ref": "#/definitions/extension"
+      },
+      "note": {
+        "type": "string"
+      },
+      "definingDoc": {
+        "type": "string"
+      },
+      "contact": {
+        "type": "string"
+      }
+    },
+    "required": [ "extension", "description" ],
+    "additionalProperties": false
+  }
+}

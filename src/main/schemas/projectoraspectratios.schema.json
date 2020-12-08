@@ -1,0 +1,92 @@
+{
+  "$schema": "http://json-schema.org/schema#",
+  "$id": "http://isdcf.com/ns/json-schemas/registries/projectoraspectratios/1.0.0-beta.1",
+  "$comment": "Copyright, ISDCF <info@isdcf.com>",
+  "title": "Schema for the Projector Aspect Ratios and Resolutions Registry of the ISDCF",
+  "definitions": {
+    "dcncCode" : {
+        "type": "string",
+        "pattern": "^\\[?[A-Z0-9]\\]?"
+    },
+    "cplMetadata": {
+      "type": "object",
+      "properties": {
+        "definingDoc": {
+          "type": "array",
+          "items": {
+                "type": "string"
+              }
+        },
+        "2K": {
+          "$ref": "#/definitions/2K"
+        },
+        "4K": {
+          "$ref": "#/definitions/4K"
+        }
+      },
+      "required": [ "definingDoc", "2K", "4K"]
+    },
+    "2K": {
+      "type": "object",
+      "properties": {
+        "ScreenAspectRatio": {
+          "type": "string",
+          "pattern": "^\\d+ \\d+?"
+        },
+        "MainPictureStoredArea": {
+          "$ref": "#/definitions/MainPictureStoredArea"
+        }
+      },
+      "required": [ "ScreenAspectRatio", "MainPictureStoredArea"]
+    },
+    "4K": {
+      "type": "object",
+      "properties": {
+        "ScreenAspectRatio": {
+          "type": "string",
+          "pattern": "^\\d+ \\d+?"
+        },  
+        "MainPictureStoredArea": {
+          "$ref": "#/definitions/MainPictureStoredArea"
+        }
+      },
+      "required": [ "ScreenAspectRatio", "MainPictureStoredArea"]
+    },
+    "MainPictureStoredArea":{
+      "type": "object",
+      "properties": {
+        "Width": {
+          "type": "integer"
+        },
+        "Height": {
+          "type": "integer"
+        }
+      },
+      "required": [ "Width", "Height"]
+    }
+  },
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "dcncCode": {
+        "$ref": "#/definitions/dcncCode"
+      },
+      "dcncSortOrder": {
+        "type": "integer",
+        "minimum": 1
+      },
+      "description": {
+        "type": "string"
+      },
+      "cplMetadata": {
+        "$ref": "#/definitions/cplMetadata"
+      },
+      "note": {
+        "type": "string"
+      }
+    },
+    "required": [ "dcncCode", "cplMetadata", "dcncSortOrder", "description" ],
+    "additionalProperties": false
+  }
+}

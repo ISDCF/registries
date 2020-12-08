@@ -1456,6 +1456,11 @@
     "description": "EUROPACORP"
   },
   {
+    "code": "ECC",
+    "description": "Eclair Classics",
+    "url": "http://www.imageretrouvee.fr/"
+  },
+  {
     "code": "ECL",
     "description": "ÉCLAIR LABS",
     "obsolete": true,
@@ -1490,11 +1495,6 @@
   {
     "code": "EDT",
     "description": "EDIT STUDIOS"
-  },
-  {
-    "code": "ECC",
-    "description": "Eclair Classics",
-    "url": "http://www.imageretrouvee.fr/"
   },
   {
     "code": "EFF",
