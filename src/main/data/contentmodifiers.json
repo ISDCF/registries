@@ -1,7 +1,12 @@
 [
   {
     "cplMetadata": {
-      "definingDoc": "SMPTE ST 429-16",
+      "definingDocs": [
+        {
+          "name": "SMPTE ST 429-16:2014",
+          "url": "https://doi.org/10.5594/SMPTE.ST429-16.2014"
+        }
+      ],
       "element": "VersionNumber",
       "elementValue": "[VersionNumber]",
       "metaType": "Element Value",
@@ -16,7 +21,12 @@
     "cplMetadata": {
       "attribute": "status",
       "attributeValue": "final",
-      "definingDoc": "SMPTE ST 429-16",
+      "definingDocs": [
+        {
+          "name": "SMPTE ST 429-16:2014",
+          "url": "https://doi.org/10.5594/SMPTE.ST429-16.2014"
+        }
+      ],
       "element": "VersionNumber",
       "metaType": "Element Attribute Value",
       "scope": "http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata"
@@ -29,7 +39,12 @@
     "cplMetadata": {
       "attribute": "status",
       "attributeValue": "temp",
-      "definingDoc": "SMPTE ST 429-16",
+      "definingDocs": [
+        {
+          "name": "SMPTE ST 429-16:2014",
+          "url": "https://doi.org/10.5594/SMPTE.ST429-16.2014"
+        }
+      ],
       "element": "VersionNumber",
       "metaType": "Element Attribute Value",
       "scope": "http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata"
@@ -42,7 +57,12 @@
     "cplMetadata": {
       "attribute": "status",
       "attributeValue": "pre",
-      "definingDoc": "SMPTE ST 429-16",
+      "definingDocs": [
+        {
+          "name": "SMPTE ST 429-16:2014",
+          "url": "https://doi.org/10.5594/SMPTE.ST429-16.2014"
+        }
+      ],
       "element": "VersionNumber",
       "metaType": "Element Attribute Value",
       "scope": "http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata"
@@ -53,7 +73,12 @@
   },
   {
     "cplMetadata": {
-      "definingDoc": "SMPTE ST 429-7",
+      "definingDocs": [
+        {
+          "name": "SMPTE ST 429-7:2006",
+          "url": "https://doi.org/10.5594/SMPTE.ST429-7.2006"
+        }
+      ],
       "element": "Rating",
       "metaType": "Sub Element Value",
       "scope": "http://www.smpte-ra.org/schemas/429-7/2006/CPL",
@@ -68,7 +93,12 @@
   },
   {
     "cplMetadata": {
-      "definingDoc": "SMPTE ST 429-16",
+      "definingDocs": [
+        {
+          "name": "SMPTE ST 429-16:2014",
+          "url": "https://doi.org/10.5594/SMPTE.ST429-16.2014"
+        }
+      ],
       "element": "Chain",
       "elementValue": "[CHAIN]",
       "metaType": "Element Value",
@@ -81,7 +111,12 @@
   },
   {
     "cplMetadata": {
-      "definingDoc": "SMPTE ST 429-16",
+      "definingDocs": [
+        {
+          "name": "SMPTE ST 429-16:2014",
+          "url": "https://doi.org/10.5594/SMPTE.ST429-16.2014"
+        }
+      ],
       "element": "Chain",
       "elementValue": "Alt",
       "metaType": "Element Value",
@@ -93,7 +128,12 @@
   },
   {
     "cplMetadata": {
-      "definingDoc": "SMPTE ST 429-7",
+      "definingDocs": [
+        {
+          "name": "SMPTE ST 429-7:2006",
+          "url": "https://doi.org/10.5594/SMPTE.ST429-7.2006"
+        }
+      ],
       "element": "MainPicture",
       "metaType": "Element Present",
       "scope": "http://www.smpte-ra.org/schemas/429-7/2006/CPL#standard-content"
@@ -104,7 +144,12 @@
   },
   {
     "cplMetadata": {
-      "definingDoc": "SMPTE ST 429-10",
+      "definingDocs": [
+        {
+          "name": "SMPTE ST 429-10:2008",
+          "url": "https://doi.org/10.5594/SMPTE.ST429-10.2008"
+        }
+      ],
       "element": "MainStereoscopicPicture",
       "metaType": "Element Present",
       "scope": "http://www.smpte-ra.org/schemas/429-10/2008/Main-Stereo-Picture-CPL"
@@ -117,7 +162,12 @@
     "cplMetadata": {
       "attribute": "units",
       "attributeValue": "foot-lambert",
-      "definingDoc": "SMPTE ST 429-16",
+      "definingDocs": [
+        {
+          "name": "SMPTE ST 429-16:2014",
+          "url": "https://doi.org/10.5594/SMPTE.ST429-16.2014"
+        }
+      ],
       "element": "Luminance",
       "elementValue": "[Luminance]",
       "metaType": "Element and Attribute Value",
@@ -130,7 +180,12 @@
   },
   {
     "cplMetadata": {
-      "definingDoc": "SMPTE ST 429-16",
+      "definingDocs": [
+        {
+          "name": "SMPTE ST 429-16:2014",
+          "url": "https://doi.org/10.5594/SMPTE.ST429-16.2014"
+        }
+      ],
       "element": "EditRate",
       "elementValue": "[FPS]",
       "metaType": "Element Value",
@@ -143,7 +198,12 @@
   },
   {
     "cplMetadata": {
-      "definingDoc": "https://www.isdcf.com/site/registry-cpl-extensions/",
+      "definingDocs": [
+        {
+          "name": "ISDCF CPL Metadata Extensions",
+          "url": "https://www.isdcf.com/site/registry-cpl-extensions/"
+        }
+      ],
       "extName": "Dolby EDR",
       "extScope": "http://www.dolby.com/schemas/2014/EDR-metadata",
       "extpropName": "image transfer function",
@@ -157,7 +217,8 @@
   },
   {
     "cplMetadata": {
-      "definingDoc": "https://www.isdcf.com/site/registry-cpl-extensions/",
+      "definingDocs": [
+      ],
       "metaType": "None"
     },
     "dcncCode": "EC",

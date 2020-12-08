@@ -42,11 +42,23 @@
           "subElement": {
               "type": "object"
           },
-          "definingDoc": {
-              "type": "string"
+          "definingDocs": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string",
+                  "format": "uri"
+                }
+              }
+            }
           }
       },
-      "required": [ "metaType", "definingDoc"]
+      "required": [ "metaType", "definingDocs"]
     }
   },
   "type": "array",

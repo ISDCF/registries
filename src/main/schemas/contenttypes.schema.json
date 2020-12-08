@@ -39,11 +39,23 @@
               "type": "string",
               "format": "uri"
           },
-          "definingDoc": {
-              "type": "string"
+          "definingDocs": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string",
+                  "format": "uri"
+                }
+              }
+            }
           }
       },
-      "required": [ "value", "scope", "definingDoc"]
+      "required": [ "value", "scope", "definingDocs"]
     }
   }
 }

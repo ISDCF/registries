@@ -17,11 +17,23 @@
       "note": {
         "type": "string"
       },
-      "definingDoc": {
-        "type": "string"
+      "definingDocs": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "url": {
+              "type": "string",
+              "format": "uri"
+            }
+          }
+        }
       }
     },
-    "required": [ "uri", "description", "definingDoc" ],
+    "required": [ "uri", "description", "definingDocs" ],
     "additionalProperties": false
   }
 }

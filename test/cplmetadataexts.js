@@ -9,7 +9,12 @@ describe("cplmetadataexts schema", () => {
   it("valid", () => {
     assert.doesNotThrow(() => validate([
       {
-        "definingDoc": "https://ieeexplore.ieee.org/document/9161348",
+        "definingDocs": [
+          {
+            "name": "SMPTE RDD 52",
+            "url": "https://ieeexplore.ieee.org/document/9161348"
+          }
+        ],
         "extension": {
           "extName": "Application",
           "extScope": "http://isdcf.com/ns/cplmd/app",
@@ -24,7 +29,12 @@ describe("cplmetadataexts schema", () => {
   it("missing extension required field", () => {
     assert.throw(() => validate([
       {
-        "definingDoc": "https://ieeexplore.ieee.org/document/9161348",
+       "definingDocs": [
+          {
+            "name": "SMPTE RDD 52",
+            "url": "https://ieeexplore.ieee.org/document/9161348"
+          }
+        ],
         "extension": {
           "extName": "Application",
           "extpropName": "DCP Constraints Profile",

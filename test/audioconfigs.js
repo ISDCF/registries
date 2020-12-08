@@ -12,10 +12,19 @@ describe("audioconfigs schema", () => {
         "cplMetadata": {
           "MCATagSymbol": "sg51",
           "MainSoundConfigurationTag": "51",
-          "definingDoc": [
-            "SMPTE ST 429-16",
-            "SMPTE ST 429-2",
-            "SMPTE ST 428-12"
+          "definingDocs": [
+            {
+              "name": "SMPTE ST 429-16:2014",
+              "url": "https://doi.org/10.5594/SMPTE.ST429-16.2014"
+            },
+            {
+              "name": "SMPTE ST 429-2:2019",
+              "url": "https://doi.org/10.5594/SMPTE.ST429-2.2019"
+            },
+            {
+              "name": "SMPTE ST 428-12:2013",
+              "url": "https://doi.org/10.5594/SMPTE.ST428-12.2013"
+            }
           ]
         },
         "dcncCode": "51",
@@ -24,8 +33,11 @@ describe("audioconfigs schema", () => {
       },
       {
         "cplMetadata": {
-          "definingDoc": [
-            "https://isdcf.com/papers/ISDCF-Doc15-IAB-Profile-1-202006012.pdf"
+          "definingDocs": [
+            {
+              "name": "ISDCF Doc 15",
+              "url": "https://isdcf.com/papers/ISDCF-Doc15-IAB-Profile-1-202006012.pdf"
+            }
           ],
           "extension": {
             "extName": "Application",
@@ -61,8 +73,11 @@ describe("audioconfigs schema", () => {
         "cplMetadata": {
           "MCATagSymbol": "DBOX",
           "MainSoundConfigurationTag": "DBOX",
-          "definingDoc": [
-            "https://www.d-box.com/wp-content/uploads/2020/09/124-915-0005.pdf"
+          "definingDocs": [
+            {
+              "name": "DBOX Technical Note 124-915-0005-A02",
+              "url": "https://www.d-box.com/wp-content/uploads/2020/09/124-915-0005.pdf"
+            }
           ],
           "extension": {
             "extName": "D-BOX Enabled",
