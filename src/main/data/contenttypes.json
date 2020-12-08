@@ -1,7 +1,12 @@
 [
   {
     "cplContentKind": {
-      "definingDoc": "SMPTE ST 429-7",
+      "definingDoc": [
+        {
+          "name": "SMPTE ST 429-7:2006",
+          "url": "https://doi.org/10.5594/SMPTE.ST429-7.2006"
+        }
+      ],
       "scope": "http://www.smpte-ra.org/schemas/429-7/2006/CPL#standard-content",
       "value": "feature"
     },
@@ -11,7 +16,12 @@
   },
   {
     "cplContentKind": {
-      "definingDoc": "SMPTE ST 429-7",
+      "definingDoc": [
+        {
+          "name": "SMPTE ST 429-7:2006",
+          "url": "https://doi.org/10.5594/SMPTE.ST429-7.2006"
+        }
+      ],
       "scope": "http://www.smpte-ra.org/schemas/429-7/2006/CPL#standard-content",
       "value": "trailer"
     },
@@ -21,7 +31,12 @@
   },
   {
     "cplContentKind": {
-      "definingDoc": "SMPTE ST 429-7",
+      "definingDoc": [
+        {
+          "name": "SMPTE ST 429-7:2006",
+          "url": "https://doi.org/10.5594/SMPTE.ST429-7.2006"
+        }
+      ],
       "scope": "http://www.smpte-ra.org/schemas/429-7/2006/CPL#standard-content",
       "value": "teaser"
     },
@@ -31,7 +46,12 @@
   },
   {
     "cplContentKind": {
-      "definingDoc": "SMPTE ST 429-7",
+      "definingDoc": [
+        {
+          "name": "SMPTE ST 429-7:2006",
+          "url": "https://doi.org/10.5594/SMPTE.ST429-7.2006"
+        }
+      ],
       "scope": "http://www.smpte-ra.org/schemas/429-7/2006/CPL#standard-content",
       "value": "test"
     },
@@ -41,7 +61,12 @@
   },
   {
     "cplContentKind": {
-      "definingDoc": "SMPTE ST 429-7",
+      "definingDoc": [
+        {
+          "name": "SMPTE ST 429-7:2006",
+          "url": "https://doi.org/10.5594/SMPTE.ST429-7.2006"
+        }
+      ],
       "scope": "http://www.smpte-ra.org/schemas/429-7/2006/CPL#standard-content",
       "value": "rating"
     },
@@ -51,7 +76,12 @@
   },
   {
     "cplContentKind": {
-      "definingDoc": "SMPTE ST 429-7",
+      "definingDoc": [
+        {
+          "name": "SMPTE ST 429-7:2006",
+          "url": "https://doi.org/10.5594/SMPTE.ST429-7.2006"
+        }
+      ],
       "scope": "http://www.smpte-ra.org/schemas/429-7/2006/CPL#standard-content",
       "value": "advertisement"
     },
@@ -61,7 +91,12 @@
   },
   {
     "cplContentKind": {
-      "definingDoc": "SMPTE ST 429-7",
+      "definingDoc": [
+        {
+          "name": "SMPTE ST 429-7:2006",
+          "url": "https://doi.org/10.5594/SMPTE.ST429-7.2006"
+        }
+      ],
       "scope": "http://www.smpte-ra.org/schemas/429-7/2006/CPL#standard-content",
       "value": "short"
     },
@@ -71,7 +106,12 @@
   },
   {
     "cplContentKind": {
-      "definingDoc": "SMPTE ST 429-7",
+      "definingDoc": [
+        {
+          "name": "SMPTE ST 429-7:2006",
+          "url": "https://doi.org/10.5594/SMPTE.ST429-7.2006"
+        }
+      ],
       "scope": "http://www.smpte-ra.org/schemas/429-7/2006/CPL#standard-content",
       "value": "transitional"
     },
@@ -81,7 +121,12 @@
   },
   {
     "cplContentKind": {
-      "definingDoc": "SMPTE ST 429-7",
+      "definingDoc": [
+        {
+          "name": "SMPTE ST 429-7:2006",
+          "url": "https://doi.org/10.5594/SMPTE.ST429-7.2006"
+        }
+      ],
       "scope": "http://www.smpte-ra.org/schemas/429-7/2006/CPL#standard-content",
       "value": "psa"
     },
@@ -91,7 +136,12 @@
   },
   {
     "cplContentKind": {
-      "definingDoc": "SMPTE ST 429-7",
+      "definingDoc": [
+        {
+          "name": "SMPTE ST 429-7:2006",
+          "url": "https://doi.org/10.5594/SMPTE.ST429-7.2006"
+        }
+      ],
       "scope": "http://www.smpte-ra.org/schemas/429-7/2006/CPL#standard-content",
       "value": "policy"
     },
@@ -101,7 +151,12 @@
   },
   {
     "cplContentKind": {
-      "definingDoc": "SMPTE ST 429-16",
+      "definingDoc": [
+        {
+          "name": "SMPTE ST 429-16:2014",
+          "url": "https://doi.org/10.5594/SMPTE.ST429-16.2014"
+        }
+      ],
       "scope": "http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata#scope/content-kind",
       "value": "clip"
     },
@@ -111,7 +166,12 @@
   },
   {
     "cplContentKind": {
-      "definingDoc": "SMPTE ST 429-16",
+      "definingDoc": [
+        {
+          "name": "SMPTE ST 429-16:2014",
+          "url": "https://doi.org/10.5594/SMPTE.ST429-16.2014"
+        }
+      ],
       "scope": "http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata#scope/content-kind",
       "value": "promo"
     },
@@ -121,7 +181,12 @@
   },
   {
     "cplContentKind": {
-      "definingDoc": "SMPTE ST 429-16",
+      "definingDoc": [
+        {
+          "name": "SMPTE ST 429-16:2014",
+          "url": "https://doi.org/10.5594/SMPTE.ST429-16.2014"
+        }
+      ],
       "scope": "http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata#scope/content-kind",
       "value": "stereocard"
     },
@@ -131,7 +196,12 @@
   },
   {
     "cplContentKind": {
-      "definingDoc": "SMPTE ST 2067-3",
+      "definingDoc": [
+        {
+          "name": "SMPTE ST 2067-3:2013",
+          "url": "https://doi.org/10.5594/SMPTE.ST2067-3.2013"
+        }
+      ],
       "scope": "http://www.smpte-ra.org/schemas/2067-3/2013#content-kind",
       "value": "episode"
     },
@@ -141,7 +211,12 @@
   },
   {
     "cplContentKind": {
-      "definingDoc": "SMPTE ST 2067-3",
+      "definingDoc": [
+        {
+          "name": "SMPTE ST 2067-3:2013",
+          "url": "https://doi.org/10.5594/SMPTE.ST2067-3.2013"
+        }
+      ],
       "scope": "http://www.smpte-ra.org/schemas/2067-3/2013#content-kind",
       "value": "highlights"
     },
@@ -151,7 +226,12 @@
   },
   {
     "cplContentKind": {
-      "definingDoc": "SMPTE ST 2067-3",
+      "definingDoc": [
+        {
+          "name": "SMPTE ST 2067-3:2013",
+          "url": "https://doi.org/10.5594/SMPTE.ST2067-3.2013"
+        }
+      ],
       "scope": "http://www.smpte-ra.org/schemas/2067-3/2013#content-kind",
       "value": "event"
     },

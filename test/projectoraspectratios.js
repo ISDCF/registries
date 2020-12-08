@@ -25,9 +25,18 @@ describe("projectoraspectratios schema", () => {
             "ScreenAspectRatio": "3996 2160"
           },
           "definingDoc": [
-            "SMPTE ST 429-16",
-            "SMPTE ST 429-2",
-            "SMPTE ST 429-7"
+            {
+              "name": "SMPTE ST 429-16:2014",
+              "url": "https://doi.org/10.5594/SMPTE.ST429-16.2014"
+            },
+            {
+              "name": "SMPTE ST 429-2:2019",
+              "url": "https://doi.org/10.5594/SMPTE.ST429-2.2019"
+            },
+            {
+              "name": "SMPTE ST 428-12:2013",
+              "url": "https://doi.org/10.5594/SMPTE.ST428-12.2013"
+            }
           ]
         },
         "dcncCode": "F",
@@ -41,6 +50,20 @@ describe("projectoraspectratios schema", () => {
     assert.throw(() => validate([
       {
         "cplMetadata": {
+          "definingDoc": [
+            {
+              "name": "SMPTE ST 429-16:2014",
+              "url": "https://doi.org/10.5594/SMPTE.ST429-16.2014"
+            },
+            {
+              "name": "SMPTE ST 429-2:2019",
+              "url": "https://doi.org/10.5594/SMPTE.ST429-2.2019"
+            },
+            {
+              "name": "SMPTE ST 428-12:2013",
+              "url": "https://doi.org/10.5594/SMPTE.ST428-12.2013"
+            }
+          ],
           "2K": {
             "MainPictureStoredArea": {
               "Height": 1080,
@@ -107,9 +130,18 @@ describe("projectoraspectratios schema", () => {
             "ScreenAspectRatio": "3996 2160"
           },
           "definingDoc": [
-            "SMPTE ST 429-16",
-            "SMPTE ST 429-2",
-            "SMPTE ST 429-7"
+            {
+              "name": "SMPTE ST 429-16:2014",
+              "url": "https://doi.org/10.5594/SMPTE.ST429-16.2014"
+            },
+            {
+              "name": "SMPTE ST 429-2:2019",
+              "url": "https://doi.org/10.5594/SMPTE.ST429-2.2019"
+            },
+            {
+              "name": "SMPTE ST 428-12:2013",
+              "url": "https://doi.org/10.5594/SMPTE.ST428-12.2013"
+            }
           ]
         },
         "dcncCode": "F",
@@ -138,9 +170,18 @@ describe("projectoraspectratios schema", () => {
             "ScreenAspectRatio": "3996 2160"
           },
           "definingDoc": [
-            "SMPTE ST 429-16",
-            "SMPTE ST 429-2",
-            "SMPTE ST 429-7"
+            {
+              "name": "SMPTE ST 429-16:2014",
+              "url": "https://doi.org/10.5594/SMPTE.ST429-16.2014"
+            },
+            {
+              "name": "SMPTE ST 429-2:2019",
+              "url": "https://doi.org/10.5594/SMPTE.ST429-2.2019"
+            },
+            {
+              "name": "SMPTE ST 428-12:2013",
+              "url": "https://doi.org/10.5594/SMPTE.ST428-12.2013"
+            }
           ]
         },
         "dcncCode": "F",
@@ -169,9 +210,18 @@ describe("projectoraspectratios schema", () => {
             "ScreenAspectRatio": "3996 2160"
           },
           "definingDoc": [
-            "SMPTE ST 429-16",
-            "SMPTE ST 429-2",
-            "SMPTE ST 429-7"
+            {
+              "name": "SMPTE ST 429-16:2014",
+              "url": "https://doi.org/10.5594/SMPTE.ST429-16.2014"
+            },
+            {
+              "name": "SMPTE ST 429-2:2019",
+              "url": "https://doi.org/10.5594/SMPTE.ST429-2.2019"
+            },
+            {
+              "name": "SMPTE ST 428-12:2013",
+              "url": "https://doi.org/10.5594/SMPTE.ST428-12.2013"
+            }
           ]
         },
         "dcncCode": "F",
@@ -199,9 +249,18 @@ describe("projectoraspectratios schema", () => {
             "ScreenAspectRatio": "3996 2160"
           },
           "definingDoc": [
-            "SMPTE ST 429-16",
-            "SMPTE ST 429-2",
-            "SMPTE ST 429-7"
+            {
+              "name": "SMPTE ST 429-16:2014",
+              "url": "https://doi.org/10.5594/SMPTE.ST429-16.2014"
+            },
+            {
+              "name": "SMPTE ST 429-2:2019",
+              "url": "https://doi.org/10.5594/SMPTE.ST429-2.2019"
+            },
+            {
+              "name": "SMPTE ST 428-12:2013",
+              "url": "https://doi.org/10.5594/SMPTE.ST428-12.2013"
+            }
           ]
         },
         "dcncCode": "F",

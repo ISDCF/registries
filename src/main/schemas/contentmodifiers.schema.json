@@ -43,7 +43,19 @@
               "type": "object"
           },
           "definingDoc": {
-              "type": "string"
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string",
+                  "format": "uri"
+                }
+              }
+            }
           }
       },
       "required": [ "metaType", "definingDoc"]

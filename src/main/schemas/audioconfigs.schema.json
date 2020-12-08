@@ -21,10 +21,19 @@
             "$ref": "#/definitions/extension"
           },
           "definingDoc": {
-              "type": "array",
-              "items": {
-                "type": "string"
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string",
+                  "format": "uri"
+                }
               }
+            }
           }
       },
       "required": [ "definingDoc"]

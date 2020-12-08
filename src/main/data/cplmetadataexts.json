@@ -1,6 +1,11 @@
 [
   {
-    "definingDoc": "https://ieeexplore.ieee.org/document/9161348",
+    "definingDoc": [
+      {
+        "name": "SMPTE RDD 52",
+        "url": "https://ieeexplore.ieee.org/document/9161348"
+      }
+    ],
     "description": "SMPTE Bv2.1 DCP (SMPTE RDD52)",
     "extension": {
       "extName": "Application",
@@ -10,7 +15,12 @@
     }
   },
   {
-    "definingDoc": "https://isdcf.com/papers/ISDCF-Doc15-IAB-Profile-1-202006012.pdf",
+    "definingDoc": [
+      {
+        "name": "ISDCF Doc 15",
+        "url": "https://isdcf.com/papers/ISDCF-Doc15-IAB-Profile-1-202006012.pdf"
+      }
+    ],
     "description": "Immesive Audio Bitstream (SMPTE ST2098-2) Profile 1",
     "extension": {
       "extName": "Application",
@@ -20,7 +30,12 @@
     }
   },
   {
-    "definingDoc": "https://isdcf.com/papers/ISDCF-Doc13-Sign-Language-Video-Encoding-for-Digital-Cinema.pdf",
+    "definingDoc": [
+      {
+        "name": "ISDCF Doc 13",
+        "url": "https://isdcf.com/papers/ISDCF-Doc13-Sign-Language-Video-Encoding-for-Digital-Cinema.pdf"
+      }
+    ],
     "description": "Sign Language Track",
     "extension": {
       "extName": "Sign Language Video",
@@ -41,7 +56,12 @@
     }
   },
   {
-    "definingDoc": "https://www.d-box.com/wp-content/uploads/2020/09/124-915-0005.pdf",
+    "definingDoc": [
+      {
+        "name": "DBOX Technical Note 124-915-0005-A02",
+        "url": "https://www.d-box.com/wp-content/uploads/2020/09/124-915-0005.pdf"
+      }
+    ],
     "description": "DBox Motion Control",
     "extension": {
       "extName": "D-BOX Enabled",

@@ -12,11 +12,20 @@
       "type": "object",
       "properties": {
         "definingDoc": {
-          "type": "array",
-          "items": {
-                "type": "string"
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string",
+                  "format": "uri"
+                }
               }
-        },
+            }
+          },
         "2K": {
           "$ref": "#/definitions/2K"
         },

@@ -10,7 +10,12 @@ describe("contentmodifiers schema", () => {
     assert.doesNotThrow(() => validate([
       {
         "cplMetadata": {
-          "definingDoc": "SMPTE ST 429-16",
+          "definingDoc": [
+            {
+              "name": "SMPTE ST 429-16:2014",
+              "url": "https://doi.org/10.5594/SMPTE.ST429-16.2014"
+            }
+          ],
           "element": "VersionNumber",
           "elementValue": "[VersionNumber]",
           "metaType": "Element Value",
@@ -23,7 +28,12 @@ describe("contentmodifiers schema", () => {
       },
       {
         "cplMetadata": {
-          "definingDoc": "SMPTE ST 429-10",
+          "definingDoc": [
+            {
+              "name": "SMPTE ST 429-10:2008",
+              "url": "https://doi.org/10.5594/SMPTE.ST429-10.2008"
+            }
+          ],
           "element": "MainStereoscopicPicture",
           "metaType": "Element Present",
           "scope": "http://www.smpte-ra.org/schemas/429-10/2008/Main-Stereo-Picture-CPL"
@@ -48,7 +58,12 @@ describe("contentmodifiers schema", () => {
     assert.throw(() => validate([
       {
         "cplMetadata": {
-          "definingDoc": "SMPTE ST 429-16",
+          "definingDoc": [
+            {
+              "name": "SMPTE ST 429-16:2014",
+              "url": "https://doi.org/10.5594/SMPTE.ST429-16.2014"
+            }
+          ],
           "element": "VersionNumber",
           "elementValue": "[VersionNumber]",
           "metaType": "Element Value",
@@ -65,7 +80,12 @@ describe("contentmodifiers schema", () => {
     assert.throw(() => validate([
       {
         "cplMetadata": {
-          "definingDoc": "SMPTE ST 429-16",
+          "definingDoc": [
+            {
+              "name": "SMPTE ST 429-16:2014",
+              "url": "https://doi.org/10.5594/SMPTE.ST429-16.2014"
+            }
+          ],
           "element": "VersionNumber",
           "elementValue": "[VersionNumber]",
           "metaType": "Element Value",
