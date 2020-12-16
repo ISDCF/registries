@@ -397,7 +397,7 @@
     ]
   },
   {
-    "dcncLanguage": "Portugese - Brazilian",
+    "dcncLanguage": "Portuguese - Brazilian",
     "dcncTag": "QBP",
     "rfc5646Tag": "pt-BR",
     "use": [
@@ -406,7 +406,7 @@
     ]
   },
   {
-    "dcncLanguage": "Portugese - European",
+    "dcncLanguage": "Portuguese - European",
     "dcncTag": "PT",
     "rfc5646Tag": "pt",
     "use": [
