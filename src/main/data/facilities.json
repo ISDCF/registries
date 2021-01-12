@@ -1947,6 +1947,16 @@
     "description": "Halo Post Production"
   },
   {
+    "code": "HAO",
+    "contact": {
+      "address": "Agiou Markou 10, Athens, Greece 10560",
+      "email": "matt@haosfilm.com",
+      "name": "Matt Johnson"
+    },
+    "description": "Haos Film",
+    "url": "http://www.haosfilm.com"
+  },
+  {
     "code": "HAR",
     "description": "HARBOR PICTURE COMPANY"
   },
