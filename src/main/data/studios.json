@@ -134,6 +134,16 @@
     "description": "BUSCH MEDIA GROUP"
   },
   {
+    "code": "BOS",
+    "contact": {
+      "address": "7 Weethes Cottages, Penzance, Kernow TR18 2RP",
+      "email": "hello@bosena.co.uk",
+      "name": "Denzil Monk"
+    },
+    "description": "BOSENA",
+    "url": "https://www.bosena.co.uk/"
+  },
+  {
     "code": "BOY",
     "description": "Bannerboy AB"
   },
