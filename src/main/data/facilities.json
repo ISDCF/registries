@@ -856,6 +856,11 @@
     "description": "CENTRAL PRODUCTION INTERNATIONAL GROUP"
   },
   {
+    "code": "CPL",
+    "description": "Cinema Printing Company London Ltd.",
+    "url": "https://cpclondon.com/"
+  },
+  {
     "code": "CPP",
     "description": "CINEPOSTPRODUCTION"
   },
