@@ -848,8 +848,8 @@
   },
   {
     "code": "CPC",
-    "description": "CINEMA PRODUCTION COMPLEX"
-    "obsolete":true
+    "description": "CINEMA PRODUCTION COMPLEX",
+    "obsolete": true
   },
   {
     "code": "CPI",
