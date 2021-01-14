@@ -515,6 +515,11 @@
     "description": "KINO-I PICTURES"
   },
   {
+    "code": "KIS",
+    "description": "Kismet",
+    "url": "http://www.kismetproductions.com.au"
+  },
+  {
     "code": "KMP",
     "description": "Kominek Motion Pictures",
     "url": "https://kominek.ca"
