@@ -647,6 +647,16 @@
     "description": "MARVEL"
   },
   {
+    "code": "MSLW",
+    "contact": {
+      "address": "PO Box 7201, Warringah Mall NSW 2100, Sydney, Australia",
+      "email": "info@maslowentertainment.com",
+      "name": "Alex Taylor"
+    },
+    "description": "Maslow Entertainment",
+    "url": "http://www.maslowentertainment.com"
+  },
+  {
     "code": "MSVP",
     "description": "MYSTIC STUDIOS & VINAYAK PRODUCTIONS"
   },
