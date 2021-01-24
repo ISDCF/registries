@@ -883,6 +883,16 @@
     "description": "SCREEN ATTRACTIONS"
   },
   {
+    "code": "SABL",
+    "contact": {
+      "address": "4/1-49, Ammosov str., Yakutsk, Sakha Republic, Russia",
+      "email": "newerykt@gmail.com",
+      "name": "Mr. Stepan Burnashev"
+    },
+    "description": "Saidam Baryl",
+    "url": "https://www.youtube.com/user/MrNewerykt"
+  },
+  {
     "code": "SAF",
     "description": "SIERRA/AFFINITY"
   },
