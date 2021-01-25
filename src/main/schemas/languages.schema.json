@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/schema#",
-  "$id": "http://isdcf.com/ns/json-schemas/registries/languages/1.0.0-beta.2",
+  "$id": "http://isdcf.com/ns/json-schemas/registries/languages/1.0.0",
   "$comment": "Copyright, ISDCF <info@isdcf.com>",
   "title": "Schema for the Languages Registry of the ISDCF",
   "type": "array",
