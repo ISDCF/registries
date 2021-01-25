@@ -14,13 +14,16 @@
         }
       },
       "dcncLanguage": {
-        "type": "string"
+        "type": "string",
+        "pattern": "^[A-Za-z -]{1,}$"
       },
       "dcncTag": {
-        "type": "string"
+        "type": "string",
+        "pattern": "^[A-Z]{1,}$"
       },
       "rfc5646Tag": {
-        "type": "string"
+        "type": "string",
+        "pattern": "^[A-Za-z0-9-]{1,}$"
       },
       "use": {
         "type": "array",
@@ -29,6 +32,15 @@
         "items": {
           "type": "string",
           "enum": ["audio", "text"]
+        }
+      },
+      "obsoleteDCNCTags" : {
+        "type": "array",
+        "minItems": 1,
+        "uniqueItems": true,
+        "items": {
+          "type": "string",
+          "pattern": "^[A-Z]{1,}$"
         }
       }
     },
