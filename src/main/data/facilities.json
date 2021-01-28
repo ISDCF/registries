@@ -511,6 +511,11 @@
     "description": "CAN Film, Sweden"
   },
   {
+    "code": "CAP",
+    "description": "Capricci Films",
+    "url": "http://www.capricci.fr"
+  },
+  {
     "code": "CAR",
     "description": "CARPENTER CINEMA CONCEPTS"
   },
