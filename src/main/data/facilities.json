@@ -3789,6 +3789,16 @@
     "description": "Synchro"
   },
   {
+    "code": "T6",
+    "contact": {
+      "address": "2F 129 Scout Rallos Extension, 1103 Quezon City, Philippines",
+      "email": "cyril@terminalsix.co",
+      "name": "Mr. Cyril"
+    },
+    "description": "Terminal Six Post",
+    "url": "https://www.terminalsix.co"
+  },
+  {
     "code": "T60",
     "description": "TRES60 BCN"
   },
