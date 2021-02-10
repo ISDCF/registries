@@ -2290,6 +2290,16 @@
     "description": "Klockworx"
   },
   {
+    "code": "KYO",
+    "contact": {
+      "address": "800 Richard Street, New Orleans, LA 70130",
+      "email": "bradley@kyotocolor.com",
+      "name": "Bradley Greer"
+    },
+    "description": "Kyotocolor Post",
+    "url": "http://kyotocolor.com/"
+  },
+  {
     "code": "L36",
     "description": "LINE 36 STUDIO"
   },
