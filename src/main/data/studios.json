@@ -106,6 +106,16 @@
     "description": "AV-DESIGN"
   },
   {
+    "code": "BAQ",
+    "contact": {
+      "address": "4639 Huron Ave, San Diego, CA 92117",
+      "email": "michaelgkinsell@gmail.com",
+      "name": "Michael Kinsell"
+    },
+    "description": "Brush & Quill",
+    "url": "https://michaelsstorytime.com"
+  },
+  {
     "code": "BBF",
     "description": "Bad Blood Films"
   },
