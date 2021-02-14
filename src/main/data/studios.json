@@ -415,7 +415,13 @@
   },
   {
     "code": "GKID",
-    "description": "GKIDS, Inc."
+    "contact": {
+      "address": "225 Broadway, Suite 2610, New York, New York 10007",
+      "email": "lyle@gkids.com",
+      "name": "Lyle Zanca"
+    },
+    "description": "GKIDS, Inc.",
+    "url": "https://www.gkids.com/"
   },
   {
     "code": "GPI",
