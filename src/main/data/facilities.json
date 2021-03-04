@@ -348,6 +348,16 @@
     "description": "AZUL QUE NÃO HÁ"
   },
   {
+    "code": "BA",
+    "contact": {
+      "address": "Lindenallee 55/57, 15366 Hoppegarten, Germany",
+      "email": "at3@bundesarchiv.de",
+      "name": "Mr. Foerstner"
+    },
+    "description": "Bundesarchiv",
+    "url": "http://www.bundesarchiv.de"
+  },
+  {
     "code": "BB",
     "description": "BASISBERLIN"
   },
