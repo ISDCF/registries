@@ -414,6 +414,16 @@
     "description": "GRAND BRILLIANCE"
   },
   {
+    "code": "GDFF",
+    "contact": {
+      "address": "Waly Piastowskie24/19 80-855 Gdansk, Poland",
+      "email": "stowedufilm@gmail.com",
+      "name": "Jacek Borzych"
+    },
+    "description": "Gdansk DocFilm Festival",
+    "url": "https://gdff.pl/"
+  },
+  {
     "code": "GKID",
     "contact": {
       "address": "225 Broadway, Suite 2610, New York, New York 10007",
