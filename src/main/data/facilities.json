@@ -3280,6 +3280,16 @@
     "description": "QUANTUM POST"
   },
   {
+    "code": "QSC",
+    "contact": {
+      "address": "4109 W Fletcher St, Chicago, IL 60641 USA",
+      "email": "stemple@quicksilvercolor.com",
+      "name": "C. Ryan Stemple CSI"
+    },
+    "description": "Quicksilver Color",
+    "url": "https://quicksilvercolor.com"
+  },
+  {
     "code": "QUB",
     "description": "QUBE CINEMA"
   },
