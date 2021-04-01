@@ -2991,6 +2991,11 @@
     "description": "OUTPOST VISUAL FRONTIER"
   },
   {
+    "code": "OWM",
+    "description": "ORWO Media Services GmbH",
+    "url": "https://orwomedia.com"
+  },
+  {
     "code": "OXI",
     "description": "OXIDO"
   },
