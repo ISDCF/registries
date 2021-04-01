@@ -115,7 +115,11 @@
   },
   {
     "code": "ADC",
-    "description": "ARRI DIGITAL CINEMA"
+    "description": "ARRI DIGITAL CINEMA",
+    "obsolete": true,
+    "obsoletedBy": [
+      "OWM"
+    ]
   },
   {
     "code": "ADE",
