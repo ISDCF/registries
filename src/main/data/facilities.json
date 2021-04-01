@@ -115,7 +115,11 @@
   },
   {
     "code": "ADC",
-    "description": "ARRI DIGITAL CINEMA"
+    "description": "ARRI DIGITAL CINEMA",
+    "obsolete": true,
+    "obsoletedBy": [
+      "OWM"
+    ]
   },
   {
     "code": "ADE",
@@ -2985,6 +2989,11 @@
   {
     "code": "OVF",
     "description": "OUTPOST VISUAL FRONTIER"
+  },
+  {
+    "code": "OWM",
+    "description": "ORWO Media Services GmbH",
+    "url": "https://orwomedia.com"
   },
   {
     "code": "OXI",
