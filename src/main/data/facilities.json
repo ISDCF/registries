@@ -4194,6 +4194,16 @@
     "description": "VICTORY STUDIOS"
   },
   {
+    "code": "VID",
+    "contact": {
+      "address": "Esterwagnerstrasse 15A, 85635 Hoehenkirchen-Siegertsbrunn, Germany",
+      "email": "info@vidivo.tv",
+      "name": "Ivaylo Iliev"
+    },
+    "description": "VIDIVO Bewegtbildkreation",
+    "url": "https://www.vidivo.tv/"
+  },
+  {
     "code": "VIS",
     "description": "VISAR STUDIO"
   },
