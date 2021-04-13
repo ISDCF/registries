@@ -4015,7 +4015,11 @@
   },
   {
     "code": "TNR",
-    "description": "THE NEW RESIDENCE"
+    "description": "THE NEW RESIDENCE",
+    "obsolete": true,
+    "obsoletedBy": [
+      "VID"
+    ]
   },
   {
     "code": "TOA",
