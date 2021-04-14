@@ -456,6 +456,16 @@
     "description": "Gdynia Film School"
   },
   {
+     "code": "GTF",
+     "contact": {
+       "address": "Labråten 81, 1614 Fredrikstad, Norway",
+       "email": "anders@goldentouchfilm.com",
+       "name": "Andy Pett"
+     },
+     "description": "Golden Touch Film",
+     "url": "https://www.goldentouchfilm.com"
+   },
+  {
     "code": "HBO",
     "description": "Home Box Office"
   },
