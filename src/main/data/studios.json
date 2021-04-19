@@ -842,6 +842,16 @@
     "description": "POLO FILM (DK)"
   },
   {
+    "code": "PRL",
+    "contact": {
+      "address": "Dominikańska 9/5, 02-738 Warsaw, Poland",
+      "email": "lukasz@prl.com.pl",
+      "name": "Mr. Łukasz Rąb"
+    },
+    "description": "PRL STUDIO",
+    "url": "https://prl.com.pl/en/"
+  },
+  {
     "code": "PSR",
     "description": "Paolo Sodi"
   },
