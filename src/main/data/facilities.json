@@ -3196,6 +3196,16 @@
     "description": "PRESTIGE CONSULTING"
   },
   {
+    "code": "PRL",
+    "contact": {
+      "address": "Dominikańska 9/5,  02-738, Warsaw, Poland",
+      "email": "lukasz@prl.com.pl",
+      "name": "Łukasz Rąb"
+    },
+    "description": "PRL STUDIO",
+    "url": "https://prl.com.pl/en/"
+  },
+  {
     "code": "PRP",
     "description": "Park Road Post Production LTD."
   },
