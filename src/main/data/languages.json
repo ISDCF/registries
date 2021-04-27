@@ -450,6 +450,15 @@
     ]
   },
   {
+    "dcncLanguage": "Marathi",
+    "dcncTag": "MR",
+    "rfc5646Tag": "mr",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
     "dcncLanguage": "Mongolian",
     "dcncTag": "MN",
     "rfc5646Tag": "mn",
