@@ -3223,6 +3223,11 @@
     "description": "POSTCOLOR"
   },
   {
+    "code": "PSL",
+    "description": "Picture Shop London",
+    "url": "https://pictureshop.com/"
+  },
+  {
     "code": "PSP",
     "description": "PROMOSCAPE",
     "obsolete": true,
