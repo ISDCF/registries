@@ -4085,7 +4085,7 @@
   },
   {
     "code": "TPS",
-    "description": "TECHNICOLOR PRODUCTION SERVICES"
+    "description": "TECHNICOLOR PRODUCTION SERVICES",
     "obsolete": true,
     "obsoletedBy": [
       "PSL"
