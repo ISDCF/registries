@@ -494,6 +494,16 @@
     "description": "HOCHSCHULE LUZERN"
   },
   {
+    "code": "HULU",
+    "contact": {
+      "address": "2500 Broadway 2nd Floor, Santa Monica, CA",
+      "email": "Mike.Radford@disney.com",
+      "name": "Mike Radford"
+    },
+    "description": "Hulu",
+    "url": "https://hulu.com"
+  },
+  {
     "code": "ICON",
     "description": "ICON ENTERTAINMENT"
   },
