@@ -285,6 +285,16 @@
     "description": "DCI KOMPETENZZENTRUM"
   },
   {
+    "code": "DDF",
+    "contact": {
+      "address": "Theodor Christensens Pl. 1, 1437 København, Copenhagen, Denmark",
+      "email": "ask@filmskolen.dk",
+      "name": "Mr. Anders Svanborg / Mr. Peter Posgaard"
+    },
+    "description": "The National Film School of Denmark",
+    "url": "http://filmskolen.dk/"
+  },
+  {
     "code": "DEFI",
     "description": "DELPHI FILMVERLEIH GMBH"
   },
