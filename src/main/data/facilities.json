@@ -116,10 +116,7 @@
   {
     "code": "ADC",
     "description": "ARRI DIGITAL CINEMA",
-    "obsolete": true,
-    "obsoletedBy": [
-      "OWM"
-    ]
+    "url": "https://arrimedia.de"
   },
   {
     "code": "ADE",
