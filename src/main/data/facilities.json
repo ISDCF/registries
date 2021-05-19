@@ -3005,6 +3005,10 @@
   {
     "code": "OWM",
     "description": "ORWO Media Services GmbH",
+    "obsolete": true,
+    "obsoletedBy": [
+      "ADC"
+    ],
     "url": "https://orwomedia.com"
   },
   {
