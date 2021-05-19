@@ -3005,11 +3005,11 @@
   {
     "code": "OWM",
     "description": "ORWO Media Services GmbH",
-    "url": "https://orwomedia.com",
     "obsolete": true,
     "obsoletedBy": [
       "ADC"
-    ]
+    ],
+    "url": "https://orwomedia.com"
   },
   {
     "code": "OXI",
