@@ -3148,6 +3148,16 @@
     "description": "MEGA PLAYGROUND"
   },
   {
+    "code": "PLP",
+    "contact": {
+      "address": "Calle F 11A, Viejo Arroyo Hondo, Santo Domingo, Dominican Republic",
+      "email": "miguel@pulpopost.com",
+      "name": "Miguel Muniz"
+    },
+    "description": "Pulpo Post",
+    "url": "http://www.pulpopost.com"
+  },
+  {
     "code": "PLS",
     "description": "POST LOGIC"
   },
