@@ -1568,6 +1568,16 @@
     "description": "ENCORE HOLLYWOOD"
   },
   {
+    "code": "EIL",
+    "contact": {
+      "address": "73 Garden Wood Road, East Grinstead, West Sussex, RH19 1RX ENGLAND",
+      "email": "simon.burley@electric-image.com",
+      "name": "Simon Burley"
+    },
+    "description": "Electric Image Ltd",
+    "url": "https://www.electric-image.com/"
+  },
+  {
     "code": "EIV",
     "description": "Eclair Italy Venice"
   },
