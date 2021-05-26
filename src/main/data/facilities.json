@@ -3436,7 +3436,11 @@
   },
   {
     "code": "RFI",
-    "description": "RPS FILM IMAGING LTD"
+    "description": "RPS FILM IMAGING LTD",
+    "obsolete": true,
+    "obsoletedBy": [
+      "EIL"
+    ]
   },
   {
     "code": "RFY",
