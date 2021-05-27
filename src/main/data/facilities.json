@@ -3934,6 +3934,16 @@
     "description": "TC SOHO"
   },
   {
+    "code": "TCD",
+    "contact": {
+      "address": "9124 Vista Creek Drive Dallas Texas, USA",
+      "email": "matt@thrivecolour.com",
+      "name": "Matt McClain"
+    },
+    "description": "Thrive Colour",
+    "url": "https://www.thrivecolour.com"
+  },
+  {
     "code": "TCF",
     "description": "TWENTIETH CENTURY FOX"
   },
