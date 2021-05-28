@@ -383,6 +383,16 @@
     "description": "BASECAMP FILMS (MALAYSIA)"
   },
   {
+    "code": "BCX",
+    "contact": {
+      "address": "H.C. ØRSTEDSVEJ 30, 1879 FREDERIKSBERG, DENMARK",
+      "email": "lasses@baconx.com",
+      "name": "Lasse Selvli"
+    },
+    "description": "BaconX",
+    "url": "https://baconx.com/"
+  },
+  {
     "code": "BDM",
     "description": "BRICKBOX DIGITAL MEDIA"
   },
