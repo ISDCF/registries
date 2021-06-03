@@ -709,6 +709,11 @@
     "description": "METRO INTERNATIONAL"
   },
   {
+    "code": "MM",
+    "description": "Millennium Media",
+    "url": "https://millennium-media.net/"
+  },
+  {
     "code": "MMG",
     "description": "MOMOTION GMBH"
   },
@@ -1223,6 +1228,16 @@
   {
     "code": "VFS",
     "description": "VFS FILMS"
+  },
+  {
+    "code": "VHE",
+    "contact": {
+      "address": "Postbus 146, 3360 AC Sliedrecht, Netherlands",
+      "email": "joris@vanhoorne.com",
+      "name": "Joris Gootjes"
+    },
+    "description": "Van Hoorne Entertainment",
+    "url": "https://www.vanhoorne.com"
   },
   {
     "code": "VIC",
