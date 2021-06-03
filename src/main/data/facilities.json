@@ -2796,6 +2796,16 @@
     "description": "MY ONLINE DCP"
   },
   {
+    "code": "NAB",
+    "contact": {
+      "address": "Harentstraat 17, 2820 Bonheiden, Belgium",
+      "email": "june@nabeeld.be",
+      "name": "June Verelst"
+    },
+    "description": "NaBeeld",
+    "url": "https://www.nabeeld.be"
+  },
+  {
     "code": "NAF",
     "contact": {
       "address": "Valjevska 8, 26000 Pančevo, Serbia",
