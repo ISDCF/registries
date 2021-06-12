@@ -467,6 +467,16 @@
     "description": "GRAMERCY PICTURES"
   },
   {
+    "code": "GSA",
+    "contact": {
+      "address": "ul. Łąkowa 35/38, 80-769 Gdańsk, Poland",
+      "email": "biuro@g-s.pl",
+      "name": "Małgorzata Treselj"
+    },
+    "description": "GS ANIMATION Sp. z o.o., GRUPA SMACZNEGO SP.K.",
+    "url": "https://g-s.pl/"
+  },
+  {
     "code": "GSF",
     "description": "Gdynia Film School"
   },
