@@ -195,6 +195,16 @@
     "description": "Andrei Konchalovsky Studios"
   },
   {
+    "code": "AKT",
+    "contact": {
+      "address": "Moctezuma 2da Secc. CDMX, Mexico 15530",
+      "email": "maurtf@akt.com.mx",
+      "name": "Mauricio Martinez"
+    },
+    "description": "AKT Film & Post",
+    "url": "https://akt.com.mx/filmpost/"
+  },
+  {
     "code": "ALM",
     "description": "ARE LUKE"
   },
