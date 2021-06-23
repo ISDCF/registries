@@ -772,6 +772,16 @@
     "description": "MYSTIC STUDIOS & VINAYAK PRODUCTIONS"
   },
   {
+    "code": "MU",
+    "contact": {
+      "address": "7 Newburgh St, Carnaby, London W1F 7RB, UK",
+      "email": "lnawrocka@mubi.com",
+      "name": "Lena Nawrocka"
+    },
+    "description": "MUBI Releases",
+    "url": "https://mubi.com/"
+  },
+  {
     "code": "MZTR",
     "contact": {
       "address": "Kodrigktonos 21, 10434, Athens,  GREECE",
