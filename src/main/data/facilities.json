@@ -2804,6 +2804,16 @@
     "description": "MATRIS MÜHENDISLIK"
   },
   {
+    "code": "MUB",
+    "contact": {
+      "address": "7 Newburgh St, Carnaby, London W1F 7RB, UK",
+      "email": "lnawrocka@mubi.com",
+      "name": "Lena Nawrocka"
+    },
+    "description": "MUBI",
+    "url": "https://mubi.com/"
+  },
+  {
     "code": "MVF",
     "description": "MOVIE FACTORY"
   },
