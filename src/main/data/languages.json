@@ -723,5 +723,14 @@
       "audio",
       "text"
     ]
+  },
+  {
+    "dcncLanguage": "Xhosa",
+    "dcncTag": "XH",
+    "rfc5646Tag": "xh",
+    "use": [
+      "audio",
+      "text"
+    ]
   }
 ]
