@@ -1320,7 +1320,13 @@
   },
   {
     "code": "DRG",
-    "description": "DRG CINE DIGITAL"
+    "contact": {
+      "address": "Santa Eduvigis, Caracas, Venezuela",
+      "email": "lars.gold@gmail.com",
+      "name": "Lars Goldschlager"
+    },
+    "description": "DRG Cine Digital",
+    "url": "http://drgcinedigital.com"
   },
   {
     "code": "DS",
