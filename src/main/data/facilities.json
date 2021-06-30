@@ -1866,6 +1866,16 @@
     "description": "FREESTUDIOS"
   },
   {
+    "code": "FRK",
+    "contact": {
+      "address": "R. Redentor, 50 - Recife/PE - Cep 52051-420, Brazil",
+      "email": "farkatt@icloud.com",
+      "name": "Mr. Andre Farkatt"
+    },
+    "description": "Farkatt Producoes LTDA",
+    "url": "https://www.facebook.com/farkattpro"
+  },
+  {
     "code": "FRM",
     "description": "FRAMESTORE"
   },
