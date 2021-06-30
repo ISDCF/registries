@@ -800,6 +800,16 @@
     "description": "NETFLIX"
   },
   {
+    "code": "NFI",
+    "contact": {
+      "address": "51/A Budakeszi street, Budapest, Hungary 1021",
+      "email": "polyak.janos@nfi.hu",
+      "name": "Mr. Janos Polyak"
+    },
+    "description": "National Film Institute Filmlab",
+    "url": "http://www.filmlab.hu"
+  },
+  {
     "code": "NIM",
     "description": "NIMIC PRODUCTIONS"
   },
