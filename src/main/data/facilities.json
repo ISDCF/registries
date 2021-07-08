@@ -2254,6 +2254,16 @@
     "description": "The Image & Sound Factory"
   },
   {
+    "code": "IST",
+    "contact": {
+      "address": "Besiktas, Istanbul, Turkey",
+      "email": "info@dcp.ist",
+      "name": "Soner Daştan"
+    },
+    "description": "Dcp.ist",
+    "url": "https://www.dcp.ist"
+  },
+  {
     "code": "IV",
     "description": "IndyVideo"
   },
