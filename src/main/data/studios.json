@@ -913,6 +913,16 @@
     "description": "PINK APPLE FILM"
   },
   {
+    "code": "PLAY",
+    "contact": {
+      "address": "Türkenstraße 89, 80799 Munich, Germany",
+      "email": "ws_material@playmaker.de",
+      "name": "Julian Weisser"
+    },
+    "description": "The Playmaker Munich ",
+    "url": "https://www.playmaker.de"
+  },
+  {
     "code": "PLNK",
     "description": "Plank Film",
     "url": "http://plankfilm.ee"
