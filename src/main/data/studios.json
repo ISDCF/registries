@@ -844,6 +844,16 @@
     "description": "NEW LINE"
   },
   {
+    "code": "NTS",
+    "contact": {
+      "address": "Pastorenstraße 16, 20459 Hamburg, Germany",
+      "email": "info@notsold.gratis",
+      "name": "Henriette Ahrens"
+    },
+    "description": "notsold GmbH",
+    "url": "https://notsold.gratis"
+  },
+  {
     "code": "O2",
     "description": "O2 FILMES"
   },
