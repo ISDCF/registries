@@ -213,7 +213,7 @@
         "extpropValue": "true"
       }
     },
-    "dcncCode": "DBox",
+    "dcncCode": "DBOX",
     "dcncSortOrder": 14,
     "description": "DBox Motion Control"
   }
