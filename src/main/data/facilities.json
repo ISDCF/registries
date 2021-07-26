@@ -2737,7 +2737,13 @@
   },
   {
     "code": "MNR",
-    "description": "MERCENAR LAB"
+    "contact": {
+      "address": "9 Bd. Dinicu Golescu, Bucuresti, Sect.1, 010862, Bucharest, Romania",
+      "email": "angel.angelescu@mercenar.com",
+      "name": "Mr. Angel Angelescu"
+    },
+    "description": "Mercenar Lab",
+    "url": "https://www.mercenar.com"
   },
   {
     "code": "MNW",
