@@ -181,20 +181,20 @@
     "note": "Where [DESCRIPTION] is a Language-Tag, as specified in IETF RFC 5646, that identifies the sign language present in the Sign Language Video Track"
   },
   {
-    "dcncCode": "Atmos",
+    "dcncCode": "ATMOS",
     "dcncSortOrder": 11,
     "description": "Dolby ATMOS Immersive Audio",
-    "note": "Expect a change in the way Atmos content is labeled! IAB (Immersive Audio Bitstream) is the SMPTE standard for Immersive Audio. All Atmos is IAB Profile 1. Many authoring companies are planning to stop labeling Atmos and using the IAB label only."
+    "note": "Expect a change in the way ATMOS content is labeled! IAB (Immersive Audio Bitstream) is the SMPTE standard for Immersive Audio. All ATMOS is IAB Profile 1. Many authoring companies are planning to stop labeling ATMOS and using the IAB label only."
   },
   {
-    "dcncCode": "Auro",
+    "dcncCode": "AURO",
     "dcncSortOrder": 12,
     "description": "Barco AURO Immersive Audio"
   },
   {
     "dcncCode": "DTSX",
     "dcncSortOrder": 13,
-    "description": "DTS-X Immersive Audio"
+    "description": "DTS:X Immersive Audio"
   },
   {
     "cplMetadata": {
