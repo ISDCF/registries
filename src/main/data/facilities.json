@@ -1948,10 +1948,6 @@
     "description": "GOLDCREST LONDON"
   },
   {
-    "code": "GCV",
-    "description": "GUARANGO CINE Y VIDEO"
-  },
-  {
     "code": "GCS",
     "contact": {
       "address": "6330 Miller Road, Brecksville, Ohio, 44236, USA",
@@ -1960,6 +1956,10 @@
     },
     "description": "Garage Creative Studios",
     "url": "https://www.garagecreativestudios.com"
+  },
+  {
+    "code": "GCV",
+    "description": "GUARANGO CINE Y VIDEO"
   },
   {
     "code": "GDC",
