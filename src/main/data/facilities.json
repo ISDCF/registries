@@ -2514,6 +2514,16 @@
     "description": "LOOPLAB"
   },
   {
+    "code": "LNS",
+    "contact": {
+      "address": "Floor 5, Building 1, ICT of CAS, Zhongguancun Environmental Protection Park, Haidian District, Beijing, China",
+      "email": "zhihua.song@leoniscinema.com",
+      "name": "Mrs.  Zhihua Song"
+    },
+    "description": "LEONIS CINEMA",
+    "url": "http://www.leoniscinema.com"
+  },
+  {
     "code": "LOC",
     "description": "Library of Congress"
   },
