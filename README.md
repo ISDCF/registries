@@ -10,7 +10,7 @@ The registry data is:
 
 * available through an API at https://registry.isdcf.com
 
-* published as HTML at https://isdcf.com/dcnc/
+* published as HTML at https://registry-page.isdcf.com/
 
 ## Notes
 
