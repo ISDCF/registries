@@ -85,4 +85,7 @@ module.exports = {
 
 // invoke validateAll() if we're run as a script:
 if (require.main === module)
-  validateAll().catch(console.error)
+  validateAll().catch( function (m) {
+    console.error(m);
+    process.exit(1);
+  })
