@@ -183,6 +183,16 @@
     ]
   },
   {
+    "code": "AJM",
+    "contact": {
+      "address": "4 rue Lalande, 75014, Paris, France",
+      "email": "jean-michel@ajmstudio.com",
+      "name": "Mr. Jean-Michel TARI"
+    },
+    "description": "AJM STUDIO",
+    "url": "http://ajmstudio.com"
+  },
+  {
     "code": "AK",
     "description": "ALASTI KINO"
   },
