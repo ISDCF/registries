@@ -183,6 +183,16 @@
     ]
   },
   {
+    "code": "AJM",
+    "contact": {
+      "address": "4 rue Lalande, 75014, Paris, France",
+      "email": "jean-michel@ajmstudio.com",
+      "name": "Mr. Jean-Michel TARI"
+    },
+    "description": "AJM STUDIO",
+    "url": "http://ajmstudio.com"
+  },
+  {
     "code": "AK",
     "description": "ALASTI KINO"
   },
@@ -4069,6 +4079,16 @@
   {
     "code": "TCS",
     "description": "TCS (FRANCE)"
+  },
+  {
+    "code": "TCZ",
+    "contact": {
+      "address": "Bítovská 1214/16, Praha 4, 14000, Czechia",
+      "email": "vedeni@titulkovani.cz",
+      "name": "Tomáš Hnyk"
+    },
+    "description": "Titulkování.cz s.r.o.",
+    "url": "https://www.titulkovani.cz"
   },
   {
     "code": "TDC",
