@@ -391,6 +391,16 @@
     "description": "FRENETIC FILMS"
   },
   {
+    "code": "FTC",
+    "contact": {
+      "address": "Via di Sant'Erasmo, 2 - 00184, Rome, Italy",
+      "email": "paolo.menicucci@fotocinema.com",
+      "name": "Paolo Menicucci"
+    },
+    "description": "Fotocinema",
+    "url": "http://www.fotocinema.com"
+  },
+  {
     "code": "FU",
     "description": "SOFT Falmouth University UK"
   },
