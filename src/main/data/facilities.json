@@ -4071,6 +4071,16 @@
     "description": "TCS (FRANCE)"
   },
   {
+    "code": "TCZ",
+    "contact": {
+      "address": "Bítovská 1214/16, Praha 4, 14000, Czechia",
+      "email": "vedeni@titulkovani.cz",
+      "name": "Tomáš Hnyk"
+    },
+    "description": "Titulkování.cz s.r.o.",
+    "url": "https://www.titulkovani.cz"
+  },
+  {
     "code": "TDC",
     "description": "TECHNICOLOR DIGITAL CINEMA LA",
     "obsolete": true,
