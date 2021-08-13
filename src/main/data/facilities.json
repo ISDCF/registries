@@ -3352,6 +3352,11 @@
     "description": "PROXIMA MILANO"
   },
   {
+    "code": "PS",
+    "description": "Picture Shop",
+    "url": "https://pictureshop.com"
+  },
+  {
     "code": "PSC",
     "description": "POSTCOLOR"
   },
