@@ -4,6 +4,15 @@
     "description": "01_STUDIO P.I."
   },
   {
+    "code": "123",
+    "contact": {
+      "address": "Feiteng Art Space Zoom A, No.173,Caochangdi, Chaoyang district, Beijing, China",
+      "email": "mali@123vp.com",
+      "name": "Ma Li"
+    },
+    "description": "123 Vision Pictures"
+  },
+  {
     "code": "3DV",
     "description": "DEEP VISION 3D"
   },
