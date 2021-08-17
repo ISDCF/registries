@@ -2174,6 +2174,16 @@
     "description": "IFS INTERNATIONALE FILMSCHULE KÖLN GMBH"
   },
   {
+    "code": "IFX",
+    "contact": {
+      "address": "33 Greentree Lane, Malvern, PA 19355",
+      "email": "danlantzemail@gmail.com",
+      "name": "Dan Lantz"
+    },
+    "description": "IMPULSE-FX",
+    "url": "https://impulsefx.com"
+  },
+  {
     "code": "IGO",
     "description": "Imago VFX"
   },
