@@ -26,8 +26,7 @@
       "email": "mali@123vp.com",
       "name": "Mr.Ma"
     },
-    "description": "123 Vision Pictures",
-    "url": "https://www.123vp.com"
+    "description": "123 Vision Pictures"
   },
   {
     "code": "1Z1",
@@ -698,6 +697,11 @@
   {
     "code": "CGR",
     "description": "CGR DIGITAL CINEMA"
+  },
+  {
+    "code": "CHD",
+    "description": "Chicago HD",
+    "url": "https://www.chicagohd.com"
   },
   {
     "code": "CHO",
@@ -2702,6 +2706,16 @@
     "description": "MICSOUND"
   },
   {
+    "code": "MIJ",
+    "contact": {
+      "address": "Martinstrasse 5/14, 1180 Wien, Vienna, Austria",
+      "email": "mirjam@bromundt.at",
+      "name": "Mirjam Bromundt"
+    },
+    "description": "Mirjam Bromundt",
+    "url": "http://www.bromundt.at"
+  },
+  {
     "code": "MIK",
     "description": "MIKROS IMAGE"
   },
@@ -3836,7 +3850,11 @@
   },
   {
     "code": "SG",
-    "description": "Sim"
+    "description": "Sim",
+    "obsolete": true,
+    "obsoletedBy": [
+      "PS"
+    ]
   },
   {
     "code": "SHA",
