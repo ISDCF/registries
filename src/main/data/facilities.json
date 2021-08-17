@@ -3826,7 +3826,11 @@
   },
   {
     "code": "SG",
-    "description": "Sim"
+    "description": "Sim",
+    "obsolete": true,
+    "obsoletedBy": [
+      "PS"
+    ]
   },
   {
     "code": "SHA",
