@@ -1231,6 +1231,16 @@
     "description": "Ted Green Films"
   },
   {
+    "code": "TMN",
+    "contact": {
+      "address": "10 Addison Road, Marrickville NSW 2204, Sidney Australia",
+      "email": "kirstin@silvvertrak.com.au",
+      "name": "Kirstin Farrugia"
+    },
+    "description": "Transmission Films",
+    "url": "https://www.transmissionfilms.com.au/"
+  },
+  {
     "code": "TMP",
     "description": "Trino Motion Pictures"
   },
