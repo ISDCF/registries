@@ -26,8 +26,7 @@
       "email": "mali@123vp.com",
       "name": "Mr.Ma"
     },
-    "description": "123 Vision Pictures",
-    "url": "https://www.123vp.com"
+    "description": "123 Vision Pictures"
   },
   {
     "code": "1Z1",
@@ -698,6 +697,11 @@
   {
     "code": "CGR",
     "description": "CGR DIGITAL CINEMA"
+  },
+  {
+    "code": "CHD",
+    "description": "Chicago HD",
+    "url": "https://www.chicagohd.com"
   },
   {
     "code": "CHO",
@@ -3836,7 +3840,11 @@
   },
   {
     "code": "SG",
-    "description": "Sim"
+    "description": "Sim",
+    "obsolete": true,
+    "obsoletedBy": [
+      "PS"
+    ]
   },
   {
     "code": "SHA",
