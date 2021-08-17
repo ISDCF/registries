@@ -699,6 +699,11 @@
     "description": "CGR DIGITAL CINEMA"
   },
   {
+    "code": "CHD",
+    "description": "Chicago HD",
+    "url": "https://www.chicagohd.com"
+  },
+  {
     "code": "CHO",
     "description": "Chop Shop Post"
   },
