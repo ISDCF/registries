@@ -2696,6 +2696,16 @@
     "description": "MICSOUND"
   },
   {
+    "code": "MIJ",
+    "contact": {
+      "address": "Martinstrasse 5/14, 1180 Wien, Vienna, Austria",
+      "email": "mirjam@bromundt.at",
+      "name": "Mirjam Bromundt"
+    },
+    "description": "Mirjam Bromundt",
+    "url": "http://www.bromundt.at"
+  },
+  {
     "code": "MIK",
     "description": "MIKROS IMAGE"
   },
