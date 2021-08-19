@@ -600,6 +600,16 @@
     "description": "Imprudencia"
   },
   {
+    "code": "INCN",
+    "contact": {
+      "address": "Russia, Moscow, Leningradskiy pr-r, 47",
+      "email": "y.mamaev@incine.ru",
+      "name": "Yuri Mamaev"
+    },
+    "description": "incine",
+    "url": "http://www.incine.ru"
+  },
+  {
     "code": "IND",
     "description": "INDEPENDENT PICTURES"
   },
