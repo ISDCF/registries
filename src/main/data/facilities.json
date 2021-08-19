@@ -2984,6 +2984,16 @@
     "description": "Neues Kino Basel"
   },
   {
+    "code": "NKF",
+    "contact": {
+      "address": "Leningradskiy pr-t, 47, Moscow, Russia",
+      "email": "y.mamaev@incine.ru",
+      "name": "Yuri Mamaev"
+    },
+    "description": "NIKFI (CINEMA AND PHOTO RESEARCH INSTITUTE)",
+    "url": "http://www.incine.ru"
+  },
+  {
     "code": "NLE",
     "description": "NON-LINEAR EVOLUTION"
   },
