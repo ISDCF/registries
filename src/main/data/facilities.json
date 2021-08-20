@@ -902,6 +902,11 @@
     "description": "CINE PLUS GMBH"
   },
   {
+    "code": "CP2",
+    "description": "Center Point Post",
+    "url": "https://www.centerpointpost.com"
+  },
+  {
     "code": "CPC",
     "description": "CINEMA PRODUCTION COMPLEX",
     "obsolete": true
