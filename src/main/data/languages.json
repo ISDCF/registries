@@ -2,7 +2,7 @@
   {
     "dcncLanguage": "Afrikaans",
     "dcncTag": "AF",
-    "rfc5646Tag": "AF",
+    "rfc5646Tag": "af",
     "use": [
       "audio",
       "text"
