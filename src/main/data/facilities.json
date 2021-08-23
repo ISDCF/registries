@@ -792,6 +792,16 @@
     "description": "CINEMA LIBRE STUDIO"
   },
   {
+    "code": "CLV",
+    "contact": {
+      "address": "Corregidora 251-103, Centro, San Pedro Garza Garcia, NL, Mexico 66230",
+      "email": "gabriel@calaverapost.com",
+      "name": "Gabriel Guzman"
+    },
+    "description": "Calavera Post",
+    "url": "https://www.calaverapost.com"
+  },
+  {
     "code": "CM",
     "description": "CENTAURI MEDIA"
   },
