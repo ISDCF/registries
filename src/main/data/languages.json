@@ -445,7 +445,8 @@
     "dcncTag": "MK",
     "rfc5646Tag": "MK",
     "use": [
-      "audio"
+      "audio",
+      "text"
     ]
   },
   {
