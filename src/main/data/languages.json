@@ -1,5 +1,14 @@
 [
   {
+    "dcncLanguage": "Afrikaans",
+    "dcncTag": "AF",
+    "rfc5646Tag": "af",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
     "dcncLanguage": "Armenian",
     "dcncTag": "HY",
     "rfc5646Tag": "hy",
