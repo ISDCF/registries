@@ -6,7 +6,7 @@ const fs = require('fs');
 const path = require('path');
 
 BUILD_DIR = "build";
-ML_REGISTER_PATH = "src/main/resources/ml-registry/CMR_Ratings_2.4.2.xml";
+ML_REGISTER_PATH = "src/main/resources/ml-registry/CMR_Ratings_v2.4.5.xml";
 
 describe("make ratings registry from MovieLabs registry", () => {
   it("valid", () => {
