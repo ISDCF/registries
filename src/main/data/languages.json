@@ -450,6 +450,15 @@
     ]
   },
   {
+    "dcncLanguage": "Macedonian",
+    "dcncTag": "MK",
+    "rfc5646Tag": "mk",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
     "dcncLanguage": "Malay Bahasa",
     "dcncTag": "MSA",
     "rfc5646Tag": "ms",
