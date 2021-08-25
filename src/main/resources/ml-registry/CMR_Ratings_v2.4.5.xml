@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdcr:RatingSystemSet xmlns:mdcr="http://www.movielabs.com/schema/mdcr/v1.1" xmlns:md="http://www.movielabs.com/schema/md/v2.1/md" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.movielabs.com/schema/mdcr/v1.1 http://www.movielabs.com/schema/mdcr/v1.1/mdcr-v1.1.xsd">
-  <!--Saved 2020-06-30 17:04:12 as version 2.4.2-->
+  <!--Saved 2021-04-16 17:05:12 as version v2.4.5-->
   <mdcr:RatingSystem lastSave="2020-01-09T17:22:35" version="0">
     <!--DISCLAIMER: Although care has been taken to ensure the accuracy, completeness and reliability of the information provided, we are not responsible if information that we make available on this site is not accurate, complete or current. The material on this site is provided for general information only, and any reliance upon the material on this site will be at your own risk. We reserve the right to modify the contents of the site at any time, but we have no obligation to update any information on this site. You agree that it is your 	responsibility to monitor changes to the site.-->
     <mdcr:RatingSystemID>
@@ -300,7 +300,7 @@ exhibición condicionada."</div>]]></mdcr:Explanation>
       </mdcr:Descriptor>
     </mdcr:Rating>
   </mdcr:RatingSystem>
-  <mdcr:RatingSystem lastValidated="2013-09-12T13:30:03" lastSave="2019-06-18T15:43:40" version="1">
+  <mdcr:RatingSystem lastValidated="2013-09-12T20:30:03" lastSave="2021-01-12T22:50:01" version="2">
     <!--DISCLAIMER: Although care has been taken to ensure the accuracy, completeness and reliability of the information provided, we are not responsible if information that we make available on this site is not accurate, complete or current. The material on this site is provided for general information only, and any reliance upon the material on this site will be at your own risk. We reserve the right to modify the contents of the site at any time, but we have no obligation to update any information on this site. You agree that it is your 	responsibility to monitor changes to the site.-->
     <mdcr:RatingSystemID>
       <mdcr:Region>
@@ -324,20 +324,20 @@ exhibición condicionada."</div>]]></mdcr:Explanation>
       </mdcr:Usage>
     </mdcr:AdoptiveRegion>
     <mdcr:LastChecked>2019-06-18</mdcr:LastChecked>
-    <mdcr:URI>http://www.movielabs.com/md/ratings/AT/BMUKK/1</mdcr:URI>
+    <mdcr:URI>http://www.movielabs.com/md/ratings/AT/BMUKK/2</mdcr:URI>
     <mdcr:RatingsOrg organizationID="JMK">
       <md:DisplayName>Jugendmedienkommission beim Bundesministerium für Bildung</md:DisplayName>
-      <mdcr:ContactString>Geschäftsführender Leiter 
-ADir . Michael Kluger 
-T +43 1 53120-4835 
-F +43 1 53120-814835 
-michael.kluger@bmb.gv.at</mdcr:ContactString>
-      <mdcr:URL>https://www.bmb.gv.at/schulen/service/jmk/</mdcr:URL>
+      <mdcr:ContactString>Geschäftsführender Leiter
+ADir. RgR Michael Kluger
+T +43 1 53120-4835
+F +43 1 53120-814835
+michael.kluger@bmbwf.gv.at</mdcr:ContactString>
+      <mdcr:URL>https://www.bmbwf.gv.at/Themen/schule/schulpraxis/ugbm/jmk.html</mdcr:URL>
       <mdcr:OrgType>Gov</mdcr:OrgType>
     </mdcr:RatingsOrg>
     <mdcr:Rating ratingID="AA">
       <mdcr:Ordinal>0</mdcr:Ordinal>
-      <mdcr:URI>http://www.movielabs.com/md/ratings/AT/BMUKK/1/AA</mdcr:URI>
+      <mdcr:URI>http://www.movielabs.com/md/ratings/AT/BMUKK/2/AA</mdcr:URI>
       <mdcr:MinRecAge>0</mdcr:MinRecAge>
       <mdcr:MinAge>0</mdcr:MinAge>
       <mdcr:MinAgeSupervised>0</mdcr:MinAgeSupervised>
@@ -368,7 +368,7 @@ strange surrounding, situations that trigger fear or sadness or sudden frighteni
     </mdcr:Rating>
     <mdcr:Rating ratingID="6">
       <mdcr:Ordinal>3</mdcr:Ordinal>
-      <mdcr:URI>http://www.movielabs.com/md/ratings/AT/BMUKK/1/6</mdcr:URI>
+      <mdcr:URI>http://www.movielabs.com/md/ratings/AT/BMUKK/2/6</mdcr:URI>
       <mdcr:MinRecAge>6</mdcr:MinRecAge>
       <mdcr:MinAge>0</mdcr:MinAge>
       <mdcr:MinAgeSupervised>0</mdcr:MinAgeSupervised>
@@ -404,7 +404,7 @@ and realistic movies that show violence and threatening situations can seriously
     </mdcr:Rating>
     <mdcr:Rating ratingID="8">
       <mdcr:Ordinal>6</mdcr:Ordinal>
-      <mdcr:URI>http://www.movielabs.com/md/ratings/AT/BMUKK/1/8</mdcr:URI>
+      <mdcr:URI>http://www.movielabs.com/md/ratings/AT/BMUKK/2/8</mdcr:URI>
       <mdcr:MinRecAge>8</mdcr:MinRecAge>
       <mdcr:MinAge>0</mdcr:MinAge>
       <mdcr:MinAgeSupervised>0</mdcr:MinAgeSupervised>
@@ -447,7 +447,7 @@ even for this age group. Children from 8 to 10 years are not yet in a position t
     </mdcr:Rating>
     <mdcr:Rating ratingID="10">
       <mdcr:Ordinal>9</mdcr:Ordinal>
-      <mdcr:URI>http://www.movielabs.com/md/ratings/AT/BMUKK/1/10</mdcr:URI>
+      <mdcr:URI>http://www.movielabs.com/md/ratings/AT/BMUKK/2/10</mdcr:URI>
       <mdcr:MinRecAge>10</mdcr:MinRecAge>
       <mdcr:MinAge>0</mdcr:MinAge>
       <mdcr:MinAgeSupervised>0</mdcr:MinAgeSupervised>
@@ -489,7 +489,7 @@ etc.), they can face the story by drawing on ways to still their “lust for fea
     </mdcr:Rating>
     <mdcr:Rating ratingID="12">
       <mdcr:Ordinal>12</mdcr:Ordinal>
-      <mdcr:URI>http://www.movielabs.com/md/ratings/AT/BMUKK/1/12</mdcr:URI>
+      <mdcr:URI>http://www.movielabs.com/md/ratings/AT/BMUKK/2/12</mdcr:URI>
       <mdcr:MinRecAge>12</mdcr:MinRecAge>
       <mdcr:MinAge>0</mdcr:MinAge>
       <mdcr:MinAgeSupervised>0</mdcr:MinAgeSupervised>
@@ -554,7 +554,7 @@ see through ideologies, conceptions of the world and biases.</p>
     </mdcr:Rating>
     <mdcr:Rating ratingID="14">
       <mdcr:Ordinal>15</mdcr:Ordinal>
-      <mdcr:URI>http://www.movielabs.com/md/ratings/AT/BMUKK/1/14</mdcr:URI>
+      <mdcr:URI>http://www.movielabs.com/md/ratings/AT/BMUKK/2/14</mdcr:URI>
       <mdcr:MinRecAge>14</mdcr:MinRecAge>
       <mdcr:MinAge>0</mdcr:MinAge>
       <mdcr:MinAgeSupervised>0</mdcr:MinAgeSupervised>
@@ -582,7 +582,7 @@ problematic when they restrict themselves to simple solutions, make light of vio
     </mdcr:Rating>
     <mdcr:Rating ratingID="16">
       <mdcr:Ordinal>18</mdcr:Ordinal>
-      <mdcr:URI>http://www.movielabs.com/md/ratings/AT/BMUKK/1/16</mdcr:URI>
+      <mdcr:URI>http://www.movielabs.com/md/ratings/AT/BMUKK/2/16</mdcr:URI>
       <mdcr:MinRecAge>16</mdcr:MinRecAge>
       <mdcr:MinAge>0</mdcr:MinAge>
       <mdcr:MinAgeSupervised>0</mdcr:MinAgeSupervised>
@@ -933,7 +933,7 @@ classified RC contains content that is very high in impact and falls outside gen
       </mdcr:Descriptor>
     </mdcr:Rating>
   </mdcr:RatingSystem>
-  <mdcr:RatingSystem lastValidated="2013-09-29T23:47:50" lastSave="2018-02-05T21:48:12" version="1">
+  <mdcr:RatingSystem lastValidated="2013-09-30T06:47:50" lastSave="2021-01-14T20:02:15" version="1" deprecated="true">
     <!--DISCLAIMER: Although care has been taken to ensure the accuracy, completeness and reliability of the information provided, we are not responsible if information that we make available on this site is not accurate, complete or current. The material on this site is provided for general information only, and any reliance upon the material on this site will be at your own risk. We reserve the right to modify the contents of the site at any time, but we have no obligation to update any information on this site. You agree that it is your 	responsibility to monitor changes to the site.-->
     <mdcr:RatingSystemID>
       <mdcr:Region>
@@ -957,22 +957,6 @@ classified RC contains content that is very high in impact and falls outside gen
       <mdcr:URL>http://www.audiovisuel.cfwb.be/index.php?id=avm_csf</mdcr:URL>
       <mdcr:OrgType>Gov</mdcr:OrgType>
     </mdcr:RatingsOrg>
-    <mdcr:Rating ratingID="KT/EA">
-      <mdcr:Ordinal>0</mdcr:Ordinal>
-      <mdcr:URI>http://www.movielabs.com/md/ratings/BE/CICF/1/KT_EA</mdcr:URI>
-      <mdcr:MinRecAge>0</mdcr:MinRecAge>
-      <mdcr:MinAge>0</mdcr:MinAge>
-      <mdcr:MinAgeSupervised>0</mdcr:MinAgeSupervised>
-      <mdcr:HPCApplicable>true</mdcr:HPCApplicable>
-      <mdcr:Descriptor language="NL">
-        <mdcr:Label>Kinderen Toegelaten</mdcr:Label>
-        <mdcr:Definition />
-      </mdcr:Descriptor>
-      <mdcr:Descriptor language="FR">
-        <mdcr:Label>Enfants Admis</mdcr:Label>
-        <mdcr:Definition />
-      </mdcr:Descriptor>
-    </mdcr:Rating>
     <mdcr:Rating ratingID="E">
       <mdcr:Ordinal>0</mdcr:Ordinal>
       <mdcr:URI>http://www.movielabs.com/md/ratings/BE/CICF/1/E</mdcr:URI>
@@ -986,6 +970,22 @@ classified RC contains content that is very high in impact and falls outside gen
       </mdcr:Descriptor>
       <mdcr:Descriptor language="FR">
         <mdcr:Label>Exempt</mdcr:Label>
+        <mdcr:Definition />
+      </mdcr:Descriptor>
+    </mdcr:Rating>
+    <mdcr:Rating ratingID="KT/EA">
+      <mdcr:Ordinal>0</mdcr:Ordinal>
+      <mdcr:URI>http://www.movielabs.com/md/ratings/BE/CICF/1/KT_EA</mdcr:URI>
+      <mdcr:MinRecAge>0</mdcr:MinRecAge>
+      <mdcr:MinAge>0</mdcr:MinAge>
+      <mdcr:MinAgeSupervised>0</mdcr:MinAgeSupervised>
+      <mdcr:HPCApplicable>true</mdcr:HPCApplicable>
+      <mdcr:Descriptor language="NL">
+        <mdcr:Label>Kinderen Toegelaten</mdcr:Label>
+        <mdcr:Definition />
+      </mdcr:Descriptor>
+      <mdcr:Descriptor language="FR">
+        <mdcr:Label>Enfants Admis</mdcr:Label>
         <mdcr:Definition />
       </mdcr:Descriptor>
     </mdcr:Rating>
@@ -1822,7 +1822,7 @@ in horse racing.</div>]]></mdcr:Explanation>
       </mdcr:GeneralDescriptor>
     </mdcr:Reason>
   </mdcr:RatingSystem>
-  <mdcr:RatingSystem lastValidated="2013-09-08T18:28:46" lastSave="2020-01-16T23:14:28" version="2">
+  <mdcr:RatingSystem lastValidated="2013-09-09T01:28:46" lastSave="2021-01-12T22:13:55" version="3">
     <!--DISCLAIMER: Although care has been taken to ensure the accuracy, completeness and reliability of the information provided, we are not responsible if information that we make available on this site is not accurate, complete or current. The material on this site is provided for general information only, and any reliance upon the material on this site will be at your own risk. We reserve the right to modify the contents of the site at any time, but we have no obligation to update any information on this site. You agree that it is your 	responsibility to monitor changes to the site.-->
     <mdcr:RatingSystemID>
       <mdcr:Region>
@@ -1845,7 +1845,7 @@ in horse racing.</div>]]></mdcr:Explanation>
       </mdcr:Usage>
     </mdcr:AdoptiveRegion>
     <mdcr:LastChecked>2020-01-16</mdcr:LastChecked>
-    <mdcr:URI>http://www.movielabs.com/md/ratings/BG/NFRC/2</mdcr:URI>
+    <mdcr:URI>http://www.movielabs.com/md/ratings/BG/NFRC/3</mdcr:URI>
     <mdcr:RatingsOrg organizationID="NFRC">
       <md:DisplayName>National Film Centre</md:DisplayName>
       <mdcr:ContactString>2 A, Dondukov Blvd., 7th floor, 1000 Sofia, Bulgaria
@@ -1855,22 +1855,9 @@ email: nfc@nfc.bg</mdcr:ContactString>
       <mdcr:URL>https://www.nfc.bg/</mdcr:URL>
       <mdcr:OrgType>Gov</mdcr:OrgType>
     </mdcr:RatingsOrg>
-    <mdcr:Rating ratingID="B">
-      <mdcr:Ordinal>3</mdcr:Ordinal>
-      <mdcr:URI>http://www.movielabs.com/md/ratings/BG/NFRC/2/B</mdcr:URI>
-      <mdcr:MinRecAge>0</mdcr:MinRecAge>
-      <mdcr:MinAge>0</mdcr:MinAge>
-      <mdcr:MinAgeSupervised>0</mdcr:MinAgeSupervised>
-      <mdcr:HPCApplicable>true</mdcr:HPCApplicable>
-      <mdcr:Descriptor language="BG">
-        <mdcr:Label>B</mdcr:Label>
-        <mdcr:Definition>Без възрастови ограничения</mdcr:Definition>
-        <mdcr:Explanation><![CDATA[<div class="userHtml">когато филмът утвърждава идеалите на хуманизма, популяризира националната и световната култура или по никакъв начин не противоречи на общоприетите морални норми в страната и няма ограничителни препоръки от комисията</div>]]></mdcr:Explanation>
-      </mdcr:Descriptor>
-    </mdcr:Rating>
     <mdcr:Rating ratingID="A">
       <mdcr:Ordinal>0</mdcr:Ordinal>
-      <mdcr:URI>http://www.movielabs.com/md/ratings/BG/NFRC/2/A</mdcr:URI>
+      <mdcr:URI>http://www.movielabs.com/md/ratings/BG/NFRC/3/A</mdcr:URI>
       <mdcr:MinRecAge>0</mdcr:MinRecAge>
       <mdcr:MinAge>0</mdcr:MinAge>
       <mdcr:MinAgeSupervised>0</mdcr:MinAgeSupervised>
@@ -1883,11 +1870,30 @@ email: nfc@nfc.bg</mdcr:ContactString>
       <mdcr:Descriptor language="EN">
         <mdcr:Label>A</mdcr:Label>
         <mdcr:Definition>Recommended for children</mdcr:Definition>
+        <mdcr:Explanation><![CDATA[<div class="userHtml">Rating A , when the film confirms the ideals of humanism or popularizes the national and world cultures or contributes to upbringing children;</div>]]></mdcr:Explanation>
+      </mdcr:Descriptor>
+    </mdcr:Rating>
+    <mdcr:Rating ratingID="B">
+      <mdcr:Ordinal>3</mdcr:Ordinal>
+      <mdcr:URI>http://www.movielabs.com/md/ratings/BG/NFRC/3/B</mdcr:URI>
+      <mdcr:MinRecAge>0</mdcr:MinRecAge>
+      <mdcr:MinAge>0</mdcr:MinAge>
+      <mdcr:MinAgeSupervised>0</mdcr:MinAgeSupervised>
+      <mdcr:HPCApplicable>true</mdcr:HPCApplicable>
+      <mdcr:Descriptor language="BG">
+        <mdcr:Label>B</mdcr:Label>
+        <mdcr:Definition>Без възрастови ограничения</mdcr:Definition>
+        <mdcr:Explanation><![CDATA[<div class="userHtml">когато филмът утвърждава идеалите на хуманизма, популяризира националната и световната култура или по никакъв начин не противоречи на общоприетите морални норми в страната и няма ограничителни препоръки от комисията</div>]]></mdcr:Explanation>
+      </mdcr:Descriptor>
+      <mdcr:Descriptor language="EN">
+        <mdcr:Label>B</mdcr:Label>
+        <mdcr:Definition>No age Restrictions</mdcr:Definition>
+        <mdcr:Explanation><![CDATA[<div class="userHtml">Rating B, when the film is in no way contrary to the universal rules of morality in this country, has no restrictive recommendations from the Committee and does not fall in rating A;</div>]]></mdcr:Explanation>
       </mdcr:Descriptor>
     </mdcr:Rating>
     <mdcr:Rating ratingID="C">
       <mdcr:Ordinal>6</mdcr:Ordinal>
-      <mdcr:URI>http://www.movielabs.com/md/ratings/BG/NFRC/2/C</mdcr:URI>
+      <mdcr:URI>http://www.movielabs.com/md/ratings/BG/NFRC/3/C</mdcr:URI>
       <mdcr:MinRecAge>12</mdcr:MinRecAge>
       <mdcr:MinAge>12</mdcr:MinAge>
       <mdcr:MinAgeSupervised>0</mdcr:MinAgeSupervised>
@@ -1897,10 +1903,15 @@ email: nfc@nfc.bg</mdcr:ContactString>
         <mdcr:Definition>Не се препоръчва за деца под 12-годишна възраст</mdcr:Definition>
         <mdcr:Explanation><![CDATA[<div class="userHtml">когато филмът съдържа отделни кадри с еротично съдържание или с употреба на алкохол, стимуланти, наркотици или отделни кадри с насилие в тях</div>]]></mdcr:Explanation>
       </mdcr:Descriptor>
+      <mdcr:Descriptor language="EN">
+        <mdcr:Label>C</mdcr:Label>
+        <mdcr:Definition>Not recommended to children under the age of 12</mdcr:Definition>
+        <mdcr:Explanation><![CDATA[<div class="userHtml">Rating C, when the film contains certain erotic scenes or scenes with drinking, taking drugs or stimulants or a few scenes of violence;</div>]]></mdcr:Explanation>
+      </mdcr:Descriptor>
     </mdcr:Rating>
     <mdcr:Rating ratingID="D">
       <mdcr:Ordinal>9</mdcr:Ordinal>
-      <mdcr:URI>http://www.movielabs.com/md/ratings/BG/NFRC/2/D</mdcr:URI>
+      <mdcr:URI>http://www.movielabs.com/md/ratings/BG/NFRC/3/D</mdcr:URI>
       <mdcr:MinRecAge>16</mdcr:MinRecAge>
       <mdcr:MinAge>16</mdcr:MinAge>
       <mdcr:MinAgeSupervised>16</mdcr:MinAgeSupervised>
@@ -1910,10 +1921,15 @@ email: nfc@nfc.bg</mdcr:ContactString>
         <mdcr:Definition>Забранен за лица под 16-годишна възраст</mdcr:Definition>
         <mdcr:Explanation><![CDATA[<div class="userHtml">когато филмът съдържа значителен брой кадри с еротично съдържание или с употреба на алкохол, стимуланти, наркотици или значителен брой кадри с насилие в тях</div>]]></mdcr:Explanation>
       </mdcr:Descriptor>
+      <mdcr:Descriptor language="EN">
+        <mdcr:Label>D</mdcr:Label>
+        <mdcr:Definition>No persons under the age of 16 are admitted.</mdcr:Definition>
+        <mdcr:Explanation><![CDATA[<div class="userHtml">Rating D when the film contains quite a number of erotic scenes or scenes with drinking, taking drugs or stimulants or a considerable number of scenes showing violence;</div>]]></mdcr:Explanation>
+      </mdcr:Descriptor>
     </mdcr:Rating>
     <mdcr:Rating ratingID="X">
       <mdcr:Ordinal>80</mdcr:Ordinal>
-      <mdcr:URI>http://www.movielabs.com/md/ratings/BG/NFRC/2/X</mdcr:URI>
+      <mdcr:URI>http://www.movielabs.com/md/ratings/BG/NFRC/3/X</mdcr:URI>
       <mdcr:MinRecAge>18</mdcr:MinRecAge>
       <mdcr:MinAge>18</mdcr:MinAge>
       <mdcr:MinAgeSupervised>18</mdcr:MinAgeSupervised>
@@ -1922,6 +1938,11 @@ email: nfc@nfc.bg</mdcr:ContactString>
         <mdcr:Label>X</mdcr:Label>
         <mdcr:Definition>Забранен за лица под 18-годишна възраст</mdcr:Definition>
         <mdcr:Explanation><![CDATA[<div class="userHtml">когато филмът е натуралистично-еротичен.</div>]]></mdcr:Explanation>
+      </mdcr:Descriptor>
+      <mdcr:Descriptor language="EN">
+        <mdcr:Label>X</mdcr:Label>
+        <mdcr:Definition>No persons under the age of 18 are admitted.</mdcr:Definition>
+        <mdcr:Explanation><![CDATA[<div class="userHtml">Rating X, when the film is naturalistically erotic or shows violence in an ostentatious manner.</div>]]></mdcr:Explanation>
       </mdcr:Descriptor>
     </mdcr:Rating>
   </mdcr:RatingSystem>
@@ -2924,7 +2945,7 @@ Common to PG, and 14A</div>]]></mdcr:Explanation>
       </mdcr:GeneralDescriptor>
     </mdcr:Reason>
   </mdcr:RatingSystem>
-  <mdcr:RatingSystem lastValidated="2013-09-25T02:19:22" lastSave="2020-01-09T18:19:15" version="0">
+  <mdcr:RatingSystem lastValidated="2013-09-25T09:19:22" lastSave="2021-01-14T19:03:01" version="1">
     <!--DISCLAIMER: Although care has been taken to ensure the accuracy, completeness and reliability of the information provided, we are not responsible if information that we make available on this site is not accurate, complete or current. The material on this site is provided for general information only, and any reliance upon the material on this site will be at your own risk. We reserve the right to modify the contents of the site at any time, but we have no obligation to update any information on this site. You agree that it is your 	responsibility to monitor changes to the site.-->
     <mdcr:RatingSystemID>
       <mdcr:Region>
@@ -2944,7 +2965,7 @@ Common to PG, and 14A</div>]]></mdcr:Explanation>
       </mdcr:Usage>
     </mdcr:AdoptiveRegion>
     <mdcr:LastChecked>2013-09-28</mdcr:LastChecked>
-    <mdcr:URI>http://www.movielabs.com/md/ratings/CA/CBSC-F/0</mdcr:URI>
+    <mdcr:URI>http://www.movielabs.com/md/ratings/CA/CBSC-F/1</mdcr:URI>
     <mdcr:RatingsOrg organizationID="CBSC">
       <md:DisplayName>Canadian Broadcast Standards Council</md:DisplayName>
       <mdcr:ContactString>Canadian Broadcast Standards Council
@@ -2954,28 +2975,9 @@ K1P 6H8</mdcr:ContactString>
       <mdcr:URL>http://www.cbsc.ca/english/agvot/frenchsystem.php</mdcr:URL>
       <mdcr:OrgType>Trade</mdcr:OrgType>
     </mdcr:RatingsOrg>
-    <mdcr:Rating ratingID="EC">
-      <mdcr:Ordinal>0</mdcr:Ordinal>
-      <mdcr:URI>http://www.movielabs.com/md/ratings/CA/CBSC-F/0/EC</mdcr:URI>
-      <mdcr:LinkToLogo>./imageCache/CA_CBSC-F_exempt.gif</mdcr:LinkToLogo>
-      <mdcr:MinRecAge>0</mdcr:MinRecAge>
-      <mdcr:MinAge>0</mdcr:MinAge>
-      <mdcr:MinAgeSupervised>0</mdcr:MinAgeSupervised>
-      <mdcr:HPCApplicable>true</mdcr:HPCApplicable>
-      <mdcr:Descriptor language="FR">
-        <mdcr:Label>Exempt</mdcr:Label>
-        <mdcr:Definition>Sont dispensés du classement, les films suivants:</mdcr:Definition>
-        <mdcr:Explanation><![CDATA[<div class="userHtml">1°  le film produit à des fins de promotion industrielle ou commerciale à l’exception d’un film annonce portant sur un film non dispensé du classement et d’un vidéoclip;
-2°  le film produit à des fins éducatives ou pédagogiques, à la condition qu’il soit utilisé dans un établissement d’enseignement, de santé, de services sociaux ou de recherche scientifique, dans une bibliothèque publique ou un musée;
-3°  le film produit à des fins de formation professionnelle, à la condition qu’il soit utilisé à l’occasion d’un cours, d’une conférence ou autre activité de même nature;
-4°  le film sur l’apprentissage d’une langue, d’un sport, d’une méthode de conditionnement physique ou sur une technique de même nature, à la condition qu’il ne présente pas de scènes de violence ou d’activité sexuelle explicite;
-5°  le film sur un événement sportif;
-6°  le film présenté lors d’une manifestation diplomatique, d’un festival de films ou de tout autre événement analogue reconnu par le directeur.</div>]]></mdcr:Explanation>
-      </mdcr:Descriptor>
-    </mdcr:Rating>
     <mdcr:Rating ratingID="G">
       <mdcr:Ordinal>0</mdcr:Ordinal>
-      <mdcr:URI>http://www.movielabs.com/md/ratings/CA/CBSC-F/0/G</mdcr:URI>
+      <mdcr:URI>http://www.movielabs.com/md/ratings/CA/CBSC-F/1/G</mdcr:URI>
       <mdcr:LinkToLogo>./imageCache/CA_CBSC-F_general.gif</mdcr:LinkToLogo>
       <mdcr:MinRecAge>0</mdcr:MinRecAge>
       <mdcr:MinAge>0</mdcr:MinAge>
@@ -2992,13 +2994,33 @@ K1P 6H8</mdcr:ContactString>
         <mdcr:Explanation><![CDATA[<div class="userHtml">Elle signifie plutôt que son contenu n’est pas susceptible de les perturber. Si toutefois le film classé « G » est de nature à heurter la sensibilité des enfants de moins de huit ans, la Régie du cinéma ajoute au visa général l’indication « Déconseillé aux jeunes enfants ». Une œuvre classée « Visa général » peut tout de même comporter certaines scènes de violence. Ces dernières seront toutefois peu nombreuses, peu intenses ou présentées sans complaisance. Le ton et le genre du film sont des éléments de décision importants: ainsi, les scènes de violence contenues dans une comédie ou un film d’aventures centré sur un héros plus grand que nature n’ont pas le même impact sur les enfants que celles d’un film plus réaliste dans sa mise en scène. Si la nudité peut être présente, les scènes d’amour demeurent cependant assez discrètes. Selon le contexte, certains écarts de langage sont acceptés.</div>]]></mdcr:Explanation>
       </mdcr:Descriptor>
     </mdcr:Rating>
+    <mdcr:Rating ratingID="EC">
+      <mdcr:Ordinal>0</mdcr:Ordinal>
+      <mdcr:URI>http://www.movielabs.com/md/ratings/CA/CBSC-F/1/EC</mdcr:URI>
+      <mdcr:LinkToLogo>./imageCache/CA_CBSC-F_exempt.gif</mdcr:LinkToLogo>
+      <mdcr:MinRecAge>0</mdcr:MinRecAge>
+      <mdcr:MinAge>0</mdcr:MinAge>
+      <mdcr:MinAgeSupervised>0</mdcr:MinAgeSupervised>
+      <mdcr:HPCApplicable>true</mdcr:HPCApplicable>
+      <mdcr:Descriptor language="FR">
+        <mdcr:Label>Exempt</mdcr:Label>
+        <mdcr:Definition>Sont dispensés du classement, les films suivants:</mdcr:Definition>
+        <mdcr:Explanation><![CDATA[<div class="userHtml">1°  le film produit à des fins de promotion industrielle ou commerciale à l’exception d’un film annonce portant sur un film non dispensé du classement et d’un vidéoclip;
+2°  le film produit à des fins éducatives ou pédagogiques, à la condition qu’il soit utilisé dans un établissement d’enseignement, de santé, de services sociaux ou de recherche scientifique, dans une bibliothèque publique ou un musée;
+3°  le film produit à des fins de formation professionnelle, à la condition qu’il soit utilisé à l’occasion d’un cours, d’une conférence ou autre activité de même nature;
+4°  le film sur l’apprentissage d’une langue, d’un sport, d’une méthode de conditionnement physique ou sur une technique de même nature, à la condition qu’il ne présente pas de scènes de violence ou d’activité sexuelle explicite;
+5°  le film sur un événement sportif;
+6°  le film présenté lors d’une manifestation diplomatique, d’un festival de films ou de tout autre événement analogue reconnu par le directeur.</div>]]></mdcr:Explanation>
+      </mdcr:Descriptor>
+    </mdcr:Rating>
     <mdcr:Rating ratingID="8+">
       <mdcr:Ordinal>2</mdcr:Ordinal>
-      <mdcr:URI>http://www.movielabs.com/md/ratings/CA/CBSC-F/0/8+</mdcr:URI>
+      <mdcr:URI>http://www.movielabs.com/md/ratings/CA/CBSC-F/1/8+</mdcr:URI>
       <mdcr:LinkToLogo>./imageCache/CA_CBSC-F_8.jpg</mdcr:LinkToLogo>
       <mdcr:MinRecAge>8</mdcr:MinRecAge>
       <mdcr:MinAge>8</mdcr:MinAge>
       <mdcr:MinAgeSupervised>0</mdcr:MinAgeSupervised>
+      <mdcr:Deprecated>true</mdcr:Deprecated>
       <mdcr:HPCApplicable>true</mdcr:HPCApplicable>
       <mdcr:Descriptor language="EN">
         <mdcr:Label>8 years and over</mdcr:Label>
@@ -3008,7 +3030,7 @@ K1P 6H8</mdcr:ContactString>
     </mdcr:Rating>
     <mdcr:Rating ratingID="13+">
       <mdcr:Ordinal>3</mdcr:Ordinal>
-      <mdcr:URI>http://www.movielabs.com/md/ratings/CA/CBSC-F/0/13+</mdcr:URI>
+      <mdcr:URI>http://www.movielabs.com/md/ratings/CA/CBSC-F/1/13+</mdcr:URI>
       <mdcr:LinkToLogo>./imageCache/CA_CBSC-F_c13.gif</mdcr:LinkToLogo>
       <mdcr:MinRecAge>13</mdcr:MinRecAge>
       <mdcr:MinAge>13</mdcr:MinAge>
@@ -3027,7 +3049,7 @@ K1P 6H8</mdcr:ContactString>
     </mdcr:Rating>
     <mdcr:Rating ratingID="16+">
       <mdcr:Ordinal>6</mdcr:Ordinal>
-      <mdcr:URI>http://www.movielabs.com/md/ratings/CA/CBSC-F/0/16+</mdcr:URI>
+      <mdcr:URI>http://www.movielabs.com/md/ratings/CA/CBSC-F/1/16+</mdcr:URI>
       <mdcr:LinkToLogo>./imageCache/CA_CBSC-F_c16.gif</mdcr:LinkToLogo>
       <mdcr:MinRecAge>16</mdcr:MinRecAge>
       <mdcr:MinAge>16</mdcr:MinAge>
@@ -3046,7 +3068,7 @@ K1P 6H8</mdcr:ContactString>
     </mdcr:Rating>
     <mdcr:Rating ratingID="18+">
       <mdcr:Ordinal>90</mdcr:Ordinal>
-      <mdcr:URI>http://www.movielabs.com/md/ratings/CA/CBSC-F/0/18+</mdcr:URI>
+      <mdcr:URI>http://www.movielabs.com/md/ratings/CA/CBSC-F/1/18+</mdcr:URI>
       <mdcr:LinkToLogo>./imageCache/CA_CBSC-F_c18.gif</mdcr:LinkToLogo>
       <mdcr:MinRecAge>18</mdcr:MinRecAge>
       <mdcr:MinAge>18</mdcr:MinAge>
@@ -3066,7 +3088,7 @@ scenes of hyperrealistic cruelty, torture and horror.</div>]]></mdcr:Explanation
     </mdcr:Rating>
     <mdcr:Rating ratingID="RC">
       <mdcr:Ordinal>100</mdcr:Ordinal>
-      <mdcr:URI>http://www.movielabs.com/md/ratings/CA/CBSC-F/0/RC</mdcr:URI>
+      <mdcr:URI>http://www.movielabs.com/md/ratings/CA/CBSC-F/1/RC</mdcr:URI>
       <mdcr:MinRecAge>0</mdcr:MinRecAge>
       <mdcr:MinAge>0</mdcr:MinAge>
       <mdcr:MinAgeSupervised>0</mdcr:MinAgeSupervised>
@@ -9427,7 +9449,94 @@ Fax: 2251258</mdcr:ContactString>
       </mdcr:Descriptor>
     </mdcr:Rating>
   </mdcr:RatingSystem>
-  <mdcr:RatingSystem lastValidated="2013-09-17T08:57:33" lastSave="2020-02-28T21:22:39" version="2">
+  <mdcr:RatingSystem lastSave="2021-04-16T17:05:00" version="1">
+    <!--DISCLAIMER: Although care has been taken to ensure the accuracy, completeness and reliability of the information provided, we are not responsible if information that we make available on this site is not accurate, complete or current. The material on this site is provided for general information only, and any reliance upon the material on this site will be at your own risk. We reserve the right to modify the contents of the site at any time, but we have no obligation to update any information on this site. You agree that it is your 	responsibility to monitor changes to the site.-->
+    <mdcr:RatingSystemID>
+      <mdcr:Region>
+        <md:country>KR</md:country>
+        <mdcr:RegionName>KOREA, REP</mdcr:RegionName>
+      </mdcr:Region>
+      <mdcr:System>KCC</mdcr:System>
+    </mdcr:RatingSystemID>
+    <mdcr:AdoptiveRegion>
+      <md:country>KR</md:country>
+      <mdcr:RegionName>KOREA, REP</mdcr:RegionName>
+      <mdcr:Usage>
+        <mdcr:Media>Film</mdcr:Media>
+        <mdcr:Media>TV</mdcr:Media>
+        <mdcr:Environment>Home</mdcr:Environment>
+        <mdcr:Environment>Broadcast</mdcr:Environment>
+      </mdcr:Usage>
+    </mdcr:AdoptiveRegion>
+    <mdcr:URI>http://www.movielabs.com/md/ratings/KR/KCC/1</mdcr:URI>
+    <mdcr:RatingsOrg organizationID="KCC">
+      <md:DisplayName>Korean Communications Commission</md:DisplayName>
+      <mdcr:ContactString>Address : 47 Gwanmun-ro, Gwacheon-si, Gyeonggi-do, Republic of Korea +82-2-500-9000</mdcr:ContactString>
+      <mdcr:URL>https://www.kcc.go.kr/user.do</mdcr:URL>
+      <mdcr:OrgType>Gov</mdcr:OrgType>
+    </mdcr:RatingsOrg>
+    <mdcr:Rating ratingID="All">
+      <mdcr:Ordinal>0</mdcr:Ordinal>
+      <mdcr:URI>http://www.movielabs.com/md/ratings/KR/KCC/1/All</mdcr:URI>
+      <mdcr:MinRecAge>0</mdcr:MinRecAge>
+      <mdcr:MinAge>0</mdcr:MinAge>
+      <mdcr:MinAgeSupervised>0</mdcr:MinAgeSupervised>
+      <mdcr:HPCApplicable>true</mdcr:HPCApplicable>
+      <mdcr:Descriptor language="EN">
+        <mdcr:Label>All</mdcr:Label>
+        <mdcr:Definition />
+      </mdcr:Descriptor>
+    </mdcr:Rating>
+    <mdcr:Rating ratingID="7+">
+      <mdcr:Ordinal>0</mdcr:Ordinal>
+      <mdcr:URI>http://www.movielabs.com/md/ratings/KR/KCC/1/7+</mdcr:URI>
+      <mdcr:MinRecAge>7</mdcr:MinRecAge>
+      <mdcr:MinAge>0</mdcr:MinAge>
+      <mdcr:MinAgeSupervised>0</mdcr:MinAgeSupervised>
+      <mdcr:HPCApplicable>true</mdcr:HPCApplicable>
+      <mdcr:Descriptor language="EN">
+        <mdcr:Label>7+</mdcr:Label>
+        <mdcr:Definition />
+      </mdcr:Descriptor>
+    </mdcr:Rating>
+    <mdcr:Rating ratingID="12+">
+      <mdcr:Ordinal>0</mdcr:Ordinal>
+      <mdcr:URI>http://www.movielabs.com/md/ratings/KR/KCC/1/12+</mdcr:URI>
+      <mdcr:MinRecAge>12</mdcr:MinRecAge>
+      <mdcr:MinAge>0</mdcr:MinAge>
+      <mdcr:MinAgeSupervised>0</mdcr:MinAgeSupervised>
+      <mdcr:HPCApplicable>true</mdcr:HPCApplicable>
+      <mdcr:Descriptor language="EN">
+        <mdcr:Label>12+</mdcr:Label>
+        <mdcr:Definition />
+      </mdcr:Descriptor>
+    </mdcr:Rating>
+    <mdcr:Rating ratingID="15+">
+      <mdcr:Ordinal>0</mdcr:Ordinal>
+      <mdcr:URI>http://www.movielabs.com/md/ratings/KR/KCC/1/15+</mdcr:URI>
+      <mdcr:MinRecAge>15</mdcr:MinRecAge>
+      <mdcr:MinAge>0</mdcr:MinAge>
+      <mdcr:MinAgeSupervised>0</mdcr:MinAgeSupervised>
+      <mdcr:HPCApplicable>true</mdcr:HPCApplicable>
+      <mdcr:Descriptor language="EN">
+        <mdcr:Label>15+</mdcr:Label>
+        <mdcr:Definition />
+      </mdcr:Descriptor>
+    </mdcr:Rating>
+    <mdcr:Rating ratingID="19+">
+      <mdcr:Ordinal>0</mdcr:Ordinal>
+      <mdcr:URI>http://www.movielabs.com/md/ratings/KR/KCC/1/19+</mdcr:URI>
+      <mdcr:MinRecAge>19</mdcr:MinRecAge>
+      <mdcr:MinAge>0</mdcr:MinAge>
+      <mdcr:MinAgeSupervised>0</mdcr:MinAgeSupervised>
+      <mdcr:HPCApplicable>true</mdcr:HPCApplicable>
+      <mdcr:Descriptor language="EN">
+        <mdcr:Label>19+</mdcr:Label>
+        <mdcr:Definition />
+      </mdcr:Descriptor>
+    </mdcr:Rating>
+  </mdcr:RatingSystem>
+  <mdcr:RatingSystem lastValidated="2013-09-19T02:57:33" lastSave="2021-04-05T20:06:26" version="4">
     <!--DISCLAIMER: Although care has been taken to ensure the accuracy, completeness and reliability of the information provided, we are not responsible if information that we make available on this site is not accurate, complete or current. The material on this site is provided for general information only, and any reliance upon the material on this site will be at your own risk. We reserve the right to modify the contents of the site at any time, but we have no obligation to update any information on this site. You agree that it is your 	responsibility to monitor changes to the site.-->
     <mdcr:RatingSystemID>
       <mdcr:Region>
@@ -9450,19 +9559,19 @@ Fax: 2251258</mdcr:ContactString>
       </mdcr:Usage>
     </mdcr:AdoptiveRegion>
     <mdcr:LastChecked>2016-12-20</mdcr:LastChecked>
-    <mdcr:URI>http://www.movielabs.com/md/ratings/KR/KMRB/2</mdcr:URI>
+    <mdcr:URI>http://www.movielabs.com/md/ratings/KR/KMRB/4</mdcr:URI>
     <mdcr:RatingsOrg organizationID="Korea Media Rating Board">
       <md:DisplayName>Korea Media Rating Board</md:DisplayName>
-      <mdcr:ContactString>Korea Media Ratting Board(121-904) 400,
- World Cup buk-ro, Mapo, 
-Seoul, Korea 
-Tel +82-2-3153-4300</mdcr:ContactString>
-      <mdcr:URL>http://kmros.kmrb.or.kr/html/data/classstandards.do</mdcr:URL>
+      <mdcr:ContactString>KOREA MEDIA RATING BOARD 
+3rd Floor, Korea Visual Industry Center, Centum seo-ro 39, 
+Haeundae-gu, Busan 48058, Republic of Korea 
+Tel : +82-51-990-7200</mdcr:ContactString>
+      <mdcr:URL>https://www.kmrb.or.kr/eng/CMS/Contents/Contents.do?mCode=MN023</mdcr:URL>
       <mdcr:OrgType>other</mdcr:OrgType>
     </mdcr:RatingsOrg>
     <mdcr:Rating ratingID="G">
       <mdcr:Ordinal>0</mdcr:Ordinal>
-      <mdcr:URI>http://www.movielabs.com/md/ratings/KR/KMRB/2/G</mdcr:URI>
+      <mdcr:URI>http://www.movielabs.com/md/ratings/KR/KMRB/4/G</mdcr:URI>
       <mdcr:LinkToLogo>./imageCache/KR_KMRB_G.png</mdcr:LinkToLogo>
       <mdcr:MinRecAge>0</mdcr:MinRecAge>
       <mdcr:MinAge>0</mdcr:MinAge>
@@ -9499,10 +9608,14 @@ Tel +82-2-3153-4300</mdcr:ContactString>
 다. 아동.청소년 대상 학교 내 폭력, 따돌림, 비행 등이 거의 표현되지 않은 것
 8. 그 밖에 특정한 사상ㆍ종교ㆍ풍속ㆍ인종ㆍ민족 등과 관련하여 모든 연령에 해당하는 사람이 시청하기에 부정적 영향을 미치는 표현이 없는 것</div>]]></mdcr:Explanation>
       </mdcr:Descriptor>
+      <mdcr:Descriptor language="EN">
+        <mdcr:Label>All</mdcr:Label>
+        <mdcr:Definition>Film suitable for all ages</mdcr:Definition>
+      </mdcr:Descriptor>
     </mdcr:Rating>
     <mdcr:Rating ratingID="12+">
       <mdcr:Ordinal>12</mdcr:Ordinal>
-      <mdcr:URI>http://www.movielabs.com/md/ratings/KR/KMRB/2/12+</mdcr:URI>
+      <mdcr:URI>http://www.movielabs.com/md/ratings/KR/KMRB/4/12+</mdcr:URI>
       <mdcr:LinkToLogo>./imageCache/KR_KMRB_12.png</mdcr:LinkToLogo>
       <mdcr:MinRecAge>12</mdcr:MinRecAge>
       <mdcr:MinAge>12</mdcr:MinAge>
@@ -9540,10 +9653,16 @@ Tel +82-2-3153-4300</mdcr:ContactString>
 라. 불법.범죄행위가 간결하게 표현된 것
 8. 그 밖에 특정한 사상ㆍ종교ㆍ풍속ㆍ인종ㆍ민족 등과 관련하여 12세미만에 해당하는 사람에게 부정적 영향을 미치는 표현이 있는 것</div>]]></mdcr:Explanation>
       </mdcr:Descriptor>
+      <mdcr:Descriptor language="EN">
+        <mdcr:Label>12</mdcr:Label>
+        <mdcr:Definition>Film intended for audiences 12 and over</mdcr:Definition>
+        <mdcr:Explanation><![CDATA[<div class="userHtml">Film intended for audiences 12 and over
+Underage audiences accompanied with a parent or guardian is allowed.</div>]]></mdcr:Explanation>
+      </mdcr:Descriptor>
     </mdcr:Rating>
     <mdcr:Rating ratingID="15+">
       <mdcr:Ordinal>15</mdcr:Ordinal>
-      <mdcr:URI>http://www.movielabs.com/md/ratings/KR/KMRB/2/15+</mdcr:URI>
+      <mdcr:URI>http://www.movielabs.com/md/ratings/KR/KMRB/4/15+</mdcr:URI>
       <mdcr:LinkToLogo>./imageCache/KR_KMRB_15.png</mdcr:LinkToLogo>
       <mdcr:MinRecAge>15</mdcr:MinRecAge>
       <mdcr:MinAge>15</mdcr:MinAge>
@@ -9581,10 +9700,15 @@ Tel +82-2-3153-4300</mdcr:ContactString>
 라. 불법.범죄행위의 수단과 방법이 상세히 묘사되지 않은 것
 8. 그 밖에 특정한 사상ㆍ종교ㆍ풍속ㆍ인종ㆍ민족 등과 관련하여 15세미만에 해당하는 사람에게 부정적 영향을 미치는 표현이 있는 것</div>]]></mdcr:Explanation>
       </mdcr:Descriptor>
+      <mdcr:Descriptor language="EN">
+        <mdcr:Label>15</mdcr:Label>
+        <mdcr:Definition>Film intended for audiences 15 and over</mdcr:Definition>
+        <mdcr:Explanation><![CDATA[<div class="userHtml">Underage audiences accompanied with a parent or guardian is allowed.</div>]]></mdcr:Explanation>
+      </mdcr:Descriptor>
     </mdcr:Rating>
     <mdcr:Rating ratingID="18+">
       <mdcr:Ordinal>80</mdcr:Ordinal>
-      <mdcr:URI>http://www.movielabs.com/md/ratings/KR/KMRB/2/18+</mdcr:URI>
+      <mdcr:URI>http://www.movielabs.com/md/ratings/KR/KMRB/4/18+</mdcr:URI>
       <mdcr:LinkToLogo>./imageCache/KR_KMRB_18.png</mdcr:LinkToLogo>
       <mdcr:MinRecAge>18</mdcr:MinRecAge>
       <mdcr:MinAge>18</mdcr:MinAge>
@@ -9619,10 +9743,14 @@ Tel +82-2-3153-4300</mdcr:ContactString>
 다. 불법.범죄행위의 수단과 방법이 구체적.사실적으로 묘사된 것
 8. 그 밖에 특정한 사상.종교.풍속.인종.민족 등에 대한 묘사가 청소년이 관람하기에 부적절한 것</div>]]></mdcr:Explanation>
       </mdcr:Descriptor>
+      <mdcr:Descriptor language="EN">
+        <mdcr:Label>18</mdcr:Label>
+        <mdcr:Definition>No one under 18 is allowed to watch this Film</mdcr:Definition>
+      </mdcr:Descriptor>
     </mdcr:Rating>
     <mdcr:Rating ratingID="LIM">
       <mdcr:Ordinal>90</mdcr:Ordinal>
-      <mdcr:URI>http://www.movielabs.com/md/ratings/KR/KMRB/2/LIM</mdcr:URI>
+      <mdcr:URI>http://www.movielabs.com/md/ratings/KR/KMRB/4/LIM</mdcr:URI>
       <mdcr:LinkToLogo>./imageCache/KR_KMRB_LIM.png</mdcr:LinkToLogo>
       <mdcr:MinRecAge>18</mdcr:MinRecAge>
       <mdcr:MinAge>18</mdcr:MinAge>
@@ -9644,7 +9772,75 @@ Tel +82-2-3153-4300</mdcr:ContactString>
 4. 그 밖에 특정한 사상.종교.풍속.인종.민족 등에 관한 묘사의 반사회성 정도가 극히 심하여 예술적.문학적.교육적.과학적.사회적.인간적 가치 등이 현저히 훼손된다고 인정되는 것 (전문개정 2012.7.31.)
 ② 제1항의 규정에 의하여 등급분류를 함에 있어 국가의 정체성 및 국익, 미풍양속과 사회질서 등에 끼칠 영향을 충분히</div>]]></mdcr:Explanation>
       </mdcr:Descriptor>
+      <mdcr:Descriptor language="EN">
+        <mdcr:Label>LIM</mdcr:Label>
+        <mdcr:Definition>Film needs a certain restriction in screening or advertisement as it is considered a highly bad influence</mdcr:Definition>
+        <mdcr:Explanation><![CDATA[<div class="userHtml">Film needs a certain restriction in screening or advertisement as it is considered a highly bad influence to universal human dignity, social value, good customs or national emotion due to excessive expression of nudity, violence, social behavior, etc. (based on Article 29, the Act of Promotion of Film and Video)</div>]]></mdcr:Explanation>
+      </mdcr:Descriptor>
     </mdcr:Rating>
+    <mdcr:Reason reasonID="T">
+      <mdcr:Value>T</mdcr:Value>
+      <mdcr:GeneralDescriptor language="KO">
+        <mdcr:Label>T</mdcr:Label>
+        <mdcr:Definition>Topic</mdcr:Definition>
+        <mdcr:Explanation><![CDATA[<div class="userHtml">The effect on the formation emotions, values of group of age as well as the ability to understand and accept the theme.</div>]]></mdcr:Explanation>
+      </mdcr:GeneralDescriptor>
+      <mdcr:LinkToLogo>./imageCache/KR_KMRB_theme.png</mdcr:LinkToLogo>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="S">
+      <mdcr:Value>S</mdcr:Value>
+      <mdcr:GeneralDescriptor language="KO">
+        <mdcr:Label>S</mdcr:Label>
+        <mdcr:Definition>Sexuality</mdcr:Definition>
+        <mdcr:Explanation><![CDATA[<div class="userHtml">Level of exposure of human body as well as caress, sexual intercourse and other sexual activitiesother sexual.</div>]]></mdcr:Explanation>
+      </mdcr:GeneralDescriptor>
+      <mdcr:LinkToLogo>./imageCache/KR_KMRB_sex.png</mdcr:LinkToLogo>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="V">
+      <mdcr:Value>V</mdcr:Value>
+      <mdcr:GeneralDescriptor language="KO">
+        <mdcr:Label>V</mdcr:Label>
+        <mdcr:Definition>Violence</mdcr:Definition>
+        <mdcr:Explanation><![CDATA[<div class="userHtml">Level of damage to human body and oppression through torture and blood battles, pain, indignity and sexual violence.</div>]]></mdcr:Explanation>
+      </mdcr:GeneralDescriptor>
+      <mdcr:LinkToLogo>./imageCache/KR_KMRB_violence.png</mdcr:LinkToLogo>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="DL">
+      <mdcr:Value>DL</mdcr:Value>
+      <mdcr:GeneralDescriptor language="KO">
+        <mdcr:Label>DL</mdcr:Label>
+        <mdcr:Definition>Dialogue</mdcr:Definition>
+        <mdcr:Explanation><![CDATA[<div class="userHtml">Level and frequency of vulgar language and slangs.</div>]]></mdcr:Explanation>
+      </mdcr:GeneralDescriptor>
+      <mdcr:LinkToLogo>./imageCache/KR_KMRB_language.png</mdcr:LinkToLogo>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="H">
+      <mdcr:Value>H</mdcr:Value>
+      <mdcr:GeneralDescriptor language="KO">
+        <mdcr:Label>H</mdcr:Label>
+        <mdcr:Definition>Horror</mdcr:Definition>
+        <mdcr:Explanation><![CDATA[<div class="userHtml">Level of psychological shock resulting from tension, stimuli and threat.</div>]]></mdcr:Explanation>
+      </mdcr:GeneralDescriptor>
+      <mdcr:LinkToLogo>./imageCache/KR_KMRB_horror.png</mdcr:LinkToLogo>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="DR">
+      <mdcr:Value>DR</mdcr:Value>
+      <mdcr:GeneralDescriptor language="KO">
+        <mdcr:Label>DR</mdcr:Label>
+        <mdcr:Definition>Drug</mdcr:Definition>
+        <mdcr:Explanation><![CDATA[<div class="userHtml">Level of drugs use and promotion or glamorization of such activities.</div>]]></mdcr:Explanation>
+      </mdcr:GeneralDescriptor>
+      <mdcr:LinkToLogo>./imageCache/KR_KMRB_drug.png</mdcr:LinkToLogo>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="IR">
+      <mdcr:Value>IR</mdcr:Value>
+      <mdcr:GeneralDescriptor language="KO">
+        <mdcr:Label>IR</mdcr:Label>
+        <mdcr:Definition>Imitation Risk</mdcr:Definition>
+        <mdcr:Explanation><![CDATA[<div class="userHtml">Level of imitation, encouragement and stimulus to perform the expressed act of murder, drug, suicide, school violence and out casting and use of weapons</div>]]></mdcr:Explanation>
+      </mdcr:GeneralDescriptor>
+      <mdcr:LinkToLogo>./imageCache/KR_KMRB_behavior.png</mdcr:LinkToLogo>
+    </mdcr:Reason>
   </mdcr:RatingSystem>
   <mdcr:RatingSystem lastSave="2020-02-05T00:15:16" version="0">
     <!--DISCLAIMER: Although care has been taken to ensure the accuracy, completeness and reliability of the information provided, we are not responsible if information that we make available on this site is not accurate, complete or current. The material on this site is provided for general information only, and any reliance upon the material on this site will be at your own risk. We reserve the right to modify the contents of the site at any time, but we have no obligation to update any information on this site. You agree that it is your 	responsibility to monitor changes to the site.-->
@@ -10044,7 +10240,7 @@ Tel +82-2-3153-4300</mdcr:ContactString>
       </mdcr:Descriptor>
     </mdcr:Rating>
   </mdcr:RatingSystem>
-  <mdcr:RatingSystem lastValidated="2013-09-25T02:39:07" lastSave="2020-01-10T22:45:24" version="1">
+  <mdcr:RatingSystem lastValidated="2013-09-25T09:39:07" lastSave="2021-01-14T19:32:03" version="1">
     <!--DISCLAIMER: Although care has been taken to ensure the accuracy, completeness and reliability of the information provided, we are not responsible if information that we make available on this site is not accurate, complete or current. The material on this site is provided for general information only, and any reliance upon the material on this site will be at your own risk. We reserve the right to modify the contents of the site at any time, but we have no obligation to update any information on this site. You agree that it is your 	responsibility to monitor changes to the site.-->
     <mdcr:RatingSystemID>
       <mdcr:Region>
@@ -10070,9 +10266,25 @@ Tel +82-2-3153-4300</mdcr:ContactString>
 L-2912 Luxembourg
 Tél.: (+352) 247 86637
 cscf@mc.etat.lu</mdcr:ContactString>
-      <mdcr:URL>http://www.luxembourg.public.lu/fr/actualites/2010/07/05-CSCF/index.html</mdcr:URL>
+      <mdcr:URL>https://gouvernement.lu/fr/actualites/toutes_actualites/communiques/2010/07-juillet/05-CSCF.html</mdcr:URL>
       <mdcr:OrgType>Gov</mdcr:OrgType>
     </mdcr:RatingsOrg>
+    <mdcr:Rating ratingID="T">
+      <mdcr:Ordinal>0</mdcr:Ordinal>
+      <mdcr:URI>http://www.movielabs.com/md/ratings/LU/CSCF/1/T</mdcr:URI>
+      <mdcr:MinRecAge>0</mdcr:MinRecAge>
+      <mdcr:MinAge>0</mdcr:MinAge>
+      <mdcr:MinAgeSupervised>0</mdcr:MinAgeSupervised>
+      <mdcr:HPCApplicable>true</mdcr:HPCApplicable>
+      <mdcr:Descriptor language="FR">
+        <mdcr:Label>T</mdcr:Label>
+        <mdcr:Definition>Film accessible à tous</mdcr:Definition>
+      </mdcr:Descriptor>
+      <mdcr:Descriptor language="EN">
+        <mdcr:Label>T</mdcr:Label>
+        <mdcr:Definition>movie accessible to all</mdcr:Definition>
+      </mdcr:Descriptor>
+    </mdcr:Rating>
     <mdcr:Rating ratingID="A">
       <mdcr:Ordinal>0</mdcr:Ordinal>
       <mdcr:URI>http://www.movielabs.com/md/ratings/LU/CSCF/1/A</mdcr:URI>
@@ -10152,22 +10364,6 @@ cscf@mc.etat.lu</mdcr:ContactString>
       <mdcr:Descriptor language="EN">
         <mdcr:Label>18</mdcr:Label>
         <mdcr:Definition>movie accessible to people aged 18 and over</mdcr:Definition>
-      </mdcr:Descriptor>
-    </mdcr:Rating>
-    <mdcr:Rating ratingID="T">
-      <mdcr:Ordinal>0</mdcr:Ordinal>
-      <mdcr:URI>http://www.movielabs.com/md/ratings/LU/CSCF/1/T</mdcr:URI>
-      <mdcr:MinRecAge>0</mdcr:MinRecAge>
-      <mdcr:MinAge>0</mdcr:MinAge>
-      <mdcr:MinAgeSupervised>0</mdcr:MinAgeSupervised>
-      <mdcr:HPCApplicable>true</mdcr:HPCApplicable>
-      <mdcr:Descriptor language="FR">
-        <mdcr:Label>T</mdcr:Label>
-        <mdcr:Definition>Film accessible à tous</mdcr:Definition>
-      </mdcr:Descriptor>
-      <mdcr:Descriptor language="EN">
-        <mdcr:Label>T</mdcr:Label>
-        <mdcr:Definition>movie accessible to all</mdcr:Definition>
       </mdcr:Descriptor>
     </mdcr:Rating>
   </mdcr:RatingSystem>
@@ -11040,7 +11236,7 @@ Phone: +234 9 220 0246
       </mdcr:Descriptor>
     </mdcr:Rating>
   </mdcr:RatingSystem>
-  <mdcr:RatingSystem lastValidated="2013-11-12T16:01:40" lastSave="2020-01-17T18:18:48" version="2">
+  <mdcr:RatingSystem lastValidated="2013-11-13T00:01:40" lastSave="2021-01-14T19:53:59" version="2">
     <!--DISCLAIMER: Although care has been taken to ensure the accuracy, completeness and reliability of the information provided, we are not responsible if information that we make available on this site is not accurate, complete or current. The material on this site is provided for general information only, and any reliance upon the material on this site will be at your own risk. We reserve the right to modify the contents of the site at any time, but we have no obligation to update any information on this site. You agree that it is your 	responsibility to monitor changes to the site.-->
     <mdcr:RatingSystemID>
       <mdcr:Region>
@@ -11059,6 +11255,14 @@ Phone: +234 9 220 0246
         <mdcr:Environment>Home</mdcr:Environment>
         <mdcr:Environment>Theater</mdcr:Environment>
         <mdcr:Environment>Broadcast</mdcr:Environment>
+      </mdcr:Usage>
+    </mdcr:AdoptiveRegion>
+    <mdcr:AdoptiveRegion>
+      <md:country>BE</md:country>
+      <mdcr:RegionName>BELGIUM</mdcr:RegionName>
+      <mdcr:Usage>
+        <mdcr:Media>Film</mdcr:Media>
+        <mdcr:Environment>Theater</mdcr:Environment>
       </mdcr:Usage>
     </mdcr:AdoptiveRegion>
     <mdcr:LastChecked>2020-01-17</mdcr:LastChecked>
@@ -11223,6 +11427,30 @@ plaatsen.</p>
         </div>]]></mdcr:Explanation>
       </mdcr:Descriptor>
     </mdcr:Rating>
+    <mdcr:Rating ratingID="14">
+      <mdcr:Ordinal>11</mdcr:Ordinal>
+      <mdcr:URI>http://www.movielabs.com/md/ratings/NL/Kijkwijzer/2/14</mdcr:URI>
+      <mdcr:LinkToLogo>./imageCache/NL_Kijkwijzer_14.png</mdcr:LinkToLogo>
+      <mdcr:MinRecAge>14</mdcr:MinRecAge>
+      <mdcr:MinAge>0</mdcr:MinAge>
+      <mdcr:MinAgeSupervised>0</mdcr:MinAgeSupervised>
+      <mdcr:HPCApplicable>true</mdcr:HPCApplicable>
+      <mdcr:Descriptor language="NL">
+        <mdcr:Label>14 jaar</mdcr:Label>
+        <mdcr:Definition>Mogelijk schadelijk tot 14 jaar</mdcr:Definition>
+        <mdcr:Explanation><![CDATA[<div class="userHtml">Vanaf een jaar of 12 gebruiken kinderen films en televisieprogramma’s steeds vaker om sociale lessen te leren. Als beelden risicovol gedrag tonen, kan dit een probleem zijn. Bepaalde media krijgen bij Kijkwijzer daarom een 14 jaar classificatie.
+
+Wat hoort bij deze leeftijdsfase?
+•	Sterke identificatie met realistische acteurs, sporthelden, muziekidolen of andere bekende mediafiguren waar zij enige gelijkenis in zien. 
+•	Nog moeite hebben om uit zichzelf kritisch te zijn over maatschappelijke normen. En daar ook een eigen standpunt over in te nemen. 
+•	Zich meer en meer onttrekken aan het ouderlijk gezag. 
+•	Zich het meest aangetrokken voelen tot het risicovolle gedrag, waarbij het voldoen aan een groepsnorm een belangrijke rol speelt.
+•	Films en televisie gebruiken om sociale lessen te leren. 
+Welke media kunnen daarom schadelijk zijn?
+•	Invloedrijke mediafiguren die gedrag vertonen dat risico’s met zich meebrengt, of uitspraken doen en een houding aannemen die op gespannen voet staat met algemeen geldende sociale normen.
+•	Met name mediaproducties die zowel seks als alcohol of drugs tonen en weinig aandacht geven aan de risicovolle, negatieve consequenties van de combinatie daarvan. Het risico is dat jongeren de combinatie als geaccepteerd gedrag gaan zien en hun verwachtingen ten aanzien hiervan laten beïnvloeden.</div>]]></mdcr:Explanation>
+      </mdcr:Descriptor>
+    </mdcr:Rating>
     <mdcr:Rating ratingID="16">
       <mdcr:Ordinal>12</mdcr:Ordinal>
       <mdcr:URI>http://www.movielabs.com/md/ratings/NL/Kijkwijzer/2/16</mdcr:URI>
@@ -11278,30 +11506,6 @@ helden in de media, hebben we in Kijkwijzer bepaalde typen geweld verbonden met
 de leeftijdsindicatie van 16 jaar. Het is bekend dat angst voor geweld en 
 horrorfilms juist in de adolescentietijd vaak voorkom</p>
         </div>]]></mdcr:Explanation>
-      </mdcr:Descriptor>
-    </mdcr:Rating>
-    <mdcr:Rating ratingID="14">
-      <mdcr:Ordinal>11</mdcr:Ordinal>
-      <mdcr:URI>http://www.movielabs.com/md/ratings/NL/Kijkwijzer/2/14</mdcr:URI>
-      <mdcr:LinkToLogo>./imageCache/NL_Kijkwijzer_14.png</mdcr:LinkToLogo>
-      <mdcr:MinRecAge>14</mdcr:MinRecAge>
-      <mdcr:MinAge>0</mdcr:MinAge>
-      <mdcr:MinAgeSupervised>0</mdcr:MinAgeSupervised>
-      <mdcr:HPCApplicable>true</mdcr:HPCApplicable>
-      <mdcr:Descriptor language="NL">
-        <mdcr:Label>14 jaar</mdcr:Label>
-        <mdcr:Definition>Mogelijk schadelijk tot 14 jaar</mdcr:Definition>
-        <mdcr:Explanation><![CDATA[<div class="userHtml">Vanaf een jaar of 12 gebruiken kinderen films en televisieprogramma’s steeds vaker om sociale lessen te leren. Als beelden risicovol gedrag tonen, kan dit een probleem zijn. Bepaalde media krijgen bij Kijkwijzer daarom een 14 jaar classificatie.
-
-Wat hoort bij deze leeftijdsfase?
-•	Sterke identificatie met realistische acteurs, sporthelden, muziekidolen of andere bekende mediafiguren waar zij enige gelijkenis in zien. 
-•	Nog moeite hebben om uit zichzelf kritisch te zijn over maatschappelijke normen. En daar ook een eigen standpunt over in te nemen. 
-•	Zich meer en meer onttrekken aan het ouderlijk gezag. 
-•	Zich het meest aangetrokken voelen tot het risicovolle gedrag, waarbij het voldoen aan een groepsnorm een belangrijke rol speelt.
-•	Films en televisie gebruiken om sociale lessen te leren. 
-Welke media kunnen daarom schadelijk zijn?
-•	Invloedrijke mediafiguren die gedrag vertonen dat risico’s met zich meebrengt, of uitspraken doen en een houding aannemen die op gespannen voet staat met algemeen geldende sociale normen.
-•	Met name mediaproducties die zowel seks als alcohol of drugs tonen en weinig aandacht geven aan de risicovolle, negatieve consequenties van de combinatie daarvan. Het risico is dat jongeren de combinatie als geaccepteerd gedrag gaan zien en hun verwachtingen ten aanzien hiervan laten beïnvloeden.</div>]]></mdcr:Explanation>
       </mdcr:Descriptor>
     </mdcr:Rating>
     <mdcr:Rating ratingID="18">
@@ -11367,7 +11571,7 @@ Welke media kunnen daarom schadelijk zijn?
       </mdcr:GeneralDescriptor>
     </mdcr:Reason>
   </mdcr:RatingSystem>
-  <mdcr:RatingSystem lastValidated="2013-09-16T02:37:15" lastSave="2019-06-19T13:24:01" version="2">
+  <mdcr:RatingSystem lastValidated="2013-09-16T09:37:15" lastSave="2021-01-13T17:43:09" version="3">
     <!--DISCLAIMER: Although care has been taken to ensure the accuracy, completeness and reliability of the information provided, we are not responsible if information that we make available on this site is not accurate, complete or current. The material on this site is provided for general information only, and any reliance upon the material on this site will be at your own risk. We reserve the right to modify the contents of the site at any time, but we have no obligation to update any information on this site. You agree that it is your 	responsibility to monitor changes to the site.-->
     <mdcr:RatingSystemID>
       <mdcr:Region>
@@ -11391,19 +11595,24 @@ Welke media kunnen daarom schadelijk zijn?
       </mdcr:Usage>
     </mdcr:AdoptiveRegion>
     <mdcr:LastChecked>2019-06-18</mdcr:LastChecked>
-    <mdcr:URI>http://www.movielabs.com/md/ratings/NO/Medietilsynet/2</mdcr:URI>
+    <mdcr:URI>http://www.movielabs.com/md/ratings/NO/Medietilsynet/3</mdcr:URI>
     <mdcr:RatingsOrg organizationID="Medietilsynet">
       <md:DisplayName>Medietilsynet</md:DisplayName>
       <mdcr:ContactString>Media Authority 
 Nygata 4-1607 Fredrikstad 
 Tel: (+47) 69 30 12 00 - Fax: (+47) 69 30 12 01
-E-mail: post@medietilsynet.no</mdcr:ContactString>
+E-mail: post@medietilsynet.no
+
+Press contact:
+Kristine Meek, Director of Communications, Advice and Analysis
+kristine.meek@medietilsynet.no
+(+47) 918 85 405</mdcr:ContactString>
       <mdcr:URL>http://www.medietilsynet.no/</mdcr:URL>
       <mdcr:OrgType>Gov</mdcr:OrgType>
     </mdcr:RatingsOrg>
     <mdcr:Rating ratingID="A">
       <mdcr:Ordinal>0</mdcr:Ordinal>
-      <mdcr:URI>http://www.movielabs.com/md/ratings/NO/Medietilsynet/2/A</mdcr:URI>
+      <mdcr:URI>http://www.movielabs.com/md/ratings/NO/Medietilsynet/3/A</mdcr:URI>
       <mdcr:LinkToLogo>./imageCache/NO_Medietilsynet_a_stor-ny.jpg</mdcr:LinkToLogo>
       <mdcr:MinRecAge>0</mdcr:MinRecAge>
       <mdcr:MinAge>0</mdcr:MinAge>
@@ -11414,10 +11623,74 @@ E-mail: post@medietilsynet.no</mdcr:ContactString>
         <mdcr:Definition>Det er ikkje berre barnefilmar som får merkelappen tillaten for alle.</mdcr:Definition>
         <mdcr:Explanation><![CDATA[<div class="userHtml">Filmer som er tillatt for alle skal ha et rolig, lett og hyggelig uttrykk. Det kan være kortvarige "bø-effekter" eller litt spennende elementer i en trygg ramme.</div>]]></mdcr:Explanation>
       </mdcr:Descriptor>
+      <mdcr:Descriptor language="EN">
+        <mdcr:Label>A</mdcr:Label>
+        <mdcr:Definition>All Ages</mdcr:Definition>
+        <mdcr:Explanation><![CDATA[<div class="userHtml">Films and programmes 
+classified as All ages
+must use audio and
+effects moderately
+and cannot contain
+any alarming or dramatic portrayals.
+Some moderately scary elements
+are permitted if they are very
+brief and take place within a safe
+framework that is facilitated for
+children under the age of six.
+(see text box under section 2.2
+«The good scare»). This relates to
+films such as Bamse og tyvenes
+by (Bamse and the City of Thieves)
+(2014) and the animated series Det
+lille spøkelse Laban (Laban The
+Little Ghost). The same applies to
+portrayals with modestly dramatic
+effects if they are brief and take
+place within a clearly humorous
+framework, such as in early silent
+films and in the cartoons about
+Tom and Jerry or the animated film
+Despicable Me 2 (2012). More recent
+examples include the animated films
+Elias og Storegaps hemmelighet
+(2017) with short dark scenes, as
+well as Ferdinand (2017) which has
+several dramatic parts that are short
+and humorous.
+Many factual, reality and
+documentary programmes can be
+permitted for all ages if they have
+a mild/cautious expression, or do
+not have disturbing themes or
+portrayals. This applies for example
+to the documentary series Datoen
+(NRK), talkshows such as Skavlan
+og Lindmo (NRK) and reality shows
+such as Gift ved første blikk,
+Mesternes mester, Farmen og
+71 grader nord.
+Examples of other films and
+programmes within the “all ages”
+category include the Karsten og
+Petra films (2012, 2013 and 2014)
+children’s programmes such as
+Postmann Pat and Fireman Sam,
+and family programmes such as
+Beat for beat, Idol, and Skal vi
+danse? Many comedies, “sitcoms”,
+films and different programme
+series intended for young adults
+and/or adults will normally also
+be given the “all ages” limit. This
+applies to most episodes in series
+such as Modern Family, The Big
+Bang Theory, and the TV series
+Side om Side</div>]]></mdcr:Explanation>
+      </mdcr:Descriptor>
     </mdcr:Rating>
     <mdcr:Rating ratingID="6">
       <mdcr:Ordinal>1</mdcr:Ordinal>
-      <mdcr:URI>http://www.movielabs.com/md/ratings/NO/Medietilsynet/2/6</mdcr:URI>
+      <mdcr:URI>http://www.movielabs.com/md/ratings/NO/Medietilsynet/3/6</mdcr:URI>
       <mdcr:LinkToLogo>./imageCache/NO_Medietilsynet_6_stor-ny.jpg</mdcr:LinkToLogo>
       <mdcr:MinRecAge>6</mdcr:MinRecAge>
       <mdcr:MinAge>0</mdcr:MinAge>
@@ -11428,10 +11701,55 @@ E-mail: post@medietilsynet.no</mdcr:ContactString>
         <mdcr:Definition>6-årsgrense</mdcr:Definition>
         <mdcr:Explanation><![CDATA[<div class="userHtml">En film med 6-årsgrense kan inneholde enkelte mørke, dramatiske eller noe truende scener. Den kan også inneholde korte innslag med kraftige lyd og bildeeffekter.</div>]]></mdcr:Explanation>
       </mdcr:Descriptor>
+      <mdcr:Descriptor language="EN">
+        <mdcr:Label>6</mdcr:Label>
+        <mdcr:Definition>Age 6</mdcr:Definition>
+        <mdcr:Explanation><![CDATA[<div class="userHtml">Films and
+programmes
+classified as Age
+6 may contain
+individual scenes
+or portrayals that are moderately
+dark or threatening. The same
+applies if there are scenes with
+dramatic sounds and/or heavy
+use of effects. Brief, scary
+elements are permitted within the
+framework of “good scares” (see
+text box under section 2.2) and
+violent portrayals are permitted
+if they are clearly humorous and
+over-the-top (“slapstick”), such as
+the Home Alone films.
+Themes that generally seem
+difficult and painful can be
+permitted with an Age 6 limit
+if they have a toned down
+expression and are adapted
+for children.
+This applies to animated films
+such as Løvetannbarn (2017 – 6
+years) which is about a little boy
+who loses his mother and is sent
+to an orphanage.
+Examples of other films and
+programmes classified as Age
+6 are animated films and series
+with moderately dramatic effects
+such as the Lego movies. More
+realistic films and programmes
+with brief dramatic or threatening
+portrayals can also be classified
+Age 6. Examples of this include the
+competition programme Labyrint
+(NRK Super), America’s Funniest
+Home Videos and soap operas
+such as Home and Away.</div>]]></mdcr:Explanation>
+      </mdcr:Descriptor>
     </mdcr:Rating>
     <mdcr:Rating ratingID="7">
       <mdcr:Ordinal>3</mdcr:Ordinal>
-      <mdcr:URI>http://www.movielabs.com/md/ratings/NO/Medietilsynet/2/7</mdcr:URI>
+      <mdcr:URI>http://www.movielabs.com/md/ratings/NO/Medietilsynet/3/7</mdcr:URI>
       <mdcr:MinRecAge>7</mdcr:MinRecAge>
       <mdcr:MinAge>0</mdcr:MinAge>
       <mdcr:MinAgeSupervised>0</mdcr:MinAgeSupervised>
@@ -11445,7 +11763,7 @@ E-mail: post@medietilsynet.no</mdcr:ContactString>
     </mdcr:Rating>
     <mdcr:Rating ratingID="9">
       <mdcr:Ordinal>4</mdcr:Ordinal>
-      <mdcr:URI>http://www.movielabs.com/md/ratings/NO/Medietilsynet/2/9</mdcr:URI>
+      <mdcr:URI>http://www.movielabs.com/md/ratings/NO/Medietilsynet/3/9</mdcr:URI>
       <mdcr:LinkToLogo>./imageCache/NO_Medietilsynet_9_stor-ny.jpg</mdcr:LinkToLogo>
       <mdcr:MinRecAge>9</mdcr:MinRecAge>
       <mdcr:MinAge>0</mdcr:MinAge>
@@ -11456,10 +11774,56 @@ E-mail: post@medietilsynet.no</mdcr:ContactString>
         <mdcr:Definition>9-årsgrense</mdcr:Definition>
         <mdcr:Explanation><![CDATA[<div class="userHtml">En film med 9-årsgrense kan ha partier med mørk, intens eller utrygg stemning. Dette kan for eksempel være noe dramatiske bilder av ulykker eller barn som har det vanskelig (inkludert mobbing). Kortvarige og lite nærgående voldsinnslag kan også få 9-årsgrense.</div>]]></mdcr:Explanation>
       </mdcr:Descriptor>
+      <mdcr:Descriptor language="EN">
+        <mdcr:Label>9</mdcr:Label>
+        <mdcr:Definition>Age 9</mdcr:Definition>
+        <mdcr:Explanation><![CDATA[<div class="userHtml">Films and
+programmes
+classified as Age 9
+may contain short but
+not explicit violence
+or war images such as in the movies
+Pitch Perfect 3 (2017 – violence in a
+humorous setting) and Darkest Hour
+(2017 – some war images), longer
+scenes with intense or dramatic
+moods such as in the animated
+television series The Amazing
+Spiderman, or have individual
+scenes with a dark and unsafe
+mood combined with depictions
+of moderately scary figures and/
+or dangerous situations such as
+the fantasy series M.I. High; the
+three first Harry Potter movies (The
+Philosopher’s Stone, The Chamber
+of Secrets and The Prisoner of
+Azkaban), Jumanji: Welcome to the
+jungle (2016) and the ”scary movie”
+Goosebumps (2015).
+Actual incidents or depictions
+of accidents, operations or
+non-dramatic deaths may be
+unsettling to children under the
+age of nine. The same applies
+to depictions of unsafe family
+relations, bullying situations and
+humans and animals that are
+suffering. Programmes with such
+themes shall generally be given
+an Age 9 limit or higher. Examples
+include the docudrama series
+Bondi Rescue and Oslo Brenner
+which contain dramatic portrayals
+of accidents, fires, etc.
+For Fortnite videos showing
+fighting scenes, 9 years would the
+right age limit.</div>]]></mdcr:Explanation>
+      </mdcr:Descriptor>
     </mdcr:Rating>
     <mdcr:Rating ratingID="11">
       <mdcr:Ordinal>6</mdcr:Ordinal>
-      <mdcr:URI>http://www.movielabs.com/md/ratings/NO/Medietilsynet/2/11</mdcr:URI>
+      <mdcr:URI>http://www.movielabs.com/md/ratings/NO/Medietilsynet/3/11</mdcr:URI>
       <mdcr:MinRecAge>11</mdcr:MinRecAge>
       <mdcr:MinAge>0</mdcr:MinAge>
       <mdcr:MinAgeSupervised>0</mdcr:MinAgeSupervised>
@@ -11473,7 +11837,7 @@ E-mail: post@medietilsynet.no</mdcr:ContactString>
     </mdcr:Rating>
     <mdcr:Rating ratingID="12">
       <mdcr:Ordinal>8</mdcr:Ordinal>
-      <mdcr:URI>http://www.movielabs.com/md/ratings/NO/Medietilsynet/2/12</mdcr:URI>
+      <mdcr:URI>http://www.movielabs.com/md/ratings/NO/Medietilsynet/3/12</mdcr:URI>
       <mdcr:LinkToLogo>./imageCache/NO_Medietilsynet_12_stor-ny.jpg</mdcr:LinkToLogo>
       <mdcr:MinRecAge>12</mdcr:MinRecAge>
       <mdcr:MinAge>0</mdcr:MinAge>
@@ -11484,10 +11848,100 @@ E-mail: post@medietilsynet.no</mdcr:ContactString>
         <mdcr:Definition>12-årsgrense</mdcr:Definition>
         <mdcr:Explanation><![CDATA[<div class="userHtml">I filmer med 12-årsgrense kan det være gjennomgående mørk stemning - og mye frykt både i karakterer, scener og musikk. Det kan også forekomme kortvarige skrekkeffekter og lite nærgående skildringer av seksualitet.</div>]]></mdcr:Explanation>
       </mdcr:Descriptor>
+      <mdcr:Descriptor language="EN">
+        <mdcr:Label>12</mdcr:Label>
+        <mdcr:Definition>Age 12</mdcr:Definition>
+        <mdcr:Explanation><![CDATA[<div class="userHtml">Films classified as
+Age 12 may contain
+some unsettling
+themes related to
+the “adult realm”,
+such as depictions or portrayals
+of relationship conflicts, sexual
+acts or strong emotional outbursts.
+Examples of such themes
+may occur in factual or reality
+programmes such as certain
+episodes of Trekant or Paradise
+Hotel.
+Other themes that may be
+difficult for children to handle
+(see examples mentioned in fact
+box in Chapter 2.3) should be
+classified as Age 12 or higher if the
+theme in and of itself, regardless
+of how it is presented, can be
+alarming to children or young
+people. This applies for example
+to a theme such as kidnapping/
+child abduction in a documentary
+series such as De bortførte barna.
+The same applies if the portrayals
+in the programme are not explicitly
+depicted and the mood is not
+sombre throughout.
+Examples of this include the
+documentary series Stemmene
+i hodet (NRK) which is about
+psychological distress and a
+movie like Røverdatter (2018)
+which contains authentic close-up
+depictions of drug abuse and an
+unstable grown-up character.
+Violent acts or brief depictions with
+“scary elements” in an unrealistic
+context is normally acceptable
+in films and programmes for
+young people from age 12. This
+particularly applies if the content
+is based on well-known stories,
+books, cartoons or similar, or
+where the plot in another way
+revolves around a clear fantasy
+universe or within a comical
+framework. Examples include films
+such as The Hobbit – The Battle of
+the Five Armies (2014), Star Wars:
+The Last Jedi (2017), the five last
+films in the Harry Potter universe
+(The Goblet of Fire, The Order of
+the Phoenix, The Half Blood Prince
+and the Deathly Hallows part 1 and
+2) and Game Night (2018).
+More realistic depictions of
+violence or frightening elements
+can also be permitted if they are
+brief and portrayed in a calm
+manner, such as in series about
+supernatural phenomenon in
+Åndenes makt and crime shows
+such as Law and Order: Special
+Victims Unit and Castle.
+Films and programmes must also
+be classified as Age 12 if they
+contain non-explicit sexual acts
+(Call me by your name, 2017) or
+sexual descriptions within the
+premises of children and young
+people (Få meg på, for faen, 2011).
+The same applies if the programme
+has a constant crude dialogue that
+could be disturbing or offensive to
+children under this age. Examples
+of this include the US comedies
+Ted 1 and 2 (2012 and 2015) and
+Sausage Party (2016).
+For video games that contain battle
+scenes with graphic images of
+blood, for example Gameplay from
+Player’s Unknown Battlegrounds
+(PUBG) a 12-year age limit will often
+be fitting.</div>]]></mdcr:Explanation>
+      </mdcr:Descriptor>
     </mdcr:Rating>
     <mdcr:Rating ratingID="15">
       <mdcr:Ordinal>9</mdcr:Ordinal>
-      <mdcr:URI>http://www.movielabs.com/md/ratings/NO/Medietilsynet/2/15</mdcr:URI>
+      <mdcr:URI>http://www.movielabs.com/md/ratings/NO/Medietilsynet/3/15</mdcr:URI>
       <mdcr:LinkToLogo>./imageCache/NO_Medietilsynet_15_stor-ny.jpg</mdcr:LinkToLogo>
       <mdcr:MinRecAge>15</mdcr:MinRecAge>
       <mdcr:MinAge>0</mdcr:MinAge>
@@ -11498,10 +11952,65 @@ E-mail: post@medietilsynet.no</mdcr:ContactString>
         <mdcr:Definition>15-årsgrense</mdcr:Definition>
         <mdcr:Explanation><![CDATA[<div class="userHtml">En film med 15-årsgrense kan ha angstskapende stemning, og inneholde realistiske innslag av katastrofer, krig, omsorgssvikt eller overgrep. Skrekkfilmer, filmer med drap eller detaljerte seksuelle skildringer får normalt 15-årsgrense.</div>]]></mdcr:Explanation>
       </mdcr:Descriptor>
+      <mdcr:Descriptor language="EN">
+        <mdcr:Label>15</mdcr:Label>
+        <mdcr:Definition>Age 15</mdcr:Definition>
+        <mdcr:Explanation><![CDATA[<div class="userHtml">Films and
+programmes
+classified as Age 15
+may contain realistic,
+authentic or intense
+depictions or scenes of war,
+catastrophes, or terrorism acts.
+Examples include the documentary
+film Cries from Syria (2017) which
+contains authentic and detailed
+descriptions of war crimes, torture
+and victims, and the film Utøya 22.
+juli which is close to reality and
+provokes feelings of anxiety and
+panic.
+Depictions of serious neglect and
+abuse will also qualify for a 15 year
+age limit. The same applies to films
+and programmes with close sexual
+portrayals (such as Pornopung
+from 2013), as well as depictions of
+abuse and murder.
+Films and series with extensive
+action violence or explicit, cynical
+and/or detailed violence shall be
+classified as Age 15. This applies
+for example to several episodes of
+Game of Thrones, crime shows
+such as Homeland and Broen and a
+movie like American Assassin (2017).
+Other examples are films and series
+with an unsettling mood and horror
+effects such as certain episodes of
+The Walking Dead and the Annabelle
+movies.
+Other content that usually comes
+under the Age 15 category, is
+films and programmes that have a
+consistent sexualised expression
+and/or contain acts that can appear
+offensive and/or disturbing to
+children and young people under
+this age limit. This applies to the
+Fifty Shades of Grey movies and
+Kjøp meg (episode in season 1 of the
+docuseries Innafor). In addition, this
+applies to movies such as Spring
+Breakers (2012) which is consistently
+sexualised in its expression and
+depicts the use of drugs and
+violence in a glorified way.</div>]]></mdcr:Explanation>
+      </mdcr:Descriptor>
     </mdcr:Rating>
     <mdcr:Rating ratingID="18">
       <mdcr:Ordinal>80</mdcr:Ordinal>
-      <mdcr:URI>http://www.movielabs.com/md/ratings/NO/Medietilsynet/2/18</mdcr:URI>
+      <mdcr:URI>http://www.movielabs.com/md/ratings/NO/Medietilsynet/3/18</mdcr:URI>
       <mdcr:LinkToLogo>./imageCache/NO_Medietilsynet_18_stor-ny.jpg</mdcr:LinkToLogo>
       <mdcr:MinRecAge>18</mdcr:MinRecAge>
       <mdcr:MinAge>0</mdcr:MinAge>
@@ -11511,6 +12020,44 @@ E-mail: post@medietilsynet.no</mdcr:ContactString>
         <mdcr:Label>18</mdcr:Label>
         <mdcr:Definition>18-årsgrense</mdcr:Definition>
         <mdcr:Explanation><![CDATA[<div class="userHtml">En film med 18-årsgrense kan ha særlig angstskapende stemning, og inneholde store mengder brutale og detaljerte voldshandlinger, særlig i kombinasjon med et angstskapende uttrykk. Skildringer av grov seksualisert vold gir normalt også 18-årsgrense. Filmer som Medietilsynet ikke har vurdert må vises med en 18-årsgrense på kino.</div>]]></mdcr:Explanation>
+      </mdcr:Descriptor>
+      <mdcr:Descriptor language="EN">
+        <mdcr:Label>18</mdcr:Label>
+        <mdcr:Definition>Age 18</mdcr:Definition>
+        <mdcr:Explanation><![CDATA[<div class="userHtml">In some cases, films
+and programmes
+must be classified
+with an Age 18 limit.
+This mainly applies
+to films with particularly violent
+content and/or expression, and
+that contain a lot of gross, cynical
+and/or detailed violent acts, often
+in a combination with an unsettling
+expression. Individual depictions
+of more untraditional forms of
+sex, depictions of a combination
+of violence and non-consensual
+sex will normally also qualify for
+an Age 18 limit. The same applies
+to films that contain extensive,
+explicit sexual portrayals (so-called
+“hardcore porn”, see Appendix 2).
+Examples of films with an Age
+18 limit include the horror movie
+The Belko Experiment (2017) and
+the gangster movie The Villainess
+(2017), which both contain large
+amounts of brutal, cynical and
+bloody violence and/or murder
+scenes. Other examples include
+the thriller The Neon Demon (2016)
+which has pervasive anxious mood
+and depicts an extreme sexual act,
+and Raw (2017) which has a very
+disturbing theme and contains
+several detailed depictions related
+to cannibalism.</div>]]></mdcr:Explanation>
       </mdcr:Descriptor>
     </mdcr:Rating>
   </mdcr:RatingSystem>
@@ -12791,7 +13338,7 @@ Phone: 08 665 14 60</mdcr:ContactString>
       </mdcr:Descriptor>
     </mdcr:Rating>
   </mdcr:RatingSystem>
-  <mdcr:RatingSystem lastSave="2019-06-18T18:34:41" version="0">
+  <mdcr:RatingSystem lastSave="2021-01-13T17:57:22" version="1">
     <!--DISCLAIMER: Although care has been taken to ensure the accuracy, completeness and reliability of the information provided, we are not responsible if information that we make available on this site is not accurate, complete or current. The material on this site is provided for general information only, and any reliance upon the material on this site will be at your own risk. We reserve the right to modify the contents of the site at any time, but we have no obligation to update any information on this site. You agree that it is your 	responsibility to monitor changes to the site.-->
     <mdcr:RatingSystemID>
       <mdcr:Region>
@@ -12809,7 +13356,7 @@ Phone: 08 665 14 60</mdcr:ContactString>
         <mdcr:Environment>Retail</mdcr:Environment>
       </mdcr:Usage>
     </mdcr:AdoptiveRegion>
-    <mdcr:URI>http://www.movielabs.com/md/ratings/SG/MDA-VG/0</mdcr:URI>
+    <mdcr:URI>http://www.movielabs.com/md/ratings/SG/MDA-VG/1</mdcr:URI>
     <mdcr:RatingsOrg organizationID="MDA">
       <md:DisplayName>Infocomm Media Development Authority</md:DisplayName>
       <mdcr:ContactString>Infocomm Media Development Authority 
@@ -12821,7 +13368,7 @@ Fax: 6577 3888</mdcr:ContactString>
     </mdcr:RatingsOrg>
     <mdcr:Rating ratingID="Adv16">
       <mdcr:Ordinal>16</mdcr:Ordinal>
-      <mdcr:URI>http://www.movielabs.com/md/ratings/SG/MDA-VG/0/Adv16</mdcr:URI>
+      <mdcr:URI>http://www.movielabs.com/md/ratings/SG/MDA-VG/1/Adv16</mdcr:URI>
       <mdcr:LinkToLogo>./imageCache/SG_IMDA-VG_ADV16.png</mdcr:LinkToLogo>
       <mdcr:MinRecAge>16</mdcr:MinRecAge>
       <mdcr:MinAge>0</mdcr:MinAge>
@@ -12846,6 +13393,15 @@ Fax: 6577 3888</mdcr:ContactString>
           <mdcr:Definition>n.a</mdcr:Definition>
           <mdcr:Explanation><![CDATA[<div class="userHtml">Moderate level of violence. This refers to realistic but not excessively
 graphic violence with depiction of blood</div>]]></mdcr:Explanation>
+        </mdcr:Descriptor>
+      </mdcr:RatingReason>
+      <mdcr:RatingReason reasonID="H">
+        <mdcr:Value>H</mdcr:Value>
+        <mdcr:Descriptor language="en">
+          <mdcr:Label>H</mdcr:Label>
+          <mdcr:Definition>n.a</mdcr:Definition>
+          <mdcr:Explanation><![CDATA[<div class="userHtml">Depiction of frightening and disturbing sequences, or any abhorrent
+phenomena, whether natural or pertaining to the supernatural.</div>]]></mdcr:Explanation>
         </mdcr:Descriptor>
       </mdcr:RatingReason>
       <mdcr:RatingReason reasonID="L">
@@ -12874,7 +13430,7 @@ women in bikinis or lingerie.</li>
     </mdcr:Rating>
     <mdcr:Rating ratingID="M18">
       <mdcr:Ordinal>18</mdcr:Ordinal>
-      <mdcr:URI>http://www.movielabs.com/md/ratings/SG/MDA-VG/0/M18</mdcr:URI>
+      <mdcr:URI>http://www.movielabs.com/md/ratings/SG/MDA-VG/1/M18</mdcr:URI>
       <mdcr:LinkToLogo>./imageCache/SG_IMDA_M18.png</mdcr:LinkToLogo>
       <mdcr:MinRecAge>18</mdcr:MinRecAge>
       <mdcr:MinAge>18</mdcr:MinAge>
@@ -12884,13 +13440,61 @@ women in bikinis or lingerie.</li>
         <mdcr:Label>Mature 18</mdcr:Label>
         <mdcr:Definition>Restricted to individuals who are at least 18 years old</mdcr:Definition>
       </mdcr:Descriptor>
+      <mdcr:RatingReason reasonID="S">
+        <mdcr:Value>S</mdcr:Value>
+        <mdcr:Descriptor language="en">
+          <mdcr:Label>S</mdcr:Label>
+          <mdcr:Definition>Sex</mdcr:Definition>
+          <mdcr:Explanation><![CDATA[<div class="userHtml">Portrayal of non-detailed sexual activity with some frontal nudity.
+Depictions of same-sex kissing and hugging.</div>]]></mdcr:Explanation>
+        </mdcr:Descriptor>
+      </mdcr:RatingReason>
+      <mdcr:RatingReason reasonID="T">
+        <mdcr:Value>T</mdcr:Value>
+        <mdcr:Descriptor language="en">
+          <mdcr:Label>T</mdcr:Label>
+          <mdcr:Definition>n.a</mdcr:Definition>
+          <mdcr:Explanation><![CDATA[<div class="userHtml">Treatment and exploration of mature themes appropriate to persons aged
+18 and above.
+Content that requires the player to engage in illegal activities or play the
+role of a criminal, but without detailed instructions for committing crimes.
+Some homosexual content, if discreet in treatment and not gratuitous.</div>]]></mdcr:Explanation>
+        </mdcr:Descriptor>
+      </mdcr:RatingReason>
+      <mdcr:RatingReason reasonID="V">
+        <mdcr:Value>V</mdcr:Value>
+        <mdcr:Descriptor language="en">
+          <mdcr:Label>V</mdcr:Label>
+          <mdcr:Definition>n.a</mdcr:Definition>
+          <mdcr:Explanation><![CDATA[<div class="userHtml">Depictions of realistic violence, such as killing, maiming or causing other
+serious injury to humanoid characters.</div>]]></mdcr:Explanation>
+        </mdcr:Descriptor>
+      </mdcr:RatingReason>
+      <mdcr:RatingReason reasonID="L">
+        <mdcr:Value>L</mdcr:Value>
+        <mdcr:Descriptor language="en">
+          <mdcr:Label>L</mdcr:Label>
+          <mdcr:Definition>n.a</mdcr:Definition>
+        </mdcr:Descriptor>
+      </mdcr:RatingReason>
+      <mdcr:RatingReason reasonID="N">
+        <mdcr:Value>N</mdcr:Value>
+        <mdcr:Descriptor language="en">
+          <mdcr:Label>N</mdcr:Label>
+          <mdcr:Definition>NUdity</mdcr:Definition>
+          <mdcr:Explanation><![CDATA[<div class="userHtml">Depiction of topless nudity or occasional full frontal nudity. Nudity should
+not titillate or be the main feature of the game.
+Still or moving images which may be sexually titillating (but does not contain
+nudity), e.g. scantily-clad women shown in a manner that is sexually
+suggestive, but not excessive or gratuitous.</div>]]></mdcr:Explanation>
+        </mdcr:Descriptor>
+      </mdcr:RatingReason>
     </mdcr:Rating>
     <mdcr:Reason reasonID="T">
       <mdcr:Value>T</mdcr:Value>
       <mdcr:GeneralDescriptor language="EN">
         <mdcr:Label>T</mdcr:Label>
         <mdcr:Definition>n.a</mdcr:Definition>
-        <mdcr:Explanation><![CDATA[<div class="userHtml">Classification must take into account the treatment of theme(s) and message(s) in a film. For the advisory ratings, theme(s) and message(s) should be presented and treated sensitively due to the potential impact on the young. Films that center on mature theme(s) or content would generally be classified NC16, M18 or R21. Films that contain distorted or misrepresented discussions or depictions of a subject matter (including historical events), may be classified at a higher rating or refused classification.</div>]]></mdcr:Explanation>
       </mdcr:GeneralDescriptor>
     </mdcr:Reason>
     <mdcr:Reason reasonID="V">
@@ -12943,6 +13547,7 @@ refused classification.</p>
       <mdcr:GeneralDescriptor language="EN">
         <mdcr:Label>L</mdcr:Label>
         <mdcr:Definition>n.a</mdcr:Definition>
+        <mdcr:Explanation><![CDATA[<div class="userHtml">Frequent use of strong coarse language</div>]]></mdcr:Explanation>
       </mdcr:GeneralDescriptor>
     </mdcr:Reason>
     <mdcr:Reason reasonID="D">
@@ -12968,7 +13573,7 @@ substance abuse will be refused classification.</div>]]></mdcr:Explanation>
       </mdcr:GeneralDescriptor>
     </mdcr:Reason>
   </mdcr:RatingSystem>
-  <mdcr:RatingSystem lastValidated="2013-09-12T10:42:40" lastSave="2019-06-18T17:50:27" version="2">
+  <mdcr:RatingSystem lastValidated="2013-09-12T17:42:40" lastSave="2020-10-29T19:57:38" version="2">
     <!--DISCLAIMER: Although care has been taken to ensure the accuracy, completeness and reliability of the information provided, we are not responsible if information that we make available on this site is not accurate, complete or current. The material on this site is provided for general information only, and any reliance upon the material on this site will be at your own risk. We reserve the right to modify the contents of the site at any time, but we have no obligation to update any information on this site. You agree that it is your 	responsibility to monitor changes to the site.-->
     <mdcr:RatingSystemID>
       <mdcr:Region>
@@ -13119,16 +13724,7 @@ classification.</div>]]></mdcr:Explanation>
       <mdcr:Value>N</mdcr:Value>
       <mdcr:GeneralDescriptor language="EN">
         <mdcr:Label>N</mdcr:Label>
-        <mdcr:Definition>NUdity</mdcr:Definition>
-        <mdcr:Explanation><![CDATA[<div class="userHtml">The extent and context of depictions of nudity are classification considerations.
-There should be no nudity at a G rating. At a PG or PG13 rating, depictions of
-rear or side profile nudity in a non-sexual context may be presented. There can
-be exceptions for films which feature infrequent and non-sexual depictions of
-female upper body nudity at a PG13 rating, e.g. films containing footage of
-historical events, tribal ways of life, or medical/health programmes. Upper body
-frontal nudity in a non-sexual context is allowed under NC16. Depictions of full
-frontal nudity may be featured at M18 or R21. Exploitative depictions of nudity
-will be refused classification.</div>]]></mdcr:Explanation>
+        <mdcr:Definition>n.a</mdcr:Definition>
       </mdcr:GeneralDescriptor>
     </mdcr:Reason>
     <mdcr:Reason reasonID="S">
@@ -13157,21 +13753,7 @@ refused classification.</p>
       <mdcr:Value>L</mdcr:Value>
       <mdcr:GeneralDescriptor language="EN">
         <mdcr:Label>L</mdcr:Label>
-        <mdcr:Definition>Language</mdcr:Definition>
-        <mdcr:Explanation><![CDATA[<div class="userHtml">
-        <p>The classification of coarse language depends on the strength of the language,
-the context in which it is used, as well as community and cultural sensitivities
-associated with its usage.</p>
-        <p>Coarse language, rude gestures, and gestures with sexual connotations must
-not be featured in G films as they are easily imitated by young children. In PG13
-films, there may be infrequent use of expletives such as ‘f**k’.</p>
-        <p>Stronger language is acceptable at higher ratings, with due consideration given
-to the degree of offensiveness and frequency of usage. This includes coarse
-language that offends community and cultural sensitivities.</p>
-        <p>Chinese films meant for theatrical release should generally be in Mandarin, in
-line with the Speak Mandarin Campaign. Films with dialect content are allowed
-on a case-by-case basis.</p>
-      </div>]]></mdcr:Explanation>
+        <mdcr:Definition>n.a</mdcr:Definition>
       </mdcr:GeneralDescriptor>
     </mdcr:Reason>
     <mdcr:Reason reasonID="D">
@@ -13197,6 +13779,370 @@ substance abuse will be refused classification.</div>]]></mdcr:Explanation>
         <mdcr:Explanation><![CDATA[<div class="userHtml">In classifying films containing horrific or disturbing content, the IMDA will take
 into consideration the impact of such depictions to ensure that young audiences
 are protected.</div>]]></mdcr:Explanation>
+      </mdcr:GeneralDescriptor>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="Intimacy-Some">
+      <mdcr:Value>Intimacy-Some</mdcr:Value>
+      <mdcr:GeneralDescriptor language="EN">
+        <mdcr:Label>Intimacy-Some</mdcr:Label>
+        <mdcr:Definition>Some Scenes of Intimacy</mdcr:Definition>
+      </mdcr:GeneralDescriptor>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="Intimacy">
+      <mdcr:Value>Intimacy</mdcr:Value>
+      <mdcr:GeneralDescriptor language="EN">
+        <mdcr:Label>Intimacy</mdcr:Label>
+        <mdcr:Definition>Scene(s) of Intimacy</mdcr:Definition>
+      </mdcr:GeneralDescriptor>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="SexualReference-Some">
+      <mdcr:Value>SexualReference-Some</mdcr:Value>
+      <mdcr:GeneralDescriptor language="EN">
+        <mdcr:Label>SexualReference-Some</mdcr:Label>
+        <mdcr:Definition>Some Sexual References</mdcr:Definition>
+      </mdcr:GeneralDescriptor>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="SexualReference">
+      <mdcr:Value>SexualReference</mdcr:Value>
+      <mdcr:GeneralDescriptor language="EN">
+        <mdcr:Label>SexualReference</mdcr:Label>
+        <mdcr:Definition>Sexual References</mdcr:Definition>
+      </mdcr:GeneralDescriptor>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="SexScene-Brief">
+      <mdcr:Value>SexScene-Brief</mdcr:Value>
+      <mdcr:GeneralDescriptor language="EN">
+        <mdcr:Label>SexScene-Brief</mdcr:Label>
+        <mdcr:Definition>Brief Sexual Scenes</mdcr:Definition>
+      </mdcr:GeneralDescriptor>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="SexScene-Some">
+      <mdcr:Value>SexScene-Some</mdcr:Value>
+      <mdcr:GeneralDescriptor language="EN">
+        <mdcr:Label>SexScene-Some</mdcr:Label>
+        <mdcr:Definition>Some Sexual Scenes</mdcr:Definition>
+      </mdcr:GeneralDescriptor>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="SexHumor">
+      <mdcr:Value>SexHumor</mdcr:Value>
+      <mdcr:GeneralDescriptor language="EN">
+        <mdcr:Label>SexHumor</mdcr:Label>
+        <mdcr:Definition>Sexual Humour</mdcr:Definition>
+      </mdcr:GeneralDescriptor>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="HomosexualReference-Some">
+      <mdcr:Value>HomosexualReference-Some</mdcr:Value>
+      <mdcr:GeneralDescriptor language="EN">
+        <mdcr:Label>HomosexualReference-Some</mdcr:Label>
+        <mdcr:Definition>Some Homosexual References</mdcr:Definition>
+      </mdcr:GeneralDescriptor>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="HomosexualReference">
+      <mdcr:Value>HomosexualReference</mdcr:Value>
+      <mdcr:GeneralDescriptor language="EN">
+        <mdcr:Label>HomosexualReference</mdcr:Label>
+        <mdcr:Definition>Homosexual References</mdcr:Definition>
+      </mdcr:GeneralDescriptor>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="SexualContent">
+      <mdcr:Value>SexualContent</mdcr:Value>
+      <mdcr:GeneralDescriptor language="EN">
+        <mdcr:Label>SexualContent</mdcr:Label>
+        <mdcr:Definition>Sexual Content</mdcr:Definition>
+      </mdcr:GeneralDescriptor>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="SexualContent-Crude">
+      <mdcr:Value>SexualContent-Crude</mdcr:Value>
+      <mdcr:GeneralDescriptor language="EN">
+        <mdcr:Label>SexualContent-Crude</mdcr:Label>
+        <mdcr:Definition>Crude Sexual Content</mdcr:Definition>
+      </mdcr:GeneralDescriptor>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="SexScene">
+      <mdcr:Value>SexScene</mdcr:Value>
+      <mdcr:GeneralDescriptor language="EN">
+        <mdcr:Label>SexScene</mdcr:Label>
+        <mdcr:Definition>Sexual Scenes</mdcr:Definition>
+      </mdcr:GeneralDescriptor>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="HomosexualContent-Some">
+      <mdcr:Value>HomosexualContent-Some</mdcr:Value>
+      <mdcr:GeneralDescriptor language="EN">
+        <mdcr:Label>HomosexualContent-Some</mdcr:Label>
+        <mdcr:Definition>HomosexualContent-Some</mdcr:Definition>
+      </mdcr:GeneralDescriptor>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="HomosexualContent">
+      <mdcr:Value>HomosexualContent</mdcr:Value>
+      <mdcr:GeneralDescriptor language="EN">
+        <mdcr:Label>HomosexualContent</mdcr:Label>
+        <mdcr:Definition>Homosexual Content</mdcr:Definition>
+      </mdcr:GeneralDescriptor>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="CoarseLanguage-Some">
+      <mdcr:Value>CoarseLanguage-Some</mdcr:Value>
+      <mdcr:GeneralDescriptor language="EN">
+        <mdcr:Label>CoarseLanguage-Some</mdcr:Label>
+        <mdcr:Definition>Some Coarse Language</mdcr:Definition>
+      </mdcr:GeneralDescriptor>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="CoarseLanguage">
+      <mdcr:Value>CoarseLanguage</mdcr:Value>
+      <mdcr:GeneralDescriptor language="EN">
+        <mdcr:Label>CoarseLanguage</mdcr:Label>
+        <mdcr:Definition>Coarse Language</mdcr:Definition>
+      </mdcr:GeneralDescriptor>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="CoarseLanguage-Strong">
+      <mdcr:Value>CoarseLanguage-Strong</mdcr:Value>
+      <mdcr:GeneralDescriptor language="EN">
+        <mdcr:Label>CoarseLanguage-Strong</mdcr:Label>
+        <mdcr:Definition>Strong Coarse Language</mdcr:Definition>
+      </mdcr:GeneralDescriptor>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="Violence-Some">
+      <mdcr:Value>Violence-Some</mdcr:Value>
+      <mdcr:GeneralDescriptor language="EN">
+        <mdcr:Label>Violence-Some</mdcr:Label>
+        <mdcr:Definition>Some Violence</mdcr:Definition>
+      </mdcr:GeneralDescriptor>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="BattleScenes">
+      <mdcr:Value>BattleScenes</mdcr:Value>
+      <mdcr:GeneralDescriptor language="EN">
+        <mdcr:Label>BattleScenes</mdcr:Label>
+        <mdcr:Definition>Battle Scenes</mdcr:Definition>
+      </mdcr:GeneralDescriptor>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="Violence">
+      <mdcr:Value>Violence</mdcr:Value>
+      <mdcr:GeneralDescriptor language="EN">
+        <mdcr:Label>Violence</mdcr:Label>
+        <mdcr:Definition>Violence</mdcr:Definition>
+      </mdcr:GeneralDescriptor>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="Violence-Sexual">
+      <mdcr:Value>Violence-Sexual</mdcr:Value>
+      <mdcr:GeneralDescriptor language="EN">
+        <mdcr:Label>Violence-Sexual</mdcr:Label>
+        <mdcr:Definition>Sexual Violence</mdcr:Definition>
+      </mdcr:GeneralDescriptor>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="Gore">
+      <mdcr:Value>Gore</mdcr:Value>
+      <mdcr:GeneralDescriptor language="EN">
+        <mdcr:Label>Gore</mdcr:Label>
+        <mdcr:Definition>Gore</mdcr:Definition>
+      </mdcr:GeneralDescriptor>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="Violence-Strong">
+      <mdcr:Value>Violence-Strong</mdcr:Value>
+      <mdcr:GeneralDescriptor language="EN">
+        <mdcr:Label>Violence-Strong</mdcr:Label>
+        <mdcr:Definition>Strong Violence</mdcr:Definition>
+      </mdcr:GeneralDescriptor>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="Gore-Strong">
+      <mdcr:Value>Gore-Strong</mdcr:Value>
+      <mdcr:GeneralDescriptor language="EN">
+        <mdcr:Label>Gore-Strong</mdcr:Label>
+        <mdcr:Definition>Strong Gore</mdcr:Definition>
+      </mdcr:GeneralDescriptor>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="Horror">
+      <mdcr:Value>Horror</mdcr:Value>
+      <mdcr:GeneralDescriptor language="EN">
+        <mdcr:Label>Horror</mdcr:Label>
+        <mdcr:Definition>Horror</mdcr:Definition>
+      </mdcr:GeneralDescriptor>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="Frightening-Some">
+      <mdcr:Value>Frightening-Some</mdcr:Value>
+      <mdcr:GeneralDescriptor language="EN">
+        <mdcr:Label>Frightening-Some</mdcr:Label>
+        <mdcr:Definition>Some Frightening Scenes</mdcr:Definition>
+      </mdcr:GeneralDescriptor>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="Frightening">
+      <mdcr:Value>Frightening</mdcr:Value>
+      <mdcr:GeneralDescriptor language="EN">
+        <mdcr:Label>Frightening</mdcr:Label>
+        <mdcr:Definition>Frightening Scenes</mdcr:Definition>
+      </mdcr:GeneralDescriptor>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="Nudity-Brief">
+      <mdcr:Value>Nudity-Brief</mdcr:Value>
+      <mdcr:GeneralDescriptor language="EN">
+        <mdcr:Label>Nudity-Brief</mdcr:Label>
+        <mdcr:Definition>Brief Nudity</mdcr:Definition>
+      </mdcr:GeneralDescriptor>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="Nudity-Some">
+      <mdcr:Value>Nudity-Some</mdcr:Value>
+      <mdcr:GeneralDescriptor language="EN">
+        <mdcr:Label>Nudity-Some</mdcr:Label>
+        <mdcr:Definition>Some Nudity</mdcr:Definition>
+      </mdcr:GeneralDescriptor>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="Nudity">
+      <mdcr:Value>Nudity</mdcr:Value>
+      <mdcr:GeneralDescriptor language="EN">
+        <mdcr:Label>Nudity</mdcr:Label>
+        <mdcr:Definition>Nudity</mdcr:Definition>
+      </mdcr:GeneralDescriptor>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="DrugRef-Some">
+      <mdcr:Value>DrugRef-Some</mdcr:Value>
+      <mdcr:GeneralDescriptor language="EN">
+        <mdcr:Label>DrugRef-Some</mdcr:Label>
+        <mdcr:Definition>Some Drug References</mdcr:Definition>
+      </mdcr:GeneralDescriptor>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="DrugUse-Some">
+      <mdcr:Value>DrugUse-Some</mdcr:Value>
+      <mdcr:GeneralDescriptor language="EN">
+        <mdcr:Label>DrugUse-Some</mdcr:Label>
+        <mdcr:Definition>Some Drug Use</mdcr:Definition>
+      </mdcr:GeneralDescriptor>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="DrugUse">
+      <mdcr:Value>DrugUse</mdcr:Value>
+      <mdcr:GeneralDescriptor language="EN">
+        <mdcr:Label>DrugUse</mdcr:Label>
+        <mdcr:Definition>Drug Use</mdcr:Definition>
+      </mdcr:GeneralDescriptor>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="DrugRef">
+      <mdcr:Value>DrugRef</mdcr:Value>
+      <mdcr:GeneralDescriptor language="EN">
+        <mdcr:Label>DrugRef</mdcr:Label>
+        <mdcr:Definition>Drug References</mdcr:Definition>
+      </mdcr:GeneralDescriptor>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="DrugContent">
+      <mdcr:Value>DrugContent</mdcr:Value>
+      <mdcr:GeneralDescriptor language="EN">
+        <mdcr:Label>DrugContent</mdcr:Label>
+        <mdcr:Definition>Drug Content</mdcr:Definition>
+      </mdcr:GeneralDescriptor>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="MatureTheme">
+      <mdcr:Value>MatureTheme</mdcr:Value>
+      <mdcr:GeneralDescriptor language="EN">
+        <mdcr:Label>MatureTheme</mdcr:Label>
+        <mdcr:Definition>Mature Theme(s)</mdcr:Definition>
+      </mdcr:GeneralDescriptor>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="HomosexualTheme">
+      <mdcr:Value>HomosexualTheme</mdcr:Value>
+      <mdcr:GeneralDescriptor language="EN">
+        <mdcr:Label>HomosexualTheme</mdcr:Label>
+        <mdcr:Definition>Homosexual Theme</mdcr:Definition>
+      </mdcr:GeneralDescriptor>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="MatureContent-Some ">
+      <mdcr:Value>MatureContent-Some </mdcr:Value>
+      <mdcr:GeneralDescriptor language="EN">
+        <mdcr:Label>MatureContent-Some </mdcr:Label>
+        <mdcr:Definition>Some Mature Content</mdcr:Definition>
+      </mdcr:GeneralDescriptor>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="Gambling">
+      <mdcr:Value>Gambling</mdcr:Value>
+      <mdcr:GeneralDescriptor language="EN">
+        <mdcr:Label>Gambling</mdcr:Label>
+        <mdcr:Definition>Gambling Content</mdcr:Definition>
+      </mdcr:GeneralDescriptor>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="ReligeousContent">
+      <mdcr:Value>ReligeousContent</mdcr:Value>
+      <mdcr:GeneralDescriptor language="EN">
+        <mdcr:Label>ReligeousContent</mdcr:Label>
+        <mdcr:Definition>Religious Content</mdcr:Definition>
+      </mdcr:GeneralDescriptor>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="ReligeousReference-Some">
+      <mdcr:Value>ReligeousReference-Some</mdcr:Value>
+      <mdcr:GeneralDescriptor language="EN">
+        <mdcr:Label>ReligeousReference-Some</mdcr:Label>
+        <mdcr:Definition>Some Religious References\</mdcr:Definition>
+      </mdcr:GeneralDescriptor>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="ReligeousReference">
+      <mdcr:Value>ReligeousReference</mdcr:Value>
+      <mdcr:GeneralDescriptor language="EN">
+        <mdcr:Label>ReligeousReference</mdcr:Label>
+        <mdcr:Definition>Religious References</mdcr:Definition>
+      </mdcr:GeneralDescriptor>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="RacialReference-Some">
+      <mdcr:Value>RacialReference-Some</mdcr:Value>
+      <mdcr:GeneralDescriptor language="EN">
+        <mdcr:Label>RacialReference-Some</mdcr:Label>
+        <mdcr:Definition>Some Racial References</mdcr:Definition>
+      </mdcr:GeneralDescriptor>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="DisturbingScene">
+      <mdcr:Value>DisturbingScene</mdcr:Value>
+      <mdcr:GeneralDescriptor language="EN">
+        <mdcr:Label>DisturbingScene</mdcr:Label>
+        <mdcr:Definition>Some Disturbing Scenes</mdcr:Definition>
+      </mdcr:GeneralDescriptor>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="Supernatural">
+      <mdcr:Value>Supernatural</mdcr:Value>
+      <mdcr:GeneralDescriptor language="EN">
+        <mdcr:Label>Supernatural</mdcr:Label>
+        <mdcr:Definition>Supernatural Content</mdcr:Definition>
+      </mdcr:GeneralDescriptor>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="SexualityEducation">
+      <mdcr:Value>SexualityEducation</mdcr:Value>
+      <mdcr:GeneralDescriptor language="EN">
+        <mdcr:Label>SexualityEducation</mdcr:Label>
+        <mdcr:Definition>Sexuality Education</mdcr:Definition>
+      </mdcr:GeneralDescriptor>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="IntenseSequences-Some">
+      <mdcr:Value>IntenseSequences-Some</mdcr:Value>
+      <mdcr:GeneralDescriptor language="EN">
+        <mdcr:Label>IntenseSequences-Some</mdcr:Label>
+        <mdcr:Definition>Some Intense Sequences</mdcr:Definition>
+      </mdcr:GeneralDescriptor>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="RacialContent">
+      <mdcr:Value>RacialContent</mdcr:Value>
+      <mdcr:GeneralDescriptor language="EN">
+        <mdcr:Label>RacialContent</mdcr:Label>
+        <mdcr:Definition>Racial Content</mdcr:Definition>
+      </mdcr:GeneralDescriptor>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="RacialReferneces">
+      <mdcr:Value>RacialReferneces</mdcr:Value>
+      <mdcr:GeneralDescriptor language="EN">
+        <mdcr:Label>RacialReferneces</mdcr:Label>
+        <mdcr:Definition>Racial References</mdcr:Definition>
+      </mdcr:GeneralDescriptor>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="CrudeHumor">
+      <mdcr:Value>CrudeHumor</mdcr:Value>
+      <mdcr:GeneralDescriptor language="EN">
+        <mdcr:Label>CrudeHumor</mdcr:Label>
+        <mdcr:Definition>Crude Humour</mdcr:Definition>
+      </mdcr:GeneralDescriptor>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="MatureContent">
+      <mdcr:Value>MatureContent</mdcr:Value>
+      <mdcr:GeneralDescriptor language="EN">
+        <mdcr:Label>MatureContent</mdcr:Label>
+        <mdcr:Definition>Mature Content</mdcr:Definition>
+      </mdcr:GeneralDescriptor>
+    </mdcr:Reason>
+    <mdcr:Reason reasonID="DisturbingContent">
+      <mdcr:Value>DisturbingContent</mdcr:Value>
+      <mdcr:GeneralDescriptor language="EN">
+        <mdcr:Label>DisturbingContent</mdcr:Label>
+        <mdcr:Definition>Disturbing Scenes</mdcr:Definition>
       </mdcr:GeneralDescriptor>
     </mdcr:Reason>
   </mdcr:RatingSystem>
@@ -14228,7 +15174,7 @@ the age of 18.</li>
       </mdcr:Descriptor>
     </mdcr:Rating>
   </mdcr:RatingSystem>
-  <mdcr:RatingSystem lastSave="2020-01-17T22:12:23" version="1">
+  <mdcr:RatingSystem lastSave="2021-01-14T20:20:51" version="2">
     <!--DISCLAIMER: Although care has been taken to ensure the accuracy, completeness and reliability of the information provided, we are not responsible if information that we make available on this site is not accurate, complete or current. The material on this site is provided for general information only, and any reliance upon the material on this site will be at your own risk. We reserve the right to modify the contents of the site at any time, but we have no obligation to update any information on this site. You agree that it is your 	responsibility to monitor changes to the site.-->
     <mdcr:RatingSystemID>
       <mdcr:Region>
@@ -14250,7 +15196,7 @@ the age of 18.</li>
       </mdcr:Usage>
     </mdcr:AdoptiveRegion>
     <mdcr:LastChecked>2020-01-17</mdcr:LastChecked>
-    <mdcr:URI>http://www.movielabs.com/md/ratings/UA/Ukraine/1</mdcr:URI>
+    <mdcr:URI>http://www.movielabs.com/md/ratings/UA/Ukraine/2</mdcr:URI>
     <mdcr:RatingsOrg organizationID="Ukrainian State Film Agency">
       <md:DisplayName>Ukrainian State Film Agency</md:DisplayName>
       <mdcr:ContactString>Поштова адреса:
@@ -14267,9 +15213,36 @@ Phone: (044) 280-27-18</mdcr:ContactString>
       <mdcr:URL>http://dergkino.gov.ua/</mdcr:URL>
       <mdcr:OrgType>Gov</mdcr:OrgType>
     </mdcr:RatingsOrg>
+    <mdcr:Rating ratingID="Yes">
+      <mdcr:Ordinal>0</mdcr:Ordinal>
+      <mdcr:URI>http://www.movielabs.com/md/ratings/UA/Ukraine/2/Yes</mdcr:URI>
+      <mdcr:MinRecAge>0</mdcr:MinRecAge>
+      <mdcr:MinAge>0</mdcr:MinAge>
+      <mdcr:MinAgeSupervised>0</mdcr:MinAgeSupervised>
+      <mdcr:HPCApplicable>true</mdcr:HPCApplicable>
+      <mdcr:Descriptor language="UK">
+        <mdcr:Label>ДА</mdcr:Label>
+        <mdcr:Definition>Дитяча аудиторія.</mdcr:Definition>
+        <mdcr:Explanation><![CDATA[<div class="userHtml">Фільми з індексом "ДА" спеціально створені для дітей і доступні за сюжетом для дитячого сприйняття. Повна відсутність у цих фільмах у 
+будьякій
+ формі грубості, насильства, жорстокості, непристойних виразів.</div>]]></mdcr:Explanation>
+      </mdcr:Descriptor>
+    </mdcr:Rating>
+    <mdcr:Rating ratingID="12">
+      <mdcr:Ordinal>0</mdcr:Ordinal>
+      <mdcr:URI>http://www.movielabs.com/md/ratings/UA/Ukraine/2/12</mdcr:URI>
+      <mdcr:MinRecAge>12</mdcr:MinRecAge>
+      <mdcr:MinAge>12</mdcr:MinAge>
+      <mdcr:MinAgeSupervised>0</mdcr:MinAgeSupervised>
+      <mdcr:HPCApplicable>true</mdcr:HPCApplicable>
+      <mdcr:Descriptor language="UK">
+        <mdcr:Label>12</mdcr:Label>
+        <mdcr:Definition>Фільм, перегляд якого дозволяється дітям до 12 років тільки у супроводі батьків. Самостійний перегляд дітям до 12 років забороняється.</mdcr:Definition>
+      </mdcr:Descriptor>
+    </mdcr:Rating>
     <mdcr:Rating ratingID="For">
       <mdcr:Ordinal>0</mdcr:Ordinal>
-      <mdcr:URI>http://www.movielabs.com/md/ratings/UA/Ukraine/1/For</mdcr:URI>
+      <mdcr:URI>http://www.movielabs.com/md/ratings/UA/Ukraine/2/For</mdcr:URI>
       <mdcr:MinRecAge>0</mdcr:MinRecAge>
       <mdcr:MinAge>0</mdcr:MinAge>
       <mdcr:MinAgeSupervised>0</mdcr:MinAgeSupervised>
@@ -14284,27 +15257,13 @@ Phone: (044) 280-27-18</mdcr:ContactString>
 і насильства, фізіології сексу; допускається тільки естетизована демонстрація оголеного тіла, орієнтована на зразки високого мистецтва.</div>]]></mdcr:Explanation>
       </mdcr:Descriptor>
     </mdcr:Rating>
-    <mdcr:Rating ratingID="Yes">
-      <mdcr:Ordinal>0</mdcr:Ordinal>
-      <mdcr:URI>http://www.movielabs.com/md/ratings/UA/Ukraine/1/Yes</mdcr:URI>
-      <mdcr:MinRecAge>0</mdcr:MinRecAge>
-      <mdcr:MinAge>0</mdcr:MinAge>
-      <mdcr:MinAgeSupervised>0</mdcr:MinAgeSupervised>
-      <mdcr:HPCApplicable>true</mdcr:HPCApplicable>
-      <mdcr:Descriptor language="UK">
-        <mdcr:Label>ДА</mdcr:Label>
-        <mdcr:Definition>Дитяча аудиторія.</mdcr:Definition>
-        <mdcr:Explanation><![CDATA[<div class="userHtml">Фільми з індексом "ДА" спеціально створені для дітей і доступні за сюжетом для дитячого сприйняття. Повна відсутність у цих фільмах у 
-будьякій
- формі грубості, насильства, жорстокості, непристойних виразів.</div>]]></mdcr:Explanation>
-      </mdcr:Descriptor>
-    </mdcr:Rating>
     <mdcr:Rating ratingID="14">
       <mdcr:Ordinal>1</mdcr:Ordinal>
-      <mdcr:URI>http://www.movielabs.com/md/ratings/UA/Ukraine/1/14</mdcr:URI>
+      <mdcr:URI>http://www.movielabs.com/md/ratings/UA/Ukraine/2/14</mdcr:URI>
       <mdcr:MinRecAge>14</mdcr:MinRecAge>
       <mdcr:MinAge>14</mdcr:MinAge>
       <mdcr:MinAgeSupervised>0</mdcr:MinAgeSupervised>
+      <mdcr:Deprecated>true</mdcr:Deprecated>
       <mdcr:HPCApplicable>true</mdcr:HPCApplicable>
       <mdcr:Descriptor language="UK">
         <mdcr:Label>14</mdcr:Label>
@@ -14320,7 +15279,7 @@ Phone: (044) 280-27-18</mdcr:ContactString>
     </mdcr:Rating>
     <mdcr:Rating ratingID="16">
       <mdcr:Ordinal>2</mdcr:Ordinal>
-      <mdcr:URI>http://www.movielabs.com/md/ratings/UA/Ukraine/1/16</mdcr:URI>
+      <mdcr:URI>http://www.movielabs.com/md/ratings/UA/Ukraine/2/16</mdcr:URI>
       <mdcr:MinRecAge>16</mdcr:MinRecAge>
       <mdcr:MinAge>16</mdcr:MinAge>
       <mdcr:MinAgeSupervised>16</mdcr:MinAgeSupervised>
@@ -14343,7 +15302,7 @@ Phone: (044) 280-27-18</mdcr:ContactString>
     </mdcr:Rating>
     <mdcr:Rating ratingID="18">
       <mdcr:Ordinal>3</mdcr:Ordinal>
-      <mdcr:URI>http://www.movielabs.com/md/ratings/UA/Ukraine/1/18</mdcr:URI>
+      <mdcr:URI>http://www.movielabs.com/md/ratings/UA/Ukraine/2/18</mdcr:URI>
       <mdcr:MinRecAge>18</mdcr:MinRecAge>
       <mdcr:MinAge>18</mdcr:MinAge>
       <mdcr:MinAgeSupervised>18</mdcr:MinAgeSupervised>
@@ -14361,10 +15320,11 @@ Phone: (044) 280-27-18</mdcr:ContactString>
     </mdcr:Rating>
     <mdcr:Rating ratingID="X21">
       <mdcr:Ordinal>90</mdcr:Ordinal>
-      <mdcr:URI>http://www.movielabs.com/md/ratings/UA/Ukraine/1/X21</mdcr:URI>
+      <mdcr:URI>http://www.movielabs.com/md/ratings/UA/Ukraine/2/X21</mdcr:URI>
       <mdcr:MinRecAge>21</mdcr:MinRecAge>
       <mdcr:MinAge>21</mdcr:MinAge>
       <mdcr:MinAgeSupervised>21</mdcr:MinAgeSupervised>
+      <mdcr:Deprecated>true</mdcr:Deprecated>
       <mdcr:HPCApplicable>true</mdcr:HPCApplicable>
       <mdcr:Descriptor language="UK">
         <mdcr:Label>Х21</mdcr:Label>
@@ -14380,7 +15340,7 @@ Phone: (044) 280-27-18</mdcr:ContactString>
     </mdcr:Rating>
     <mdcr:Rating ratingID="Denied">
       <mdcr:Ordinal>100</mdcr:Ordinal>
-      <mdcr:URI>http://www.movielabs.com/md/ratings/UA/Ukraine/1/Denied</mdcr:URI>
+      <mdcr:URI>http://www.movielabs.com/md/ratings/UA/Ukraine/2/Denied</mdcr:URI>
       <mdcr:MinRecAge>0</mdcr:MinRecAge>
       <mdcr:MinAge>0</mdcr:MinAge>
       <mdcr:MinAgeSupervised>0</mdcr:MinAgeSupervised>
@@ -14392,18 +15352,6 @@ Phone: (044) 280-27-18</mdcr:ContactString>
 міжетнічної, расової, релігійної ворожнечі, приниження нації, неповагу до національних і релігійних святинь, приниження
 особистості, що пропагують невігластво, неповагу до батьків, а також наркоманію, токсикоманію, алкоголізм та інші шкідливі
 звички, i фільми порнографічного характеру відмовлени в державній реєстрації.</div>]]></mdcr:Explanation>
-      </mdcr:Descriptor>
-    </mdcr:Rating>
-    <mdcr:Rating ratingID="12">
-      <mdcr:Ordinal>0</mdcr:Ordinal>
-      <mdcr:URI>http://www.movielabs.com/md/ratings/UA/Ukraine/1/12</mdcr:URI>
-      <mdcr:MinRecAge>12</mdcr:MinRecAge>
-      <mdcr:MinAge>12</mdcr:MinAge>
-      <mdcr:MinAgeSupervised>0</mdcr:MinAgeSupervised>
-      <mdcr:HPCApplicable>true</mdcr:HPCApplicable>
-      <mdcr:Descriptor language="UK">
-        <mdcr:Label>12</mdcr:Label>
-        <mdcr:Definition>Фільм, перегляд якого дозволяється дітям до 12 років тільки у супроводі батьків. Самостійний перегляд дітям до 12 років забороняється.</mdcr:Definition>
       </mdcr:Descriptor>
     </mdcr:Rating>
   </mdcr:RatingSystem>

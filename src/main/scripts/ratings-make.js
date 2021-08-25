@@ -29,7 +29,7 @@ const dom = require('xmldom');
 const path = require('path');
 
 const DATA_PATH = "src/main/data/";
-const CMR_RATINGS_PATH = "src/main/resources/ml-registry/CMR_Ratings_2.4.2.xml";
+const CMR_RATINGS_PATH = "src/main/resources/ml-registry/CMR_Ratings_v2.4.5.xml";
 const REG_FN = "ratings.json";
 
 const MDCR_NS = "http://www.movielabs.com/schema/mdcr/v1.1";

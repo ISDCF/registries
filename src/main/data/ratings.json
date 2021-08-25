@@ -51,7 +51,7 @@
   },
   {
     "agency": {
-      "identifier": "http://www.movielabs.com/md/ratings/AT/BMUKK/1",
+      "identifier": "http://www.movielabs.com/md/ratings/AT/BMUKK/2",
       "system": "BMUKK"
     },
     "ratings": [
@@ -64,7 +64,7 @@
       "16"
     ],
     "reference": {
-      "description": "MovieLabs, Common Metadata Ratings (2019-06-18T15:43:40)",
+      "description": "MovieLabs, Common Metadata Ratings (2021-01-12T22:50:01)",
       "url": "https://movielabs.com/md/ratings/"
     },
     "region": {
@@ -109,12 +109,12 @@
       "system": "CICF"
     },
     "ratings": [
-      "KT/EA",
       "E",
+      "KT/EA",
       "KNT/ENA"
     ],
     "reference": {
-      "description": "MovieLabs, Common Metadata Ratings (2018-02-05T21:48:12)",
+      "description": "MovieLabs, Common Metadata Ratings (2021-01-14T20:02:15)",
       "url": "https://movielabs.com/md/ratings/"
     },
     "region": {
@@ -127,18 +127,18 @@
   },
   {
     "agency": {
-      "identifier": "http://www.movielabs.com/md/ratings/BG/NFRC/2",
+      "identifier": "http://www.movielabs.com/md/ratings/BG/NFRC/3",
       "system": "NFRC"
     },
     "ratings": [
-      "B",
       "A",
+      "B",
       "C",
       "D",
       "X"
     ],
     "reference": {
-      "description": "MovieLabs, Common Metadata Ratings (2020-01-16T23:14:28)",
+      "description": "MovieLabs, Common Metadata Ratings (2021-01-12T22:13:55)",
       "url": "https://movielabs.com/md/ratings/"
     },
     "region": {
@@ -1321,7 +1321,7 @@
   },
   {
     "agency": {
-      "identifier": "http://www.movielabs.com/md/ratings/KR/KMRB/2",
+      "identifier": "http://www.movielabs.com/md/ratings/KR/KMRB/4",
       "system": "KMRB"
     },
     "ratings": [
@@ -1332,7 +1332,7 @@
       "LIM"
     ],
     "reference": {
-      "description": "MovieLabs, Common Metadata Ratings (2020-02-28T21:22:39)",
+      "description": "MovieLabs, Common Metadata Ratings (2021-04-05T20:06:26)",
       "url": "https://movielabs.com/md/ratings/"
     },
     "region": {
@@ -1449,15 +1449,15 @@
       "system": "CSCF"
     },
     "ratings": [
+      "T",
       "A",
       "6",
       "12",
       "16",
-      "18",
-      "T"
+      "18"
     ],
     "reference": {
-      "description": "MovieLabs, Common Metadata Ratings (2020-01-10T22:45:24)",
+      "description": "MovieLabs, Common Metadata Ratings (2021-01-14T19:32:03)",
       "url": "https://movielabs.com/md/ratings/"
     },
     "region": {
@@ -1633,12 +1633,12 @@
       "6",
       "9",
       "12",
-      "16",
       "14",
+      "16",
       "18"
     ],
     "reference": {
-      "description": "MovieLabs, Common Metadata Ratings (2020-01-17T18:18:48)",
+      "description": "MovieLabs, Common Metadata Ratings (2021-01-14T19:53:59)",
       "url": "https://movielabs.com/md/ratings/"
     },
     "region": {
@@ -1651,7 +1651,33 @@
   },
   {
     "agency": {
-      "identifier": "http://www.movielabs.com/md/ratings/NO/Medietilsynet/2",
+      "identifier": "http://www.movielabs.com/md/ratings/NL/Kijkwijzer/2",
+      "system": "Kijkwijzer"
+    },
+    "ratings": [
+      "AL",
+      "6",
+      "9",
+      "12",
+      "14",
+      "16",
+      "18"
+    ],
+    "reference": {
+      "description": "MovieLabs, Common Metadata Ratings (2021-01-14T19:53:59)",
+      "url": "https://movielabs.com/md/ratings/"
+    },
+    "region": {
+      "code": "BE",
+      "name": "BELGIUM"
+    },
+    "use": [
+      "feature"
+    ]
+  },
+  {
+    "agency": {
+      "identifier": "http://www.movielabs.com/md/ratings/NO/Medietilsynet/3",
       "system": "Medietilsynet"
     },
     "ratings": [
@@ -1665,7 +1691,7 @@
       "18"
     ],
     "reference": {
-      "description": "MovieLabs, Common Metadata Ratings (2019-06-19T13:24:01)",
+      "description": "MovieLabs, Common Metadata Ratings (2021-01-13T17:43:09)",
       "url": "https://movielabs.com/md/ratings/"
     },
     "region": {
@@ -2007,7 +2033,7 @@
       "R21"
     ],
     "reference": {
-      "description": "MovieLabs, Common Metadata Ratings (2019-06-18T17:50:27)",
+      "description": "MovieLabs, Common Metadata Ratings (2020-10-29T19:57:38)",
       "url": "https://movielabs.com/md/ratings/"
     },
     "region": {
@@ -2152,21 +2178,21 @@
   },
   {
     "agency": {
-      "identifier": "http://www.movielabs.com/md/ratings/UA/Ukraine/1",
+      "identifier": "http://www.movielabs.com/md/ratings/UA/Ukraine/2",
       "system": "Ukraine"
     },
     "ratings": [
-      "For",
       "Yes",
+      "12",
+      "For",
       "14",
       "16",
       "18",
       "X21",
-      "Denied",
-      "12"
+      "Denied"
     ],
     "reference": {
-      "description": "MovieLabs, Common Metadata Ratings (2020-01-17T22:12:23)",
+      "description": "MovieLabs, Common Metadata Ratings (2021-01-14T20:20:51)",
       "url": "https://movielabs.com/md/ratings/"
     },
     "region": {
