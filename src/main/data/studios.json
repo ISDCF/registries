@@ -783,6 +783,11 @@
     "description": "MODO OPERANTE PRODUCOES"
   },
   {
+    "code": "MOTL",
+    "description": "Motlys",
+    "url": "https://www.motlys.com"
+  },
+  {
     "code": "MRMX",
     "description": "MIRAMAX"
   },
