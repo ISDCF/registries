@@ -43,6 +43,16 @@
     "description": "A. FILM PRODUCTION"
   },
   {
+    "code": "AHS",
+    "contact": {
+      "address": "100 Universal City Plaza, #5183, Universal City, United States",
+      "email": "david.smutny@alphahollywoodstudios.com",
+      "name": "Milan Friedrich"
+    },
+    "description": "Alpha Hollywood Studios",
+    "url": "https://www.alphahollywoodstudios.com"
+  },
+  {
     "code": "AI",
     "description": "ATOMIC IMAGING, CHICAGO"
   },
@@ -781,6 +791,11 @@
   {
     "code": "MOP",
     "description": "MODO OPERANTE PRODUCOES"
+  },
+  {
+    "code": "MOTL",
+    "description": "Motlys",
+    "url": "https://www.motlys.com"
   },
   {
     "code": "MRMX",
