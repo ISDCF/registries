@@ -2329,6 +2329,16 @@
     "description": "The Image & Sound Factory"
   },
   {
+    "code": "ISP",
+    "contact": {
+      "address": "309 Wardlaw Ave. Winnipeg Manitoba R3G2V6, Canada",
+      "email": "bruce@isplicefilms.com",
+      "name": "Bruce Little"
+    },
+    "description": "iSplice Films",
+    "url": "https://isplicefilms.com"
+  },
+  {
     "code": "IST",
     "contact": {
       "address": "Besiktas, Istanbul, Turkey",
