@@ -564,6 +564,15 @@
     ]
   },
   {
+    "dcncLanguage": "Scottish Gaelic",
+    "dcncTag": "GD",
+    "rfc5646Tag": "gd",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
     "dcncLanguage": "Serbian",
     "dcncTag": "SR",
     "obsoleteDCNCTags": [
