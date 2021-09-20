@@ -1292,6 +1292,16 @@
     "description": "DIRTY LOOKS"
   },
   {
+    "code": "DLX",
+    "contact": {
+      "address": "2233 N Ontario Street, Suite 300, Burbank, CA, 91504, US",
+      "email": "steve.llamb@bydeluxe.com",
+      "name": "Steve LLamb"
+    },
+    "description": "DELUXE",
+    "url": "https://www.bydeluxe.com/"
+  },
+  {
     "code": "DM",
     "description": "DCPMASTER"
   },
