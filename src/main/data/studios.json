@@ -322,6 +322,16 @@
     "description": "DUALFILM, STUTTGART"
   },
   {
+    "code": "DGM",
+    "contact": {
+      "address": "Via Carlo Pisacane 5, Pescara, Italy",
+      "email": "luca@digitmovies.com",
+      "name": "Luca Di Silverio"
+    },
+    "description": "Digitmovies Alternative Entertainment",
+    "url": "https://www.digitmovies.com"
+  },
+  {
     "code": "DGWF",
     "description": "Dogwolf, UK *No Registry request"
   },
@@ -1195,6 +1205,11 @@
   {
     "code": "SPOT",
     "description": "SPOT ON DISTRIBUTION"
+  },
+  {
+    "code": "SSM",
+    "description": "Salem Social Media",
+    "url": "https://salemsocial.kz/"
   },
   {
     "code": "ST10",

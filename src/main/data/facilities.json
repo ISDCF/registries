@@ -1302,6 +1302,16 @@
     "description": "DIRTY LOOKS"
   },
   {
+    "code": "DLX",
+    "contact": {
+      "address": "2233 N Ontario Street, Suite 300, Burbank, CA, 91504, US",
+      "email": "steve.llamb@bydeluxe.com",
+      "name": "Steve LLamb"
+    },
+    "description": "DELUXE",
+    "url": "https://www.bydeluxe.com/"
+  },
+  {
     "code": "DM",
     "description": "DCPMASTER"
   },
@@ -1957,6 +1967,16 @@
     },
     "description": "FeverFilm B.V.",
     "url": "https://www.feverfilm.nl"
+  },
+  {
+    "code": "FWC",
+    "contact": {
+      "address": "Gothersgade 55, 1123 Coenhagen K, Denmark",
+      "email": "andersbonde@filmworkshop.dk",
+      "name": "Anders Waldorff Bonde"
+    },
+    "description": "Filmworkshop / Copenhagen",
+    "url": "https://filmworkshop.dk"
   },
   {
     "code": "FWD",
