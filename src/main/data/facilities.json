@@ -1225,6 +1225,16 @@
     "description": "DOLBY UK"
   },
   {
+    "code": "DGC",
+    "contact": {
+      "address": "Via Carlo Pisacane 5, 65124, Pescara, Italy",
+      "email": "luca@digitmovies.vom",
+      "name": "Luca Di Silverio"
+    },
+    "description": "Digitmovies Cinema",
+    "url": "http://www.digitmoviescinema.com"
+  },
+  {
     "code": "DGL",
     "description": "DIAGONAL"
   },
