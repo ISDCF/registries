@@ -1949,6 +1949,16 @@
     "url": "https://www.feverfilm.nl"
   },
   {
+    "code": "FWC",
+    "contact": {
+      "address": "Gothersgade 55, 1123 Coenhagen K, Denmark",
+      "email": "andersbonde@filmworkshop.dk",
+      "name": "Anders Waldorff Bonde"
+    },
+    "description": "Filmworkshop / Copenhagen",
+    "url": "https://filmworkshop.dk"
+  },
+  {
     "code": "FWD",
     "description": "Filmworkers Dallas"
   },
