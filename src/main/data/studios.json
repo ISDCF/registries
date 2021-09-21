@@ -279,6 +279,16 @@
     "description": "CURRENT PICTURES"
   },
   {
+    "code": "CRL",
+    "contact": {
+      "address": "1 N. College St, Northfield, MN 55057 USA",
+      "email": "pbernhardt@carleton.edu",
+      "name": "Paul Bernhardt"
+    },
+    "description": "Carleton College",
+    "url": "https://www.carleton.edu/cinema-media-studies/"
+  },
+  {
     "code": "CRO",
     "description": "CROMOSOMA, S.A."
   },
