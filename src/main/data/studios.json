@@ -1138,6 +1138,16 @@
     "description": "STUDIOCANAL"
   },
   {
+    "code": "SDM",
+    "contact": {
+      "address": "2900 Olympic Blvd, Santa Monica CA 90404 USA",
+      "email": "mmiller@skydance.com",
+      "name": "Max Miller"
+    },
+    "description": "Skydance Media",
+    "url": "https://skydance.com"
+  },
+  {
     "code": "SEV",
     "description": "Seville International"
   },
