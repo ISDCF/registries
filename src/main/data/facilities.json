@@ -1326,6 +1326,16 @@
     "description": "DCPMASTER"
   },
   {
+    "code": "DMI",
+    "contact": {
+      "address": "609 N MacQuesten Pkwy, Mt Vernon, NY 10552, USA",
+      "email": "chorak@dmediainc.com",
+      "name": "Chris Horak"
+    },
+    "description": "Digital Media Systems, Inc.",
+    "url": "https://dmediainc.com"
+  },
+  {
     "code": "DMK",
     "description": "DIGITAL MEDIA SERVICES UK"
   },
