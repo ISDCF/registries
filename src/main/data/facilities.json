@@ -4121,7 +4121,13 @@
   },
   {
     "code": "STP",
-    "description": "STRAIGHT.PRO"
+    "contact": {
+      "address": "Prospect Mira 71s1, Moscow, Russia, 129226",
+      "email": "v@straight.pro",
+      "name": "Vitaliy Konovalov"
+    },
+    "description": "STRAIGHT.PRO",
+    "url": "https://www.straight.pro"
   },
   {
     "code": "STR",
