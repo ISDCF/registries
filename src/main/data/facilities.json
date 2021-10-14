@@ -1034,6 +1034,11 @@
     "description": "Cubic Post"
   },
   {
+    "code": "CUT",
+    "description": "CutPro Digital Filmlab",
+    "url": "http://cutpro.hu"
+  },
+  {
     "code": "CV",
     "description": "BCHILIAN COMUNICACIÓN VISUAL"
   },
@@ -2170,6 +2175,11 @@
   {
     "code": "HDQ",
     "description": "HEADQUARTER"
+  },
+  {
+    "code": "HFF",
+    "description": "HFF Konrad Wolf",
+    "url": "https://www.filmuniversitaet.de"
   },
   {
     "code": "HFO",
