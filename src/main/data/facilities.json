@@ -2167,6 +2167,11 @@
     "description": "HEADQUARTER"
   },
   {
+    "code": "HFF",
+    "description": "HFF Konrad Wolf",
+    "url": "https://www.filmuniversitaet.de"
+  },
+  {
     "code": "HFO",
     "description": "HOCUS FOCUS (OSLO)"
   },
