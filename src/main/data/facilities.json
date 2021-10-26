@@ -1099,7 +1099,7 @@
     "description": "DELUXE AUSTRALIA",
     "obsolete": true,
     "obsoletedBy": [
-      "DTA"
+      "DLX"
     ]
   },
   {
@@ -1193,7 +1193,10 @@
   {
     "code": "DDR",
     "description": "DELUXE ROME",
-    "url": "https://www.bydeluxe.com/"
+    "obsolete": true,
+    "obsoletedBy": [
+      "DLX"
+    ]
   },
   {
     "code": "DDS",
@@ -1297,7 +1300,7 @@
     "description": "DELUXE LA",
     "obsolete": true,
     "obsoletedBy": [
-      "DTB"
+      "DLX"
     ]
   },
   {
@@ -1315,7 +1318,10 @@
   {
     "code": "DLN",
     "description": "DELUXE NEW YORK",
-    "url": "https://www.bydeluxe.com/"
+    "obsolete": true,
+    "obsoletedBy": [
+      "DLX"
+    ]
   },
   {
     "code": "DLS",
@@ -1424,7 +1430,7 @@
     "description": "DELUXE SPAIN",
     "obsolete": true,
     "obsoletedBy": [
-      "DTM"
+      "DLX"
     ]
   },
   {
@@ -1437,46 +1443,43 @@
   },
   {
     "code": "DTA",
-    "contact": {
-      "address": "Level 5,6, Eden Park Dr, Macquarie Park, NSW, 2113, AUS",
-      "email": "daniel.smith@bydeluxe.com",
-      "name": "Daniel Smith"
-    },
     "description": "DELUXE AUSTRALIA",
-    "url": "https://www.bydeluxe.com/"
+    "obsolete": true,
+    "obsoletedBy": [
+      "DLX"
+    ]
   },
   {
     "code": "DTB",
-    "contact": {
-      "address": "2233 N Ontario Street, Suite 300, Burbank, CA, 91504, US",
-      "email": "steve.llamb@bydeluxe.com",
-      "name": "Steve LLamb"
-    },
     "description": "DELUXE BURBANK ",
-    "url": "https://www.bydeluxe.com/"
+    "obsolete": true,
+    "obsoletedBy": [
+      "DLX"
+    ]
   },
   {
     "code": "DTC",
     "description": "DELUXE CULVER CITY",
     "obsolete": true,
     "obsoletedBy": [
-      "DTB"
+      "DLX"
     ]
   },
   {
     "code": "DTF",
-    "contact": {
-      "address": "47 quai du Président Carnot, 92210 Saint-Cloud, France",
-      "email": "Olivier.Gravenhorst@bydeluxe.com",
-      "name": "Olivier Gravenhorst"
-    },
     "description": "DELUXE PARIS ",
-    "url": "https://www.bydeluxe.com/"
+    "obsolete": true,
+    "obsoletedBy": [
+      "DLX"
+    ]
   },
   {
     "code": "DTI",
     "description": "Deluxe Bangalore (India) ",
-    "url": "https://www.bydeluxe.com/"
+    "obsolete": true,
+    "obsoletedBy": [
+      "DLX"
+    ]
   },
   {
     "code": "DTL",
@@ -1484,28 +1487,27 @@
   },
   {
     "code": "DTM",
-    "contact": {
-      "address": "Calle de Miguel Fleta 5, 28037 Madrid, Spain",
-      "email": "Juanjo.Carretero@bydeluxe.com",
-      "name": "Juanjo Carretero"
-    },
     "description": "DELUXE MADRID",
-    "url": "https://www.bydeluxe.com/"
+    "obsolete": true,
+    "obsoletedBy": [
+      "DLX"
+    ]
   },
   {
     "code": "DTT",
     "description": "DELUXE TORONTO",
-    "url": "https://www.bydeluxe.com/"
+    "obsolete": true,
+    "obsoletedBy": [
+      "DLX"
+    ]
   },
   {
     "code": "DTU",
-    "contact": {
-      "address": "32 Perivale Park, Horsenden Lane, Perivale, London, UB6 7RL, UK",
-      "email": "Ian.Stockton@bydeluxe.com",
-      "name": "Ian Stockton"
-    },
     "description": "DELUXE UK ",
-    "url": "https://www.bydeluxe.com/"
+    "obsolete": true,
+    "obsoletedBy": [
+      "DLX"
+    ]
   },
   {
     "code": "DUB",
@@ -1516,7 +1518,7 @@
     "description": "DELUXE UK",
     "obsolete": true,
     "obsoletedBy": [
-      "DTU"
+      "DLX"
     ]
   },
   {
