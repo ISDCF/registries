@@ -127,6 +127,16 @@
     "description": "ASTRO SHAW"
   },
   {
+    "code": "AST",
+    "contact": {
+      "address": "Otakaari 7, Espoo, Finland",
+      "email": "esa.mattila@aalto.fi",
+      "name": "Esa Mattila"
+    },
+    "description": "Aalto Studios",
+    "url": "https://studios.aalto.fi/"
+  },
+  {
     "code": "ATF",
     "description": "ASIA TROPICAL FILMS"
   },
