@@ -825,6 +825,16 @@
     "description": "MAGNA MANA PRODUCTION"
   },
   {
+    "code": "MODE",
+    "contact": {
+      "address": "2830 W. Fountain Blvd. Tampa, FL USA",
+      "email": "moederecords@gmail.com",
+      "name": "Gregg Perkins"
+    },
+    "description": "Moede Recordings",
+    "url": "https://www.moede.com"
+  },
+  {
     "code": "MOM",
     "description": "MOMENTUM PICTURES"
   },
