@@ -159,6 +159,11 @@
     "description": "Bad Blood Films"
   },
   {
+    "code": "BEE",
+    "description": "BEE Movies",
+    "url": "http://www.beemovies.co.uk"
+  },
+  {
     "code": "BF",
     "description": "BELARUSFILM"
   },
