@@ -1326,6 +1326,16 @@
     "description": "Ted Green Films"
   },
   {
+    "code": "TK",
+    "contact": {
+      "address": "R. Dr. Roberto Barrozo, 1778 - Curitiba - PR - BRAZIL - CEP 80810090",
+      "email": "paulo@tecnokena.com.br",
+      "name": "Mr. Paulo Munhoz"
+    },
+    "description": "TECNOKENA",
+    "url": "http://www.tecnokena.com.br"
+  },
+  {
     "code": "TMN",
     "contact": {
       "address": "10 Addison Road, Marrickville NSW 2204, Sidney Australia",
