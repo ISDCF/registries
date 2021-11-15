@@ -2944,6 +2944,16 @@
     "description": "MOVIEDESIGN"
   },
   {
+    "code": "MOX",
+    "contact": {
+      "address": "2830 W. Fountain Blvd. Tampa, FL 33609 USA",
+      "email": "moederecords@gmail.com",
+      "name": "Gregg Perkins"
+    },
+    "description": "Moede Recordings",
+    "url": "https://www.moede.com"
+  },
+  {
     "code": "MP",
     "description": "MEDIA PROJEKT"
   },
