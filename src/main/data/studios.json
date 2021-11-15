@@ -159,6 +159,11 @@
     "description": "Bad Blood Films"
   },
   {
+    "code": "BEE",
+    "description": "BEE Movies",
+    "url": "http://www.beemovies.co.uk"
+  },
+  {
     "code": "BF",
     "description": "BELARUSFILM"
   },
@@ -823,6 +828,16 @@
   {
     "code": "MMP",
     "description": "MAGNA MANA PRODUCTION"
+  },
+  {
+    "code": "MODE",
+    "contact": {
+      "address": "2830 W. Fountain Blvd. Tampa, FL USA",
+      "email": "moederecords@gmail.com",
+      "name": "Gregg Perkins"
+    },
+    "description": "Moede Recordings",
+    "url": "https://www.moede.com"
   },
   {
     "code": "MOM",

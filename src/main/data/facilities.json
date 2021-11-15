@@ -126,6 +126,16 @@
     "description": "ALFONSIN DIGITAL LAB"
   },
   {
+    "code": "ADM",
+    "contact": {
+      "address": "3810 Wilshire Blvd. Suite 1905 Los Angeles, CA 90010 USA",
+      "email": "david@adm.la",
+      "name": "David Lind"
+    },
+    "description": "Adjusted Digital Media",
+    "url": "https://www.adm.la"
+  },
+  {
     "code": "ADS",
     "description": "AMAZING DIGITAL STUDIOS"
   },
@@ -357,7 +367,7 @@
   },
   {
     "code": "AWC",
-    "description": "AUTHORWAVE CREATIONS"
+    "description": "AUTHORWAVE COMPANY"
   },
   {
     "code": "AWS",
