@@ -127,6 +127,16 @@
     "description": "ASTRO SHAW"
   },
   {
+    "code": "AST",
+    "contact": {
+      "address": "Otakaari 7, Espoo, Finland",
+      "email": "esa.mattila@aalto.fi",
+      "name": "Esa Mattila"
+    },
+    "description": "Aalto Studios",
+    "url": "https://studios.aalto.fi/"
+  },
+  {
     "code": "ATF",
     "description": "ASIA TROPICAL FILMS"
   },
@@ -147,6 +157,11 @@
   {
     "code": "BBF",
     "description": "Bad Blood Films"
+  },
+  {
+    "code": "BEE",
+    "description": "BEE Movies",
+    "url": "http://www.beemovies.co.uk"
   },
   {
     "code": "BF",
@@ -813,6 +828,16 @@
   {
     "code": "MMP",
     "description": "MAGNA MANA PRODUCTION"
+  },
+  {
+    "code": "MODE",
+    "contact": {
+      "address": "2830 W. Fountain Blvd. Tampa, FL USA",
+      "email": "moederecords@gmail.com",
+      "name": "Gregg Perkins"
+    },
+    "description": "Moede Recordings",
+    "url": "https://www.moede.com"
   },
   {
     "code": "MOM",
