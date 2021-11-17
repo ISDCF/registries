@@ -43,6 +43,15 @@
     ]
   },
   {
+    "dcncLanguage": "Bengali",
+    "dcncTag": "BN",
+    "rfc5646Tag": "bn",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
     "dcncLanguage": "Bosnian",
     "dcncTag": "BS",
     "obsoleteDCNCTags": [
