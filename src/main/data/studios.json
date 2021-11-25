@@ -284,6 +284,11 @@
     "description": "Cinelume Postproduction"
   },
   {
+    "code": "CLR",
+    "description": "Colour Studio",
+    "url": "https://colour-studio.com"
+  },
+  {
     "code": "CLS",
     "description": "CINEMA LIBRE STUDIO"
   },
