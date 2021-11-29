@@ -111,6 +111,16 @@
     "description": "Arctic Life Film"
   },
   {
+    "code": "ARCA",
+    "contact": {
+      "address": "108 Endsleigh Ave, Orange NSW 2800, Australia",
+      "email": "lisa@thisisarcadia.com",
+      "name": "Lisa Shaunessy"
+    },
+    "description": "Arcadia Studios",
+    "url": "https://www.thisisarcadia.com"
+  },
+  {
     "code": "ARP",
     "description": "ARP"
   },
