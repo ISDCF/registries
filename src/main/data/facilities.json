@@ -864,6 +864,16 @@
     "description": "Cinemaker Laboratory"
   },
   {
+    "code": "CMS",
+    "contact": {
+      "address": "04050, Ukraine Kyiv, 40u Hlybochytska str.",
+      "email": "roman@camaradas.com.ua",
+      "name": "Roman Prochuk"
+    },
+    "description": "Camaradas Postproduction",
+    "url": "https://camaradas.com.ua/"
+  },
+  {
     "code": "CMT",
     "description": "CINEMATE"
   },
