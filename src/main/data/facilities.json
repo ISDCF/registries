@@ -473,6 +473,16 @@
     "description": "BLINK"
   },
   {
+    "code": "BLM",
+    "contact": {
+      "address": "Obispo Orrego 567-A, Ñuñoa, Santiago, Chile",
+      "email": "davidbravonunez@gmail.com",
+      "name": "David Bravo"
+    },
+    "description": "Blume Producciones",
+    "url": "https://blume.cl"
+  },
+  {
     "code": "BLP",
     "description": "Baseline Post",
     "url": "https://baseline.amsterdam"
