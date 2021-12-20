@@ -1144,6 +1144,16 @@
     "description": "DIGITAL CUT"
   },
   {
+    "code": "DC2",
+    "contact": {
+      "address": "Suite 129/9 Hall St, Port Melbourne, VIC, 3207 Australia",
+      "email": "james.gardiner@digitall.net.au",
+      "name": "James Gardiner"
+    },
+    "description": "D-Cine.net",
+    "url": "https://www.d-cine.net"
+  },
+  {
     "code": "DCB",
     "description": "DIGITAL CUBE (Romania)"
   },
