@@ -729,6 +729,11 @@
     "description": "CGR DIGITAL CINEMA"
   },
   {
+    "code": "CH",
+    "description": "Chroma Post",
+    "url": "http://chromapost.io"
+  },
+  {
     "code": "CHD",
     "description": "Chicago HD",
     "url": "https://www.chicagohd.com"
