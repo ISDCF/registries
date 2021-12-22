@@ -1751,7 +1751,11 @@
   },
   {
     "code": "EM",
-    "description": "ETCH MEDIA"
+    "description": "ETCH MEDIA",
+    "obsolete": true,
+    "obsoletedBy": [
+      "CH"
+    ]
   },
   {
     "code": "EMC",
