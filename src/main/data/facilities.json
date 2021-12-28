@@ -599,6 +599,16 @@
     "description": "CASABLANCA FILMKUNSTTHEATER NURNBERG"
   },
   {
+    "code": "CAT",
+    "contact": {
+      "address": "Str. Meteor, Nr.2, Bloc T3, 27, Cluj-Napoca, Romania",
+      "email": "vlad.translucid@gmail.com",
+      "name": "Mr. Vlad Plaiasu"
+    },
+    "description": "Transilvania International Film Festival",
+    "url": "https://tiff.ro"
+  },
+  {
     "code": "CB",
     "description": "COLOR BUREAU"
   },
