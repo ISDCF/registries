@@ -607,6 +607,16 @@
     "description": "COLOR BY DEJONGHE"
   },
   {
+    "code": "CBO",
+    "contact": {
+      "address": "Oude Amersfoortsweg 157, 1212AB, Hilversum, The Netherlands",
+      "email": "henne@clapperboard.online",
+      "name": "Henne Verhoef"
+    },
+    "description": "clapperboard.online",
+    "url": "http://www.clapperboard.online/"
+  },
+  {
     "code": "CBT",
     "contact": {
       "address": "108c rue des tanneurs, 1000 Brussels, Belgium",
