@@ -25,7 +25,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
 
 const fs = require('fs');
-const dom = require('xmldom');
+const dom = require('@xmldom/xmldom');
 const path = require('path');
 
 const DATA_PATH = "src/main/data/";
