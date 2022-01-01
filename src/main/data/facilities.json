@@ -2653,6 +2653,16 @@
     "description": "LITTLE BRIDGE PICTURES"
   },
   {
+    "code": "LC",
+    "contact": {
+      "address": "Rua Maria Ferreira Antunes, 16, 13084-551, Barão Geraldo, Campinas-SP, Brazil",
+      "email": "lucaslazarini94@gmail.com",
+      "name": "Lucas Lazarini"
+    },
+    "description": "Laboratório Cisco",
+    "url": "https://www.laboratoriocisco.org/"
+  },
+  {
     "code": "LCG",
     "description": "Lacau Color Grading"
   },
