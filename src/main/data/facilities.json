@@ -4595,6 +4595,16 @@
     "description": "UNIVERSAL STUDIOS DIGITAL SERVICES"
   },
   {
+    "code": "UF",
+    "contact": {
+      "address": "Hohlstrasse 513, Zurich, Switzerland",
+      "email": "contact@unserefarben.ch",
+      "name": "Mr. Mueller"
+    },
+    "description": "Unsere Farben ColorGrade & Post",
+    "url": "https://www.unserefarben.ch"
+  },
+  {
     "code": "UFO",
     "description": "UFOH! AS"
   },
