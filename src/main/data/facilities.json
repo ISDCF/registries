@@ -4720,6 +4720,11 @@
     "url": "https://www.vidivo.tv/"
   },
   {
+    "code": "VIN",
+    "description": "VINTERTID",
+    "url": "https://www.vintertid.se"
+  },
+  {
     "code": "VIS",
     "description": "VISAR STUDIO"
   },
