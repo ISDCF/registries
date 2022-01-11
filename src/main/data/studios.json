@@ -444,6 +444,16 @@
     "description": "FILM BILDER"
   },
   {
+    "code": "FC",
+    "contact": {
+      "address": "111- 618 East Kent Avenue S. Vancouver BC V5X 0B1, Canada",
+      "email": "jacey.shi@flyingcloud.ca",
+      "name": "Jacey Shi"
+    },
+    "description": "Flying Cloud Productions Inc.",
+    "url": "https://flyingcloud.ca"
+  },
+  {
     "code": "FE",
     "description": "FATHOM EVENTS"
   },
