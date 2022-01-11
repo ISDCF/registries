@@ -2509,6 +2509,16 @@
     "description": "James Post"
   },
   {
+    "code": "JSP",
+    "contact": {
+      "address": "530 East Kent Avenue S., Vancouver BC V5X 4V6 Canada",
+      "email": "jacey@jspost.ca",
+      "name": "Jacey Shi"
+    },
+    "description": "JS POST PRODUCTIONS INC.",
+    "url": "http://jspost.ca"
+  },
+  {
     "code": "JVO",
     "description": "JVO, BILD UND TON, COLOGNE"
   },
@@ -4718,6 +4728,11 @@
     },
     "description": "VIDIVO Bewegtbildkreation",
     "url": "https://www.vidivo.tv/"
+  },
+  {
+    "code": "VIN",
+    "description": "VINTERTID",
+    "url": "https://www.vintertid.se"
   },
   {
     "code": "VIS",
