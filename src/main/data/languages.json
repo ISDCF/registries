@@ -536,6 +536,15 @@
     ]
   },
   {
+    "dcncLanguage": "Pashto",
+    "dcncTag": "PS",
+    "rfc5646Tag": "ps",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
     "dcncLanguage": "Portuguese - European",
     "dcncTag": "PT",
     "obsoleteDCNCTags": [
