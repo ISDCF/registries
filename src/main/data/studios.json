@@ -733,6 +733,16 @@
     "description": "JOMA FILMS"
   },
   {
+    "code": "JPAS",
+    "contact": {
+      "address": "60 Banool Rd, Balwyn, Victoria, Australia, 3103",
+      "email": "jack.parry@parrystudios.com",
+      "name": "Mr Jack Parry"
+    },
+    "description": "Jack Parry Animation Studios Pty Ltd",
+    "url": "https://parrystudios.com"
+  },
+  {
     "code": "KCP",
     "description": "KINO CYFROWE"
   },
