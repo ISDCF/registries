@@ -22,7 +22,7 @@
     "@xmldom/xmldom": "^0.7.5",
     "chai": "^4.2.0",
     "json-stable-stringify": "^1.0.1",
-    "mocha": "^8.1.1"
+    "mocha": "^9.2.0"
   },
   "dependencies": {
     "ajv": "^6.10.2"
