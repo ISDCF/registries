@@ -533,6 +533,16 @@
     "url": "http://www.bluepost.com.au"
   },
   {
+    "code": "BPW",
+    "contact": {
+      "address": "66/67 Oshiwara Link Plaza, New Link Road Ext, Oshiwara, Jogeshwari West, Mumbai, MH 400102, India",
+      "email": "sid@bridgepostworks.com",
+      "name": "Sidharth Meer"
+    },
+    "description": "Bridge PostWorks",
+    "url": "https://bridgepostworks.com"
+  },
+  {
     "code": "BRM",
     "description": "BERRYMOUNT AUTOMATION"
   },
@@ -3214,6 +3224,16 @@
     "description": "NORDISK FILM DIGITAL PRODUCTION"
   },
   {
+    "code": "NFS",
+    "contact": {
+      "address": "320 W Ohio St. STE 440 Chicago, IL 60654, USA",
+      "email": "jeff@noise-floor.com",
+      "name": "Jeff Ryan"
+    },
+    "description": "Noisefloor",
+    "url": "https://noise-floor.com"
+  },
+  {
     "code": "NIM",
     "description": "NIMIC PRODUCTIONS"
   },
@@ -3401,6 +3421,16 @@
     "description": "OUTPOST VISUAL FRONTIER"
   },
   {
+    "code": "OVS",
+    "contact": {
+      "address": "C.R. Jakobsoni 14, Tallinn 10128, Estonia",
+      "email": "uku@orbital.ee",
+      "name": "Uku Toomet"
+    },
+    "description": "Orbital Vox Studios",
+    "url": "https://www.orbital.ee"
+  },
+  {
     "code": "OWM",
     "description": "ORWO Media Services GmbH",
     "obsolete": true,
@@ -3422,6 +3452,16 @@
     "code": "PAP",
     "description": "Paprika Post-Production",
     "url": "http://www.paprika.be"
+  },
+  {
+    "code": "PAS",
+    "contact": {
+      "address": "60 Banool Rd, Balwyn, Victoria, 3103, Australia",
+      "email": "jack.parry@parrystudios.com",
+      "name": "Mr Jack Parry"
+    },
+    "description": "Jack Parry Animation Studios Pty Ltd",
+    "url": "https://parrystudios.com"
   },
   {
     "code": "PBC",

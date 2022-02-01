@@ -400,8 +400,23 @@
     "description": "Disney"
   },
   {
+    "code": "DK",
+    "contact": {
+      "address": "9187 boulevard du centre hospitalier, Lévis, QC, G6X 3L9, Canada",
+      "email": "mick@ledock.ca",
+      "name": "Mr. Michael Labrecque"
+    },
+    "description": "Le Dock Studio",
+    "url": "https://www.ledock.ca"
+  },
+  {
     "code": "DLB",
     "description": "Dolby Laboratories"
+  },
+  {
+    "code": "DNT",
+    "description": "Donten & Lacroix Films",
+    "url": "http://www.dontenlacroix.eu/"
   },
   {
     "code": "DVF",
@@ -1047,16 +1062,6 @@
   {
     "code": "OTL",
     "description": "OTL Releasing"
-  },
-  {
-    "code": "OVS",
-    "contact": {
-      "address": "C.R. Jakobsoni 14, Tallinn 10128, Estonia",
-      "email": "orbital@orbital.ee",
-      "name": "Mr. Uku Toomet"
-    },
-    "description": "Orbital Vox Studios",
-    "url": "https://www.orbital.ee"
   },
   {
     "code": "OVSP",
