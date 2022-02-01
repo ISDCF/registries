@@ -400,6 +400,16 @@
     "description": "Disney"
   },
   {
+    "code": "DK",
+    "contact": {
+      "address": "9187 boulevard du centre hospitalier, Lévis, QC, G6X 3L9 Quebec, Canada",
+      "email": "mick@ledock.ca",
+      "name": "Mr. Michael Labrecque"
+    },
+    "description": "Le Dock Studio",
+    "url": "https://www.ledock.ca"
+  },
+  {
     "code": "DLB",
     "description": "Dolby Laboratories"
   },
