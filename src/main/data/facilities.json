@@ -3401,6 +3401,16 @@
     "description": "OUTPOST VISUAL FRONTIER"
   },
   {
+    "code": "OVS",
+    "contact": {
+      "address": "C.R. Jakobsoni 14, Tallinn 10128, Estonia",
+      "email": "uku@orbital.ee",
+      "name": "Uku Toomet"
+    },
+    "description": "Orbital Vox Studios",
+    "url": "https://www.orbital.ee"
+  },
+  {
     "code": "OWM",
     "description": "ORWO Media Services GmbH",
     "obsolete": true,
