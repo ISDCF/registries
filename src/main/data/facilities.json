@@ -3454,6 +3454,16 @@
     "url": "http://www.paprika.be"
   },
   {
+    "code": "PAS",
+    "contact": {
+      "address": "60 Banool Rd, Balwyn, Victoria, 3103, Australia",
+      "email": "jack.parry@parrystudios.com",
+      "name": "Mr Jack Parry"
+    },
+    "description": "Jack Parry Animation Studios Pty Ltd",
+    "url": "https://parrystudios.com"
+  },
+  {
     "code": "PBC",
     "description": "P&B Communication S.R.L."
   },
