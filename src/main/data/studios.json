@@ -1115,6 +1115,11 @@
     "description": "POLO FILM (DK)"
   },
   {
+    "code": "PREN",
+    "description": "Precision Entertainment",
+    "url": "https://www.precisionentertainment.net"
+  },
+  {
     "code": "PRL",
     "contact": {
       "address": "Dominikańska 9/5, 02-738 Warsaw, Poland",
@@ -1124,11 +1129,6 @@
     "description": "PRL STUDIO",
     "url": "https://prl.com.pl/en/"
   },  
-  {
-    "code": "PREN",
-    "description": "Precision Entertainment",
-    "url": "https://www.precisionentertainment.net"
-  },
   {
     "code": "PSR",
     "description": "Paolo Sodi"
