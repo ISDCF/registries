@@ -31,7 +31,7 @@
         "uniqueItems": true,
         "items": {
           "type": "string",
-          "enum": ["audio", "text"]
+          "enum": ["audio", "text", "sign"]
         }
       },
       "obsoleteDCNCTags" : {
