@@ -2072,6 +2072,16 @@
     "description": "FABIAN SPANG POSTPRODUKTIONSBUERO"
   },
   {
+    "code": "FST",
+    "contact": {
+      "address": "Claudius-Dornier-Str. 32, D-50829 Köln",
+      "email": "kontakt@formatstation.de",
+      "name": "Markus Winckler"
+    },
+    "description": "FORMATSTATION",
+    "url": "https://www.formatstation.de"
+  },
+  {
     "code": "FSZ",
     "description": "FREISATZ"
   },
