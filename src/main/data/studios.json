@@ -973,6 +973,11 @@
     "description": "NETFLIX"
   },
   {
+    "code": "NFFS",
+    "description": "Neue Filmkunst",
+    "url": "https://neuefilmkunst.de"
+  },
+  {
     "code": "NFI",
     "contact": {
       "address": "51/A Budakeszi street, Budapest, Hungary 1021",
