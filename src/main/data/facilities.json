@@ -4075,6 +4075,16 @@
     "description": "SANDBOX"
   },
   {
+    "code": "SC",
+    "contact": {
+      "address": "144 Route de Vars, 16160 Gond-Pontouvre, Angoulême, France",
+      "email": "studiocorto@lesterfilm.com",
+      "name": "Jonathan LESTER"
+    },
+    "description": "LESTERFILM x STUDIO CORTO",
+    "url": "https://www.studiocorto.com"
+  },
+  {
     "code": "SCA",
     "description": "SCARAMANGA MEDIEN GMBH"
   },
