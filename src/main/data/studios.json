@@ -1057,6 +1057,16 @@
     "url": "https://one-filmverleih.de"
   },
   {
+    "code": "OPA",
+    "contact": {
+      "address": "4824, chemin Côte-des-Neiges, suite 206, Montréal, QC H3V 1G4, Canada",
+      "email": "info@lesfilmsopale.com",
+      "name": "Sébastien Létourneau"
+    },
+    "description": "Les Films Opale",
+    "url": "https://www.lesfilmsopale.com/"
+  },
+  {
     "code": "ORG",
     "contact": {
       "address": "P.O. Box 94, North Reading, MA 01864",
