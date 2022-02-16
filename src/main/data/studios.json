@@ -1219,6 +1219,16 @@
     "description": "RITCS (Royal Institute for Theatre, Cinema and Sound)"
   },
   {
+    "code": "RLB",
+    "contact": {
+      "address": "26 Soho Street, Suite 100, Toronto, ON M5T 1Z7 Canada",
+      "email": "jeffbessner@gmail.com",
+      "name": "MARK STEVENS"
+    },
+    "description": "REDLAB INC.",
+    "url": "https://redlabto.com"
+  },
+  {
     "code": "RLD",
     "description": "REALD"
   },
