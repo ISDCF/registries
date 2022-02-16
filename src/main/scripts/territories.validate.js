@@ -31,7 +31,16 @@ const IANA_REGIONS = JSON.parse(
   )
 );
 
-module.exports = registry => {
+module.exports = (registry, name) => {
+
+  /* is the registry sorted */
+ for (let i = 1; i < registry.length; i++) {
+  if (registry[i-1].dcncTag >= registry[i].dcncTag) {
+    throw name + " registry key " + registry[i-1].dcncTag + " is " +
+      ((registry[i-1].dcncTag === registry[i].dcncTag) ? "duplicated" : "not sorted");
+    }
+  }
+
   for (const i in registry) {
 
     if ((! ("tagScope" in registry[i])) || registry[i].tagScope === ST429_16_REGION_SCOPE) {
