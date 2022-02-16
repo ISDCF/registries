@@ -1057,6 +1057,16 @@
     "url": "https://one-filmverleih.de"
   },
   {
+    "code": "OPA",
+    "contact": {
+      "address": "4824, chemin Côte-des-Neiges, suite 206, Montréal, QC H3V 1G4, Canada",
+      "email": "info@lesfilmsopale.com",
+      "name": "Sébastien Létourneau"
+    },
+    "description": "Les Films Opale",
+    "url": "https://www.lesfilmsopale.com/"
+  },
+  {
     "code": "ORG",
     "contact": {
       "address": "P.O. Box 94, North Reading, MA 01864",
@@ -1207,6 +1217,16 @@
   {
     "code": "RIT",
     "description": "RITCS (Royal Institute for Theatre, Cinema and Sound)"
+  },
+  {
+    "code": "RLB",
+    "contact": {
+      "address": "26 Soho Street, Suite 100, Toronto, ON M5T 1Z7 Canada",
+      "email": "jeffbessner@gmail.com",
+      "name": "MARK STEVENS"
+    },
+    "description": "REDLAB INC.",
+    "url": "https://redlabto.com"
   },
   {
     "code": "RLD",
