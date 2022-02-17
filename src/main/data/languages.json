@@ -77,6 +77,15 @@
     ]
   },
   {
+    "dcncLanguage": "Arabic - Bahrain",
+    "dcncTag": "ABV",
+    "rfc5646Tag": "abv",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
     "dcncLanguage": "Arabic - Egypt",
     "dcncTag": "ARZ",
     "rfc5646Tag": "arz",
@@ -86,9 +95,81 @@
     ]
   },
   {
+    "dcncLanguage": "Arabic - Iraq",
+    "dcncTag": "ACM",
+    "rfc5646Tag": "acm",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Arabic - Jordan",
+    "dcncTag": "AJP",
+    "rfc5646Tag": "ajp",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Arabic - Kuwait",
+    "dcncTag": "ABK",
+    "rfc5646Tag": "afb-KW",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Arabic - Lebanon",
+    "dcncTag": "APC",
+    "rfc5646Tag": "apc",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Arabic - Libya",
+    "dcncTag": "AYL",
+    "rfc5646Tag": "ayl",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
     "dcncLanguage": "Arabic - Morocco",
     "dcncTag": "ARY",
     "rfc5646Tag": "ary",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Arabic - Oman",
+    "dcncTag": "ACX",
+    "rfc5646Tag": "acx",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Arabic - Qatar",
+    "dcncTag": "AFQ",
+    "rfc5646Tag": "afb-QA",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Arabic - Saudi Arabia",
+    "dcncTag": "AEC",
+    "rfc5646Tag": "aec",
     "use": [
       "audio",
       "text"
@@ -230,6 +311,13 @@
     "use": [
       "audio",
       "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Brazilian Sign Language",
+    "rfc5646Tag": "bzs",
+    "use": [
+      "sign"
     ]
   },
   {
@@ -570,6 +658,15 @@
       "DAN"
     ],
     "rfc5646Tag": "da",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Dari",
+    "dcncTag": "PRD",
+    "rfc5646Tag": "prd",
     "use": [
       "audio",
       "text"
@@ -1923,6 +2020,15 @@
     ]
   },
   {
+    "dcncLanguage": "Sami",
+    "dcncTag": "SMI",
+    "rfc5646Tag": "smi",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
     "dcncLanguage": "Sami - Inari",
     "dcncTag": "SMN",
     "rfc5646Tag": "smn",
@@ -2119,6 +2225,15 @@
     "dcncLanguage": "Sindhi - Arabic",
     "dcncTag": "SDAR",
     "rfc5646Tag": "sd-Arab",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Sindhi - Devanagari - India",
+    "dcncTag": "SIN",
+    "rfc5646Tag": "sd-Deva-IN",
     "use": [
       "audio",
       "text"
