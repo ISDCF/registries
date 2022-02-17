@@ -69,7 +69,7 @@ module.exports = (registry, name) => {
 
     const ptag = parseLanguageTag(langtag);
 
-    if (!ptag) {
+    if (ptag === null) {
       throw "Invalid language tag: " + langtag
     }
 

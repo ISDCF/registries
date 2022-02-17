@@ -24,6 +24,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
 
 const fs = require('fs');
+const tags = require('language-tags')
 
 var LANGSUBTAG_RE = /^([a-zA-Z]{2,3}|[a-zA-Z]{5,8})$/;
 var SCRIPTSUBTAG_RE = /^[a-zA-Z]{4}$/;
@@ -99,63 +100,19 @@ if (! cldrAliases) {
 
 
 exports.parseLanguageTag = function(tag) {
-  
-  let ptag = {
-    language: null,
-    script: null,
-    region: null,
-    variants: []
-  };
 
-  let stag = tag.split("-");
+  let ptag = tags(tag);
 
-  if (stag.length == 0) return null;
-
-  let i = 0;
-
-  /* parse language subtag */
-
-  if (! LANGSUBTAG_RE.test(stag[i])) {
-
+  if (! ptag.valid()) {
     return null;
-
   }
-
-  ptag.language = stag[i++];
   
-  if (i >= stag.length) return ptag;
-
-  /* parse script subtag */
-
-  if (SCRIPTSUBTAG_RE.test(stag[i])) {
-
-    ptag.script = stag[i++];
-
-  }
-
-  if (i >= stag.length) return ptag;
-
-  /* parse region subtag */
-
-  if (REGIONSUBTAG_RE.test(stag[i])) {
-
-    ptag.region = stag[i++];
-
-  }
-
-  /* parse variant subtags */
-
-  while (i < stag.length && VARIANTSUBTAG_RE.test(stag[i])) {
-
-      ptag.variants.push(stag[i++]);
-
-  }
-
-  /* the number of collected subtags should be equal to the number of input subtags */
-
-  if (i != stag.length) return null;
-
-  return ptag;
+  return {
+    language: ptag.find('language'),
+    script: ptag.find('script'),
+    region: ptag.find('language'),
+    variants: ptag.subtags().filter(subtag => subtag.type() === "variant").map(subtag => subtag.format())
+  };
 
 };
 

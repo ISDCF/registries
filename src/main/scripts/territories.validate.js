@@ -20,6 +20,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
 
 const fs = require('fs');
+const tags = require('language-tags');
 
 const IANA_REGION_PATH = "node_modules/language-subtag-registry/data/json/region.json";
 
@@ -45,7 +46,7 @@ module.exports = (registry, name) => {
 
     if ((! ("tagScope" in registry[i])) || registry[i].tagScope === ST429_16_REGION_SCOPE) {
       
-      if (! (registry[i].tag.toLowerCase() in IANA_REGIONS)) {
+      if (tags.region(registry[i].tag.toLowerCase()) === null) {
       
         throw "Tag '" + registry[i].tag + "' is not a valid IANA region subtag at entry #" + i;
     
