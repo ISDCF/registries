@@ -19,7 +19,7 @@ CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING 
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
 
-const { parseLanguageTag, parsedTagToCLDRLocale } = require('./language-utilities.js')
+const { parseLanguageTag, parsedTagToCLDRLocale, buildDisplayName } = require('./language-utilities.js')
 
 module.exports = (registry, name) => {
 
@@ -77,6 +77,12 @@ module.exports = (registry, name) => {
 
     if (!locale) {
       throw "Cannot transform language tag to locale: " + langtag;
+    }
+
+    const displayName = buildDisplayName(ptag);
+
+    if (!displayName) {
+      throw "Cannot generate display name from locale: " + langtag;
     }
   }
 }
