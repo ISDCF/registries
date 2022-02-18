@@ -1354,6 +1354,16 @@
     "description": "SONY PICTURES ENTERTAINMENT"
   },
   {
+    "code": "SPF",
+    "contact": {
+      "address": "109 Ingraham St. #307 Brooklyn, NY 11237 United States",
+      "email": "sunny@sacredpact.com",
+      "name": "Sunny Lee"
+    },
+    "description": "Sacred Pact Films",
+    "url": "https://sacredpact.com"
+  },
+  {
     "code": "SPNC",
     "description": "Studio Ponoc - Tokyo"
   },
