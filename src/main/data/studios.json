@@ -1493,6 +1493,16 @@
     "description": "The Solid State"
   },
   {
+    "code": "TVF",
+    "contact": {
+      "address": "Calle Buenos Aires 141 Dpto 702 - Miraflores, Lima 15074 Perú",
+      "email": "roberto.barba@transversalfilms.pe",
+      "name": "Roberto Barba"
+    },
+    "description": "Transversal Films",
+    "url": "https://transversalfilms.pe"
+  },
+  {
     "code": "UFOH",
     "description": "UFOH! AS"
   },
