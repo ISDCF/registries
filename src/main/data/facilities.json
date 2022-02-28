@@ -3566,6 +3566,16 @@
     "description": "PRIME FOCUS HYDERABAD"
   },
   {
+    "code": "PHA",
+    "contact": {
+      "address": "Bavariafilmplatz 7 / Haus 54 / 82031 Grünwald, Munich, Germany",
+      "email": "msippel@arri.de",
+      "name": "Martin Sippel"
+    },
+    "description": "PHAROS - The Post Group",
+    "url": "https://www.pharos.de"
+  },
+  {
     "code": "PHC",
     "description": "PICTUREHOUSE CENTRAL"
   },
