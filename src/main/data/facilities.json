@@ -120,11 +120,11 @@
   {
     "code": "ADC",
     "description": "ARRI DIGITAL CINEMA",
-    "url": "https://arrimedia.de",
     "obsolete": true,
     "obsoletedBy": [
       "PHA"
-    ]
+    ],
+    "url": "https://arrimedia.de"
   },
   {
     "code": "ADE",
