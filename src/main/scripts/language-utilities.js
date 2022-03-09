@@ -24,6 +24,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
 
 const fs = require('fs');
+const tags = require('language-tags')
 
 var LANGSUBTAG_RE = /^([a-zA-Z]{2,3}|[a-zA-Z]{5,8})$/;
 var SCRIPTSUBTAG_RE = /^[a-zA-Z]{4}$/;
@@ -99,63 +100,23 @@ if (! cldrAliases) {
 
 
 exports.parseLanguageTag = function(tag) {
-  
-  let ptag = {
-    language: null,
-    script: null,
-    region: null,
-    variants: []
-  };
 
-  let stag = tag.split("-");
+  let ptag = tags(tag);
 
-  if (stag.length == 0) return null;
-
-  let i = 0;
-
-  /* parse language subtag */
-
-  if (! LANGSUBTAG_RE.test(stag[i])) {
-
+  if (! ptag.valid()) {
     return null;
-
   }
 
-  ptag.language = stag[i++];
+  let language = ptag.find('language');
+  let script = ptag.find('script');
+  let region = ptag.find('region');
   
-  if (i >= stag.length) return ptag;
-
-  /* parse script subtag */
-
-  if (SCRIPTSUBTAG_RE.test(stag[i])) {
-
-    ptag.script = stag[i++];
-
-  }
-
-  if (i >= stag.length) return ptag;
-
-  /* parse region subtag */
-
-  if (REGIONSUBTAG_RE.test(stag[i])) {
-
-    ptag.region = stag[i++];
-
-  }
-
-  /* parse variant subtags */
-
-  while (i < stag.length && VARIANTSUBTAG_RE.test(stag[i])) {
-
-      ptag.variants.push(stag[i++]);
-
-  }
-
-  /* the number of collected subtags should be equal to the number of input subtags */
-
-  if (i != stag.length) return null;
-
-  return ptag;
+  return {
+    language: language ? language.format() : null,
+    script: script ? script.format() : null,
+    region: region ? region.format() : null,
+    variants: ptag.subtags().filter(subtag => subtag.type() === "variant").map(subtag => subtag.format())
+  };
 
 };
 
@@ -222,30 +183,46 @@ exports.buildDisplayName = function(ptag) {
 
   if (! tag) throw "Invalid tag: " + ptag; 
 
-  let lang = cldrLanguages["main"]["en"]["localeDisplayNames"]["languages"][tag];
+  let lang = cldrLanguages.main.en.localeDisplayNames.languages[tag];
 
   if (lang) return lang;
 
-  /* generate long form */
+  /* generate long form*/
 
-  lang = cldrLanguages["main"]["en"]["localeDisplayNames"]["languages"][ptag.language];
+  let dn = cldrLanguages.main.en.localeDisplayNames.languages[ptag.language];
 
-  if (! lang) return null;
+  if (! dn) {
+    dn = tags.subtags(ptag.language).filter(s => s.type() === 'language').map(s => s.descriptions()[0]);
+  }
 
-  let dn = lang;
+  if (! dn) {
+    console.debug("No language name found for subtag: " + ptag.language);
+    return null;
+  }
 
   let st = [];
 
   if (ptag.script) {
     let script = cldrScripts.main.en.localeDisplayNames.scripts[ptag.script];
 
-    if (! script) return null;
+    if (! script) {
+      script = tags.subtags(ptag.script).filter(s => s.type() === 'script').map(s => s.descriptions()[0]);
+    }
+
+    if (! script) {
+      return null;
+    }
 
     st.push(script);
   }
 
   if (ptag.region) {
     let region = cldrTerritories.main.en.localeDisplayNames.territories[ptag.region];
+
+    if (! region) {
+      console.log(ptag.region);
+      region = tags.subtags(ptag.region).filter(s => s.type() === 'region').map(s => s.descriptions()[0]);
+    }
 
     if (! region) return null;
 
@@ -254,6 +231,10 @@ exports.buildDisplayName = function(ptag) {
 
   for(let i in ptag.variants) {
     let variant = cldrVariants.main.en.localeDisplayNames.variants[ptag.variants[i]];
+
+    if (! variant) {
+      variant = tags.subtags(ptag.variants[i]).filter(s => s.type() === 'variant').map(s => s.descriptions()[0]);
+    }
 
     if (! variant) return null;
 

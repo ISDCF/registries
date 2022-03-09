@@ -19,9 +19,42 @@ CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING 
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
 
-const { parseLanguageTag, parsedTagToCLDRLocale } = require('./language-utilities.js')
+const { parseLanguageTag, parsedTagToCLDRLocale, buildDisplayName } = require('./language-utilities.js')
 
-module.exports = registry => {
+module.exports = (registry, name) => {
+
+  /* is the registry sorted */
+ for (let i = 1; i < registry.length; i++) {
+  if (registry[i-1].dcncLanguage >= registry[i].dcncLanguage) {
+    throw name + " registry key " + registry[i-1].dcncLanguage + " is " +
+      ((registry[i-1].dcncLanguage === registry[i].dcncLanguage) ? "duplicated" : "not sorted");
+    }
+  }
+
+  /* is any dcncTag in the registry duplicated */
+
+  const dcncTags = []
+
+  for (i in registry) {
+    if (registry[i].dcncTag !== undefined) {
+      if (dcncTags.includes(registry[i].dcncTag)) {
+        throw name + " dcncTag " + registry[i].dcncTag + " is " + "duplicated";
+      }
+      dcncTags.push(registry[i].dcncTag)
+    }
+  }
+
+  /* is any rfc5646Tag in the registry duplicated */
+
+  const rfc5646Tags = []
+
+  for (i in registry) {
+    if (rfc5646Tags.includes(registry[i].rfc5646Tag)) {
+      throw name + " rfc5646Tag " + registry[i].rfc5646Tag + " is " + "duplicated";
+    }
+    rfc5646Tags.push(registry[i].rfc5646Tag)
+  }
+
   for (const i in registry) {
 
     /* an RFC 5646 language tag is required */
@@ -36,7 +69,7 @@ module.exports = registry => {
 
     const ptag = parseLanguageTag(langtag);
 
-    if (!ptag) {
+    if (ptag === null) {
       throw "Invalid language tag: " + langtag
     }
 
@@ -44,6 +77,12 @@ module.exports = registry => {
 
     if (!locale) {
       throw "Cannot transform language tag to locale: " + langtag;
+    }
+
+    const displayName = buildDisplayName(ptag);
+
+    if (!displayName) {
+      throw "Cannot generate display name from locale: " + langtag;
     }
   }
 }

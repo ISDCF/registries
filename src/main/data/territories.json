@@ -10,14 +10,14 @@
     "tag": "AL"
   },
   {
-    "dcncTag": "AN",
-    "dcncTerritory": "Curacao",
-    "tag": "CW"
-  },
-  {
     "dcncTag": "AM",
     "dcncTerritory": "Armenia",
     "tag": "AM"
+  },
+  {
+    "dcncTag": "AN",
+    "dcncTerritory": "Curacao",
+    "tag": "CW"
   },
   {
     "dcncTag": "AR",

@@ -1,17 +1,17 @@
 [
   {
-    "dcncLanguage": "Afrikaans",
-    "dcncTag": "AF",
-    "rfc5646Tag": "af",
+    "dcncLanguage": "Afar",
+    "dcncTag": "AA",
+    "rfc5646Tag": "aa",
     "use": [
       "audio",
       "text"
     ]
   },
   {
-    "dcncLanguage": "Armenian",
-    "dcncTag": "HY",
-    "rfc5646Tag": "hy",
+    "dcncLanguage": "Afrikaans",
+    "dcncTag": "AF",
+    "rfc5646Tag": "af",
     "use": [
       "audio",
       "text"
@@ -31,6 +31,31 @@
     ]
   },
   {
+    "dcncLanguage": "Alsatian - France",
+    "dcncTag": "GSFR",
+    "rfc5646Tag": "gsw-FR",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "American Sign Language",
+    "rfc5646Tag": "ase",
+    "use": [
+      "sign"
+    ]
+  },
+  {
+    "dcncLanguage": "Amharic",
+    "dcncTag": "AM",
+    "rfc5646Tag": "am",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
     "dcncLanguage": "Arabic",
     "dcncTag": "AR",
     "obsoleteDCNCTags": [
@@ -43,9 +68,225 @@
     ]
   },
   {
+    "dcncLanguage": "Arabic - Algeria",
+    "dcncTag": "ARQ",
+    "rfc5646Tag": "arq",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Arabic - Bahrain",
+    "dcncTag": "ABV",
+    "rfc5646Tag": "abv",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Arabic - Egypt",
+    "dcncTag": "ARZ",
+    "rfc5646Tag": "arz",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Arabic - Iraq",
+    "dcncTag": "ACM",
+    "rfc5646Tag": "acm",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Arabic - Jordan",
+    "dcncTag": "AJP",
+    "rfc5646Tag": "ajp",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Arabic - Kuwait",
+    "dcncTag": "ABK",
+    "rfc5646Tag": "afb-KW",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Arabic - Lebanon",
+    "dcncTag": "APC",
+    "rfc5646Tag": "apc",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Arabic - Libya",
+    "dcncTag": "AYL",
+    "rfc5646Tag": "ayl",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Arabic - Morocco",
+    "dcncTag": "ARY",
+    "rfc5646Tag": "ary",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Arabic - Oman",
+    "dcncTag": "ACX",
+    "rfc5646Tag": "acx",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Arabic - Qatar",
+    "dcncTag": "AFQ",
+    "rfc5646Tag": "afb-QA",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Arabic - Saudi Arabia",
+    "dcncTag": "AEC",
+    "rfc5646Tag": "aec",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Arabic - Syria",
+    "dcncTag": "ARSY",
+    "rfc5646Tag": "ar-SY",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Arabic - Tunisia",
+    "dcncTag": "AEB",
+    "rfc5646Tag": "aeb",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Arabic - United Arab Emirates",
+    "dcncTag": "ARAE",
+    "rfc5646Tag": "ar-AE",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Arabic - Yemen",
+    "dcncTag": "ARYE",
+    "rfc5646Tag": "ar-YE",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Armenian",
+    "dcncTag": "HY",
+    "rfc5646Tag": "hy",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Assamese",
+    "dcncTag": "AS",
+    "rfc5646Tag": "as",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Azerbaijanian",
+    "dcncTag": "AZ",
+    "rfc5646Tag": "az",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Azerbaijanian - Cyrillic",
+    "dcncTag": "AZCY",
+    "rfc5646Tag": "az-Cyrl",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Azerbaijanian - Latin",
+    "dcncTag": "AZLT",
+    "rfc5646Tag": "az-Latn",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Bashkir",
+    "dcncTag": "BA",
+    "rfc5646Tag": "ba",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Belarusian",
+    "dcncTag": "BE",
+    "rfc5646Tag": "be",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
     "dcncLanguage": "Bengali",
     "dcncTag": "BN",
     "rfc5646Tag": "bn",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Bengali - India",
+    "dcncTag": "BNIN",
+    "rfc5646Tag": "bn-IN",
     "use": [
       "audio",
       "text"
@@ -64,12 +305,55 @@
     ]
   },
   {
+    "dcncLanguage": "Bosnian - Cyrillic",
+    "dcncTag": "BSCY",
+    "rfc5646Tag": "bs-Cyrl",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Brazilian Sign Language",
+    "rfc5646Tag": "bzs",
+    "use": [
+      "sign"
+    ]
+  },
+  {
+    "dcncLanguage": "Breton",
+    "dcncTag": "BR",
+    "rfc5646Tag": "br",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Breton - France",
+    "dcncTag": "BRFR",
+    "rfc5646Tag": "br-FR",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
     "dcncLanguage": "Bulgarian",
     "dcncTag": "BG",
     "obsoleteDCNCTags": [
       "BUL"
     ],
     "rfc5646Tag": "bg",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Burmese",
+    "dcncTag": "MY",
+    "rfc5646Tag": "my",
     "use": [
       "audio",
       "text"
@@ -88,9 +372,99 @@
     ]
   },
   {
+    "dcncLanguage": "Central Atlas Tamazight",
+    "dcncTag": "TZM",
+    "rfc5646Tag": "tzm",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Central Atlas Tamazight - Arabic - Morocco",
+    "dcncTag": "TZMA",
+    "rfc5646Tag": "tzm-Arab-MA",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Central Atlas Tamazight - Latin - Algeria",
+    "dcncTag": "TZMD",
+    "rfc5646Tag": "tzm-DZ",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Central Atlas Tamazight - Tifinagh",
+    "dcncTag": "TZMT",
+    "rfc5646Tag": "tzm-Tfng",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Central Atlas Tamazight - Tifinagh - Morocco",
+    "dcncTag": "TZMM",
+    "rfc5646Tag": "tzm-Tfng-MA",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Central Kurdish",
+    "dcncTag": "CKB",
+    "rfc5646Tag": "ckb",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Central Kurdish - Iraq",
+    "dcncTag": "CKBI",
+    "rfc5646Tag": "ckb-IQ",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Cherokee",
+    "dcncTag": "CHR",
+    "rfc5646Tag": "chr",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Chinese",
+    "dcncTag": "ZH",
+    "rfc5646Tag": "zh",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
     "dcncLanguage": "Chinese - Cantonese",
     "dcncTag": "YUE",
     "rfc5646Tag": "yue",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Chinese - Cantonese - Hong Kong",
+    "dcncTag": "YHK",
+    "rfc5646Tag": "yue-HK",
     "use": [
       "audio",
       "text"
@@ -101,7 +475,8 @@
     "dcncTag": "CMN",
     "rfc5646Tag": "cmn",
     "use": [
-      "audio"
+      "audio",
+      "text"
     ]
   },
   {
@@ -112,6 +487,15 @@
     "dcncTag": "QMS",
     "rfc5646Tag": "cmn-Hans",
     "use": [
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Chinese - Mandarin Simplified - Singapore",
+    "dcncTag": "CSSG",
+    "rfc5646Tag": "cmn-Hans-SG",
+    "use": [
+      "audio",
       "text"
     ]
   },
@@ -127,7 +511,34 @@
     ]
   },
   {
-    "dcncLanguage": "Chinese - Taiwanese",
+    "dcncLanguage": "Chinese - Simplified",
+    "dcncTag": "ZHS",
+    "rfc5646Tag": "zh-Hans",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Chinese - Simplified - Singapore",
+    "dcncTag": "ZSSG",
+    "rfc5646Tag": "zh-Hans-SG",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Chinese - Simplified - Taiwan ",
+    "dcncTag": "ZSTW",
+    "rfc5646Tag": "zh-Hans-TW",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Chinese - Taiwanese - Min Nan",
     "dcncTag": "NAN",
     "rfc5646Tag": "nan",
     "use": [
@@ -143,6 +554,69 @@
     ]
   },
   {
+    "dcncLanguage": "Chinese - Traditional",
+    "dcncTag": "ZHT",
+    "rfc5646Tag": "zh-Hant",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Chinese - Traditional - Hong Kong",
+    "dcncTag": "ZTHK",
+    "rfc5646Tag": "zh-Hant-HK",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Chinese - Traditional - Macao SAR",
+    "dcncTag": "ZTMO",
+    "rfc5646Tag": "zh-Hant-MO",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Chinese - Traditional - Malaysia",
+    "dcncTag": "ZTMY",
+    "rfc5646Tag": "zh-Hant-MY",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Chinese - Traditional - Taiwan",
+    "dcncTag": "ZTTW",
+    "rfc5646Tag": "zh-Hant-TW",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Corsican",
+    "dcncTag": "CO",
+    "rfc5646Tag": "co",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Corsican - France",
+    "dcncTag": "COFR",
+    "rfc5646Tag": "co-FR",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
     "dcncLanguage": "Croatian",
     "dcncTag": "HR",
     "obsoleteDCNCTags": [
@@ -150,6 +624,15 @@
       "SCR"
     ],
     "rfc5646Tag": "hr",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Croatian - Bosnia and Herzegovina",
+    "dcncTag": "HRBA",
+    "rfc5646Tag": "hr-BA",
     "use": [
       "audio",
       "text"
@@ -181,6 +664,24 @@
     ]
   },
   {
+    "dcncLanguage": "Dari",
+    "dcncTag": "PRD",
+    "rfc5646Tag": "prd",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Divehi",
+    "dcncTag": "DV",
+    "rfc5646Tag": "dv",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
     "dcncLanguage": "Dutch",
     "dcncTag": "NL",
     "obsoleteDCNCTags": [
@@ -194,12 +695,210 @@
     ]
   },
   {
+    "dcncLanguage": "Dzongkha - Bhutan",
+    "dcncTag": "DZ",
+    "rfc5646Tag": "dz",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Edo",
+    "dcncTag": "BIN",
+    "rfc5646Tag": "bin",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
     "dcncLanguage": "English",
     "dcncTag": "EN",
     "obsoleteDCNCTags": [
       "ENG"
     ],
     "rfc5646Tag": "en",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "English - Austrialia",
+    "dcncTag": "EAU",
+    "rfc5646Tag": "en-AU",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "English - Belize",
+    "dcncTag": "EBZ",
+    "rfc5646Tag": "en-BZ",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "English - Canada",
+    "dcncTag": "ECA",
+    "rfc5646Tag": "en-CA",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "English - Caribbean",
+    "dcncTag": "ECB",
+    "rfc5646Tag": "en-029",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "English - Hong Kong SAR",
+    "dcncTag": "EHK",
+    "rfc5646Tag": "en-HK",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "English - India",
+    "dcncTag": "EIN",
+    "rfc5646Tag": "en-IN",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "English - Indonesia",
+    "dcncTag": "EID",
+    "rfc5646Tag": "en-ID",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "English - Ireland",
+    "dcncTag": "EIE",
+    "rfc5646Tag": "en-IE",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "English - Jamaica",
+    "dcncTag": "EJM",
+    "rfc5646Tag": "en-JM",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "English - Malaysia",
+    "dcncTag": "EGM",
+    "rfc5646Tag": "en-MY",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "English - New Zealand",
+    "dcncTag": "ENZ",
+    "rfc5646Tag": "en-NZ",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "English - Philippines",
+    "dcncTag": "EPH",
+    "rfc5646Tag": "en-PH",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "English - Singapore",
+    "dcncTag": "ENS",
+    "rfc5646Tag": "en-SG",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "English - South Africa",
+    "dcncTag": "EGZ",
+    "rfc5646Tag": "en-ZA",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "English - Sweden",
+    "dcncTag": "ESW",
+    "rfc5646Tag": "en-SE",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "English - Trinidad and Tobago",
+    "dcncTag": "EGT",
+    "rfc5646Tag": "en-TT",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "English - United Arab Emirates",
+    "dcncTag": "EUA",
+    "rfc5646Tag": "en-UA",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "English - United Kingdom",
+    "dcncTag": "EGB",
+    "rfc5646Tag": "en-GB",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "English - United States",
+    "dcncTag": "EUS",
+    "rfc5646Tag": "en-US",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "English - Zimbabwe",
+    "dcncTag": "EZW",
+    "rfc5646Tag": "en-ZW",
     "use": [
       "audio",
       "text"
@@ -221,6 +920,24 @@
     "dcncLanguage": "Euskara",
     "dcncTag": "EU",
     "rfc5646Tag": "eu",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Faroese",
+    "dcncTag": "FO",
+    "rfc5646Tag": "fo",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Filipino",
+    "dcncTag": "FIL",
+    "rfc5646Tag": "fil",
     "use": [
       "audio",
       "text"
@@ -261,9 +978,18 @@
     ]
   },
   {
-    "dcncLanguage": "Galician",
-    "dcncTag": "GL",
-    "rfc5646Tag": "gl",
+    "dcncLanguage": "French - Belgium",
+    "dcncTag": "FRBE",
+    "rfc5646Tag": "fr-BE",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "French - Cameroon",
+    "dcncTag": "FRCM",
+    "rfc5646Tag": "fr-CM",
     "use": [
       "audio",
       "text"
@@ -273,6 +999,159 @@
     "dcncLanguage": "French - Canadian",
     "dcncTag": "QFC",
     "rfc5646Tag": "fr-CA",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "French - Caribbean",
+    "dcncTag": "FRCR",
+    "rfc5646Tag": "fr-029",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "French - Cote d Ivoire",
+    "dcncTag": "FRCI",
+    "rfc5646Tag": "fr-CI",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "French - Haiti",
+    "dcncTag": "FRHT",
+    "rfc5646Tag": "fr-HT",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "French - Luxembourg",
+    "dcncTag": "FRLU",
+    "rfc5646Tag": "fr-LU",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "French - Mali",
+    "dcncTag": "FRML",
+    "rfc5646Tag": "fr-ML",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "French - Monaco",
+    "dcncTag": "FRMO",
+    "rfc5646Tag": "fr-MO",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "French - Morocco",
+    "dcncTag": "FRMA",
+    "rfc5646Tag": "fr-MA",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "French - Reunion",
+    "dcncTag": "FRRE",
+    "rfc5646Tag": "fr-RE",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "French - Senegal",
+    "dcncTag": "FRSN",
+    "rfc5646Tag": "fr-SN",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "French - Switzerand",
+    "dcncTag": "FRCH",
+    "rfc5646Tag": "fr-CH",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "French Congo - DRC",
+    "dcncTag": "FRCD",
+    "rfc5646Tag": "fr-CD",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Fulah",
+    "dcncTag": "FF",
+    "rfc5646Tag": "ff",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Fulah - Latin",
+    "dcncTag": "FFL",
+    "rfc5646Tag": "ff-Latn",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Fulah - Latin - Nigeria",
+    "dcncTag": "FFLN",
+    "rfc5646Tag": "ff-Latn-NG",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Fulah - Latin - Senegal",
+    "dcncTag": "FFLS",
+    "rfc5646Tag": "ff-Latn-SN",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Galician",
+    "dcncTag": "GL",
+    "rfc5646Tag": "gl",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Georgian",
+    "dcncTag": "KA",
+    "rfc5646Tag": "ka",
     "use": [
       "audio",
       "text"
@@ -292,9 +1171,45 @@
     ]
   },
   {
+    "dcncLanguage": "German - Austria",
+    "dcncTag": "DEA",
+    "rfc5646Tag": "de-AT",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "German - Liechtenstein",
+    "dcncTag": "DLI",
+    "rfc5646Tag": "de-LI",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "German - Luxembourg",
+    "dcncTag": "DLU",
+    "rfc5646Tag": "de-LU",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
     "dcncLanguage": "German - Swiss",
     "dcncTag": "GSW",
     "rfc5646Tag": "gsw",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "German - Switzerland",
+    "dcncTag": "DCH",
+    "rfc5646Tag": "de-CH",
     "use": [
       "audio",
       "text"
@@ -308,6 +1223,60 @@
       "GRE"
     ],
     "rfc5646Tag": "el",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Guarani",
+    "dcncTag": "GN",
+    "rfc5646Tag": "gn",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Gujarati",
+    "dcncTag": "GU",
+    "rfc5646Tag": "gu",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Hausa",
+    "dcncTag": "HA",
+    "rfc5646Tag": "ha",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Hausa - Latin",
+    "dcncTag": "HALT",
+    "rfc5646Tag": "ha-Latn",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Hausa - Latin - Nigeria",
+    "dcncTag": "HALN",
+    "rfc5646Tag": "ha-Latn-NG",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Hawaiian",
+    "dcncTag": "HAW",
+    "rfc5646Tag": "haw",
     "use": [
       "audio",
       "text"
@@ -350,6 +1319,15 @@
     ]
   },
   {
+    "dcncLanguage": "Ibibio",
+    "dcncTag": "IBB",
+    "rfc5646Tag": "ibb",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
     "dcncLanguage": "Icelandic",
     "dcncTag": "IS",
     "obsoleteDCNCTags": [
@@ -363,9 +1341,45 @@
     ]
   },
   {
+    "dcncLanguage": "Igbo",
+    "dcncTag": "IG",
+    "rfc5646Tag": "ig",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
     "dcncLanguage": "Indonesian Bahasa",
     "dcncTag": "IND",
     "rfc5646Tag": "id",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Inuktitut",
+    "dcncTag": "IU",
+    "rfc5646Tag": "iu",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Inuktitut - Syllabics",
+    "dcncTag": "IUC",
+    "rfc5646Tag": "iu-Cans",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Irish",
+    "dcncTag": "GA",
+    "rfc5646Tag": "ga",
     "use": [
       "audio",
       "text"
@@ -384,12 +1398,84 @@
     ]
   },
   {
+    "dcncLanguage": "Italian - Switzerland",
+    "dcncTag": "ITCH",
+    "rfc5646Tag": "it-CH",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
     "dcncLanguage": "Japanese",
     "dcncTag": "JA",
     "obsoleteDCNCTags": [
       "JPN"
     ],
     "rfc5646Tag": "ja",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "K iche",
+    "dcncTag": "QUC",
+    "rfc5646Tag": "quc",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Kalaallisut",
+    "dcncTag": "KL",
+    "rfc5646Tag": "kl",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Kannada",
+    "dcncTag": "KN",
+    "rfc5646Tag": "kn",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Kanuri",
+    "dcncTag": "KR",
+    "rfc5646Tag": "kr",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Kanuri - Nigeria",
+    "dcncTag": "KRNG",
+    "rfc5646Tag": "kr-NG",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Kashmiri",
+    "dcncTag": "KS",
+    "rfc5646Tag": "ks",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Kashmiri - Devanagari - India",
+    "dcncTag": "KSDI",
+    "rfc5646Tag": "ks-Deva-IN",
     "use": [
       "audio",
       "text"
@@ -414,6 +1500,24 @@
     ]
   },
   {
+    "dcncLanguage": "Kinyarwanda",
+    "dcncTag": "RW",
+    "rfc5646Tag": "rw",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Konkani",
+    "dcncTag": "KOK",
+    "rfc5646Tag": "kok",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
     "dcncLanguage": "Korean",
     "dcncTag": "KO",
     "obsoleteDCNCTags": [
@@ -427,8 +1531,35 @@
   },
   {
     "dcncLanguage": "Kyrgyz",
-    "dcncTag": "KG",
+    "dcncTag": "KY",
     "rfc5646Tag": "ky",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Lao",
+    "dcncTag": "LO",
+    "rfc5646Tag": "lo",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Latin",
+    "dcncTag": "LA",
+    "rfc5646Tag": "la",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Latin - Vatican City",
+    "dcncTag": "LAVA",
+    "rfc5646Tag": "la-VA",
     "use": [
       "audio",
       "text"
@@ -447,12 +1578,39 @@
     ]
   },
   {
+    "dcncLanguage": "Lingala",
+    "dcncTag": "LN",
+    "rfc5646Tag": "ln",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
     "dcncLanguage": "Lithuanian",
     "dcncTag": "LT",
     "obsoleteDCNCTags": [
       "LIT"
     ],
     "rfc5646Tag": "lt",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Lower Sorbian",
+    "dcncTag": "DSB",
+    "rfc5646Tag": "dsb",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Luxembourgish",
+    "dcncTag": "LB",
+    "rfc5646Tag": "lb",
     "use": [
       "audio",
       "text"
@@ -468,9 +1626,81 @@
     ]
   },
   {
+    "dcncLanguage": "Malay - Brunei",
+    "dcncTag": "MSBN",
+    "rfc5646Tag": "ms-BN",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Malay - Malaysia",
+    "dcncTag": "MSMY",
+    "rfc5646Tag": "ms-MY",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
     "dcncLanguage": "Malay Bahasa",
-    "dcncTag": "MSA",
+    "dcncTag": "MS",
     "rfc5646Tag": "ms",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Malayalam",
+    "dcncTag": "ML",
+    "rfc5646Tag": "ml",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Maltese",
+    "dcncTag": "MT",
+    "rfc5646Tag": "mt",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Manipuri - Bangla",
+    "dcncTag": "MNI",
+    "rfc5646Tag": "mni",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Manipuri - Bangla - India",
+    "dcncTag": "MNBI",
+    "rfc5646Tag": "mni-Beng-IN",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Maori",
+    "dcncTag": "MI",
+    "rfc5646Tag": "mi",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Mapuche",
+    "dcncTag": "ARN",
+    "rfc5646Tag": "arn",
     "use": [
       "audio",
       "text"
@@ -486,6 +1716,15 @@
     ]
   },
   {
+    "dcncLanguage": "Mohawk",
+    "dcncTag": "MOH",
+    "rfc5646Tag": "moh",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
     "dcncLanguage": "Mongolian",
     "dcncTag": "MN",
     "rfc5646Tag": "mn",
@@ -495,8 +1734,45 @@
     ]
   },
   {
+    "dcncLanguage": "Mongolian - Traditional",
+    "dcncTag": "MNMT",
+    "rfc5646Tag": "mn-Mong",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Mongolian - Traditional - China",
+    "dcncTag": "MNMC",
+    "rfc5646Tag": "mn-Mong-CN",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
     "dcncLanguage": "Navajo",
+    "dcncTag": "NV",
     "rfc5646Tag": "nv",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Nepalese",
+    "dcncTag": "NE",
+    "rfc5646Tag": "ne",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Nepalese - India",
+    "dcncTag": "NEIN",
+    "rfc5646Tag": "ne-IN",
     "use": [
       "audio",
       "text"
@@ -509,6 +1785,87 @@
       "NOR"
     ],
     "rfc5646Tag": "no",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Norwegian Bokmal",
+    "dcncTag": "NB",
+    "rfc5646Tag": "nb",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Norwegian Nynorsk",
+    "dcncTag": "NN",
+    "rfc5646Tag": "nn",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Occitan",
+    "dcncTag": "OC",
+    "rfc5646Tag": "oc",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Odia",
+    "dcncTag": "OR",
+    "rfc5646Tag": "or",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Oromo",
+    "dcncTag": "OM",
+    "rfc5646Tag": "om",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Papiamento",
+    "dcncTag": "PAP",
+    "rfc5646Tag": "pap",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Papiamento - Caribbean",
+    "dcncTag": "PAPC",
+    "rfc5646Tag": "pap-029",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Pashto",
+    "dcncTag": "PS",
+    "rfc5646Tag": "ps",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Persian",
+    "dcncTag": "FA",
+    "rfc5646Tag": "fa",
     "use": [
       "audio",
       "text"
@@ -536,21 +1893,66 @@
     ]
   },
   {
-    "dcncLanguage": "Pashto",
-    "dcncTag": "PS",
-    "rfc5646Tag": "ps",
-    "use": [
-      "audio",
-      "text"
-    ]
-  },
-  {
     "dcncLanguage": "Portuguese - European",
     "dcncTag": "PT",
     "obsoleteDCNCTags": [
       "SPA"
     ],
     "rfc5646Tag": "pt",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Punjabi",
+    "dcncTag": "PA",
+    "rfc5646Tag": "pa",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Punjabi - Arabic",
+    "dcncTag": "PJA",
+    "rfc5646Tag": "pa-Arab",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Quechua",
+    "dcncTag": "QUZ",
+    "rfc5646Tag": "quz",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Quechua - Bolivia",
+    "dcncTag": "QZB",
+    "rfc5646Tag": "quz-BO",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Quechua - Ecuador",
+    "dcncTag": "QZE",
+    "rfc5646Tag": "quz-EC",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Quechua - Peru",
+    "dcncTag": "QZP",
+    "rfc5646Tag": "quz-PE",
     "use": [
       "audio",
       "text"
@@ -570,12 +1972,165 @@
     ]
   },
   {
+    "dcncLanguage": "Romanian - Moldova",
+    "dcncTag": "ROMD",
+    "rfc5646Tag": "ro-MD",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Romansh",
+    "dcncTag": "RM",
+    "rfc5646Tag": "rm",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
     "dcncLanguage": "Russian",
     "dcncTag": "RU",
     "obsoleteDCNCTags": [
       "RUS"
     ],
     "rfc5646Tag": "ru",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Russian - Moldova",
+    "dcncTag": "RUMD",
+    "rfc5646Tag": "ru-MD",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Sakha",
+    "dcncTag": "SAH",
+    "rfc5646Tag": "sah",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Sami",
+    "dcncTag": "SMI",
+    "rfc5646Tag": "smi",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Sami - Inari",
+    "dcncTag": "SMN",
+    "rfc5646Tag": "smn",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Sami - Lule",
+    "dcncTag": "SMJ",
+    "rfc5646Tag": "smj",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Sami - Lule - Norway",
+    "dcncTag": "SMJN",
+    "rfc5646Tag": "smj-NO",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Sami - Northern",
+    "dcncTag": "SE",
+    "rfc5646Tag": "se",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Sami - Northern - Finland",
+    "dcncTag": "SEFI",
+    "rfc5646Tag": "se-FI",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Sami - Northern - Norway",
+    "dcncTag": "SENO",
+    "rfc5646Tag": "se-NO",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Sami - Northern - Sweden",
+    "dcncTag": "SESE",
+    "rfc5646Tag": "se-SE",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Sami - Skolt",
+    "dcncTag": "SMS",
+    "rfc5646Tag": "sms",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Sami - Southern",
+    "dcncTag": "SMA",
+    "rfc5646Tag": "sma",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Sami - Southern - Norway",
+    "dcncTag": "SMAN",
+    "rfc5646Tag": "sma-NO",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Samoan",
+    "dcncTag": "SM",
+    "rfc5646Tag": "sm",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Sanskrit",
+    "dcncTag": "SA",
+    "rfc5646Tag": "sa",
     "use": [
       "audio",
       "text"
@@ -598,6 +2153,96 @@
       "SRP"
     ],
     "rfc5646Tag": "sr",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Serbian - Cyrillic",
+    "dcncTag": "SRCY",
+    "rfc5646Tag": "sr-Cyrl",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Serbian - Cyrillic - Bosnia and Herzegovina",
+    "dcncTag": "SRCB",
+    "rfc5646Tag": "sr-Cyrl-BA",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Serbian - Cyrillic - Montenegro",
+    "dcncTag": "SYCM",
+    "rfc5646Tag": "sr-Cyrl-ME",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Serbian - Latin",
+    "dcncTag": "SRLT",
+    "rfc5646Tag": "sr-Latn",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Serbian - Latin - Bosnia and Herzegovina",
+    "dcncTag": "SRLB",
+    "rfc5646Tag": "sr-Latn-BA",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Serbian - Latin - Montenegro",
+    "dcncTag": "SRLM",
+    "rfc5646Tag": "sr-Latn-ME",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Sindhi",
+    "dcncTag": "SD",
+    "rfc5646Tag": "sd",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Sindhi - Arabic",
+    "dcncTag": "SDAR",
+    "rfc5646Tag": "sd-Arab",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Sindhi - Devanagari - India",
+    "dcncTag": "SIN",
+    "rfc5646Tag": "sd-Deva-IN",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Sinhala",
+    "dcncTag": "SI",
+    "rfc5646Tag": "si",
     "use": [
       "audio",
       "text"
@@ -629,9 +2274,45 @@
     ]
   },
   {
+    "dcncLanguage": "Somali",
+    "dcncTag": "SO",
+    "rfc5646Tag": "so",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Sotho - Southern",
+    "dcncTag": "ST",
+    "rfc5646Tag": "st",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Sotho sa Leboa",
+    "dcncTag": "NSO",
+    "rfc5646Tag": "nso",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
     "dcncLanguage": "Spanish - Argentina",
     "dcncTag": "QSA",
     "rfc5646Tag": "es-AR",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Spanish - Bolivia",
+    "dcncTag": "QSB",
+    "rfc5646Tag": "es-BO",
     "use": [
       "audio",
       "text"
@@ -644,6 +2325,87 @@
       "POR"
     ],
     "rfc5646Tag": "es",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Spanish - Chile",
+    "dcncTag": "QCL",
+    "rfc5646Tag": "es-CL",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Spanish - Colombia",
+    "dcncTag": "QCO",
+    "rfc5646Tag": "es-CO",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Spanish - Costa Rica",
+    "dcncTag": "QCA",
+    "rfc5646Tag": "es-CR",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Spanish - Cuba",
+    "dcncTag": "QCU",
+    "rfc5646Tag": "es-CU",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Spanish - Dominican Republic",
+    "dcncTag": "QSD",
+    "rfc5646Tag": "es-DO",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Spanish - Ecuador",
+    "dcncTag": "QSE",
+    "rfc5646Tag": "es-EC",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Spanish - El Salvador",
+    "dcncTag": "QSL",
+    "rfc5646Tag": "es-SV",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Spanish - Guatemala",
+    "dcncTag": "QGU",
+    "rfc5646Tag": "es-GT",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Spanish - Honduras",
+    "dcncTag": "QSH",
+    "rfc5646Tag": "es-HN",
     "use": [
       "audio",
       "text"
@@ -668,6 +2430,96 @@
     ]
   },
   {
+    "dcncLanguage": "Spanish - Nicaragua",
+    "dcncTag": "QNI",
+    "rfc5646Tag": "es-NI",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Spanish - Panama",
+    "dcncTag": "QPA",
+    "rfc5646Tag": "es-PA",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Spanish - Paraguay",
+    "dcncTag": "QPY",
+    "rfc5646Tag": "es-PY",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Spanish - Peru",
+    "dcncTag": "QPE",
+    "rfc5646Tag": "es-PE",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Spanish - Puerto Rico",
+    "dcncTag": "QPR",
+    "rfc5646Tag": "es-PR",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Spanish - United States",
+    "dcncTag": "QUS",
+    "rfc5646Tag": "es-US",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Spanish - Uruguay",
+    "dcncTag": "QUY",
+    "rfc5646Tag": "es-UY",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Spanish - Venezuela",
+    "dcncTag": "QVE",
+    "rfc5646Tag": "es-VE",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Swahili",
+    "dcncTag": "SW",
+    "rfc5646Tag": "sw",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Swahili - Kenya",
+    "dcncTag": "SWKE",
+    "rfc5646Tag": "sw-KE",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
     "dcncLanguage": "Swedish",
     "dcncTag": "SV",
     "obsoleteDCNCTags": [
@@ -680,12 +2532,84 @@
     ]
   },
   {
+    "dcncLanguage": "Swedish - Finland",
+    "dcncTag": "SVF",
+    "rfc5646Tag": "sv-FI",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Syriac",
+    "dcncTag": "SYR",
+    "rfc5646Tag": "syr",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Syriac - Syria",
+    "dcncTag": "SYSY",
+    "rfc5646Tag": "syr-SY",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Tagalog",
+    "dcncTag": "TL",
+    "rfc5646Tag": "tl",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Tajik",
+    "dcncTag": "TG",
+    "rfc5646Tag": "tg",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Tajik - Cyrillic",
+    "dcncTag": "TGCY",
+    "rfc5646Tag": "tg-Cyrl",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Tajik - Cyrillic - Tajikistan",
+    "dcncTag": "TGCT",
+    "rfc5646Tag": "tg-Cyrl-TJ",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
     "dcncLanguage": "Tamil",
     "dcncTag": "TA",
     "obsoleteDCNCTags": [
       "TAM"
     ],
     "rfc5646Tag": "ta",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Tatar",
+    "dcncTag": "TT",
+    "rfc5646Tag": "tt",
     "use": [
       "audio",
       "text"
@@ -716,12 +2640,66 @@
     ]
   },
   {
+    "dcncLanguage": "Tibetan",
+    "dcncTag": "BO",
+    "rfc5646Tag": "bo",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Tigrinya",
+    "dcncTag": "TI",
+    "rfc5646Tag": "ti",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Tsonga",
+    "dcncTag": "TS",
+    "rfc5646Tag": "ts",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Tswana",
+    "dcncTag": "TN",
+    "rfc5646Tag": "tn",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Tswana - Botswana",
+    "dcncTag": "TNBW",
+    "rfc5646Tag": "tn-BW",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
     "dcncLanguage": "Turkish",
     "dcncTag": "TR",
     "obsoleteDCNCTags": [
       "TUR"
     ],
     "rfc5646Tag": "tr",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Turkmen",
+    "dcncTag": "TK",
+    "rfc5646Tag": "tk",
     "use": [
       "audio",
       "text"
@@ -740,9 +2718,54 @@
     ]
   },
   {
+    "dcncLanguage": "Upper Sorbian",
+    "dcncTag": "HSB",
+    "rfc5646Tag": "hsb",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
     "dcncLanguage": "Urdu",
     "dcncTag": "UR",
     "rfc5646Tag": "ur",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Uyghur",
+    "dcncTag": "UG",
+    "rfc5646Tag": "ug",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Uzbek",
+    "dcncTag": "UZ",
+    "rfc5646Tag": "uz",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Valencian - Spain",
+    "dcncTag": "CAES",
+    "rfc5646Tag": "ca-ES",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Venda",
+    "dcncTag": "VE",
+    "rfc5646Tag": "ve",
     "use": [
       "audio",
       "text"
@@ -770,9 +2793,63 @@
     ]
   },
   {
+    "dcncLanguage": "Western Frisian",
+    "dcncTag": "FY",
+    "rfc5646Tag": "fy",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Wolof",
+    "dcncTag": "WO",
+    "rfc5646Tag": "wo",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
     "dcncLanguage": "Xhosa",
     "dcncTag": "XH",
     "rfc5646Tag": "xh",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Yi",
+    "dcncTag": "II",
+    "rfc5646Tag": "ii",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Yiddish",
+    "dcncTag": "YI",
+    "rfc5646Tag": "yi",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Yoruba",
+    "dcncTag": "YO",
+    "rfc5646Tag": "yo",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Zulu",
+    "dcncTag": "ZU",
+    "rfc5646Tag": "zu",
     "use": [
       "audio",
       "text"
