@@ -2534,6 +2534,16 @@
     "description": "JC Film Consultancy Ltd"
   },
   {
+    "code": "JOP",
+    "contact": {
+      "address": "9, rue Robert Schuman 78120 Rambouillet, France",
+      "email": "contact@jolieprod.fr",
+      "name": "M. Salazar Olivier"
+    },
+    "description": "JOlie Prod Lab",
+    "url": "https://www.jolieprod.fr"
+  },
+  {
     "code": "JOR",
     "description": "JORR"
   },
