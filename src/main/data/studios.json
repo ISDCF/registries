@@ -894,6 +894,16 @@
     "description": "MAXIWORKS PRODUCTIONS"
   },
   {
+    "code": "MBF",
+    "contact": {
+      "address": "Bachweg 18, 9631 Ulisbach, Switzerland",
+      "email": "jay@moviebiz.ch",
+      "name": "Jonas Frei"
+    },
+    "description": "MovieBiz Films",
+    "url": "https://www.moviebizfilms.com"
+  },
+  {
     "code": "MH",
     "description": "MILKHAUS"
   },
