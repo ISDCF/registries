@@ -2204,6 +2204,16 @@
     "description": "GRAY MATTER POST"
   },
   {
+    "code": "GOR",
+    "contact": {
+      "address": "Gloworks, Porth Teigr, Cardiff Bay, Cardiff, CF10 4GA United Kingdom",
+      "email": "eve.moss@gorillagroup.tv",
+      "name": "Ms Eve Moss"
+    },
+    "description": "Gorilla TV Post Production",
+    "url": "https://gorillagroup.tv"
+  },
+  {
     "code": "GP",
     "description": "GEIGER POST"
   },
@@ -3989,6 +3999,11 @@
   {
     "code": "ROC",
     "description": "ROCK THE FILM"
+  },
+  {
+    "code": "RPC",
+    "description": "Rolling Pictures",
+    "url": "https://www.rollingpictures.ca/"
   },
   {
     "code": "RPM",
