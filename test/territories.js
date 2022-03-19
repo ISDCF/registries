@@ -23,6 +23,17 @@ describe("territories schema", () => {
     ]))
   })
 
+  it("M49 Region", () => {
+    assert.doesNotThrow(() => validate([
+      {
+        "tag": "001",
+        "dcncTag": "INT",
+        "dcncTerritory": "International"
+      },
+    ]))
+  })
+
+
   it("illegal IANA region subtag", () => {
     assert.throw(() => validate([
       {
