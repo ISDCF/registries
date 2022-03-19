@@ -331,6 +331,11 @@
     "tag": "LA"
   },
   {
+    "dcncTag": "LAS",
+    "dcncTerritory": "Latin America",
+    "tag": "419"
+  },
+  {
     "dcncTag": "LB",
     "dcncTerritory": "Lebanon",
     "tag": "LB"
@@ -414,6 +419,11 @@
     "dcncTag": "MY",
     "dcncTerritory": "Malaysia",
     "tag": "MY"
+  },
+  {
+    "dcncTag": "NAM",
+    "dcncTerritory": "North America",
+    "tag": "003"
   },
   {
     "dcncTag": "NC",
