@@ -748,6 +748,11 @@
     "description": "JOMA FILMS"
   },
   {
+    "code": "JOP",
+    "description": "JOlie PROD Studio",
+    "url": "https://www.jolieprod.fr"
+  },
+  {
     "code": "JPAS",
     "contact": {
       "address": "60 Banool Rd, Balwyn, Victoria, 3103, Australia",
@@ -887,6 +892,16 @@
   {
     "code": "MAX",
     "description": "MAXIWORKS PRODUCTIONS"
+  },
+  {
+    "code": "MBF",
+    "contact": {
+      "address": "Bachweg 18, 9631 Ulisbach, Switzerland",
+      "email": "jay@moviebiz.ch",
+      "name": "Jonas Frei"
+    },
+    "description": "MovieBiz Films",
+    "url": "https://www.moviebizfilms.com"
   },
   {
     "code": "MH",

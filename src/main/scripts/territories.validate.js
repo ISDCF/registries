@@ -22,15 +22,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 const fs = require('fs');
 const tags = require('language-tags');
 
-const IANA_REGION_PATH = "node_modules/language-subtag-registry/data/json/region.json";
-
 const ST429_16_REGION_SCOPE = "http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata#scope/release-territory/UNM49"
-
-const IANA_REGIONS = JSON.parse(
-  fs.readFileSync(
-    IANA_REGION_PATH
-  )
-);
 
 module.exports = (registry, name) => {
 

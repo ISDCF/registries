@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/schema#",
-  "$id": "http://isdcf.com/ns/json-schemas/registries/territories/1.0.0-beta.1",
+  "$id": "http://isdcf.com/ns/json-schemas/registries/territories/1.0.1",
   "$comment": "Copyright, ISDCF <info@isdcf.com>",
   "title": "Schema for the Territories Registry of the ISDCF",
   "type": "array",
