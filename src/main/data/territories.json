@@ -50,6 +50,11 @@
     "tag": "BA"
   },
   {
+    "dcncTag": "BD",
+    "dcncTerritory": "Bangladesh",
+    "tag": "BD"
+  },
+  {
     "dcncTag": "BE",
     "dcncTerritory": "Belgium",
     "tag": "BE"
@@ -251,6 +256,11 @@
     "tag": "IN"
   },
   {
+    "dcncTag": "INT",
+    "dcncTerritory": "International",
+    "tag": "001"
+  },
+  {
     "dcncTag": "IQ",
     "dcncTerritory": "Iraq",
     "tag": "IQ"
@@ -296,6 +306,11 @@
     "tag": "KH"
   },
   {
+    "dcncTag": "KP",
+    "dcncTerritory": "Democratic People's Republic of Korea",
+    "tag": "KP"
+  },
+  {
     "dcncTag": "KR",
     "dcncTerritory": "South Korea",
     "tag": "KR"
@@ -314,6 +329,11 @@
     "dcncTag": "LA",
     "dcncTerritory": "Lao People's Democratic Republic",
     "tag": "LA"
+  },
+  {
+    "dcncTag": "LAS",
+    "dcncTerritory": "Latin America",
+    "tag": "419"
   },
   {
     "dcncTag": "LB",
@@ -386,6 +406,11 @@
     "tag": "MU"
   },
   {
+    "dcncTag": "MV",
+    "dcncTerritory": "Maldives",
+    "tag": "MV"
+  },
+  {
     "dcncTag": "MX",
     "dcncTerritory": "Mexico",
     "tag": "MX"
@@ -394,6 +419,11 @@
     "dcncTag": "MY",
     "dcncTerritory": "Malaysia",
     "tag": "MY"
+  },
+  {
+    "dcncTag": "NAM",
+    "dcncTerritory": "North America",
+    "tag": "003"
   },
   {
     "dcncTag": "NC",
@@ -609,6 +639,11 @@
     "dcncTag": "VN",
     "dcncTerritory": "Vietnam",
     "tag": "VN"
+  },
+  {
+    "dcncTag": "WS",
+    "dcncTerritory": "Samoa",
+    "tag": "WS"
   },
   {
     "dcncTag": "ZA",
