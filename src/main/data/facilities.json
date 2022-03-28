@@ -1097,6 +1097,11 @@
     "description": "CINEMASUPPORT.EU"
   },
   {
+    "code": "CT",
+    "description": "CT-SF",
+    "url": "https://www.ct-sf.com"
+  },
+  {
     "code": "CTL",
     "description": "CINETEC LANDFRIED GMBH"
   },
@@ -2837,6 +2842,11 @@
   {
     "code": "LS",
     "description": "Light Shop"
+  },
+  {
+    "code": "LSA",
+    "description": "London Screen Academy",
+    "url": "https://www.lsa.ac.uk"
   },
   {
     "code": "LSF",
