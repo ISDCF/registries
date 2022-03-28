@@ -69,6 +69,11 @@
     "description": "ALTIMETER FILMS"
   },
   {
+    "code": "ALTI",
+    "description": "Altitude Film Entertainment",
+    "url": "http://www.altitudefilment.com/"
+  },
+  {
     "code": "AMBI",
     "description": "AMBI Media Group"
   },
@@ -862,6 +867,11 @@
     "description": "LEGENDARY PICTURES"
   },
   {
+    "code": "LSA",
+    "description": "London Screen Academy",
+    "url": "https://www.lsa.ac.uk"
+  },
+  {
     "code": "LSNP",
     "description": "La Sombra Negra Producciones"
   },
@@ -1328,6 +1338,11 @@
   {
     "code": "SKT",
     "description": "SKT INTERNATIONAL"
+  },
+  {
+    "code": "SKY",
+    "description": "Sky Studios",
+    "url": "https://www.skygroup.sky/skystudios"
   },
   {
     "code": "SLB",
