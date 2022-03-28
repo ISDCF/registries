@@ -2839,6 +2839,11 @@
     "description": "Light Shop"
   },
   {
+    "code": "LSA",
+    "description": "London Screen Academy",
+    "url": "https://www.lsa.ac.uk"
+  },
+  {
     "code": "LSF",
     "description": "LASER S. FILM S.R.L."
   },
