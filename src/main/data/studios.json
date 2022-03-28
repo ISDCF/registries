@@ -1335,6 +1335,11 @@
     "description": "SKT INTERNATIONAL"
   },
   {
+    "code": "SKY",
+    "description": "Sky Studios",
+    "url": "https://www.skygroup.sky/skystudios"
+  },
+  {
     "code": "SLB",
     "contact": {
       "address": "No. 25, Jalan Ceri 6/5, The Cherry III, Bandar Hillpark, 42300, Bandar Puncak Alam, Selangor, Malaysia",
