@@ -520,6 +520,14 @@
     ]
   },
   {
+    "dcncLanguage": "Chinese - Simplified - Malaysia",
+    "dcncTag": "ZSMY",
+    "rfc5646Tag": "zh-Hans-MY",
+    "use": [
+      "text"
+    ]
+  },
+  {
     "dcncLanguage": "Chinese - Simplified - Singapore",
     "dcncTag": "ZSSG",
     "rfc5646Tag": "zh-Hans-SG",
@@ -585,8 +593,7 @@
     "dcncTag": "ZTMY",
     "rfc5646Tag": "zh-Hant-MY",
     "use": [
-      "audio",
-      "text"
+      "audio"
     ]
   },
   {
