@@ -2827,6 +2827,11 @@
     "description": "Loedens Studio"
   },
   {
+    "code": "LOF",
+    "description": "LOMISFILM",
+    "url": "https://lomisfilm.com"
+  },
+  {
     "code": "LOM",
     "description": "LOMOTION AG"
   },
