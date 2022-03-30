@@ -2021,6 +2021,16 @@
     "description": "FOCUS ON DIGITAL"
   },
   {
+    "code": "FOS",
+    "contact": {
+      "address": "38 rue Alexis Lepère, 93100 Montreuil, France",
+      "email": "denis@oeilsauvage.com",
+      "name": "Denis Liakhov"
+    },
+    "description": "Les Films de l'oeil sauvage",
+    "url": "https://oeilsauvage.com"
+  },
+  {
     "code": "FOX",
     "description": "FoxScreen Bioscoopreclame"
   },
