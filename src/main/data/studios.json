@@ -1628,6 +1628,16 @@
     "description": "WARNER BROS."
   },
   {
+    "code": "WSP",
+    "contact": {
+      "address": "PO Box 679W Ballarat West Victoria, Australia, 3350",
+      "email": "jary@windsky.com.au",
+      "name": "Jary Nemo"
+    },
+    "description": "Wind & Sky Productions Pty Ltd",
+    "url": "https://windsky.com.au"
+  },
+  {
     "code": "XM",
     "description": "MGM"
   },
