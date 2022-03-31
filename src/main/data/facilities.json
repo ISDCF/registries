@@ -2766,6 +2766,16 @@
     "description": "LOBSTER FILMS"
   },
   {
+    "code": "LFF",
+    "contact": {
+      "address": "771 avenue Marc Lepoutre, 84700 Sorgues, France",
+      "email": "info@filmsfievre.com",
+      "name": "Denis Liakhov"
+    },
+    "description": "Les Films Fièvre",
+    "url": "https://www.filmsfievre.com"
+  },
+  {
     "code": "LFP",
     "description": "LS FILM PRODUCTION"
   },
