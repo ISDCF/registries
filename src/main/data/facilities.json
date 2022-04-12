@@ -2981,6 +2981,16 @@
     "description": "MOCEAN"
   },
   {
+    "code": "MCS",
+    "contact": {
+      "address": "Karadeniz cad. No: 58 53300 Pazar, Rize, Turkey",
+      "email": "info@micmuss.com",
+      "name": "Mirac Atabey"
+    },
+    "description": "MICMUSS FILM ENTERTAINMENT",
+    "url": "https://www.micmuss.com"
+  },
+  {
     "code": "MDI",
     "description": "MDI MARGUTTA DIGITAL INTERNATIONAL SRL"
   },
