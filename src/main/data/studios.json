@@ -179,6 +179,11 @@
     "url": "http://www.beemovies.co.uk"
   },
   {
+    "code": "BEL",
+    "description": "Belga Films",
+    "url": "http://belgafilms.be/"
+  },
+  {
     "code": "BF",
     "description": "BELARUSFILM"
   },
