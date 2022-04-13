@@ -570,6 +570,11 @@
     "description": "FRENZI FILMS"
   },
   {
+    "code": "GA",
+    "description": "Gaumont",
+    "url": "https://www.gaumont.fr/"
+  },
+  {
     "code": "GAME",
     "description": "Game Theory Films"
   },
