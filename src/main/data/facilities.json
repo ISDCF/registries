@@ -2336,6 +2336,16 @@
     "description": "HOCUS FOCUS (OSLO)"
   },
   {
+    "code": "HIG",
+    "contact": {
+      "address": "Carrer Llull, 48, 5-4, 08005 Barcelona, Spain",
+      "email": "willy@higgins-post.com",
+      "name": "Willy Nuez"
+    },
+    "description": "Higgins Postproduction",
+    "url": "http://www.higgins-post.com"
+  },
+  {
     "code": "HL",
     "description": "HINTERLAND"
   },
