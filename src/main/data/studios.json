@@ -1192,6 +1192,11 @@
     "url": "http://plankfilm.ee"
   },
   {
+    "code": "PM",
+    "description": "Participant Media",
+    "url": "https://participant.com/"
+  },
+  {
     "code": "PMF",
     "description": "Productora Multimedia Flash"
   },
