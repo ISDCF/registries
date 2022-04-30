@@ -106,7 +106,7 @@
   },
   {
     "dcncTag": "CN",
-    "dcncTerritory": "China",
+    "dcncTerritory": "China mainland",
     "tag": "CN"
   },
   {
@@ -307,7 +307,7 @@
   },
   {
     "dcncTag": "KP",
-    "dcncTerritory": "Democratic People's Republic of Korea",
+    "dcncTerritory": "North Korea",
     "tag": "KP"
   },
   {
