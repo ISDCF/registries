@@ -502,6 +502,14 @@
     ]
   },
   {
+    "dcncLanguage": "Chinese - Mandarin - Taiwan",
+    "dcncTag": "QTM",
+    "rfc5646Tag": "cmn-TW",
+    "use": [
+      "audio"
+    ]
+  },
+  {
     "comments": [
       "(Subtitles only)"
     ],
@@ -509,6 +517,15 @@
     "dcncTag": "QMT",
     "rfc5646Tag": "cmn-Hant",
     "use": [
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Chinese - Min Nan",
+    "dcncTag": "NAN",
+    "rfc5646Tag": "nan",
+    "use": [
+      "audio",
       "text"
     ]
   },
@@ -587,23 +604,6 @@
     "rfc5646Tag": "zh-Hans-TW",
     "use": [
       "text"
-    ]
-  },
-  {
-    "dcncLanguage": "Chinese - Min Nan",
-    "dcncTag": "NAN",
-    "rfc5646Tag": "nan",
-    "use": [
-      "audio",
-      "text"
-    ]
-  },
-  {
-    "dcncLanguage": "Chinese - Mandarin - Taiwan",
-    "dcncTag": "QTM",
-    "rfc5646Tag": "cmn-TW",
-    "use": [
-      "audio"
     ]
   },
   {
