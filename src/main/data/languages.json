@@ -576,6 +576,72 @@
     ]
   },
   {
+    "comments": [
+      "(Subtitles only)"
+    ],
+    "dcncLanguage": "Chinese - Mandarin - Traditional - China mainland",
+    "dcncTag": "CTCN",
+    "rfc5646Tag": "cmn-Hant-CN",
+    "use": [
+      "text"
+    ]
+  },
+  {
+    "comments": [
+      "(Subtitles only)"
+    ],
+    "dcncLanguage": "Chinese - Mandarin - Traditional - Hong Kong",
+    "dcncTag": "CTHK",
+    "rfc5646Tag": "cmn-Hant-HK",
+    "use": [
+      "text"
+    ]
+  },
+  {
+    "comments": [
+      "(Subtitles only)"
+    ],
+    "dcncLanguage": "Chinese - Mandarin - Traditional - Macao",
+    "dcncTag": "CTMO",
+    "rfc5646Tag": "cmn-Hant-MO",
+    "use": [
+      "text"
+    ]
+  },
+  {
+    "comments": [
+      "(Subtitles only)"
+    ],
+    "dcncLanguage": "Chinese - Mandarin - Traditional - Malaysia",
+    "dcncTag": "CTMY",
+    "rfc5646Tag": "cmn-Hant-MY",
+    "use": [
+      "text"
+    ]
+  },
+  {
+    "comments": [
+      "(Subtitles only)"
+    ],
+    "dcncLanguage": "Chinese - Mandarin - Traditional - Singapore",
+    "dcncTag": "CTSG",
+    "rfc5646Tag": "cmn-Hant-SG",
+    "use": [
+      "text"
+    ]
+  },
+  {
+    "comments": [
+      "(Subtitles only)"
+    ],
+    "dcncLanguage": "Chinese - Mandarin - Traditional - Taiwan",
+    "dcncTag": "CTTW",
+    "rfc5646Tag": "cmn-Hant-TW",
+    "use": [
+      "text"
+    ]
+  },
+  {
     "dcncLanguage": "Chinese - Min Nan",
     "dcncTag": "NAN",
     "rfc5646Tag": "nan",
