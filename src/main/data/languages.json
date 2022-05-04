@@ -494,9 +494,64 @@
     "comments": [
       "(Subtitles only)"
     ],
+    "dcncLanguage": "Chinese - Mandarin - Simplified - China mainland",
+    "dcncTag": "CSCN",
+    "rfc5646Tag": "cmn-Hans-CN",
+    "use": [
+      "text"
+    ]
+  },
+  {
+    "comments": [
+      "(Subtitles only)"
+    ],
+    "dcncLanguage": "Chinese - Mandarin - Simplified - Hong Kong",
+    "dcncTag": "CSHK",
+    "rfc5646Tag": "cmn-Hans-HK",
+    "use": [
+      "text"
+    ]
+  },
+  {
+    "comments": [
+      "(Subtitles only)"
+    ],
+    "dcncLanguage": "Chinese - Mandarin - Simplified - Macao",
+    "dcncTag": "CSMO",
+    "rfc5646Tag": "cmn-Hans-MO",
+    "use": [
+      "text"
+    ]
+  },
+  {
+    "comments": [
+      "(Subtitles only)"
+    ],
+    "dcncLanguage": "Chinese - Mandarin - Simplified - Malaysia",
+    "dcncTag": "CSMY",
+    "rfc5646Tag": "cmn-Hans-MY",
+    "use": [
+      "text"
+    ]
+  },
+  {
+    "comments": [
+      "(Subtitles only)"
+    ],
     "dcncLanguage": "Chinese - Mandarin - Simplified - Singapore",
     "dcncTag": "CSSG",
     "rfc5646Tag": "cmn-Hans-SG",
+    "use": [
+      "text"
+    ]
+  },
+  {
+    "comments": [
+      "(Subtitles only)"
+    ],
+    "dcncLanguage": "Chinese - Mandarin - Simplified - Taiwan",
+    "dcncTag": "CSTW",
+    "rfc5646Tag": "cmn-Hans-TW",
     "use": [
       "text"
     ]
