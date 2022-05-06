@@ -397,6 +397,16 @@
     "description": "DUALFILM, STUTTGART"
   },
   {
+    "code": "DFV",
+    "contact": {
+      "address": "Eisenbahnstraße 22a, 70372 Stuttgart, Germany",
+      "email": "info@der-filmverleih.de",
+      "name": "Gerd Klein"
+    },
+    "description": "Der Filmverleih GmbH",
+    "url": "https://www.der-filmverleih.de"
+  },
+  {
     "code": "DGM",
     "contact": {
       "address": "Via Carlo Pisacane 5, Pescara, Italy",
