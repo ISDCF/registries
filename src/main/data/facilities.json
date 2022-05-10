@@ -476,6 +476,16 @@
     "description": "BOOGIE MONSTER"
   },
   {
+    "code": "BGP",
+    "contact": {
+      "address": "101 Portman Street, Glasgow, G41 1EJ, Scotland",
+      "email": "paul@blazinggriffin.com",
+      "name": "Paul Martin"
+    },
+    "description": "Blazing Griffin Post",
+    "url": "https://www.blazinggriffin.com/post-production/"
+  },
+  {
     "code": "BHS",
     "description": "BLACK HANGER STUDIOS"
   },
