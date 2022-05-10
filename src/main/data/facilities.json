@@ -1940,10 +1940,6 @@
     "description": "FILMDOC B.V."
   },
   {
-    "code": "FDC",
-    "description": "FILM AND DIGITAL CINEMA"
-  },
-  {
     "code": "FCR",
     "contact": {
       "address": "Barrio Escalante 1106, Cariari #10, San Jose, Costa Rica, 10101",
@@ -1952,6 +1948,10 @@
     },
     "description": "Fade In",
     "url": "https://www.fadeincr.com"
+  },
+  {
+    "code": "FDC",
+    "description": "FILM AND DIGITAL CINEMA"
   },
   {
     "code": "FDS",
