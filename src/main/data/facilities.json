@@ -1809,7 +1809,13 @@
   },
   {
     "code": "EKN",
-    "description": "EIKON GROUP LIMITED"
+    "contact": {
+      "address": "12 Golden Square, London W1F 9JE, United Kingdom",
+      "email": "steve.hopkins@eikon.group",
+      "name": "Steve Hopkins"
+    },
+    "description": "EIKON GROUP LIMITED",
+    "url": "https://eikon.group"
   },
   {
     "code": "ELB",
