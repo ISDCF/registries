@@ -3961,6 +3961,16 @@
     "description": "RED ROOSTER INDONESIA"
   },
   {
+    "code": "RAI",
+    "contact": {
+      "address": "Zuchwilerstrasse 21, Solothurn, Switzerland",
+      "email": "info@resus.ch",
+      "name": "Max Aeschlimann"
+    },
+    "description": "Rainbow Electronics",
+    "url": "https://www.resus.ch"
+  },
+  {
     "code": "RAM",
     "description": "Rammara Ehf"
   },
