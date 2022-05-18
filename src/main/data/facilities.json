@@ -4229,6 +4229,16 @@
     "description": "SCARAMANGA MEDIEN GMBH"
   },
   {
+    "code": "SCF",
+    "contact": {
+      "address": "Usselincxstraat 80, 2593VM, The Netherlands",
+      "email": "chris@supercoat.film",
+      "name": "Chris Wouda"
+    },
+    "description": "Supercoat Film",
+    "url": "https://supercoat.film"
+  },
+  {
     "code": "SCL",
     "description": "SCANLAB FRANCE"
   },
