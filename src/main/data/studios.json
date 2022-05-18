@@ -1363,6 +1363,16 @@
     "description": "STUDIOCANAL"
   },
   {
+    "code": "SCF",
+    "contact": {
+      "address": "Usselincxstraat 80, 2593VM, The Hague , The Netherlands",
+      "email": "chris@supercoat.film",
+      "name": "Chris Wouda"
+    },
+    "description": "Supercoat Film",
+    "url": "https://supercoat.film"
+  },
+  {
     "code": "SDM",
     "contact": {
       "address": "2900 Olympic Blvd, Santa Monica CA 90404 USA",
