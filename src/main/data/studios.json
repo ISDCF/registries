@@ -202,6 +202,11 @@
     "description": "Basement Games"
   },
   {
+    "code": "BGP",
+    "description": "Blazing Griffin Pictures",
+    "url": "https://www.blazinggriffin.com/pictures/"
+  },
+  {
     "code": "BH",
     "description": "BLUMHOUSE PRODUCTIONS"
   },
@@ -1361,6 +1366,16 @@
   {
     "code": "SC",
     "description": "STUDIOCANAL"
+  },
+  {
+    "code": "SCF",
+    "contact": {
+      "address": "Usselincxstraat 80, 2593VM, The Hague , The Netherlands",
+      "email": "chris@supercoat.film",
+      "name": "Chris Wouda"
+    },
+    "description": "Supercoat Film",
+    "url": "https://supercoat.film"
   },
   {
     "code": "SDM",
