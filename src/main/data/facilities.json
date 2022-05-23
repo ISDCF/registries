@@ -3961,6 +3961,16 @@
     "description": "RED ROOSTER INDONESIA"
   },
   {
+    "code": "RAI",
+    "contact": {
+      "address": "Zuchwilerstrasse 21, Solothurn, Switzerland",
+      "email": "info@resus.ch",
+      "name": "Max Aeschlimann"
+    },
+    "description": "Rainbow Electronics",
+    "url": "https://www.resus.ch"
+  },
+  {
     "code": "RAM",
     "description": "Rammara Ehf"
   },
@@ -4227,6 +4237,16 @@
   {
     "code": "SCA",
     "description": "SCARAMANGA MEDIEN GMBH"
+  },
+  {
+    "code": "SCF",
+    "contact": {
+      "address": "Usselincxstraat 80, 2593VM, The Hague , The Netherlands",
+      "email": "chris@supercoat.film",
+      "name": "Chris Wouda"
+    },
+    "description": "Supercoat Film",
+    "url": "https://supercoat.film"
   },
   {
     "code": "SCL",
