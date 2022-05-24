@@ -202,6 +202,11 @@
     "description": "Basement Games"
   },
   {
+    "code": "BGP",
+    "description": "Blazing Griffin Pictures",
+    "url": "https://www.blazinggriffin.com/pictures/"
+  },
+  {
     "code": "BH",
     "description": "BLUMHOUSE PRODUCTIONS"
   },
@@ -1363,6 +1368,16 @@
     "description": "STUDIOCANAL"
   },
   {
+    "code": "SCF",
+    "contact": {
+      "address": "Usselincxstraat 80, 2593VM, The Hague , The Netherlands",
+      "email": "chris@supercoat.film",
+      "name": "Chris Wouda"
+    },
+    "description": "Supercoat Film",
+    "url": "https://supercoat.film"
+  },
+  {
     "code": "SDM",
     "contact": {
       "address": "2900 Olympic Blvd, Santa Monica CA 90404 USA",
@@ -1385,6 +1400,11 @@
     },
     "description": "SakhaFilm",
     "url": "https://sakhafilm.ru/"
+  },
+  {
+    "code": "SFZ",
+    "description": "Studio Filmiz",
+    "url": "https://studio-filmiz.fr"
   },
   {
     "code": "SKOP",
@@ -1415,6 +1435,11 @@
   {
     "code": "SM",
     "description": "SUHAN MOVIES"
+  },
+  {
+    "code": "SMTS",
+    "description": "SMTS Media, LLC.",
+    "url": "http://sethmctigue.com"
   },
   {
     "code": "SNP",
