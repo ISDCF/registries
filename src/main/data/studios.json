@@ -478,6 +478,16 @@
     "description": "ELO FILM SCHOOL HELSINKI"
   },
   {
+    "code": "EONE",
+    "contact": {
+      "address": "45 Warren St, London W1T 6AG, England",
+      "email": "whughes@entonegroup.com",
+      "name": "Will Hughes"
+    },
+    "description": "eOne",
+    "url": "https://www.entertainmentone.com"
+  },
+  {
     "code": "EP",
     "description": "ELEVATION PICTURES"
   },
