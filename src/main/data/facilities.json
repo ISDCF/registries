@@ -2875,6 +2875,16 @@
     "description": "LOOPLAB"
   },
   {
+    "code": "LM",
+    "contact": {
+      "address": "108 Endsleigh Ave, Orange, NSW, 2800, Australia",
+      "email": "subs@sethlarney.com",
+      "name": "Seth Larney"
+    },
+    "description": "Lucid Machine",
+    "url": "https://www.lucidmachine.au/"
+  },
+  {
     "code": "LN",
     "description": "LIONS Network",
     "url": "https://lionsnetwork.de"
