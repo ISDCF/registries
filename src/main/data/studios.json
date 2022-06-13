@@ -1623,6 +1623,16 @@
     "description": "The Solid State"
   },
   {
+    "code": "TVC",
+    "contact": {
+      "address": "Via Buccari 16, 00195 ROMA RM, Italy",
+      "email": "vincenzo@tvco.eu",
+      "name": "Vincenzo Mosca"
+    },
+    "description": "TVCO",
+    "url": "https://www.tvco.eu"
+  },
+  {
     "code": "TVF",
     "contact": {
       "address": "Calle Buenos Aires 141 Dpto 702 - Miraflores, Lima 15074 Perú",
