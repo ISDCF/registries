@@ -1110,6 +1110,16 @@
     "url": "https://www.nicheproductions.com"
   },
   {
+    "code": "NRTV",
+    "contact": {
+      "address": "Gral. de Brigada Jorge García Hernaine 30, Tepic, Nayarit, Mexico",
+      "email": "neurotikaudiovisual@gmail.com",
+      "name": "Chak Pérez Peña"
+    },
+    "description": "neurotiK",
+    "url": "https://www.facebook.com/neurotikaudiovisual"
+  },
+  {
     "code": "NS",
     "description": "NORRIS STUDIOS"
   },
@@ -1621,6 +1631,16 @@
   {
     "code": "TSS",
     "description": "The Solid State"
+  },
+  {
+    "code": "TVC",
+    "contact": {
+      "address": "Via Buccari 16, 00195 ROMA RM, Italy",
+      "email": "vincenzo@tvco.eu",
+      "name": "Vincenzo Mosca"
+    },
+    "description": "TVCO",
+    "url": "https://www.tvco.eu"
   },
   {
     "code": "TVF",
