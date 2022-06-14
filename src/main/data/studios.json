@@ -1031,6 +1031,11 @@
     "description": "MARVEL"
   },
   {
+    "code": "MRX",
+    "description": "Monarex Hollywood",
+    "url": "https://www.monarex.com"
+  },
+  {
     "code": "MSLW",
     "contact": {
       "address": "PO Box 7201, Warringah Mall NSW 2100, Sydney, Australia",
