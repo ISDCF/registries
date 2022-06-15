@@ -194,6 +194,16 @@
     "url": "http://belgafilms.be/"
   },
   {
+    "code": "BEP",
+    "contact": {
+      "address": "5726 Camellia Ave, Apt. 204, North Hollywood, CA, 91601 USA",
+      "email": "beareleganceproductions@gmail.com",
+      "name": "Eric DePriester"
+    },
+    "description": "Bear Elegance Productions",
+    "url": "https://beareleganceproductions.com/"
+  },
+  {
     "code": "BF",
     "description": "BELARUSFILM"
   },
