@@ -2665,6 +2665,16 @@
     "description": "KAMERAUDLEJNINGEN APS"
   },
   {
+    "code": "KAP",
+    "contact": {
+      "address": "Cuautitlan 211, Chapalita, Guadalajara, Jalisco, Mexico 44500",
+      "email": "joe@kaputpost.com",
+      "name": "Joe Castañeda"
+    },
+    "description": "Kaput Post",
+    "url": "https://www.kaputpost.com"
+  },
+  {
     "code": "KB",
     "description": "KINOBILDER"
   },
