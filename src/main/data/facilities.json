@@ -1500,6 +1500,11 @@
     "description": "DOPAMYNE FILMS"
   },
   {
+    "code": "DOU",
+    "description": "Thomas Doukinitsas",
+    "url": "https://www.doukinitsas.info/"
+  },
+  {
     "code": "DP",
     "description": "DIGIPOST"
   },
@@ -2663,6 +2668,16 @@
   {
     "code": "KAM",
     "description": "KAMERAUDLEJNINGEN APS"
+  },
+  {
+    "code": "KAP",
+    "contact": {
+      "address": "Cuautitlan 211, Chapalita, Guadalajara, Jalisco, Mexico 44500",
+      "email": "joe@kaputpost.com",
+      "name": "Joe Castañeda"
+    },
+    "description": "Kaput Post",
+    "url": "https://www.kaputpost.com"
   },
   {
     "code": "KB",
