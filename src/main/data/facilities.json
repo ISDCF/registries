@@ -5245,7 +5245,13 @@
   },
   {
     "code": "YSI",
-    "description": "YSI Films"
+    "contact": {
+      "address": "Wega 25, 2221ND Katwijk, The Netherlands",
+      "email": "me@yavuzselimisler.com",
+      "name": "Yavuz Selim Isler"
+    },
+    "description": "YAVUZ SELIM ISLER",
+    "url": "https://yavuzselimisler.com"
   },
   {
     "code": "YUS",
