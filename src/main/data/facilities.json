@@ -296,7 +296,7 @@
   },
   {
     "code": "AO",
-    "description": "Adler Optical", 
+    "description": "Adler Optical",
     "obsolete": true,
     "obsoletedBy": [
       "SNO"
