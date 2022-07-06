@@ -3113,6 +3113,11 @@
     "description": "MILKHAUS"
   },
   {
+    "code": "MI1",
+    "description": "MIDIM Studios",
+    "url": "https://studios.midim.fr/"
+  },
+  {
     "code": "MIC",
     "description": "MICSOUND"
   },
