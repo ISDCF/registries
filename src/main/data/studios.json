@@ -4,6 +4,11 @@
     "description": "01_STUDIO P.I."
   },
   {
+    "code": "11V",
+    "description": "ELEVEN VFX",
+    "url": "https://www.eleven-post.com"
+  },
+  {
     "code": "123",
     "contact": {
       "address": "Feiteng Art Space Zoom A, No.173,Caochangdi, Chaoyang district, Beijing, China",
@@ -68,6 +73,11 @@
   {
     "code": "ALIB",
     "description": "ALIBABA GROUP"
+  },
+  {
+    "code": "ALKA",
+    "description": "Alka Film",
+    "url": "https://www.alka-film.hr"
   },
   {
     "code": "ALT",
@@ -189,12 +199,27 @@
     "url": "http://belgafilms.be/"
   },
   {
+    "code": "BEP",
+    "contact": {
+      "address": "5726 Camellia Ave, Apt. 204, North Hollywood, CA, 91601 USA",
+      "email": "beareleganceproductions@gmail.com",
+      "name": "Eric DePriester"
+    },
+    "description": "Bear Elegance Productions",
+    "url": "https://beareleganceproductions.com/"
+  },
+  {
     "code": "BF",
     "description": "BELARUSFILM"
   },
   {
     "code": "BG",
     "description": "Basement Games"
+  },
+  {
+    "code": "BGP",
+    "description": "Blazing Griffin Pictures",
+    "url": "https://www.blazinggriffin.com/pictures/"
   },
   {
     "code": "BH",
@@ -397,6 +422,16 @@
     "description": "DUALFILM, STUTTGART"
   },
   {
+    "code": "DFV",
+    "contact": {
+      "address": "Eisenbahnstraße 22a, 70372 Stuttgart, Germany",
+      "email": "info@der-filmverleih.de",
+      "name": "Gerd Klein"
+    },
+    "description": "Der Filmverleih GmbH",
+    "url": "https://www.der-filmverleih.de"
+  },
+  {
     "code": "DGM",
     "contact": {
       "address": "Via Carlo Pisacane 5, Pescara, Italy",
@@ -456,6 +491,16 @@
   {
     "code": "ELO",
     "description": "ELO FILM SCHOOL HELSINKI"
+  },
+  {
+    "code": "EONE",
+    "contact": {
+      "address": "45 Warren St, London W1T 6AG, England",
+      "email": "whughes@entonegroup.com",
+      "name": "Will Hughes"
+    },
+    "description": "eOne",
+    "url": "https://www.entertainmentone.com"
   },
   {
     "code": "EP",
@@ -957,6 +1002,16 @@
     "description": "METRO INTERNATIONAL"
   },
   {
+    "code": "MIDS",
+    "description": "MIDIM Studios",
+    "url": "https://studios.midim.fr/"
+  },
+  {
+    "code": "MIM",
+    "description": "MALAKOFF IMAGES",
+    "url": "https://mstudios.fr/"
+  },
+  {
     "code": "MM",
     "description": "Millennium Media",
     "url": "https://millennium-media.net/"
@@ -999,6 +1054,11 @@
   {
     "code": "MRV",
     "description": "MARVEL"
+  },
+  {
+    "code": "MRX",
+    "description": "Monarex Hollywood",
+    "url": "https://www.monarex.com"
   },
   {
     "code": "MSLW",
@@ -1080,12 +1140,32 @@
     "url": "https://www.nicheproductions.com"
   },
   {
+    "code": "NRTV",
+    "contact": {
+      "address": "Gral. de Brigada Jorge García Hernaine 30, Tepic, Nayarit, Mexico",
+      "email": "neurotikaudiovisual@gmail.com",
+      "name": "Chak Pérez Peña"
+    },
+    "description": "neurotiK",
+    "url": "https://www.facebook.com/neurotikaudiovisual"
+  },
+  {
     "code": "NS",
     "description": "NORRIS STUDIOS"
   },
   {
     "code": "NT",
     "description": "NEW LINE"
+  },
+  {
+    "code": "NTL",
+    "contact": {
+      "address": "National Theatre, Upper Ground, South Bank, London SE1 9PX, England",
+      "email": "rob.dowson@harborpicturecompany.com",
+      "name": "Jim Cross"
+    },
+    "description": "National Theatre Live",
+    "url": "https://www.ntlive.com"
   },
   {
     "code": "NTS",
@@ -1348,6 +1428,16 @@
     "description": "STUDIOCANAL"
   },
   {
+    "code": "SCF",
+    "contact": {
+      "address": "Usselincxstraat 80, 2593VM, The Hague , The Netherlands",
+      "email": "chris@supercoat.film",
+      "name": "Chris Wouda"
+    },
+    "description": "Supercoat Film",
+    "url": "https://supercoat.film"
+  },
+  {
     "code": "SDM",
     "contact": {
       "address": "2900 Olympic Blvd, Santa Monica CA 90404 USA",
@@ -1370,6 +1460,11 @@
     },
     "description": "SakhaFilm",
     "url": "https://sakhafilm.ru/"
+  },
+  {
+    "code": "SFZ",
+    "description": "Studio Filmiz",
+    "url": "https://studio-filmiz.fr"
   },
   {
     "code": "SKOP",
@@ -1400,6 +1495,11 @@
   {
     "code": "SM",
     "description": "SUHAN MOVIES"
+  },
+  {
+    "code": "SMTS",
+    "description": "SMTS Media, LLC.",
+    "url": "http://sethmctigue.com"
   },
   {
     "code": "SNP",
@@ -1450,6 +1550,16 @@
   {
     "code": "SPOT",
     "description": "SPOT ON DISTRIBUTION"
+  },
+  {
+    "code": "SSD",
+    "contact": {
+      "address": "PO Box 7205, Bondi Beach NSW, 2026, Australia",
+      "email": "mason@snowstormfilms.com.au",
+      "name": "M. Kemeny"
+    },
+    "description": "Snowstorm Films",
+    "url": "https://www.snowstormfilms.com.au"
   },
   {
     "code": "SSM",
@@ -1571,6 +1681,16 @@
   {
     "code": "TSS",
     "description": "The Solid State"
+  },
+  {
+    "code": "TVC",
+    "contact": {
+      "address": "Via Buccari 16, 00195 ROMA RM, Italy",
+      "email": "vincenzo@tvco.eu",
+      "name": "Vincenzo Mosca"
+    },
+    "description": "TVCO",
+    "url": "https://www.tvco.eu"
   },
   {
     "code": "TVF",
