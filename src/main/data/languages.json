@@ -471,6 +471,9 @@
     ]
   },
   {
+    "comments": [
+      "(Audio only)"
+    ],
     "dcncLanguage": "Chinese - Mandarin",
     "dcncTag": "CMN",
     "rfc5646Tag": "cmn",
@@ -641,6 +644,9 @@
     ]
   },
   {
+    "comments": [
+      "(Audio only)"
+    ],
     "dcncLanguage": "Chinese - Min Nan",
     "dcncTag": "NAN",
     "rfc5646Tag": "nan",
