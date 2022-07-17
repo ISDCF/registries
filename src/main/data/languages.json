@@ -2388,7 +2388,10 @@
   },
   {
     "dcncLanguage": "Serbian - Cyrillic - Montenegro",
-    "dcncTag": "SYCM",
+    "dcncTag": "SRCM",
+    "obsoleteDCNCTags": [
+      "SYCM"
+    ],
     "rfc5646Tag": "sr-Cyrl-ME",
     "use": [
       "audio",
