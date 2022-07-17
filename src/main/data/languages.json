@@ -1350,6 +1350,24 @@
     ]
   },
   {
+    "dcncLanguage": "Fulah - Nigeria",
+    "dcncTag": "FFNG",
+    "rfc5646Tag": "ff-NG",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Fulah - Senegal",
+    "dcncTag": "FFSN",
+    "rfc5646Tag": "ff-SN",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
     "dcncLanguage": "Galician",
     "dcncTag": "GL",
     "rfc5646Tag": "gl",
@@ -1478,6 +1496,15 @@
     "dcncLanguage": "Hausa - Latin - Nigeria",
     "dcncTag": "HALN",
     "rfc5646Tag": "ha-Latn-NG",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Hausa - Nigeria",
+    "dcncTag": "HANG",
+    "rfc5646Tag": "ha-NG",
     "use": [
       "audio",
       "text"
@@ -1692,6 +1719,15 @@
     ]
   },
   {
+    "dcncLanguage": "Kashmiri - India",
+    "dcncTag": "KSIN",
+    "rfc5646Tag": "ks-IN",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
     "dcncLanguage": "Kazakh",
     "dcncTag": "KK",
     "rfc5646Tag": "kk",
@@ -1899,6 +1935,15 @@
     ]
   },
   {
+    "dcncLanguage": "Manipuri - India",
+    "dcncTag": "MNIN",
+    "rfc5646Tag": "mni-IN",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
     "dcncLanguage": "Maori",
     "dcncTag": "MI",
     "rfc5646Tag": "mi",
@@ -1938,6 +1983,15 @@
     "dcncLanguage": "Mongolian",
     "dcncTag": "MN",
     "rfc5646Tag": "mn",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Mongolian - China",
+    "dcncTag": "MNCN",
+    "rfc5646Tag": "mn-CN",
     "use": [
       "audio",
       "text"
@@ -2369,6 +2423,15 @@
     ]
   },
   {
+    "dcncLanguage": "Serbian - Bosnia and Herzegovina",
+    "dcncTag": "SRBA",
+    "rfc5646Tag": "sr-BA",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
     "dcncLanguage": "Serbian - Cyrillic",
     "dcncTag": "SRCY",
     "rfc5646Tag": "sr-Cyrl",
@@ -2423,6 +2486,15 @@
     ]
   },
   {
+    "dcncLanguage": "Serbian - Montenegro",
+    "dcncTag": "SRME",
+    "rfc5646Tag": "sr-ME",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
     "dcncLanguage": "Sindhi",
     "dcncTag": "SD",
     "rfc5646Tag": "sd",
@@ -2444,6 +2516,15 @@
     "dcncLanguage": "Sindhi - Devanagari - India",
     "dcncTag": "SIN",
     "rfc5646Tag": "sd-Deva-IN",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Sindhi - India",
+    "dcncTag": "SDIN",
+    "rfc5646Tag": "sd-IN",
     "use": [
       "audio",
       "text"
@@ -2799,6 +2880,15 @@
     "dcncLanguage": "Tajik - Cyrillic - Tajikistan",
     "dcncTag": "TGCT",
     "rfc5646Tag": "tg-Cyrl-TJ",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Tajik - Tajikistan",
+    "dcncTag": "TGTJ",
+    "rfc5646Tag": "tg-TJ",
     "use": [
       "audio",
       "text"
