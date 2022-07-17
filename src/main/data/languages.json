@@ -471,19 +471,21 @@
     ]
   },
   {
-    "dcncLanguage": "Chinese - Mandarin PRC",
+    "comments": [
+      "(Audio only)"
+    ],
+    "dcncLanguage": "Chinese - Mandarin",
     "dcncTag": "CMN",
     "rfc5646Tag": "cmn",
     "use": [
-      "audio",
-      "text"
+      "audio"
     ]
   },
   {
     "comments": [
       "(Subtitles only)"
     ],
-    "dcncLanguage": "Chinese - Mandarin Simplified",
+    "dcncLanguage": "Chinese - Mandarin - Simplified",
     "dcncTag": "QMS",
     "rfc5646Tag": "cmn-Hans",
     "use": [
@@ -491,11 +493,13 @@
     ]
   },
   {
-    "dcncLanguage": "Chinese - Mandarin Simplified - Singapore",
-    "dcncTag": "CSSG",
-    "rfc5646Tag": "cmn-Hans-SG",
+    "comments": [
+      "(Subtitles only)"
+    ],
+    "dcncLanguage": "Chinese - Mandarin - Simplified - China mainland",
+    "dcncTag": "CSCN",
+    "rfc5646Tag": "cmn-Hans-CN",
     "use": [
-      "audio",
       "text"
     ]
   },
@@ -503,7 +507,70 @@
     "comments": [
       "(Subtitles only)"
     ],
-    "dcncLanguage": "Chinese - Mandarin Traditional",
+    "dcncLanguage": "Chinese - Mandarin - Simplified - Hong Kong",
+    "dcncTag": "CSHK",
+    "rfc5646Tag": "cmn-Hans-HK",
+    "use": [
+      "text"
+    ]
+  },
+  {
+    "comments": [
+      "(Subtitles only)"
+    ],
+    "dcncLanguage": "Chinese - Mandarin - Simplified - Macao",
+    "dcncTag": "CSMO",
+    "rfc5646Tag": "cmn-Hans-MO",
+    "use": [
+      "text"
+    ]
+  },
+  {
+    "comments": [
+      "(Subtitles only)"
+    ],
+    "dcncLanguage": "Chinese - Mandarin - Simplified - Malaysia",
+    "dcncTag": "CSMY",
+    "rfc5646Tag": "cmn-Hans-MY",
+    "use": [
+      "text"
+    ]
+  },
+  {
+    "comments": [
+      "(Subtitles only)"
+    ],
+    "dcncLanguage": "Chinese - Mandarin - Simplified - Singapore",
+    "dcncTag": "CSSG",
+    "rfc5646Tag": "cmn-Hans-SG",
+    "use": [
+      "text"
+    ]
+  },
+  {
+    "comments": [
+      "(Subtitles only)"
+    ],
+    "dcncLanguage": "Chinese - Mandarin - Simplified - Taiwan",
+    "dcncTag": "CSTW",
+    "rfc5646Tag": "cmn-Hans-TW",
+    "use": [
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Chinese - Mandarin - Taiwan",
+    "dcncTag": "QTM",
+    "rfc5646Tag": "cmn-TW",
+    "use": [
+      "audio"
+    ]
+  },
+  {
+    "comments": [
+      "(Subtitles only)"
+    ],
+    "dcncLanguage": "Chinese - Mandarin - Traditional",
     "dcncTag": "QMT",
     "rfc5646Tag": "cmn-Hant",
     "use": [
@@ -511,15 +578,130 @@
     ]
   },
   {
-    "dcncLanguage": "Chinese - Simplified",
-    "dcncTag": "ZHS",
-    "rfc5646Tag": "zh-Hans",
+    "comments": [
+      "(Subtitles only)"
+    ],
+    "dcncLanguage": "Chinese - Mandarin - Traditional - China mainland",
+    "dcncTag": "CTCN",
+    "rfc5646Tag": "cmn-Hant-CN",
     "use": [
-      "audio",
       "text"
     ]
   },
   {
+    "comments": [
+      "(Subtitles only)"
+    ],
+    "dcncLanguage": "Chinese - Mandarin - Traditional - Hong Kong",
+    "dcncTag": "CTHK",
+    "rfc5646Tag": "cmn-Hant-HK",
+    "use": [
+      "text"
+    ]
+  },
+  {
+    "comments": [
+      "(Subtitles only)"
+    ],
+    "dcncLanguage": "Chinese - Mandarin - Traditional - Macao",
+    "dcncTag": "CTMO",
+    "rfc5646Tag": "cmn-Hant-MO",
+    "use": [
+      "text"
+    ]
+  },
+  {
+    "comments": [
+      "(Subtitles only)"
+    ],
+    "dcncLanguage": "Chinese - Mandarin - Traditional - Malaysia",
+    "dcncTag": "CTMY",
+    "rfc5646Tag": "cmn-Hant-MY",
+    "use": [
+      "text"
+    ]
+  },
+  {
+    "comments": [
+      "(Subtitles only)"
+    ],
+    "dcncLanguage": "Chinese - Mandarin - Traditional - Singapore",
+    "dcncTag": "CTSG",
+    "rfc5646Tag": "cmn-Hant-SG",
+    "use": [
+      "text"
+    ]
+  },
+  {
+    "comments": [
+      "(Subtitles only)"
+    ],
+    "dcncLanguage": "Chinese - Mandarin - Traditional - Taiwan",
+    "dcncTag": "CTTW",
+    "rfc5646Tag": "cmn-Hant-TW",
+    "use": [
+      "text"
+    ]
+  },
+  {
+    "comments": [
+      "(Audio only)"
+    ],
+    "dcncLanguage": "Chinese - Min Nan",
+    "dcncTag": "NAN",
+    "rfc5646Tag": "nan",
+    "use": [
+      "audio"
+    ]
+  },
+  {
+    "comments": [
+      "(Subtitles only)"
+    ],
+    "dcncLanguage": "Chinese - Simplified",
+    "dcncTag": "ZHS",
+    "rfc5646Tag": "zh-Hans",
+    "use": [
+      "text"
+    ]
+  },
+  {
+    "comments": [
+      "(Subtitles only)"
+    ],
+    "dcncLanguage": "Chinese - Simplified - China mainland",
+    "dcncTag": "ZSCN",
+    "rfc5646Tag": "zh-Hans-CN",
+    "use": [
+      "text"
+    ]
+  },
+  {
+    "comments": [
+      "(Subtitles only)"
+    ],
+    "dcncLanguage": "Chinese - Simplified - Hong Kong",
+    "dcncTag": "ZSHK",
+    "rfc5646Tag": "zh-Hans-HK",
+    "use": [
+      "text"
+    ]
+  },
+  {
+    "comments": [
+      "(Subtitles only)"
+    ],
+    "dcncLanguage": "Chinese - Simplified - Macao",
+    "dcncTag": "ZSMO",
+    "rfc5646Tag": "zh-Hans-MO",
+    "use": [
+      "text"
+    ]
+  },
+  {
+    "comments": [
+      "(Subtitles only)"
+    ],
     "dcncLanguage": "Chinese - Simplified - Malaysia",
     "dcncTag": "ZSMY",
     "rfc5646Tag": "zh-Hans-MY",
@@ -528,80 +710,101 @@
     ]
   },
   {
+    "comments": [
+      "(Subtitles only)"
+    ],
     "dcncLanguage": "Chinese - Simplified - Singapore",
     "dcncTag": "ZSSG",
     "rfc5646Tag": "zh-Hans-SG",
     "use": [
-      "audio",
       "text"
     ]
   },
   {
+    "comments": [
+      "(Subtitles only)"
+    ],
     "dcncLanguage": "Chinese - Simplified - Taiwan ",
     "dcncTag": "ZSTW",
     "rfc5646Tag": "zh-Hans-TW",
     "use": [
-      "audio",
       "text"
     ]
   },
   {
-    "dcncLanguage": "Chinese - Taiwanese - Min Nan",
-    "dcncTag": "NAN",
-    "rfc5646Tag": "nan",
-    "use": [
-      "audio"
-    ]
-  },
-  {
-    "dcncLanguage": "Chinese - Taiwanese Mandarin",
-    "dcncTag": "QTM",
-    "rfc5646Tag": "cmn-TW",
-    "use": [
-      "audio"
-    ]
-  },
-  {
+    "comments": [
+      "(Subtitles only)"
+    ],
     "dcncLanguage": "Chinese - Traditional",
     "dcncTag": "ZHT",
     "rfc5646Tag": "zh-Hant",
     "use": [
-      "audio",
       "text"
     ]
   },
   {
+    "comments": [
+      "(Subtitles only)"
+    ],
+    "dcncLanguage": "Chinese - Traditional - China mainland",
+    "dcncTag": "ZTCN",
+    "rfc5646Tag": "zh-Hant-CN",
+    "use": [
+      "text"
+    ]
+  },
+  {
+    "comments": [
+      "(Subtitles only)"
+    ],
     "dcncLanguage": "Chinese - Traditional - Hong Kong",
     "dcncTag": "ZTHK",
     "rfc5646Tag": "zh-Hant-HK",
     "use": [
-      "audio",
       "text"
     ]
   },
   {
+    "comments": [
+      "(Subtitles only)"
+    ],
     "dcncLanguage": "Chinese - Traditional - Macao SAR",
     "dcncTag": "ZTMO",
     "rfc5646Tag": "zh-Hant-MO",
     "use": [
-      "audio",
       "text"
     ]
   },
   {
+    "comments": [
+      "(Subtitles only)"
+    ],
     "dcncLanguage": "Chinese - Traditional - Malaysia",
     "dcncTag": "ZTMY",
     "rfc5646Tag": "zh-Hant-MY",
     "use": [
-      "audio"
+      "text"
     ]
   },
   {
+    "comments": [
+      "(Subtitles only)"
+    ],
+    "dcncLanguage": "Chinese - Traditional - Singapore",
+    "dcncTag": "ZTSG",
+    "rfc5646Tag": "zh-Hant-SG",
+    "use": [
+      "text"
+    ]
+  },
+  {
+    "comments": [
+      "(Subtitles only)"
+    ],
     "dcncLanguage": "Chinese - Traditional - Taiwan",
     "dcncTag": "ZTTW",
     "rfc5646Tag": "zh-Hant-TW",
     "use": [
-      "audio",
       "text"
     ]
   },
