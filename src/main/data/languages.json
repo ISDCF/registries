@@ -2383,7 +2383,7 @@
     "dcncTag": "SRBA",
     "rfc5646Tag": "sr-BA",
     "use": [
-      "audio",
+      "audio"
     ]
   },
   {
@@ -2442,7 +2442,7 @@
     "dcncTag": "SRME",
     "rfc5646Tag": "sr-ME",
     "use": [
-      "audio",
+      "audio"
     ]
   },
   {
