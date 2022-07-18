@@ -243,7 +243,6 @@
     "dcncTag": "AZCY",
     "rfc5646Tag": "az-Cyrl",
     "use": [
-      "audio",
       "text"
     ]
   },
@@ -252,7 +251,6 @@
     "dcncTag": "AZLT",
     "rfc5646Tag": "az-Latn",
     "use": [
-      "audio",
       "text"
     ]
   },
@@ -309,7 +307,6 @@
     "dcncTag": "BSCY",
     "rfc5646Tag": "bs-Cyrl",
     "use": [
-      "audio",
       "text"
     ]
   },
@@ -385,7 +382,6 @@
     "dcncTag": "TZMA",
     "rfc5646Tag": "tzm-Arab-MA",
     "use": [
-      "audio",
       "text"
     ]
   },
@@ -403,7 +399,6 @@
     "dcncTag": "TZMT",
     "rfc5646Tag": "tzm-Tfng",
     "use": [
-      "audio",
       "text"
     ]
   },
@@ -412,7 +407,6 @@
     "dcncTag": "TZMM",
     "rfc5646Tag": "tzm-Tfng-MA",
     "use": [
-      "audio",
       "text"
     ]
   },
@@ -1327,7 +1321,6 @@
     "dcncTag": "FFL",
     "rfc5646Tag": "ff-Latn",
     "use": [
-      "audio",
       "text"
     ]
   },
@@ -1336,7 +1329,6 @@
     "dcncTag": "FFLN",
     "rfc5646Tag": "ff-Latn-NG",
     "use": [
-      "audio",
       "text"
     ]
   },
@@ -1345,7 +1337,6 @@
     "dcncTag": "FFLS",
     "rfc5646Tag": "ff-Latn-SN",
     "use": [
-      "audio",
       "text"
     ]
   },
@@ -1488,7 +1479,6 @@
     "dcncTag": "HALT",
     "rfc5646Tag": "ha-Latn",
     "use": [
-      "audio",
       "text"
     ]
   },
@@ -1497,7 +1487,6 @@
     "dcncTag": "HALN",
     "rfc5646Tag": "ha-Latn-NG",
     "use": [
-      "audio",
       "text"
     ]
   },
@@ -1609,7 +1598,6 @@
     "dcncTag": "IUC",
     "rfc5646Tag": "iu-Cans",
     "use": [
-      "audio",
       "text"
     ]
   },
@@ -1714,7 +1702,6 @@
     "dcncTag": "KSDI",
     "rfc5646Tag": "ks-Deva-IN",
     "use": [
-      "audio",
       "text"
     ]
   },
@@ -1930,7 +1917,6 @@
     "dcncTag": "MNBI",
     "rfc5646Tag": "mni-Beng-IN",
     "use": [
-      "audio",
       "text"
     ]
   },
@@ -2002,7 +1988,6 @@
     "dcncTag": "MNMT",
     "rfc5646Tag": "mn-Mong",
     "use": [
-      "audio",
       "text"
     ]
   },
@@ -2011,7 +1996,6 @@
     "dcncTag": "MNMC",
     "rfc5646Tag": "mn-Mong-CN",
     "use": [
-      "audio",
       "text"
     ]
   },
@@ -2182,7 +2166,6 @@
     "dcncTag": "PJA",
     "rfc5646Tag": "pa-Arab",
     "use": [
-      "audio",
       "text"
     ]
   },
@@ -2436,7 +2419,6 @@
     "dcncTag": "SRCY",
     "rfc5646Tag": "sr-Cyrl",
     "use": [
-      "audio",
       "text"
     ]
   },
@@ -2445,16 +2427,17 @@
     "dcncTag": "SRCB",
     "rfc5646Tag": "sr-Cyrl-BA",
     "use": [
-      "audio",
       "text"
     ]
   },
   {
     "dcncLanguage": "Serbian - Cyrillic - Montenegro",
-    "dcncTag": "SYCM",
+    "dcncTag": "SRCM",
+    "obsoleteDCNCTags": [
+      "SYCM"
+    ],
     "rfc5646Tag": "sr-Cyrl-ME",
     "use": [
-      "audio",
       "text"
     ]
   },
@@ -2463,7 +2446,6 @@
     "dcncTag": "SRLT",
     "rfc5646Tag": "sr-Latn",
     "use": [
-      "audio",
       "text"
     ]
   },
@@ -2472,7 +2454,6 @@
     "dcncTag": "SRLB",
     "rfc5646Tag": "sr-Latn-BA",
     "use": [
-      "audio",
       "text"
     ]
   },
@@ -2481,7 +2462,6 @@
     "dcncTag": "SRLM",
     "rfc5646Tag": "sr-Latn-ME",
     "use": [
-      "audio",
       "text"
     ]
   },
@@ -2508,7 +2488,6 @@
     "dcncTag": "SDAR",
     "rfc5646Tag": "sd-Arab",
     "use": [
-      "audio",
       "text"
     ]
   },
@@ -2517,7 +2496,6 @@
     "dcncTag": "SIN",
     "rfc5646Tag": "sd-Deva-IN",
     "use": [
-      "audio",
       "text"
     ]
   },
@@ -2872,7 +2850,6 @@
     "dcncTag": "TGCY",
     "rfc5646Tag": "tg-Cyrl",
     "use": [
-      "audio",
       "text"
     ]
   },
@@ -2881,7 +2858,6 @@
     "dcncTag": "TGCT",
     "rfc5646Tag": "tg-Cyrl-TJ",
     "use": [
-      "audio",
       "text"
     ]
   },
