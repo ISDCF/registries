@@ -1491,15 +1491,6 @@
     ]
   },
   {
-    "dcncLanguage": "Hausa - Nigeria",
-    "dcncTag": "HANG",
-    "rfc5646Tag": "ha-NG",
-    "use": [
-      "audio",
-      "text"
-    ]
-  },
-  {
     "dcncLanguage": "Hawaiian",
     "dcncTag": "HAW",
     "rfc5646Tag": "haw",
@@ -1706,15 +1697,6 @@
     ]
   },
   {
-    "dcncLanguage": "Kashmiri - India",
-    "dcncTag": "KSIN",
-    "rfc5646Tag": "ks-IN",
-    "use": [
-      "audio",
-      "text"
-    ]
-  },
-  {
     "dcncLanguage": "Kazakh",
     "dcncTag": "KK",
     "rfc5646Tag": "kk",
@@ -1917,15 +1899,6 @@
     "dcncTag": "MNBI",
     "rfc5646Tag": "mni-Beng-IN",
     "use": [
-      "text"
-    ]
-  },
-  {
-    "dcncLanguage": "Manipuri - India",
-    "dcncTag": "MNIN",
-    "rfc5646Tag": "mni-IN",
-    "use": [
-      "audio",
       "text"
     ]
   },
@@ -2858,15 +2831,6 @@
     "dcncTag": "TGCT",
     "rfc5646Tag": "tg-Cyrl-TJ",
     "use": [
-      "text"
-    ]
-  },
-  {
-    "dcncLanguage": "Tajik - Tajikistan",
-    "dcncTag": "TGTJ",
-    "rfc5646Tag": "tg-TJ",
-    "use": [
-      "audio",
       "text"
     ]
   },
