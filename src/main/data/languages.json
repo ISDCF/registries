@@ -2475,8 +2475,7 @@
     "dcncTag": "SDIN",
     "rfc5646Tag": "sd-IN",
     "use": [
-      "audio",
-      "text"
+      "audio"
     ]
   },
   {
