@@ -1341,6 +1341,15 @@
     ]
   },
   {
+    "dcncLanguage": "Fulah - Nigeria",
+    "dcncTag": "FFNG",
+    "rfc5646Tag": "ff-NG",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
     "dcncLanguage": "Galician",
     "dcncTag": "GL",
     "rfc5646Tag": "gl",
@@ -1930,6 +1939,15 @@
     ]
   },
   {
+    "dcncLanguage": "Mongolian - China",
+    "dcncTag": "MNCN",
+    "rfc5646Tag": "mn-CN",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
     "dcncLanguage": "Mongolian - Traditional",
     "dcncTag": "MNMT",
     "rfc5646Tag": "mn-Mong",
@@ -2361,9 +2379,13 @@
   },
   {
     "dcncLanguage": "Serbian - Cyrillic - Bosnia and Herzegovina",
-    "dcncTag": "SRCB",
-    "rfc5646Tag": "sr-Cyrl-BA",
+    "dcncTag": "SRBA",
+    "obsoleteDCNCTags": [
+      "SRCB"
+    ],
+    "rfc5646Tag": "sr-BA",
     "use": [
+      "audio",
       "text"
     ]
   },
@@ -2396,9 +2418,13 @@
   },
   {
     "dcncLanguage": "Serbian - Latin - Montenegro",
-    "dcncTag": "SRLM",
-    "rfc5646Tag": "sr-Latn-ME",
+    "dcncTag": "SRME",
+    "obsoleteDCNCTags": [
+      "SRLM"
+    ],
+    "rfc5646Tag": "sr-ME",
     "use": [
+      "audio",
       "text"
     ]
   },
@@ -2422,8 +2448,9 @@
   {
     "dcncLanguage": "Sindhi - Devanagari - India",
     "dcncTag": "SIN",
-    "rfc5646Tag": "sd-Deva-IN",
+    "rfc5646Tag": "sd-IN",
     "use": [
+      "audio",
       "text"
     ]
   },
