@@ -2370,14 +2370,6 @@
     ]
   },
   {
-    "dcncLanguage": "Serbian - Bosnia and Herzegovina",
-    "dcncTag": "SRBA",
-    "rfc5646Tag": "sr-BA",
-    "use": [
-      "audio"
-    ]
-  },
-  {
     "dcncLanguage": "Serbian - Cyrillic",
     "dcncTag": "SRCY",
     "rfc5646Tag": "sr-Cyrl",
@@ -2431,14 +2423,6 @@
     ]
   },
   {
-    "dcncLanguage": "Serbian - Montenegro",
-    "dcncTag": "SRME",
-    "rfc5646Tag": "sr-ME",
-    "use": [
-      "audio"
-    ]
-  },
-  {
     "dcncLanguage": "Sindhi",
     "dcncTag": "SD",
     "rfc5646Tag": "sd",
@@ -2462,14 +2446,6 @@
     "use": [
       "audio",
       "text"
-    ]
-  },
-  {
-    "dcncLanguage": "Sindhi - India",
-    "dcncTag": "SDIN",
-    "rfc5646Tag": "sd-IN",
-    "use": [
-      "audio"
     ]
   },
   {
