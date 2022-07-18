@@ -2379,7 +2379,10 @@
   },
   {
     "dcncLanguage": "Serbian - Cyrillic - Bosnia and Herzegovina",
-    "dcncTag": "SRCB",
+    "dcncTag": "SRBA",
+    "obsoleteDCNCTags": [
+      "SRCB"
+    ],
     "rfc5646Tag": "sr-BA",
     "use": [
       "audio",
@@ -2415,7 +2418,10 @@
   },
   {
     "dcncLanguage": "Serbian - Latin - Montenegro",
-    "dcncTag": "SRLM",
+    "dcncTag": "SRME",
+    "obsoleteDCNCTags": [
+      "SRLM"
+    ],
     "rfc5646Tag": "sr-ME",
     "use": [
       "audio",
