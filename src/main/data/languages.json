@@ -803,6 +803,15 @@
     ]
   },
   {
+    "dcncLanguage": "Comanche",
+    "dcncTag": "COM",
+    "rfc5646Tag": "com",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
     "dcncLanguage": "Corsican",
     "dcncTag": "CO",
     "rfc5646Tag": "co",
