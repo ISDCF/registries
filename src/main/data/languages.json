@@ -1350,15 +1350,6 @@
     ]
   },
   {
-    "dcncLanguage": "Fulah - Senegal",
-    "dcncTag": "FFSN",
-    "rfc5646Tag": "ff-SN",
-    "use": [
-      "audio",
-      "text"
-    ]
-  },
-  {
     "dcncLanguage": "Galician",
     "dcncTag": "GL",
     "rfc5646Tag": "gl",
