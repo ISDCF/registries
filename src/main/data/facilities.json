@@ -3113,6 +3113,11 @@
     "description": "MILKHAUS"
   },
   {
+    "code": "MHK",
+    "description": "mediahaus Kreischa",
+    "url": "https://mediahaus-kreischa.de"
+  },
+  {
     "code": "MI1",
     "description": "MIDIM Studios",
     "url": "https://studios.midim.fr/"
