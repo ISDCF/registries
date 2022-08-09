@@ -2224,6 +2224,16 @@
     "description": "GODDAM ART AGENCY"
   },
   {
+    "code": "GAL",
+    "contact": {
+      "address": "3-7-2 Irifune, Chuou-ku, Tokyo, JAPAN",
+      "email": "tetsuo.kikuchi@galenterprise.co.jp",
+      "name": "Tetsuo Kikuchi"
+    },
+    "description": "GAL ENTERPRISE Inc",
+    "url": "https://galenterprise.co.jp"
+  },
+  {
     "code": "GAR",
     "description": "GARRISON"
   },
@@ -3431,6 +3441,16 @@
     },
     "description": "Noisefloor",
     "url": "https://noise-floor.com"
+  },
+  {
+    "code": "NGC",
+    "contact": {
+      "address": "1145 17th St NW Washington DC 20036 USA",
+      "email": "matt.conlon@natgeo.com",
+      "name": "Matt Conlon"
+    },
+    "description": "National Geographic Channel",
+    "url": "https://films.nationalgeographic.com/"
   },
   {
     "code": "NIM",
