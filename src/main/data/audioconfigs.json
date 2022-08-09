@@ -97,8 +97,8 @@
     "cplMetadata": {
       "definingDocs": [
         {
-          "name": "ISDCF Doc 15",
-          "url": "https://isdcf.com/papers/ISDCF-Doc15-IAB-Profile-1-202006012.pdf"
+          "name": "SMPTE RDD 57:2021",
+          "url": "https://doi.org/10.5594/SMPTE.RDD57.2021"
         }
       ],
       "extension": {

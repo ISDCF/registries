@@ -3448,6 +3448,16 @@
     "url": "https://noise-floor.com"
   },
   {
+    "code": "NGC",
+    "contact": {
+      "address": "1145 17th St NW Washington DC 20036 USA",
+      "email": "matt.conlon@natgeo.com",
+      "name": "Matt Conlon"
+    },
+    "description": "National Geographic Channel",
+    "url": "https://films.nationalgeographic.com/"
+  },
+  {
     "code": "NIM",
     "description": "NIMIC PRODUCTIONS"
   },
