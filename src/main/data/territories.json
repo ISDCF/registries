@@ -591,8 +591,11 @@
     "tag": "TN"
   },
   {
+    "comments": [
+      "Legacy territory name: 'Turkey'"
+    ],
     "dcncTag": "TR",
-    "dcncTerritory": "Turkey",
+    "dcncTerritory": "Türkiye",
     "tag": "TR"
   },
   {
