@@ -878,8 +878,8 @@
   },
   {
     "dcncLanguage": "Dari",
-    "dcncTag": "PRD",
-    "rfc5646Tag": "prd",
+    "dcncTag": "PRS",
+    "rfc5646Tag": "prs",
     "use": [
       "audio",
       "text"
