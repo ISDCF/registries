@@ -878,8 +878,8 @@
   },
   {
     "dcncLanguage": "Dari",
-    "dcncTag": "PRD",
-    "rfc5646Tag": "prd",
+    "dcncTag": "PRS",
+    "rfc5646Tag": "prs",
     "use": [
       "audio",
       "text"
@@ -2069,6 +2069,15 @@
     "dcncLanguage": "Papiamento - Caribbean",
     "dcncTag": "PAPC",
     "rfc5646Tag": "pap-029",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Parsi-Dari",
+    "dcncTag": "PRD",
+    "rfc5646Tag": "prd",
     "use": [
       "audio",
       "text"
