@@ -2075,15 +2075,6 @@
     ]
   },
   {
-    "dcncLanguage": "Parsi-Dari",
-    "dcncTag": "PRD",
-    "rfc5646Tag": "prd",
-    "use": [
-      "audio",
-      "text"
-    ]
-  },
-  {
     "dcncLanguage": "Pashto",
     "dcncTag": "PS",
     "rfc5646Tag": "ps",
