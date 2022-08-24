@@ -50,7 +50,7 @@
     "description": "Dolby Vision",
     "extension": {
       "extName": "Dolby EDR",
-      "extScope": "http://www.dolby.com/schemas/2014/EDR-metadata",
+      "extScope": "http://www.dolby.com/schemas/2014/EDR-Metadata",
       "extpropName": "image transfer function",
       "extpropValue": "PQ10K"
     }
