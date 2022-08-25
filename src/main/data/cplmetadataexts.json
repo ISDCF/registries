@@ -46,11 +46,11 @@
     "note": "Where [DESCRIPTION] is a Language-Tag, as specified in IETF RFC 5646, that identifies the sign language present in the Sign Language Video Track"
   },
   {
-    "contact": "mrenl@dolby.com",
+    "contact": "https://customer.dolby.com/content-creation-and-delivery/contact-us",
     "description": "Dolby Vision",
     "extension": {
       "extName": "Dolby EDR",
-      "extScope": "http://www.dolby.com/schemas/2014/EDR-metadata",
+      "extScope": "http://www.dolby.com/schemas/2014/EDR-Metadata",
       "extpropName": "image transfer function",
       "extpropValue": "PQ10K"
     }
