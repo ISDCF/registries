@@ -229,6 +229,16 @@
     "description": "AKADCP"
   },
   {
+    "code": "AKC",
+    "contact": {
+      "address": "91 Mill St N Port Hope, Ontario L1A2T3 Canada",
+      "email": "contact@adamkempcolour.com",
+      "name": "James Adam Kemp"
+    },
+    "description": "Adam Kemp Colour",
+    "url": "https://www.adamkempcolour.com"
+  },
+  {
     "code": "AKS",
     "description": "Andrei Konchalovsky Studios"
   },
