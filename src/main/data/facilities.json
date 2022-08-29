@@ -863,7 +863,12 @@
   },
   {
     "code": "CJP",
-    "description": "CJ POWERCAST ART AND TECHNOLOGY"
+    "description": "CJ POWERCAST ART AND TECHNOLOGY,
+    "obsolete": true,
+    "obsoletedBy": [
+      "CJO"
+    ],
+    
   },
   {
     "code": "CL",
