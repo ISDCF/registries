@@ -2976,6 +2976,11 @@
     "description": "LOMOTION AG"
   },
   {
+    "code": "LOO",
+    "description": "Loom Post Brussels",
+    "url": "https://www.loompost.tv"
+  },
+  {
     "code": "LP",
     "description": "LAST PICTURES",
     "obsolete": true
