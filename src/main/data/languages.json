@@ -1083,8 +1083,8 @@
   },
   {
     "dcncLanguage": "English - United Arab Emirates",
-    "dcncTag": "EUA",
-    "rfc5646Tag": "en-UA",
+    "dcncTag": "EAE",
+    "rfc5646Tag": "en-AE",
     "use": [
       "audio",
       "text"
@@ -1264,8 +1264,8 @@
   },
   {
     "dcncLanguage": "French - Monaco",
-    "dcncTag": "FRMO",
-    "rfc5646Tag": "fr-MO",
+    "dcncTag": "FRMC",
+    "rfc5646Tag": "fr-MC",
     "use": [
       "audio",
       "text"
