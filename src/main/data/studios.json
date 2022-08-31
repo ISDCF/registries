@@ -175,6 +175,16 @@
     "description": "AV-DESIGN"
   },
   {
+    "code": "BA",
+    "contact": {
+      "address": "Lindenallee 55/57, 15366 Hoppegarten, Germany",
+      "email": "d.foerstner@bundesarchiv.de",
+      "name": "Mr. Foerstner"
+    },
+    "description": "Bundesarchiv",
+    "url": "https://www.bundesarchiv.de/"
+  },
+  {
     "code": "BAQ",
     "contact": {
       "address": "4639 Huron Ave, San Diego, CA 92117",
