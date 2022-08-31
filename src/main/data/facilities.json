@@ -2411,6 +2411,16 @@
     "description": "HEADQUARTER"
   },
   {
+    "code": "HE",
+    "contact": {
+      "address": "319 Pinehurst Dr SE Tumwater, WA 98501 USA",
+      "email": "seth@highwater.co",
+      "name": "Seth Himes"
+    },
+    "description": "Highwater Entertainment",
+    "url": "http://highwater.co/"
+  },
+  {
     "code": "HFF",
     "description": "HFF Konrad Wolf",
     "url": "https://www.filmuniversitaet.de"
