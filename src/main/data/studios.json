@@ -171,8 +171,28 @@
     "description": "ASIA TROPICAL FILMS"
   },
   {
+    "code": "AVA",
+    "contact": {
+      "address": "PLAZA DEL CORDÓN, 2 BAJO IZQUIERDA, 28005 MADRID, Spain",
+      "email": "mcolorado@avalon.me",
+      "name": "MARCOS COLORADO"
+    },
+    "description": "AVALON DISTRIBUCIÓN AUDIOVISUAL, C.L.",
+    "url": "http://www.avalon.me"
+  },
+  {
     "code": "AVD",
     "description": "AV-DESIGN"
+  },
+  {
+    "code": "BA",
+    "contact": {
+      "address": "Lindenallee 55/57, 15366 Hoppegarten, Germany",
+      "email": "d.foerstner@bundesarchiv.de",
+      "name": "Mr. Foerstner"
+    },
+    "description": "Bundesarchiv",
+    "url": "https://www.bundesarchiv.de/"
   },
   {
     "code": "BAQ",
@@ -265,6 +285,16 @@
   {
     "code": "BOY",
     "description": "Bannerboy AB"
+  },
+  {
+    "code": "BPF",
+    "contact": {
+      "address": "Rua João Chagas, 8C, Spain",
+      "email": "jdias@bigpicture.pt",
+      "name": "Jorge Dias"
+    },
+    "description": "Big Picture Films",
+    "url": "http://www.bigpicture.es"
   },
   {
     "code": "BRM",
@@ -856,6 +886,16 @@
     },
     "description": "Jack Parry Animation Studios Pty Ltd",
     "url": "https://parrystudios.com"
+  },
+  {
+    "code": "K2A",
+    "contact": {
+      "address": "Unit 4,7 Grevillea St, BYRON BAY NSW 2481 AUSTRALIA",
+      "email": "david@definitionstudios.com.au",
+      "name": "Mr David Gross"
+    },
+    "description": "K2 Studios Australia",
+    "url": "https://www.k2studios.us"
   },
   {
     "code": "KCP",
@@ -1651,6 +1691,16 @@
     "url": "https://www.tencent.com/en-us/business.html"
   },
   {
+    "code": "TFL",
+    "contact": {
+      "address": "26311 NE Valley St #219, Duvall, Washington, 98019 USA",
+      "email": "startmeup@gmail.com",
+      "name": "Joey Capone"
+    },
+    "description": "Theo Films LLC",
+    "url": "https://theofilms.com"
+  },
+  {
     "code": "TGF",
     "description": "Ted Green Films"
   },
@@ -1701,6 +1751,16 @@
   {
     "code": "TSS",
     "description": "The Solid State"
+  },
+  {
+    "code": "TTP",
+    "contact": {
+      "address": "Via Volterra 1 c 00182 Rome, Italy",
+      "email": "vincenzomarinese@gmail.com",
+      "name": "Vincenzo Marinese"
+    },
+    "description": "TTPixel Studio",
+    "url": "https://www.ttpixelstudio.it"
   },
   {
     "code": "TVC",
