@@ -788,6 +788,16 @@
     "url": "https://hulu.com"
   },
   {
+    "code": "HYST",
+    "contact": {
+      "address": "7-1 Brock Avenue, Toronto, Ontario, Canada M6K 2K6",
+      "email": "jason@hystfilms.com",
+      "name": "Jason Speir"
+    },
+    "description": "HYST Films",
+    "url": "https://www.hystfilms.com"
+  },
+  {
     "code": "ICON",
     "description": "ICON ENTERTAINMENT"
   },
