@@ -4967,6 +4967,16 @@
     "description": "Tangren Cultural Film Group"
   },
   {
+    "code": "TTP",
+    "contact": {
+      "address": "Via Volterra 1 c 00182 Rome, Italy",
+      "email": "vincenzomarinese@gmail.com",
+      "name": "Vincenzo Marinese"
+    },
+    "description": "TTPixel Studio",
+    "url": "https://www.ttpixelstudio.it"
+  },
+  {
     "code": "TVC",
     "description": "TVC SOHO"
   },
