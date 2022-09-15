@@ -171,6 +171,16 @@
     "description": "ASIA TROPICAL FILMS"
   },
   {
+    "code": "AVA",
+    "contact": {
+      "address": "PLAZA DEL CORDÓN, 2 BAJO IZQUIERDA, 28005 MADRID, Spain",
+      "email": "mcolorado@avalon.me",
+      "name": "MARCOS COLORADO"
+    },
+    "description": "AVALON DISTRIBUCIÓN AUDIOVISUAL, C.L.",
+    "url": "http://www.avalon.me"
+  },
+  {
     "code": "AVD",
     "description": "AV-DESIGN"
   },
@@ -856,6 +866,16 @@
     },
     "description": "Jack Parry Animation Studios Pty Ltd",
     "url": "https://parrystudios.com"
+  },
+  {
+    "code": "K2A",
+    "contact": {
+      "address": "Unit 4,7 Grevillea St, BYRON BAY NSW 2481 AUSTRALIA",
+      "email": "david@definitionstudios.com.au",
+      "name": "Mr David Gross"
+    },
+    "description": "K2 Studios Australia",
+    "url": "https://www.k2studios.us"
   },
   {
     "code": "KCP",
@@ -1701,6 +1721,16 @@
   {
     "code": "TSS",
     "description": "The Solid State"
+  },
+  {
+    "code": "TTP",
+    "contact": {
+      "address": "Via Volterra 1 c 00182 Rome, Italy",
+      "email": "vincenzomarinese@gmail.com",
+      "name": "Vincenzo Marinese"
+    },
+    "description": "TTPixel Studio",
+    "url": "https://www.ttpixelstudio.it"
   },
   {
     "code": "TVC",

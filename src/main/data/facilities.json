@@ -4836,6 +4836,16 @@
     "description": "TOKYO LABORATORY"
   },
   {
+    "code": "THF",
+    "contact": {
+      "address": "26311 NE valley st. #219, Duvall, Washington, 98019, USA",
+      "email": "startmeup@gmail.com",
+      "name": "Joey Capone"
+    },
+    "description": "Theo Films LLC",
+    "url": "https://theofilms.com"
+  },
+  {
     "code": "TIE",
     "description": "TELEIMAGE (BRASIL)"
   },
@@ -4965,6 +4975,16 @@
   {
     "code": "TRN",
     "description": "Tangren Cultural Film Group"
+  },
+  {
+    "code": "TTP",
+    "contact": {
+      "address": "Via Volterra 1 c 00182 Rome, Italy",
+      "email": "vincenzomarinese@gmail.com",
+      "name": "Vincenzo Marinese"
+    },
+    "description": "TTPixel Studio",
+    "url": "https://www.ttpixelstudio.it"
   },
   {
     "code": "TVC",
