@@ -1693,6 +1693,16 @@
     "description": "The Solid State"
   },
   {
+    "code": "TTP",
+    "contact": {
+      "address": "Via Volterra 1 c 00182 Rome, Italy",
+      "email": "vincenzomarinese@gmail.com",
+      "name": "Vincenzo Marinese"
+    },
+    "description": "TTPixel Studio",
+    "url": "https://www.ttpixelstudio.it"
+  },
+  {
     "code": "TVC",
     "contact": {
       "address": "Via Buccari 16, 00195 ROMA RM, Italy",
