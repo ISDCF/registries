@@ -171,6 +171,16 @@
     "description": "ASIA TROPICAL FILMS"
   },
   {
+    "code": "AVA",
+    "contact": {
+      "address": "PLAZA DEL CORDÓN, 2 BAJO IZQUIERDA, 28005 MADRID, Spain",
+      "email": "mcolorado@avalon.me",
+      "name": "MARCOS COLORADO"
+    },
+    "description": "AVALON DISTRIBUCIÓN AUDIOVISUAL, C.L.",
+    "url": "http://www.avalon.me"
+  },
+  {
     "code": "AVD",
     "description": "AV-DESIGN"
   },
