@@ -2796,6 +2796,16 @@
     "description": "KONVEYER LAB"
   },
   {
+    "code": "KOR",
+    "contact": {
+      "address": "via Saragozza 57, 40123 Bologna, Italy",
+      "email": "info@korelab.xyz",
+      "name": "Walter Cavatoi"
+    },
+    "description": "KORELAB",
+    "url": "https://www.korelab.xyz"
+  },
+  {
     "code": "KOT",
     "description": "KINO DIGITAL"
   },
