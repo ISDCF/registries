@@ -5223,6 +5223,16 @@
     "description": "Visom"
   },
   {
+    "code": "WAN",
+    "contact": {
+      "address": "calle Serrano, 98 3º exterior derecha, Madrid, Spain",
+      "email": "srequena@wanda.es",
+      "name": "Ms. Silvia Requena "
+    },
+    "description": "Wanda Vision",
+    "url": "https://www.wanda.es"
+  },
+  {
     "code": "WBE",
     "description": "West Bay Entertainment"
   },
