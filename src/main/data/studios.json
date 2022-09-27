@@ -524,6 +524,16 @@
     "description": "ELAMEDIA"
   },
   {
+    "code": "ELAS",
+    "contact": {
+      "address": "C/ Henri Dunant 19 Madrid, Spain",
+      "email": "atorres@elasticafilms.com",
+      "name": "Ana Torres"
+    },
+    "description": "ELASTICA FILMS",
+    "url": "https://twitter.com/ElasticaFilms"
+  },
+  {
     "code": "ELO",
     "description": "ELO FILM SCHOOL HELSINKI"
   },
