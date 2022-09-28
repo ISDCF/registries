@@ -3090,8 +3090,14 @@
     "description": "MAMUT FILMS"
   },
   {
-    "code": "MAN",
-    "description": "DCPMANUFAKTUR"
+    "code": "MAN",    
+    "contact": {
+      "address": "Friedbergstr. 36, 14057 Berlin, German",
+      "email": "sebastian@dcpmanufaktur.de",
+      "name": "Sebastian Boehm"
+    },
+    "description": "DCP Manufaktur",
+    "url": "https://dcpmanufaktur.de"
   },
   {
     "code": "MAQ",
