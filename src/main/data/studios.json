@@ -388,6 +388,16 @@
     "description": "CINEMA LIBRE STUDIO"
   },
   {
+    "code": "CMN",
+    "contact": {
+      "address": "CALLE NUESTRA SEÑORA DE LA PAZ 2, MADRID, Spain",
+      "email": "aa@cinemaran.com",
+      "name": "ANDRÉS ARÉVALO BETANCOURT"
+    },
+    "description": "CINEMARAN ",
+    "url": "https://cinemaran.com"
+  },
+  {
     "code": "CNRA",
     "description": "CINERAMA"
   },
@@ -580,6 +590,16 @@
   {
     "code": "FF",
     "description": "FOCUS FEATURES"
+  },
+  {
+    "code": "FFE",
+    "contact": {
+      "address": "C/Lincoln 11, 2º 4ª, 08006, Barcelona, Spain.",
+      "email": "alexandra@filmfactory.es",
+      "name": "Alexandra Cavaglià"
+    },
+    "description": "Film Factory Entertainment",
+    "url": "https://www.filmfactoryentertainment.com"
   },
   {
     "code": "FFF",
@@ -1571,6 +1591,11 @@
   {
     "code": "SLP",
     "description": "Searchlight Pictures"
+  },
+  {
+    "code": "SLV",
+    "description": "Selectavision",
+    "url": "https://www.selecta-vision.com"
   },
   {
     "code": "SM",
