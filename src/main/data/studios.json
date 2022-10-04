@@ -592,6 +592,16 @@
     "description": "FOCUS FEATURES"
   },
   {
+    "code": "FFE",
+    "contact": {
+      "address": "C/Lincoln 11, 2º 4ª, 08006, Barcelona, Spain.",
+      "email": "alexandra@filmfactory.es",
+      "name": "Alexandra Cavaglià"
+    },
+    "description": "Film Factory Entertainment",
+    "url": "https://www.filmfactoryentertainment.com"
+  },
+  {
     "code": "FFF",
     "description": "Felix Fahle Film"
   },
