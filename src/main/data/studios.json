@@ -388,6 +388,16 @@
     "description": "CINEMA LIBRE STUDIO"
   },
   {
+    "code": "CMN",
+    "contact": {
+      "address": "CALLE NUESTRA SEÑORA DE LA PAZ 2, MADRID, Spain",
+      "email": "aa@cinemaran.com",
+      "name": "ANDRÉS ARÉVALO BETANCOURT"
+    },
+    "description": "CINEMARAN ",
+    "url": "https://cinemaran.com"
+  },
+  {
     "code": "CNRA",
     "description": "CINERAMA"
   },
