@@ -402,6 +402,11 @@
     "description": "CINERAMA"
   },
   {
+    "code": "CON",
+    "description": "Conic",
+    "url": "https://www.conic.film"
+  },
+  {
     "code": "COP",
     "description": "COLOSO POST STUDIO"
   },
