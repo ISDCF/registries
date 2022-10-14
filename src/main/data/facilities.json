@@ -2639,6 +2639,11 @@
     "description": "The Image & Sound Factory"
   },
   {
+    "code": "ISO",
+    "description": "ISOTROPE",
+    "url": "https://www.isotrope.fr"
+  },
+  {
     "code": "ISP",
     "contact": {
       "address": "309 Wardlaw Ave. Winnipeg Manitoba R3G2V6, Canada",
