@@ -1233,6 +1233,16 @@
     "description": "DCP3D"
   },
   {
+    "code": "DA",
+    "contact": {
+      "address": "130 West 29th St New York, NY 10001 USA",
+      "email": "mark@digitalartsny.com",
+      "name": "Mark Spano"
+    },
+    "description": "Digital Arts NY",
+    "url": "https://digitalartsny.com"
+  },
+  {
     "code": "DAC",
     "description": "DACODEC"
   },
