@@ -1575,6 +1575,15 @@
     "description": "DIGITAL SALADE STUDIO"
   },
   {
+    "code": "DSA",
+    "contact": {
+      "address": "Unit 4, 7 Grevillea St, BYRON BAY NSW 2481 AUSTRALIA",
+      "email": "david@definitionstudios.com.au",
+      "name": "David Gross"
+    },
+    "description": "Definition Studios Australia"
+  },
+  {
     "code": "DSI",
     "description": "DUPLICATION SERVICES INC."
   },
