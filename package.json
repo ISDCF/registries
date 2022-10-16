@@ -16,7 +16,7 @@
   "author": "InterSociety Digital Cinema Forum (ISDCF) <info@isdcf.com>",
   "license": "CC-BY-4.0",
   "devDependencies": {
-    "@xmldom/xmldom": "^0.7.5",
+    "@xmldom/xmldom": "^0.8.3",
     "chai": "^4.2.0",
     "cldr-core": "^36.0.0",
     "cldr-localenames-modern": "^36.0.0",
