@@ -1233,6 +1233,16 @@
     "description": "DCP3D"
   },
   {
+    "code": "DA",
+    "contact": {
+      "address": "130 West 29th St New York, NY 10001 USA",
+      "email": "mark@digitalartsny.com",
+      "name": "Mark Spano"
+    },
+    "description": "Digital Arts NY",
+    "url": "https://digitalartsny.com"
+  },
+  {
     "code": "DAC",
     "description": "DACODEC"
   },
@@ -1573,6 +1583,15 @@
   {
     "code": "DS",
     "description": "DIGITAL SALADE STUDIO"
+  },
+  {
+    "code": "DSA",
+    "contact": {
+      "address": "Unit 4, 7 Grevillea St, BYRON BAY NSW 2481 AUSTRALIA",
+      "email": "david@definitionstudios.com.au",
+      "name": "David Gross"
+    },
+    "description": "Definition Studios Australia"
   },
   {
     "code": "DSI",
@@ -2136,6 +2155,11 @@
     },
     "description": "Filmprojektion Mondt",
     "url": "http://www.filmprojektion.de"
+  },
+  {
+    "code": "FPP",
+    "description": "Pigouille Prod",
+    "url": "https://www.pigouilleprod.com"
   },
   {
     "code": "FRA",
