@@ -768,6 +768,11 @@
     "description": "CUTTING EDGE SYDNEY"
   },
   {
+    "code": "CEL",
+    "description": "CELLULOIDHEAVEN",
+    "url": "https://www.celluloidheaven.de"
+  },
+  {
     "code": "CEN",
     "description": "CENTURY ENGINEERING"
   },
@@ -1231,6 +1236,16 @@
   {
     "code": "D3D",
     "description": "DCP3D"
+  },
+  {
+    "code": "DA",
+    "contact": {
+      "address": "130 West 29th St New York, NY 10001 USA",
+      "email": "mark@digitalartsny.com",
+      "name": "Mark Spano"
+    },
+    "description": "Digital Arts NY",
+    "url": "https://digitalartsny.com"
   },
   {
     "code": "DAC",
@@ -2147,6 +2162,11 @@
     "url": "http://www.filmprojektion.de"
   },
   {
+    "code": "FPP",
+    "description": "Pigouille Prod",
+    "url": "https://www.pigouilleprod.com"
+  },
+  {
     "code": "FRA",
     "description": "FRAMELAB"
   },
@@ -2646,6 +2666,11 @@
   {
     "code": "ISF",
     "description": "The Image & Sound Factory"
+  },
+  {
+    "code": "ISO",
+    "description": "ISOTROPE",
+    "url": "https://www.isotrope.fr"
   },
   {
     "code": "ISP",
@@ -5336,6 +5361,10 @@
     "obsoletedBy": [
       "DXL"
     ]
+  },
+  {
+    "code": "XVS",
+    "description": "aXel Vasquez Studio"
   },
   {
     "code": "XXL",
