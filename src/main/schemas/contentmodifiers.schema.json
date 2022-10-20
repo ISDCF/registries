@@ -58,7 +58,8 @@
             }
           }
       },
-      "required": [ "metaType", "definingDocs"]
+      "required": [ "metaType", "definingDocs"],
+      "additionalProperties": false
     }
   },
   "type": "array",
