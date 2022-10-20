@@ -198,18 +198,17 @@
   },
   {
     "cplMetadata": {
+      "attribute": "scope",
+      "attributeValue": "http://www.dolby.com/schemas/2014/EDR-metadata",
       "definingDocs": [
         {
           "name": "ISDCF CPL Metadata Extensions",
           "url": "https://www.isdcf.com/site/registry-cpl-extensions/"
         }
       ],
-      "extName": "Dolby EDR",
-      "extScope": "http://www.dolby.com/schemas/2014/EDR-metadata",
-      "extpropName": "image transfer function",
-      "extpropValue": "PQ10K",
+      "element": "ExtensionMetadata",
       "metaType": "Extension Present",
-      "scope": "http://www.dolby.com/schemas/2014/EDR-metadata"
+      "scope": "http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata"
     },
     "dcncCode": "DVis",
     "dcncSortOrder": 12,
