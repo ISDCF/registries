@@ -903,6 +903,11 @@
     "description": "Unspecified Independent Film Studio"
   },
   {
+    "code": "IPX",
+    "description": "Industry Pictures",
+    "url": "http://industryplant.biz"
+  },
+  {
     "code": "IRP",
     "description": "INFINITY ROAD PICTURES"
   },
