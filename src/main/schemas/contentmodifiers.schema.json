@@ -56,9 +56,23 @@
                 }
               }
             }
+          },
+          "extName": {
+              "type": "string"
+          },
+          "extpropName": {
+              "type": "string"
+          },
+          "extpropValue": {
+              "type": "string"
+          },
+          "extScope": {
+              "type": "string",
+              "format": "uri"
           }
       },
-      "required": [ "metaType", "definingDocs"]
+      "required": [ "metaType", "definingDocs"],
+      "additionalProperties": false
     }
   },
   "type": "array",
