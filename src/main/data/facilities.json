@@ -2529,6 +2529,16 @@
     "description": "IMAGES & SOUND LTD"
   },
   {
+    "code": "ICE",
+    "contact": {
+      "address": "16 rue blaise pascal, 17180 Périgny, FRANCE",
+      "email": "icestudio@cgrcinemas.fr",
+      "name": "Mr Fournier Roméo"
+    },
+    "description": "Immersive Cinema Experience",
+    "url": "https://www.icetheaters.com/"
+  },
+  {
     "code": "ICO",
     "description": "ICON STUDIOS"
   },
