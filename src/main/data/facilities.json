@@ -3648,6 +3648,16 @@
     "description": "OCTAMAS AG"
   },
   {
+    "code": "ODS",
+    "contact": {
+      "address": "89 rue barrault 75013 Paris, France",
+      "email": "philippe@onedayprod.com",
+      "name": "Philippe SCHNEIDER"
+    },
+    "description": "One Day Studio",
+    "url": "https://www.onedayprod.com"
+  },
+  {
     "code": "ODZ",
     "description": "ONEDOTZERO POST"
   },
