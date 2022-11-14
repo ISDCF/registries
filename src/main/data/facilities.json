@@ -364,6 +364,11 @@
     "description": "ASCENT MEDIA"
   },
   {
+    "code": "ASY",
+    "description": "Assembly",
+    "url": "https://www.assembly.tv"
+  },
+  {
     "code": "AT8",
     "description": "Atrium8 Gbr/Cine-film"
   },
@@ -2532,6 +2537,16 @@
   {
     "code": "IAS",
     "description": "IMAGES & SOUND LTD"
+  },
+  {
+    "code": "ICE",
+    "contact": {
+      "address": "16 rue blaise pascal, 17180 Périgny, FRANCE",
+      "email": "icestudio@cgrcinemas.fr",
+      "name": "Mr Fournier Roméo"
+    },
+    "description": "Immersive Cinema Experience",
+    "url": "https://www.icetheaters.com/"
   },
   {
     "code": "ICO",
