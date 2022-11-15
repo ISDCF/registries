@@ -585,6 +585,16 @@
     "description": "THE EXCHANGE"
   },
   {
+    "code": "FAND",
+    "contact": {
+      "address": "237 West 35th Street, Suite 605, New York, NY 10001 USA",
+      "email": "ksantiago@cinedigm.com",
+      "name": "Karinah Santiago"
+    },
+    "description": "Fandor/Cinedigm Corp.",
+    "url": "https://www.fandor.com"
+  },
+  {
     "code": "FB",
     "description": "FILM BILDER"
   },
