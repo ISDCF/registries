@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/schema#",
-  "$id": "http://isdcf.com/ns/json-schemas/registries/contentmodifiers/1.0.0-beta.1",
+  "$id": "http://isdcf.com/ns/json-schemas/registries/contentmodifiers/1.0.1",
   "$comment": "Copyright, ISDCF <info@isdcf.com>",
   "title": "Schema for the Content Modifiers Registry of the ISDCF",
   "definitions": {
@@ -56,9 +56,23 @@
                 }
               }
             }
+          },
+          "extName": {
+              "type": "string"
+          },
+          "extpropName": {
+              "type": "string"
+          },
+          "extpropValue": {
+              "type": "string"
+          },
+          "extScope": {
+              "type": "string",
+              "format": "uri"
           }
       },
-      "required": [ "metaType", "definingDocs"]
+      "required": [ "metaType", "definingDocs"],
+      "additionalProperties": false
     }
   },
   "type": "array",
