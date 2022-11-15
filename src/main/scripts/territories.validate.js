@@ -37,11 +37,11 @@ module.exports = (registry, name) => {
   for (const i in registry) {
 
     if ((! ("tagScope" in registry[i])) || registry[i].tagScope === ST429_16_REGION_SCOPE) {
-      
+
       if (tags.region(registry[i].tag.toLowerCase()) === null) {
-      
+
         throw "Tag '" + registry[i].tag + "' is not a valid IANA region subtag at entry #" + i;
-    
+
       }
     }
 

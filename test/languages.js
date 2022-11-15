@@ -1,13 +1,11 @@
 const { registries } = require("..")
-const chai = require('chai')
-const should = chai.should();
-const assert = chai.assert
+const assert = require('assert');
 
-describe("languages schema", () => {
+describe("languages schema", async () => {
   before(async () => { ({ languages: { validate } } = await registries() ) })
 
-  it("valid", () => {
-    assert.doesNotThrow(() => validate([
+  it("valid", async () => {
+    await assert.doesNotReject(validate([
       {
         "dcncLanguage": "Albanian",
         "dcncTag": "SQ",
@@ -28,8 +26,8 @@ describe("languages schema", () => {
     ]))
   })
 
-  it("missing RFC Tag", () => {
-    assert.throw(() => validate([
+  it("missing RFC Tag", async () => {
+    await assert.rejects(validate([
       {
         "dcncLanguage": "Albanian",
         "dcncTag": "SQ",
@@ -49,8 +47,8 @@ describe("languages schema", () => {
     ]), /fails schema/)
   })
 
-  it("missing use", () => {
-    assert.throw(() => validate([
+  it("missing use", async () => {
+    await assert.rejects(validate([
       {
         "dcncLanguage": "Albanian",
         "dcncTag": "SQ",

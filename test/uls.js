@@ -1,13 +1,11 @@
 const { registries } = require("..")
-const chai = require('chai')
-const should = chai.should();
-const assert = chai.assert
+const assert = require('assert');
 
-describe("uls schema", () => {
+describe("uls schema", async () => {
   before(async () => { ({ uls: { validate } } = await registries() ) })
 
-  it("valid", () => {
-    assert.doesNotThrow(() => validate([
+  it("valid", async () => {
+    await assert.doesNotReject(validate([
       {
         "definingDocs": [
           {
@@ -23,8 +21,8 @@ describe("uls schema", () => {
     ]))
   })
 
-  it("missing ul", () => {
-    assert.throw(() => validate([
+  it("missing ul", async () => {
+    await assert.rejects(validate([
       {
         "definingDocs": [
           {
@@ -39,8 +37,8 @@ describe("uls schema", () => {
     ]), /fails schema/)
   })
 
-  it("obsolete not boolean", () => {
-    assert.throw(() => validate([
+  it("obsolete not boolean", async () => {
+    await assert.rejects(validate([
       {
         "definingDocs": [
           {
