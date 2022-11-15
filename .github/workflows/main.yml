@@ -29,14 +29,14 @@ jobs:
       run: npm run validate
 
     - name: verify that the registries are canonicalized
-      if: github.ref == 'refs/heads/master' || github.event_name == 'pull_request'
+      if: (github.ref == 'refs/heads/master' || github.event_name == 'pull_request') && github.actor != 'dependabot[bot]'
       run: |
           npm run canonicalize
           git add src/main/data
           git diff-index --quiet HEAD src/main/data
 
     - name: commit canonicalized registries
-      if: github.ref != 'refs/heads/master' && github.event_name != 'pull_request'
+      if: github.ref != 'refs/heads/master' && github.event_name != 'pull_request' && github.actor != 'dependabot[bot]'
       run: |
           npm run canonicalize
           git add src/main/data
@@ -44,7 +44,7 @@ jobs:
           git config --global user.email 'admin@isdcf.com'
           git diff-index --quiet HEAD src/main/data || git commit -m "Registries have been canonicalized"
           git push
-          
+
     - name: Repository Dispatch
       if: github.ref == 'refs/heads/master'
       uses: peter-evans/repository-dispatch@v1
