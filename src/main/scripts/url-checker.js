@@ -23,7 +23,7 @@ const https = require('https');
 
 exports.SAMPLE_BAD_URL = "http://malware.testing.google.test/testing/malware/home.html";
 
-if (! ("G_SAFE_BROWSING_API_KEY" in process.env))
+if (! ("G_SAFE_BROWSING_API_KEY" in process.env || "ISDCF_SKIP_URL_CHECK" in process.env))
   throw "Google Safe Browsing API Key missing in G_SAFE_BROWSING_API_KEY environment variable.";
 
 exports.areSafeURLs = async function(url_list) {
