@@ -1,13 +1,11 @@
 const { registries } = require("..")
-const chai = require('chai')
-const should = chai.should();
-const assert = chai.assert
+const assert = require('assert');
 
-describe("audioconfigs schema", () => {
+describe("audioconfigs schema", async () => {
   before(async () => { ({ audioconfigs: { validate } } = await registries() ) })
 
-  it("valid", () => {
-    assert.doesNotThrow(() => validate([
+  it("valid", async () => {
+    await assert.doesNotReject(validate([
       {
         "cplMetadata": {
           "MCATagSymbol": "sg51",
@@ -53,8 +51,8 @@ describe("audioconfigs schema", () => {
     ]))
   })
 
-  it("missing metadata definingDoc", () => {
-    assert.throw(() => validate([
+  it("missing metadata definingDoc", async () => {
+    await assert.rejects(validate([
       {
         "cplMetadata": {
           "MCATagSymbol": "sgHI",
@@ -67,8 +65,8 @@ describe("audioconfigs schema", () => {
     ]), /fails schema/)
   })
 
-  it("missing extension required field", () => {
-    assert.throw(() => validate([
+  it("missing extension required field", async () => {
+    await assert.rejects(validate([
       {
         "cplMetadata": {
           "MCATagSymbol": "DBOX",
@@ -92,8 +90,8 @@ describe("audioconfigs schema", () => {
     ]), /fails schema/)
   })
 
-  it("missing sort order", () => {
-    assert.throw(() => validate([
+  it("missing sort order", async () => {
+    await assert.rejects(validate([
       {
         "dcncCode": "Atmos",
         "description": "Dolby ATMOS Immersive Audio",
@@ -102,8 +100,8 @@ describe("audioconfigs schema", () => {
     ]), /fails schema/)
   })
 
-  it("sort order not an integer", () => {
-    assert.throw(() => validate([
+  it("sort order not an integer", async () => {
+    await assert.rejects(validate([
       {
         "dcncCode": "Atmos",
         "dcncSortOrder": "11.5",
