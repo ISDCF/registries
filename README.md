@@ -15,3 +15,7 @@ The registry data is:
 ## Notes
 
 The _ratings_ registry is generated from the information at <https://movielabs.com/md/ratings/>, which is maintained by [MovieLabs](https://movielabs.com/).
+
+The environment variable `G_SAFE_BROWSING_API_KEY` must contain an Google API
+Key with permissions to the Safe Browsing API, or the environment variable
+`ISDCF_SKIP_URL_CHECK` must be set.

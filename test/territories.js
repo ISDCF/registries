@@ -1,13 +1,11 @@
 const { registries } = require("..")
-const chai = require('chai')
-const should = chai.should();
-const assert = chai.assert
+const assert = require('assert');
 
-describe("territories schema", () => {
+describe("territories schema", async () => {
   before(async () => { ({ territories: { validate } } = await registries() ) })
 
-  it("valid", () => {
-    assert.doesNotThrow(() => validate([
+  it("valid", async () => {
+    await assert.doesNotReject(validate([
       {
         "tag": "ZA",
         "dcncTag": "ZA",
@@ -23,8 +21,8 @@ describe("territories schema", () => {
     ]))
   })
 
-  it("M49 Region", () => {
-    assert.doesNotThrow(() => validate([
+  it("M49 Region", async () => {
+    await assert.doesNotReject(validate([
       {
         "tag": "001",
         "dcncTag": "INT",
@@ -34,8 +32,8 @@ describe("territories schema", () => {
   })
 
 
-  it("illegal IANA region subtag", () => {
-    assert.throw(() => validate([
+  it("illegal IANA region subtag", async () => {
+    await assert.rejects(validate([
       {
         "tag": "XX",
         "dcncTag": "XX",
@@ -45,8 +43,8 @@ describe("territories schema", () => {
   })
 
 
-  it("missing tag", () => {
-    assert.throw(() => validate([
+  it("missing tag", async () => {
+    await assert.rejects(validate([
       {
         "dcncTag": "CA",
         "dcncTerritory": "XXX"

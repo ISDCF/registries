@@ -45,7 +45,7 @@ async function registries() {
     const dataFilePath = join(DATA_PATH, dataFile)
     const data = JSON.parse(await readFile(dataFilePath))
 
-    let additionalChecks = () => {}
+    let additionalChecks = async () => {}
 
     /* perform additional checks if applicable */
     try {
@@ -57,13 +57,13 @@ async function registries() {
         throw e
     }
 
-    const validate = (registry = data) => {
+    const validate = async (registry = data) => {
       /* first check schema */
       if (!schemaValidate(registry))
         throw `${name} registry fails schema validation`
 
       /* then invoke any additional checks not covered by JSON schema: */
-      additionalChecks(registry, name)
+      await additionalChecks(registry, name)
     }
 
     return { ...a, [name]: { schemaVersion, validate, data, name, dataFilePath }}
@@ -72,10 +72,11 @@ async function registries() {
 }
 
 async function validateAll() {
-  Object.values(await registries()).map(({ name, validate }) => {
-    console.log(`Checking ${name}`)
-    validate()
-  })
+  const regs = await registries();
+  await Promise.all(Object.values(regs).map(async ({ name, validate }) => {
+    console.log(`Checking ${name}`);
+    await validate();
+  }));
 }
 
 module.exports = {

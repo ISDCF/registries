@@ -1,13 +1,11 @@
 const { registries } = require("..")
-const chai = require('chai')
-const should = chai.should();
-const assert = chai.assert
+const assert = require('assert');
 
-describe("contentmodifiers schema", () => {
+describe("contentmodifiers schema", async () => {
   before(async () => { ({ contentmodifiers: { validate } } = await registries() ) })
 
-  it("valid", () => {
-    assert.doesNotThrow(() => validate([
+  it("valid", async () => {
+    await assert.doesNotReject(validate([
       {
         "cplMetadata": {
           "definingDocs": [
@@ -45,8 +43,8 @@ describe("contentmodifiers schema", () => {
     ]))
   })
 
-  it("missing metadata", () => {
-    assert.throw(() => validate([
+  it("missing metadata", async () => {
+    await assert.rejects(validate([
       {
         "dcncCode": "3D",
         "description": "If the product is 3D."
@@ -54,8 +52,8 @@ describe("contentmodifiers schema", () => {
     ]), /fails schema/)
   })
 
-  it("missing sort order", () => {
-    assert.throw(() => validate([
+  it("missing sort order", async () => {
+    await assert.rejects(validate([
       {
         "cplMetadata": {
           "definingDocs": [
@@ -76,8 +74,8 @@ describe("contentmodifiers schema", () => {
     ]), /fails schema/)
   })
 
-  it("sort order not an integer", () => {
-    assert.throw(() => validate([
+  it("sort order not an integer", async () => {
+    await assert.rejects(validate([
       {
         "cplMetadata": {
           "definingDocs": [
