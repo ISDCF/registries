@@ -23,10 +23,21 @@ const https = require('https');
 
 exports.SAMPLE_BAD_URL = "http://malware.testing.google.test/testing/malware/home.html";
 
-if (! ("G_SAFE_BROWSING_API_KEY" in process.env || "ISDCF_SKIP_URL_CHECK" in process.env))
-  throw "Google Safe Browsing API Key missing in G_SAFE_BROWSING_API_KEY environment variable.";
+const ISDCF_SKIP_URL_CHECK_VAR_NAME = "ISDCF_SKIP_URL_CHECK";
 
-exports.areSafeURLs = async function(url_list) {
+function isSkipURLCheck() {
+  return ISDCF_SKIP_URL_CHECK_VAR_NAME in process.env;
+}
+exports.isSkipURLCheck = isSkipURLCheck;
+
+if (isSkipURLCheck())
+    console.warn(`URL checks will be skipped because ${ISDCF_SKIP_URL_CHECK_VAR_NAME} is set.`);
+
+if (! ("G_SAFE_BROWSING_API_KEY" in process.env) && ! isSkipURLCheck()) {
+    throw "Google Safe Browsing API Key missing in G_SAFE_BROWSING_API_KEY environment variable.";
+}
+
+exports.areBadURLs = async function(url_list) {
 
   const threatEntries = url_list.map((e) => ({"url" : e}));
 
@@ -58,7 +69,13 @@ exports.areSafeURLs = async function(url_list) {
 
           try {
             const m = JSON.parse(body);
-            resolve(!("matches" in m && m.matches.length > 0));
+
+            if (! ("matches" in m)) {
+              resolve([]);
+            } else {
+              resolve(m.matches.map(e => e.threat.url));
+            }
+
           } catch(e) {
             reject(e);
           }
