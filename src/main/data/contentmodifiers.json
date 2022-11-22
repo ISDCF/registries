@@ -218,16 +218,6 @@
   {
     "cplMetadata": {
       "definingDocs": [
-      ],
-      "metaType": "None"
-    },
-    "dcncCode": "EC",
-    "dcncSortOrder": 13,
-    "description": "Eclaircolor graded image."
-  },
-  {
-    "cplMetadata": {
-      "definingDocs": [
         {
           "name": "DCI High Dynamic Range D-Cinema Addendum, Version 1.0",
           "url": "https://docs.dcimovies.com/hdr-addendum/f18141e7bf5acfd5ecb90da80261fec3e762bcf7/"
@@ -241,7 +231,17 @@
       "extpropValue": "ST 2084"
     },
     "dcncCode": "HDR1",
-    "dcncSortOrder": 14,
+    "dcncSortOrder": 13,
     "description": "DCI HDR graded image."
+  },
+  {
+    "cplMetadata": {
+      "definingDocs": [
+      ],
+      "metaType": "None"
+    },
+    "dcncCode": "EC",
+    "dcncSortOrder": 14,
+    "description": "Eclaircolor graded image."
   }
 ]
