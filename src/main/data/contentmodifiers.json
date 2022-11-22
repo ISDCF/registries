@@ -227,8 +227,6 @@
   },
   {
     "cplMetadata": {
-      "attribute": "scope",
-      "attributeValue": "http://www.dcimovies.com/schemas/2018/HDR-Metadata",
       "definingDocs": [
         {
           "name": "DCI High Dynamic Range D-Cinema Addendum, Version 1.0",
@@ -237,7 +235,10 @@
       ],
       "element": "ExtensionMetadata",
       "metaType": "Extension Present",
-      "scope": "http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata"
+      "extName": "Image Encoding Parameters",
+      "extScope": "http://www.dcimovies.com/schemas/2018/HDR-Metadata",
+      "extpropName": "EOTF",
+      "extpropValue": "ST 2084"
     },
     "dcncCode": "HDR1",
     "dcncSortOrder": 14,
