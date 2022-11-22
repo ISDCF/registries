@@ -585,6 +585,16 @@
     "description": "THE EXCHANGE"
   },
   {
+    "code": "EYW",
+    "contact": {
+      "address": "Gleiwitzer Straße 4-8, 30855 Langenhagen, Hanover, GERMANY",
+      "email": "info@eyewerk.de",
+      "name": "Jonathan Weber"
+    },
+    "description": "eyewerk GmbH",
+    "url": "https://www.eyewerk.de"
+  },
+  {
     "code": "FAND",
     "contact": {
       "address": "237 West 35th Street, Suite 605, New York, NY 10001 USA",
