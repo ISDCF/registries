@@ -69,5 +69,20 @@
       "extpropName": "D-BOX Motion Code Primary Stream",
       "extpropValue": "true"
     }
+  },
+  {
+    "definingDocs": [
+      {
+        "name": "DCI High Dynamic Range D-Cinema Addendum, Version 1.0",
+        "url": "https://docs.dcimovies.com/hdr-addendum/f18141e7bf5acfd5ecb90da80261fec3e762bcf7/"
+      }
+    ],
+    "description": "DCI HDR",
+    "extension": {
+      "extName": "Image Encoding Parameters",
+      "extScope": "http://www.dcimovies.com/schemas/2018/HDR-Metadata",
+      "extpropName": "EOTF",
+      "extpropValue": "ST 2084"
+    }
   }
 ]
