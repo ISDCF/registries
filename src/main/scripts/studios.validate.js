@@ -19,7 +19,9 @@ CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING 
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
 
-module.exports = (registry, name) => {
+const { areBadURLs, isSkipURLCheck } = require('./url-checker.js')
+
+module.exports = async (registry, name) => {
   /* is the registry sorted */
   for (let i = 1; i < registry.length; i++) {
     if (registry[i-1].code >= registry[i].code) {
@@ -32,5 +34,14 @@ module.exports = (registry, name) => {
       if (!registry.find(r => r.code === obs))
         throw `${name}: ${registry[i].description} is obsoletedBy '${obs}' which is an invalid code`
     })
+  }
+
+  /* any bad URLs?*/
+
+  if (! isSkipURLCheck()) {
+    const urls = registry.filter((e) => "url" in e).map((e) => e.url);
+    const badURLs = await areBadURLs(urls);
+    if (badURLs.length > 0)
+      throw `${name}: Malicious URLs at ${badURLs.join(', ')}.`;
   }
 }

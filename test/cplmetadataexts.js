@@ -1,13 +1,11 @@
 const { registries } = require("..")
-const chai = require('chai')
-const should = chai.should();
-const assert = chai.assert
+const assert = require('assert');
 
-describe("cplmetadataexts schema", () => {
+describe("cplmetadataexts schema", async () => {
   before(async () => { ({ cplmetadataexts: { validate } } = await registries() ) })
 
-  it("valid", () => {
-    assert.doesNotThrow(() => validate([
+  it("valid", async () => {
+    await assert.doesNotReject(validate([
       {
         "definingDocs": [
           {
@@ -26,8 +24,8 @@ describe("cplmetadataexts schema", () => {
     ]))
   })
 
-  it("missing extension required field", () => {
-    assert.throw(() => validate([
+  it("missing extension required field", async () => {
+    await assert.rejects(validate([
       {
        "definingDocs": [
           {

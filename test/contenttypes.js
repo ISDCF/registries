@@ -1,13 +1,11 @@
 const { registries } = require("..")
-const chai = require('chai')
-const should = chai.should();
-const assert = chai.assert
+const assert = require('assert');
 
-describe("contenttypes schema", () => {
+describe("contenttypes schema", async () => {
   before(async () => { ({ contenttypes: { validate } } = await registries() ) })
 
-  it("valid", () => {
-    assert.doesNotThrow(() => validate([
+  it("valid", async () => {
+    await assert.doesNotReject(validate([
       {
         "dcncCode": "FTR",
         "dcncSortOrder": 1,
@@ -41,8 +39,8 @@ describe("contenttypes schema", () => {
     ]))
   })
 
-  it("missing scope", () => {
-    assert.throw(() => validate([
+  it("missing scope", async () => {
+    await assert.rejects(validate([
       {
         "dcncCode": "FTR",
         "cplContentKind": {
@@ -59,8 +57,8 @@ describe("contenttypes schema", () => {
     ]), /fails schema/)
   })
 
-  it("missing sort order", () => {
-    assert.throw(() => validate([
+  it("missing sort order", async () => {
+    await assert.rejects(validate([
       {
         "cplContentKind": {
           "definingDocs": [
@@ -78,8 +76,8 @@ describe("contenttypes schema", () => {
     ]), /fails schema/)
   })
 
-  it("sort order not an integer", () => {
-    assert.throw(() => validate([
+  it("sort order not an integer", async () => {
+    await assert.rejects(validate([
       {
         "cplContentKind": {
           "definingDocs": [

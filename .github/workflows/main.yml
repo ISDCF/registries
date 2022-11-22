@@ -1,11 +1,13 @@
 name: validate
 
-on: [push, pull_request, workflow_dispatch]
+on: [push, pull_request, pull_request_target, workflow_dispatch]
 
 jobs:
   build:
-    if: github.event_name == 'push' || (github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name != github.repository)
+    if: github.event_name == 'push' || (github.event_name == 'pull_request_target' && github.event.pull_request.head.repo.full_name != github.repository)
     runs-on: ubuntu-latest
+    env:
+      G_SAFE_BROWSING_API_KEY: ${{ secrets.G_SAFE_BROWSING_API_KEY }}
 
     steps:
     - name: Checkout repo
@@ -27,14 +29,14 @@ jobs:
       run: npm run validate
 
     - name: verify that the registries are canonicalized
-      if: github.ref == 'refs/heads/master' || github.event_name == 'pull_request'
+      if: (github.ref == 'refs/heads/master' || github.event_name == 'pull_request' || github.event_name == 'pull_request_target') && github.actor != 'dependabot[bot]'
       run: |
           npm run canonicalize
           git add src/main/data
           git diff-index --quiet HEAD src/main/data
 
     - name: commit canonicalized registries
-      if: github.ref != 'refs/heads/master' && github.event_name != 'pull_request'
+      if: github.ref != 'refs/heads/master' && github.event_name != 'pull_request' && github.event_name != 'pull_request_target' && github.actor != 'dependabot[bot]'
       run: |
           npm run canonicalize
           git add src/main/data
@@ -42,7 +44,7 @@ jobs:
           git config --global user.email 'admin@isdcf.com'
           git diff-index --quiet HEAD src/main/data || git commit -m "Registries have been canonicalized"
           git push
-          
+
     - name: Repository Dispatch
       if: github.ref == 'refs/heads/master'
       uses: peter-evans/repository-dispatch@v1

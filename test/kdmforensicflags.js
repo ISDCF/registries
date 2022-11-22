@@ -1,13 +1,11 @@
 const { registries } = require("..")
-const chai = require('chai')
-const should = chai.should();
-const assert = chai.assert
+const assert = require('assert');
 
-describe("kdmforensicflags schema", () => {
+describe("kdmforensicflags schema", async () => {
   before(async () => { ({ kdmforensicflags: { validate } } = await registries() ) })
 
-  it("valid", () => {
-    assert.doesNotThrow(() => validate([
+  it("valid", async () => {
+    await assert.doesNotReject(validate([
       {
         "definingDocs": [
           {
@@ -22,8 +20,8 @@ describe("kdmforensicflags schema", () => {
     ]))
   })
 
-  it("missing uri", () => {
-    assert.throw(() => validate([
+  it("missing uri", async () => {
+    await assert.rejects(validate([
       {
         "definingDocs": [
           {

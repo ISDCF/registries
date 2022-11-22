@@ -1,13 +1,11 @@
 const { registries } = require("..")
-const chai = require('chai')
-const should = chai.should();
-const assert = chai.assert
+const assert = require('assert');
 
-describe("projectoraspectratios schema", () => {
+describe("projectoraspectratios schema", async () => {
   before(async () => { ({ projectoraspectratios: { validate } } = await registries() ) })
 
-  it("valid", () => {
-    assert.doesNotThrow(() => validate([
+  it("valid", async () => {
+    await assert.doesNotReject(validate([
       {
         "cplMetadata": {
           "2K": {
@@ -46,8 +44,8 @@ describe("projectoraspectratios schema", () => {
     ]))
   })
 
-  it("ScreenAspectRatio not a ratio", () => {
-    assert.throw(() => validate([
+  it("ScreenAspectRatio not a ratio", async () => {
+    await assert.rejects(validate([
       {
         "cplMetadata": {
           "definingDocs": [
@@ -86,8 +84,8 @@ describe("projectoraspectratios schema", () => {
     ]), /fails schema/)
   })
 
-  it("missing metadata definingDoc", () => {
-    assert.throw(() => validate([
+  it("missing metadata definingDoc", async () => {
+    await assert.rejects(validate([
       {
         "cplMetadata": {
           "2K": {
@@ -112,8 +110,8 @@ describe("projectoraspectratios schema", () => {
     ]), /fails schema/)
   })
 
-  it("missing height in 2K", () => {
-    assert.throw(() => validate([
+  it("missing height in 2K", async () => {
+    await assert.rejects(validate([
       {
         "cplMetadata": {
           "2K": {
@@ -151,8 +149,8 @@ describe("projectoraspectratios schema", () => {
     ]), /fails schema/)
   })
 
-  it("2K height not an integer", () => {
-    assert.throw(() => validate([
+  it("2K height not an integer", async () => {
+    await assert.rejects(validate([
       {
         "cplMetadata": {
           "2K": {
@@ -191,8 +189,8 @@ describe("projectoraspectratios schema", () => {
     ]), /fails schema/)
   })
 
-  it("missing sort order", () => {
-    assert.throw(() => validate([
+  it("missing sort order", async () => {
+    await assert.rejects(validate([
       {
         "cplMetadata": {
           "2K": {
@@ -230,8 +228,8 @@ describe("projectoraspectratios schema", () => {
     ]), /fails schema/)
   })
 
-  it("sort order not an integer", () => {
-    assert.throw(() => validate([
+  it("sort order not an integer", async () => {
+    await assert.rejects(validate([
       {
         "cplMetadata": {
           "2K": {
