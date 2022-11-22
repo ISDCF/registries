@@ -1,12 +1,16 @@
-const { areSafeURLs, SAMPLE_BAD_URL} =  require("../src/main/scripts/url-checker")
+const { areBadURLs, SAMPLE_BAD_URL, isSkipURLCheck} =  require("../src/main/scripts/url-checker")
 const assert = require('assert');
 
 describe("Check URL checker", async () => {
-  it("valid", async () => {
-    assert(await areSafeURLs(["http://isdcf.com"]));
-  })
+  if (! isSkipURLCheck())
+    it("valid", async () => {
+      const badURLs = await areBadURLs(["http://isdcf.com"]);
+      assert.equal(badURLs.length, 0);
+    })
 
-  it("malicious", async () => {
-    assert(! (await areSafeURLs([SAMPLE_BAD_URL])));
-  })
+  if (! isSkipURLCheck())
+    it("malicious", async () => {
+      const badURLs = await areBadURLs([SAMPLE_BAD_URL]);
+      assert.deepEqual(badURLs, [SAMPLE_BAD_URL]);
+    })
 })

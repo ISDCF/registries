@@ -748,6 +748,11 @@
     "description": "CINECOLOR MEXICO"
   },
   {
+    "code": "CCR",
+    "description": "CInecreation.com",
+    "url": "https://www.cinecreation.com"
+  },
+  {
     "code": "CCS",
     "description": "CINESTAR CONTENT SERVICES"
   },
@@ -2014,6 +2019,16 @@
   {
     "code": "EXP",
     "description": "EXPRESSDCP"
+  },
+  {
+    "code": "EYW",
+    "contact": {
+      "address": "Gleiwitzer Straße 4-8, 30855 Langenhagen, Hanover, Germany",
+      "email": "info@eyewerk.de",
+      "name": "Jonathan Weber"
+    },
+    "description": "eyewerk GmbH",
+    "url": "https://www.eyewerk.de"
   },
   {
     "code": "FAL",
@@ -5353,6 +5368,16 @@
   {
     "code": "WHC",
     "description": "WHEELHOUSE CREATIVE"
+  },
+  {
+    "code": "WI1",
+    "contact": {
+      "address": "14 rue des prunelles, Strasbourg, France",
+      "email": "greg.r76@gmail.com",
+      "name": "gregory Rodriguez"
+    },
+    "description": "POSTPRODUCTION SOUND AND COLORGRADING STUDIO",
+    "url": "https://www.will-production.com"
   },
   {
     "code": "WL",

@@ -1443,6 +1443,11 @@
     "description": "PRETTY SWEET"
   },
   {
+    "code": "PTP",
+    "description": "Paper Tree Pictures, LLC",
+    "url": "https://cinedigm.com"
+  },
+  {
     "code": "PV",
     "description": "Paramount Vantage"
   },
@@ -1519,6 +1524,11 @@
   {
     "code": "RP",
     "description": "ROGUE PICTURES"
+  },
+  {
+    "code": "RSN",
+    "description": "REASON8 Films",
+    "url": "https://reason8films.com"
   },
   {
     "code": "RSS",
@@ -1942,6 +1952,11 @@
   {
     "code": "WC",
     "description": "WEINSTEIN CO."
+  },
+  {
+    "code": "WILL",
+    "description": "WILL PRODUCTION",
+    "url": "https://www.will-production.com"
   },
   {
     "code": "WR",
