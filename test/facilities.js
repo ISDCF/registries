@@ -3,7 +3,7 @@ const chai = require('chai')
 const should = chai.should();
 const assert = require('assert');
 
-const { SAMPLE_BAD_URL} =  require("../src/main/scripts/url-checker")
+const { SAMPLE_BAD_URL, isSkipURLCheck } =  require("../src/main/scripts/url-checker")
 
 describe("facilities schema", async () => {
   let validate
@@ -97,10 +97,11 @@ describe("facilities schema", async () => {
     ]), /fails schema/)
   })
 
-  it("bad url", async () => {
-    await assert.rejects(validate([
-      { code: "BBB", description: "B B B", url: SAMPLE_BAD_URL},
-    ]), /URL is malicious/)
-  })
+  if (! isSkipURLCheck())
+    it("bad url", async () => {
+      await assert.rejects(validate([
+        { code: "BBB", description: "B B B", url: SAMPLE_BAD_URL},
+      ]), /Malicious URLs/)
+    })
 
 })
