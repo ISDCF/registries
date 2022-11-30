@@ -2149,6 +2149,11 @@
     "description": "FLOW POSTPRODUCTION"
   },
   {
+    "code": "FLP",
+    "description": "Frenel Post LAB",
+    "url": "https://frenel.gr"
+  },
+  {
     "code": "FMM",
     "description": "FILMMUSEUM MÜNCHEN"
   },
