@@ -612,6 +612,16 @@
     "url": "https://bridgepostworks.com"
   },
   {
+    "code": "BRD",
+    "contact": {
+      "address": "314 Camp El Ghoul, Immeuble Ali B Appartement No5, 40000 Marrakech, Morocco",
+      "email": "info@broadway.ma",
+      "name": "June Verelst"
+    },
+    "description": "Broadway Productions",
+    "url": "https://broadway.productions"
+  },
+  {
     "code": "BRM",
     "description": "BERRYMOUNT AUTOMATION"
   },
@@ -2181,6 +2191,11 @@
   {
     "code": "FPD",
     "description": "FILMPRINT DIGITAL"
+  },
+  {
+    "code": "FPL",
+    "description": "Frenel Post Lab",
+    "url": "https://frenel.gr"
   },
   {
     "code": "FPM",
@@ -5435,7 +5450,8 @@
   },
   {
     "code": "XVS",
-    "description": "aXel Vasquez Studio"
+    "description": "Axel Vasquez Studios",
+    "url": "https://axelvasquez.com"
   },
   {
     "code": "XXL",
