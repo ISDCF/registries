@@ -1667,6 +1667,16 @@
     "url": "http://sethmctigue.com"
   },
   {
+    "code": "SND",
+    "contact": {
+      "address": "15, CITÉ MALESHERBES, 75009 PARIS, FRANCE",
+      "email": "xavier.colon@snd-films.fr",
+      "name": "Mr Xavier Colon"
+    },
+    "description": "Société nouvelle de distribution ",
+    "url": "https://www.snd-films.com"
+  },
+  {
     "code": "SNP",
     "contact": {
       "address": "Ernst-Augustin-Straße 12, 12489 Berlin, Germany",
