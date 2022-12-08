@@ -110,7 +110,7 @@
     },
     "dcncCode": "IAB",
     "dcncSortOrder": 7,
-    "description": "Immesive Audio Bitstream (SMPTE ST2098-2) Profile 1"
+    "description": "Immersive Audio Bitstream (SMPTE ST2098-2) Profile 1"
   },
   {
     "cplMetadata": {
@@ -184,7 +184,7 @@
     "dcncCode": "ATMOS",
     "dcncSortOrder": 11,
     "description": "Dolby ATMOS Immersive Audio",
-    "note": "Legacy, replaced by Immesive Audio Bitstream (SMPTE ST2098-2) Profile 1"
+    "note": "Legacy, replaced by Immersive Audio Bitstream (SMPTE ST2098-2) Profile 1"
   },
   {
     "dcncCode": "AURO",
