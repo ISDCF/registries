@@ -548,6 +548,16 @@
     "code": "EFS",
     "description": "Eight Flow Studio",
     "url": "https://davidspadora.com"
+},
+{
+    "code": "EF",
+    "contact": {
+      "address": "1 Stretton Lodge, Gordon Road, London W13 8PR, UK",
+      "email": "sienna@emergencefilms.co.uk",
+      "name": "Sienna Beckman"
+    },
+    "description": "Emergence Films (Emergence Media Ltd)",
+    "url": "https://emergencefilms.us"
   },
   {
     "code": "ELA",
@@ -966,6 +976,11 @@
     },
     "description": "Jack Parry Animation Studios Pty Ltd",
     "url": "https://parrystudios.com"
+  },
+  {
+    "code": "JRM",
+    "description": "Joli Rideau Media",
+    "url": "https://jolirideau.com"
   },
   {
     "code": "K2A",
