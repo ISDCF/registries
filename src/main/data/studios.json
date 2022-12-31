@@ -837,6 +837,11 @@
     "description": "HFF KONRAD WOLF"
   },
   {
+    "code": "HFFM",
+    "description": "HFF München (Hochschule für Fernsehen und Film München)",
+    "url": "https://www.hff-muenchen.de/"
+  },
+  {
     "code": "HOJA",
     "contact": {
       "address": "Muradiye Mah. Göknar Sok. 28/24 Beşiktaş İstanbul, Turkey",
