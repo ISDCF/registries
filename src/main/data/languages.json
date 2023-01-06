@@ -168,8 +168,8 @@
   },
   {
     "dcncLanguage": "Arabic - Saudi Arabia",
-    "dcncTag": "AEC",
-    "rfc5646Tag": "aec",
+    "dcncTag": "ARSA",
+    "rfc5646Tag": "ar-SA",
     "use": [
       "audio",
       "text"
@@ -2234,6 +2234,15 @@
     "dcncLanguage": "Russian - Moldova",
     "dcncTag": "RUMD",
     "rfc5646Tag": "ru-MD",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
+    "dcncLanguage": "Saidi Arabic",
+    "dcncTag": "AEC",
+    "rfc5646Tag": "aec",
     "use": [
       "audio",
       "text"
