@@ -110,7 +110,7 @@
     },
     "dcncCode": "IAB",
     "dcncSortOrder": 7,
-    "description": "Immesive Audio Bitstream (SMPTE ST2098-2) Profile 1"
+    "description": "Immersive Audio Bitstream (SMPTE ST2098-2) Profile 1"
   },
   {
     "cplMetadata": {
@@ -184,7 +184,7 @@
     "dcncCode": "ATMOS",
     "dcncSortOrder": 11,
     "description": "Dolby ATMOS Immersive Audio",
-    "note": "Expect a change in the way ATMOS content is labeled! IAB (Immersive Audio Bitstream) is the SMPTE standard for Immersive Audio. All ATMOS is IAB Profile 1. Many authoring companies are planning to stop labeling ATMOS and using the IAB label only."
+    "note": "Deprecated. The IAB code should be used instead."
   },
   {
     "dcncCode": "AURO",
