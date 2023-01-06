@@ -3861,6 +3861,16 @@
     "description": "POST CATACLYSMA"
   },
   {
+    "code": "PCB",
+    "contact": {
+      "address": "House 55, Road 1, Block A, Niketan Housing Society, Gulshan 1, Dhaka 1212, Bangladesh",
+      "email": "postcirclebd@gmail.com",
+      "name": "Mohammad Rashaduzzaman"
+    },
+    "description": "Post Circle",
+    "url": "https://www.facebook.com/post.circle"
+  },
+  {
     "code": "PCH",
     "description": "PROTRONIC AG"
   },
