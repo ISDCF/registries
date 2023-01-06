@@ -184,7 +184,7 @@
     "dcncCode": "ATMOS",
     "dcncSortOrder": 11,
     "description": "Dolby ATMOS Immersive Audio",
-    "note": "Legacy, replaced by Immersive Audio Bitstream (SMPTE ST2098-2) Profile 1"
+    "note": "Legacy. IAB [Immersive Audio Bitstream (SMPTE ST2098-2) Profile 1] should be used instead."
   },
   {
     "dcncCode": "AURO",
