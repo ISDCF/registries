@@ -3056,6 +3056,16 @@
     "description": "LE JOLI MAI"
   },
   {
+    "code": "LKA",
+    "contact": {
+      "address": "6750 NE Bennett St, Hillsboro, OR 97124, USA",
+      "email": "thaines@laika.com",
+      "name": "Tom Haines"
+    },
+    "description": "LAIKA",
+    "url": "https://laika.com"
+  },
+  {
     "code": "LKB",
     "description": "Lichtspiel Kinemathek Bern"
   },
