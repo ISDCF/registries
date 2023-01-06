@@ -36,6 +36,16 @@
     "url": "http://artdoydu.com"
   },
   {
+    "code": "ADHP",
+    "contact": {
+      "address": "119 Main Street, Germantown, New York 12526 USA",
+      "email": "THEJEREMYJACOB@GMAIL.COM",
+      "name": "Jeremy Jacob"
+    },
+    "description": "A Doll's House Pictures",
+    "url": "https://www.adollshousepictures.com/"
+  },
+  {
     "code": "ADS",
     "description": "ALLIANCE DIGITAL STUDIOS"
   },
@@ -545,6 +555,21 @@
     "description": "Early Day Films"
   },
   {
+    "code": "EF",
+    "contact": {
+      "address": "1 Stretton Lodge, Gordon Road, London W13 8PR, UK",
+      "email": "sienna@emergencefilms.co.uk",
+      "name": "Sienna Beckman"
+    },
+    "description": "Emergence Films (Emergence Media Ltd)",
+    "url": "https://emergencefilms.us"
+  },
+  {
+    "code": "EFS",
+    "description": "Eight Flow Studio",
+    "url": "https://davidspadora.com"
+  },
+  {
     "code": "ELA",
     "description": "ELAMEDIA"
   },
@@ -659,6 +684,11 @@
   {
     "code": "FMM",
     "description": "FILMMUSEUM MÜNCHEN"
+  },
+  {
+    "code": "FORT",
+    "description": "Fortuitous Films",
+    "url": "https://www.andrewbowserdirector.com/onyx-the-fortuitous"
   },
   {
     "code": "FOS",
@@ -822,6 +852,11 @@
     "description": "HFF KONRAD WOLF"
   },
   {
+    "code": "HFFM",
+    "description": "HFF München (Hochschule für Fernsehen und Film München)",
+    "url": "https://www.hff-muenchen.de/"
+  },
+  {
     "code": "HOJA",
     "contact": {
       "address": "Muradiye Mah. Göknar Sok. 28/24 Beşiktaş İstanbul, Turkey",
@@ -961,6 +996,11 @@
     },
     "description": "Jack Parry Animation Studios Pty Ltd",
     "url": "https://parrystudios.com"
+  },
+  {
+    "code": "JRM",
+    "description": "Joli Rideau Media",
+    "url": "https://jolirideau.com"
   },
   {
     "code": "K2A",

@@ -878,6 +878,11 @@
     "description": "CINELI DIGITAL"
   },
   {
+    "code": "CIE",
+    "description": "CIELO Enterprise Solutions, Inc.",
+    "url": "https://cieloconnects.com"
+  },
+  {
     "code": "CIL",
     "description": "CineFuture Los Angeles"
   },
@@ -1971,11 +1976,11 @@
   {
     "code": "EPA",
     "contact": {
-      "address": "Calle Duque de Tetuán 34. C.P. 11300, La Línea de la Concepción, Cádiz, Andalucía. España",
+      "address": "Vista Alegre passage, N2, 3C, Andalucía, España.",
       "email": "jesus@odremanpost.pro",
       "name": "Jesús Odremán"
     },
-    "description": "Jesús Odreman Post",
+    "description": "Jesús_Odremánpost",
     "url": "https://odremanpost.pro/"
   },
   {
@@ -3051,6 +3056,16 @@
     "description": "LE JOLI MAI"
   },
   {
+    "code": "LKA",
+    "contact": {
+      "address": "6750 NE Bennett St, Hillsboro, OR 97124, USA",
+      "email": "thaines@laika.com",
+      "name": "Tom Haines"
+    },
+    "description": "LAIKA",
+    "url": "https://laika.com"
+  },
+  {
     "code": "LKB",
     "description": "Lichtspiel Kinemathek Bern"
   },
@@ -3859,6 +3874,16 @@
   {
     "code": "PC",
     "description": "POST CATACLYSMA"
+  },
+  {
+    "code": "PCB",
+    "contact": {
+      "address": "House 55, Road 1, Block A, Niketan Housing Society, Gulshan 1, Dhaka 1212, Bangladesh",
+      "email": "postcirclebd@gmail.com",
+      "name": "Mohammad Rashaduzzaman"
+    },
+    "description": "Post Circle",
+    "url": "https://www.facebook.com/post.circle"
   },
   {
     "code": "PCH",
