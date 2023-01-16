@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/schema#",
-  "$id": "http://isdcf.com/ns/json-schemas/registries/facilities/1.0.0-beta.3",
+  "$id": "http://isdcf.com/ns/json-schemas/registries/facilities/1.0.0",
   "$comment": "Copyright, ISDCF <info@isdcf.com>",
   "title": "Schema for the Facilities registry of the ISDCF",
   "definitions": {
@@ -27,7 +27,12 @@
               "type": "string"
           }
       },
-      "required": [ "name", "email","address"]
+      "anyOf": [
+        {"required": [ "name", "address"]},
+        {"required": [ "email"]},
+        {"required": [ "name", "email", "address"]}
+      ],
+      "additionalProperties": false
     }
   },
   "type": "array",
