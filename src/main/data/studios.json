@@ -37,11 +37,6 @@
   },
   {
     "code": "ADHP",
-    "contact": {
-      "address": "119 Main Street, Germantown, New York 12526 USA",
-      "email": "THEJEREMYJACOB@GMAIL.COM",
-      "name": "Jeremy Jacob"
-    },
     "description": "A Doll's House Pictures",
     "url": "https://www.adollshousepictures.com/"
   },
@@ -2040,6 +2035,16 @@
   {
     "code": "XM",
     "description": "MGM"
+  },
+  {
+    "code": "XVS",
+    "contact": {
+      "address": "Montevideo 361, ATE LIMA, Peru",
+      "email": "axelvasquez924@gmail.com",
+      "name": "Mr. Axel Vasquez"
+    },
+    "description": "Axel Vasquez Studios",
+    "url": "https://axelvasquez.com"
   },
   {
     "code": "XYZF",

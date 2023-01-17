@@ -1469,6 +1469,11 @@
     "description": "DIGMA STUDIO"
   },
   {
+    "code": "DHP",
+    "description": "A Doll's House Pictures",
+    "url": "https://www.adollshousepictures.com/"
+  },
+  {
     "code": "DI",
     "description": "digital images GmbH"
   },
@@ -3369,6 +3374,16 @@
     "description": "MOMOTION GMBH"
   },
   {
+    "code": "MMH",
+    "contact": {
+      "address": "Avenuea 7A, 13th and 15th Street, Barrio Otoya, San José 10101 Costa Rica",
+      "email": "info@mamahildafilms.com",
+      "name": "Alonso Víquez"
+    },
+    "description": "Mamahilda Studio",
+    "url": "https://mamahildafilms.com/mamahildafilms/"
+  },
+  {
     "code": "MML",
     "description": "MAMMAL"
   },
@@ -4590,6 +4605,10 @@
   {
     "code": "SET",
     "description": "Sette Postproduction"
+  },
+  {
+    "code": "SF",
+    "description": "Spracklen Film and Video"
   },
   {
     "code": "SFB",
