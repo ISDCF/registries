@@ -22,8 +22,19 @@ describe("facilities schema", async () => {
       { code: "EEE", description: "E E E", obsolete: true, comments: [ "foo", "bar" ], obsoletedBy: [ 'AAA', 'BBB' ] },
       { code: "FFF", description: "F F F", obsolete: true, comments: [ "foo", "bar" ], obsoletedBy: [ 'AAA', 'BBB' ], url: "http://www.foo.com"},
       { code: "GGG", description: "G G G", obsolete: true, comments: [ "foo", "bar" ], obsoletedBy: [ 'AAA', 'BBB' ], contact: { name: "Bob Smith", email: "bob@foo.com", address: "1234 Main St., Anytown, State, Country" } },
-      { code: "HHH", description: "H H H", obsolete: true, comments: [ "foo", "bar" ], obsoletedBy: [ 'AAA', 'BBB' ], url: "http://www.foo.com", contact: { name: "Bob Smith", email: "bob@foo.com", address: "1234 Main St., Anytown, State, Country" } }
+      { code: "HHH", description: "H H H", obsolete: true, comments: [ "foo", "bar" ], obsoletedBy: [ 'AAA', 'BBB' ], url: "http://www.foo.com", contact: { name: "Bob Smith", email: "bob@foo.com", address: "1234 Main St., Anytown, State, Country" } },
+      { code: "III", description: "I I I", contact: { name: "Bob Smith", email: "bob@foo.com" } },
+      { code: "JJJ", description: "J J J", contact: { name: "Bob Smith", address: "1234 Main St., Anytown, State, Country" } },
+      { code: "KKK", description: "K K K", contact: { email: "bob@foo.com" } },
     ]))
+  })
+
+  it("missing contact info", async () => {
+    await assert.rejects(validate([
+      { code: "III", description: "I I I", contact: { name: "Bob Smith" } },
+      { code: "JJJ", description: "J J J", contact: { address: "1234 Main St., Anytown, State, Country" } },
+      { code: "KKK", description: "K K K", contact: { email: "bob@foo.com" , address: "1234 Main St., Anytown, State, Country" } },
+    ]), /fails schema/)
   })
 
   it("bad order", async () => {
