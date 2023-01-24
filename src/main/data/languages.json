@@ -1763,6 +1763,15 @@
     ]
   },
   {
+    "dcncLanguage": "Ladino",
+    "dcncTag": "LAD",
+    "rfc5646Tag": "lad",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
     "dcncLanguage": "Lao",
     "dcncTag": "LO",
     "rfc5646Tag": "lo",
