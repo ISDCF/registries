@@ -1430,6 +1430,16 @@
     "description": "PEAK MEDIA"
   },
   {
+    "code": "PEG",
+    "contact": {
+      "address": "12900 Preston Road Suite 615, Dallas, Texas, USA",
+      "email": "max@parkchesterentertainment.group",
+      "name": "Max Fetter"
+    },
+    "description": "Parkchester Entertainment Group",
+    "url": "https://www.parkchesterentertainment.group"
+  },
+  {
     "code": "PICH",
     "description": "PICTUREHOUSE"
   },
