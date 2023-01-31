@@ -2135,7 +2135,7 @@
     "dcncLanguage": "Portuguese - European",
     "dcncTag": "PT",
     "obsoleteDCNCTags": [
-      "SPA"
+      "POR"
     ],
     "rfc5646Tag": "pt",
     "use": [
@@ -2573,7 +2573,7 @@
     "dcncLanguage": "Spanish - Castilian",
     "dcncTag": "ES",
     "obsoleteDCNCTags": [
-      "POR"
+      "SPA"
     ],
     "rfc5646Tag": "es",
     "use": [
