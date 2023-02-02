@@ -2015,6 +2015,16 @@
     "description": "VICTORY STUDIOS"
   },
   {
+    "code": "WBX",
+    "contact": {
+      "address": "111 Boulevard Duhamel du Monceau 45160 Olivet, Orleans, France",
+      "email": "contact@wibix.fr",
+      "name": "M. Antony Boistel"
+    },
+    "description": "Wibix",
+    "url": "https://www.wibix.fr"
+  },
+  {
     "code": "WC",
     "description": "WEINSTEIN CO."
   },
