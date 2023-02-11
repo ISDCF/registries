@@ -111,6 +111,16 @@
     "description": "Amazon Studios"
   },
   {
+    "code": "ANG",
+    "contact": {
+      "address": "295 W Center St, Provo, UT 84601 USA",
+      "email": "jeremy@angel.com",
+      "name": "Jeremy Neish"
+    },
+    "description": "Angel Studios",
+    "url": "https://www.angel.com"
+  },
+  {
     "code": "ANIM",
     "description": "ANIMASIA STUDIOS"
   },
