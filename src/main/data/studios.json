@@ -1364,7 +1364,13 @@
   },
   {
     "code": "O2",
-    "description": "O2 FILMES"
+    "contact": {
+      "address": "Rua baumann 930, São Paulo, Brazil",
+      "email": "luis.barrague@o2pos.com.br",
+      "name": "Mr. Luis Barrague"
+    },
+    "description": "O2 FILMES",
+    "url": "https://www.o2pos.com.br/en/"
   },
   {
     "code": "OCTP",
