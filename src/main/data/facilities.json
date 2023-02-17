@@ -4618,10 +4618,6 @@
     "description": "STUDIO L'EQUIPE"
   },
   {
-    "code": "SET",
-    "description": "Sette Postproduction"
-  },
-  {
     "code": "SER",
     "contact": {
       "address": "2000 Ivar Ave #11 Los Angeles Ca 90068, USA",
@@ -4630,6 +4626,10 @@
     },
     "description": "Serriniverse Post Productions",
     "url": "https://www.robertoserrini.com"
+  },
+  {
+    "code": "SET",
+    "description": "Sette Postproduction"
   },
   {
     "code": "SF",
