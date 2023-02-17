@@ -462,6 +462,11 @@
     "description": "CRISTIANA Video"
   },
   {
+    "code": "CTRL",
+    "description": "CtrlMovie",
+    "url": "https://www.ctrlmovie.com"
+  },
+  {
     "code": "CUP",
     "description": "cineUP",
     "url": "https://www.cineup.de"
