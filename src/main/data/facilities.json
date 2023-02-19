@@ -1219,6 +1219,11 @@
     "description": "CHUNGNAM TECHNO PARK"
   },
   {
+    "code": "CTR",
+    "description": "CtrlMovie",
+    "url": "https://www.ctrlmovie.com"
+  },
+  {
     "code": "CTT",
     "description": "CINEMA TEST TOOLS"
   },
