@@ -111,6 +111,16 @@
     "description": "Amazon Studios"
   },
   {
+    "code": "ANG",
+    "contact": {
+      "address": "295 W Center St, Provo, UT 84601 USA",
+      "email": "jeremy@angel.com",
+      "name": "Jeremy Neish"
+    },
+    "description": "Angel Studios",
+    "url": "https://www.angel.com"
+  },
+  {
     "code": "ANIM",
     "description": "ANIMASIA STUDIOS"
   },
@@ -450,6 +460,11 @@
   {
     "code": "CRV",
     "description": "CRISTIANA Video"
+  },
+  {
+    "code": "CTRL",
+    "description": "CtrlMovie",
+    "url": "https://www.ctrlmovie.com"
   },
   {
     "code": "CUP",
@@ -980,6 +995,11 @@
     "description": "JAGUAR FILMS PRODUCTIONS"
   },
   {
+    "code": "JAKE",
+    "description": "Jacob's Art and Kinetic Entertainment Productions",
+    "url": "https://jakeposeyart.com"
+  },
+  {
     "code": "JC",
     "description": "JC Film Consultancy Ltd"
   },
@@ -1006,6 +1026,11 @@
     "code": "JRM",
     "description": "Joli Rideau Media",
     "url": "https://jolirideau.com"
+  },
+  {
+    "code": "JWE",
+    "description": "Journeywork Entertainment",
+    "url": "https://www.journeyworkent.com"
   },
   {
     "code": "K2A",
@@ -1374,7 +1399,13 @@
   },
   {
     "code": "O2",
-    "description": "O2 FILMES"
+    "contact": {
+      "address": "Rua baumann 930, São Paulo, Brazil",
+      "email": "luis.barrague@o2pos.com.br",
+      "name": "Mr. Luis Barrague"
+    },
+    "description": "O2 FILMES",
+    "url": "https://www.o2pos.com.br/en/"
   },
   {
     "code": "OCTP",
@@ -1581,6 +1612,16 @@
   {
     "code": "RLD",
     "description": "REALD"
+  },
+  {
+    "code": "RMS",
+    "contact": {
+      "address": "2000 Ivar Avenue #11, Los Angeles, CA 90068 USA",
+      "email": "rob.serrini@gmail.com",
+      "name": "Roberto Serrini"
+    },
+    "description": "Serriniverse Productions",
+    "url": "https://www.robertoserrini.com"
   },
   {
     "code": "ROC",
