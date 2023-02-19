@@ -630,6 +630,16 @@
     "url": "https://www.eyewerk.de"
   },
   {
+    "code": "F1J",
+    "contact": {
+      "address": "89 rue Barrault, Paris, France",
+      "email": "philippe@onedayprod.com",
+      "name": "Philippe SCHNEIDER"
+    },
+    "description": "Les Films d'un Jour",
+    "url": "https://www.filmsdunjour.com"
+  },
+  {
     "code": "FAND",
     "contact": {
       "address": "237 West 35th Street, Suite 605, New York, NY 10001 USA",
