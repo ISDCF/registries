@@ -1219,6 +1219,11 @@
     "description": "CHUNGNAM TECHNO PARK"
   },
   {
+    "code": "CTR",
+    "description": "CtrlMovie",
+    "url": "https://www.ctrlmovie.com"
+  },
+  {
     "code": "CTT",
     "description": "CINEMA TEST TOOLS"
   },
@@ -4616,6 +4621,16 @@
   {
     "code": "SEQ",
     "description": "STUDIO L'EQUIPE"
+  },
+  {
+    "code": "SER",
+    "contact": {
+      "address": "2000 Ivar Ave #11 Los Angeles Ca 90068, USA",
+      "email": "rob.serrini@gmail.com",
+      "name": "Roberto Serrini"
+    },
+    "description": "Serriniverse Post Productions",
+    "url": "https://www.robertoserrini.com"
   },
   {
     "code": "SET",
