@@ -462,6 +462,11 @@
     "description": "CRISTIANA Video"
   },
   {
+    "code": "CTRL",
+    "description": "CtrlMovie",
+    "url": "https://www.ctrlmovie.com"
+  },
+  {
     "code": "CUP",
     "description": "cineUP",
     "url": "https://www.cineup.de"
@@ -1011,6 +1016,11 @@
     "code": "JRM",
     "description": "Joli Rideau Media",
     "url": "https://jolirideau.com"
+  },
+  {
+    "code": "JWE",
+    "description": "Journeywork Entertainment",
+    "url": "https://www.journeyworkent.com"
   },
   {
     "code": "K2A",
@@ -1592,6 +1602,16 @@
   {
     "code": "RLD",
     "description": "REALD"
+  },
+  {
+    "code": "RMS",
+    "contact": {
+      "address": "2000 Ivar Avenue #11, Los Angeles, CA 90068 USA",
+      "email": "rob.serrini@gmail.com",
+      "name": "Roberto Serrini"
+    },
+    "description": "Serriniverse Productions",
+    "url": "https://www.robertoserrini.com"
   },
   {
     "code": "ROC",
