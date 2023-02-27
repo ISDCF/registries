@@ -2154,6 +2154,16 @@
     "description": "FOCUS-FOX STUDIO"
   },
   {
+    "code": "FGS",
+    "contact": {
+      "address": "25 Washington Ave, Brooklyn, NY 11205 USA",
+      "email": "jkim@brooklyn.cuny.edu",
+      "name": "Jay Kim"
+    },
+    "description": "Feirstein Graduate School of Cinema",
+    "url": "https://feirstein.brooklyn.cuny.edu/"
+  },
+  {
     "code": "FIM",
     "description": "FIDELITY IN MOTION"
   },
