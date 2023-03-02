@@ -12,6 +12,16 @@
     "description": "1185 Films Ltd"
   },
   {
+    "code": "119",
+    "contact": {
+      "address": "Rua de Marvila 119 - 1950-197 Lisboa, Portugal",
+      "email": "rbranquinho70@gmail.com",
+      "name": "Rui Branquinho"
+    },
+    "description": "119 Marvila Studios",
+    "url": "https://www.119marvilastudios.com"
+  },
+  {
     "code": "123",
     "description": "123DCP"
   },
@@ -2144,6 +2154,16 @@
     "description": "FOCUS-FOX STUDIO"
   },
   {
+    "code": "FGS",
+    "contact": {
+      "address": "25 Washington Ave, Brooklyn, NY 11205 USA",
+      "email": "jkim@brooklyn.cuny.edu",
+      "name": "Jay Kim"
+    },
+    "description": "Feirstein Graduate School of Cinema",
+    "url": "https://feirstein.brooklyn.cuny.edu/"
+  },
+  {
     "code": "FIM",
     "description": "FIDELITY IN MOTION"
   },
@@ -2784,6 +2804,16 @@
   {
     "code": "IVP",
     "description": "interface Video Production"
+  },
+  {
+    "code": "IVY",
+    "contact": {
+      "address": "Giesshübelstrasse 66, 8045 Zurich, Switzerland",
+      "email": "info@ivyfilmstudio.com",
+      "name": "Lauro Jenni"
+    },
+    "description": "IVY FILMSTUDIO",
+    "url": "https://ivyfilmstudio.com"
   },
   {
     "code": "IX",
@@ -5263,7 +5293,11 @@
   },
   {
     "code": "UDS",
-    "description": "UNIVERSAL STUDIOS DIGITAL SERVICES"
+    "description": "UNIVERSAL STUDIOS DIGITAL SERVICES",
+    "obsolete": true,
+    "obsoletedBy": [
+      "USP"
+    ]
   },
   {
     "code": "UF",
@@ -5389,6 +5423,16 @@
   {
     "code": "VIS",
     "description": "VISAR STUDIO"
+  },
+  {
+    "code": "VIT",
+    "contact": {
+      "address": "Steudelgasse 29/15 A-1100 Wien, Austria",
+      "email": "anginbaik@gmail.com",
+      "name": "Victor Jaschke"
+    },
+    "description": "victorja",
+    "url": "https://www.victorja.com"
   },
   {
     "code": "VM",
