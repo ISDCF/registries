@@ -2624,6 +2624,11 @@
     "description": "IMAGES & SOUND LTD"
   },
   {
+    "code": "IBK",
+    "description": "Ironbark Films",
+    "url": "https://www.ironbarkfilms.com"
+  },
+  {
     "code": "ICE",
     "contact": {
       "address": "16 rue blaise pascal, 17180 Périgny, FRANCE",
@@ -5303,7 +5308,11 @@
   },
   {
     "code": "UDS",
-    "description": "UNIVERSAL STUDIOS DIGITAL SERVICES"
+    "description": "UNIVERSAL STUDIOS DIGITAL SERVICES",
+    "obsolete": true,
+    "obsoletedBy": [
+      "USP"
+    ]
   },
   {
     "code": "UF",
@@ -5429,6 +5438,16 @@
   {
     "code": "VIS",
     "description": "VISAR STUDIO"
+  },
+  {
+    "code": "VIT",
+    "contact": {
+      "address": "Steudelgasse 29/15 A-1100 Wien, Austria",
+      "email": "anginbaik@gmail.com",
+      "name": "Victor Jaschke"
+    },
+    "description": "victorja",
+    "url": "https://www.victorja.com"
   },
   {
     "code": "VM",
