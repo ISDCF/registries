@@ -5293,7 +5293,11 @@
   },
   {
     "code": "UDS",
-    "description": "UNIVERSAL STUDIOS DIGITAL SERVICES"
+    "description": "UNIVERSAL STUDIOS DIGITAL SERVICES",
+    "obsolete": true,
+    "obsoletedBy": [
+      "USP"
+    ]
   },
   {
     "code": "UF",
