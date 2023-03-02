@@ -5421,6 +5421,16 @@
     "description": "VISAR STUDIO"
   },
   {
+    "code": "VIT",
+    "contact": {
+      "address": "Steudelgasse 29/15 A-1100 Wien, Austria",
+      "email": "anginbaik@gmail.com",
+      "name": "Victor Jaschke"
+    },
+    "description": "victorja",
+    "url": "https://www.victorja.com"
+  },
+  {
     "code": "VM",
     "description": "VESTMEDIA A/S"
   },
