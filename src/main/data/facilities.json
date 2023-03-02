@@ -1111,6 +1111,16 @@
     "description": "COLOSO POST STUDIO"
   },
   {
+    "code": "COS",
+    "contact": {
+      "address": "1345 S Major Street, Salt Lake City, Utah. 84115, USA",
+      "email": "micah@cosmicpictures.com",
+      "name": "Micah Young"
+    },
+    "description": "Cosmic Pictures",
+    "url": "https://www.cosmicpictures.com"
+  },
+  {
     "code": "CP",
     "description": "CINE PLUS GMBH"
   },
