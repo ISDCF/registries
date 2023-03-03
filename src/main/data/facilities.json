@@ -1007,7 +1007,11 @@
   },
   {
     "code": "CML",
-    "description": "COLOR MILL"
+    "description": "COLOR MILL",
+    "obsolete": true,
+    "obsoletedBy": [
+      "COS"
+    ]
   },
   {
     "code": "CMM",
