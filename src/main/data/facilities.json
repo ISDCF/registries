@@ -1361,6 +1361,16 @@
     "url": "https://www.d-cine.net"
   },
   {
+    "code": "DCA",
+    "contact": {
+      "address": "Via Giovanni Ansaldo, 9, Milan, Italy",
+      "email": "p.vadala@dcaitaly.com",
+      "name": "Pasquale Vadalà"
+    },
+    "description": "Digital Cinema Advertising - DCA S.R.L.",
+    "url": "https://www.dcaitaly.com/"
+  },
+  {
     "code": "DCB",
     "description": "DIGITAL CUBE (Romania)"
   },
