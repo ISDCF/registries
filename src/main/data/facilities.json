@@ -1974,6 +1974,16 @@
     "description": "Elbatron Media Kit"
   },
   {
+    "code": "ELE",
+    "contact": {
+      "address": "16 Fitzwilliam Square East, Grand Canal Dock, Dublin 2 D02 H271, Ireland",
+      "email": "diarmuid@element.ie",
+      "name": "Diarmuid Kelly"
+    },
+    "description": "Element",
+    "url": "https://www.element.ie/"
+  },
+  {
     "code": "ELL",
     "description": "ENS LOUIS-LUMIERE, FRANCE"
   },
