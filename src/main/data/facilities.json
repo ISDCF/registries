@@ -2885,6 +2885,16 @@
     "description": "James Post"
   },
   {
+    "code": "JRM",
+    "contact": {
+      "address": "466 Sabourin Road, Sturgeon Falls, P2B2P6, Canada",
+      "email": "josh@joshronson.com",
+      "name": "Mr. Joshua Ronson"
+    },
+    "description": "JR MEDIA",
+    "url": "https://joshronson.com"
+  },
+  {
     "code": "JSP",
     "contact": {
       "address": "530 East Kent Avenue S., Vancouver BC V5X 4V6 Canada",
