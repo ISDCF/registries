@@ -271,6 +271,16 @@
     "description": "ANIMAL LOGIC, SYDNEY"
   },
   {
+    "code": "ALT",
+    "contact": {
+      "address": "Miguel Lillo 50, Yerba Buena, Tucumán, Argentina",
+      "email": "info@alturapost.com",
+      "name": "Matías Weyerstall"
+    },
+    "description": "Altura Post",
+    "url": "https://alturapost.com"
+  },
+  {
     "code": "ALV",
     "description": "ANIMAL LOGIC, VANCOUVER"
   },
