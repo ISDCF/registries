@@ -650,6 +650,16 @@
     "description": "BREAKWATER STUDIOS"
   },
   {
+    "code": "BSS",
+    "contact": {
+      "address": "11800 Sheldon St. Suite D Sun Valley, CA 91352 USA",
+      "email": "BrilliantScreenStudios@gmail.com",
+      "name": "Ace Underhill"
+    },
+    "description": "Brilliant Screen Studios",
+    "url": "https://brilliantscreenweb.azurewebsites.net/index.html"
+  },
+  {
     "code": "BT",
     "description": "BT PRODUCTION"
   },
