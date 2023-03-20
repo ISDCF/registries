@@ -1582,6 +1582,16 @@
     "description": "Red Bull Media House"
   },
   {
+    "code": "RDF",
+    "contact": {
+      "address": "11290 Point East dr., #205, Rancho Cordova, CA, USA 95742",
+      "email": "admin@reddiamond.film",
+      "name": "Mr. Paul Koliadych"
+    },
+    "description": "Red Diamond Film",
+    "url": "https://reddiamond.film"
+  },
+  {
     "code": "REC",
     "description": "RECYCLED TV"
   },
