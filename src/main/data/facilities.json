@@ -650,6 +650,16 @@
     "description": "BREAKWATER STUDIOS"
   },
   {
+    "code": "BSS",
+    "contact": {
+      "address": "11800 Sheldon St. Suite D Sun Valley, CA 91352 USA",
+      "email": "BrilliantScreenStudios@gmail.com",
+      "name": "Ace Underhill"
+    },
+    "description": "Brilliant Screen Studios",
+    "url": "https://brilliantscreenweb.azurewebsites.net/index.html"
+  },
+  {
     "code": "BT",
     "description": "BT PRODUCTION"
   },
@@ -2198,6 +2208,11 @@
     "url": "https://feirstein.brooklyn.cuny.edu/"
   },
   {
+    "code": "FI",
+    "description": "Francesco Indaco",
+    "url": "https://francescoindaco.nl/"
+  },
+  {
     "code": "FIM",
     "description": "FIDELITY IN MOTION"
   },
@@ -2883,6 +2898,16 @@
   {
     "code": "JP",
     "description": "James Post"
+  },
+  {
+    "code": "JRM",
+    "contact": {
+      "address": "466 Sabourin Road, Sturgeon Falls, P2B2P6, Canada",
+      "email": "josh@joshronson.com",
+      "name": "Mr. Joshua Ronson"
+    },
+    "description": "JR MEDIA",
+    "url": "https://joshronson.com"
   },
   {
     "code": "JSP",
@@ -5690,6 +5715,16 @@
   {
     "code": "ZB",
     "description": "Zombie Studio"
+  },
+  {
+    "code": "ZED",
+    "contact": {
+      "address": "39 rue des Prairies, 75020, Paris France",
+      "email": "gropars@zed.fr",
+      "name": "Gwendal ROPARS"
+    },
+    "description": "ZED",
+    "url": "https://www.zed.fr/en"
   },
   {
     "code": "ZEN",
