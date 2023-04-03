@@ -35,5 +35,14 @@ module.exports = (registry, name) => {
         ((registry[i-1].term === registry[i].term) ? "duplicated" : "not sorted");
     }
   }
+
+   /* any bad URLs?*/
+
+  if (! isSkipURLCheck()) {
+    const urls = registry.filter((e) => "sources" in e).map((e) => e.url);
+    const badURLs = await areBadURLs(urls);
+    if (badURLs.length > 0)
+      throw `${name}: Malicious URLs at ${badURLs.join(', ')}.`;
+  }
   
 }
