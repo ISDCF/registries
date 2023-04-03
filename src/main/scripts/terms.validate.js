@@ -39,6 +39,13 @@ module.exports = (registry, name) => {
    /* any bad URLs?*/
 
   if (! isSkipURLCheck()) {
+    const urls = registry.filter((e) => "media" in e).map((e) => e.url);
+    const badURLs = await areBadURLs(urls);
+    if (badURLs.length > 0)
+      throw `${name}: Malicious URLs at ${badURLs.join(', ')}.`;
+  }
+
+  if (! isSkipURLCheck()) {
     const urls = registry.filter((e) => "sources" in e).map((e) => e.url);
     const badURLs = await areBadURLs(urls);
     if (badURLs.length > 0)
