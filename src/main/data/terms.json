@@ -1,0 +1,883 @@
+[
+  {
+    "definition": "The digital audio signal format used to pass DCP audio from the media block to the audio processor in a digital cinema system.  The physical connection can be either two Ethernet patch cords, each of which can carry eight channels, or a cable terminated in DB25 connectors, which can carry up to sixteen.  Adapters can be used to convert between the two connector types.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/AES3"
+    ],
+    "synonyms": [
+      "AES"
+    ],
+    "term": "AES3"
+  },
+  {
+    "definition": "A digital audio signal format used to pass IAB audio (e.g. Atmos, Auro, or DTS-X) between the media block and the decoder, and between the decoder and other audio processing devices in the system, e.g. amplifiers with integrated digital to analog conversion.  Unlike AES3, AES67 uses TCP/IP as its encoding methods, and therefore can pass over local area networks with other IP packets.  Each AES67 link can encode up to 120 channels of audio.",
+    "relatedTerms": [
+      "Immersive Audio Bitstream",
+      "BluLink"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/AES67"
+    ],
+    "term": "AES67"
+  },
+  {
+    "definition": "The first and most widespread Immersive Audio Bitstream (IAB) format, developed and marketed by Dolby.",
+    "relatedTerms": [
+      "Immersive Audio Bitstream"
+    ],
+    "synonyms": [
+      "Dolby ATMOS",
+      "Dolby Immersive Audio",
+      "Immersive Audio"
+    ],
+    "term": "ATMOS"
+  },
+  {
+    "abbreviations": [
+      "ADA"
+    ],
+    "definition": "The legislation that requires almost all commercial and some nonprofit and multi-use venues in the USA to provide timed text captioning and assisted listening support for customers who request it.",
+    "relatedTerms": [
+      "Closed Caption",
+      "Hearing Impaired",
+      "Open Caption",
+      "Visually Impaired Narration"
+    ],
+    "sources": [
+      "https://simple.wikipedia.org/wiki/Americans_with_Disabilities_Act_of_1990"
+    ],
+    "synonyms": [
+      "Americans with Disabilities Act of 1990"
+    ],
+    "term": "Americans with Disabilities Act"
+  },
+  {
+    "synonyms": [
+      "Power Amplifier"
+    ],
+    "term": "Amplifier"
+  },
+  {
+    "synonyms": [
+      "Anamorph"
+    ],
+    "term": "Anamorphic Lens"
+  },
+  {
+    "abbreviations": [
+      "AT"
+    ],
+    "relatedTerms": [
+      "ContentTitleText",
+      "Digital Cinema Naming Convention",
+      "Digital Cinema Package"
+    ],
+    "synonyms": [
+      "Annotation Text"
+    ],
+    "term": "AnnotationText"
+  },
+  {
+    "abbreviations": [
+      "API"
+    ],
+    "definition": "The language of commands, arguments, and parameters used by devices within a digital cinema system to communicate with each other.  An integrator uses a device's API to enable automated operation of the system as a whole.",
+    "term": "Application Programming Interface"
+  },
+  {
+    "definition": "The shape of a projected image, usually stated in the format width:height.  The cinema industry expresses aspect ratios as proportions of 1, e.g. 1.85:1 or 2.39:1.  In broadcast and consumer media, proportions of integers are typically used, e.g. 4:3 or 16:9.",
+    "relatedTerms": [
+      "Container",
+      "Flat",
+      "Scope"
+    ],
+    "sources": [
+      "https://registry-page.isdcf.com/projectoraspectratios/"
+    ],
+    "term": "Aspect Ratio"
+  },
+  {
+    "definition": "The number of discrete AES3 audio channels on a DCP, expressed as full range followed by low frequency extension (LFE).  The most common in modern movies are 5.1 (left, center, right, left surround, right surround, and LFE) and 7.1 (as 5.1, but adding discrete left and right rear surround channels).  Others include 1.0 (mono) and 2.0 (left/right stereo).",
+    "sources": [
+      "https://isdcf.com/papers/ISDCF-Doc4-Audio-channel-recommendations.pdf"
+    ],
+    "synonyms": [
+      "Cinema Audio Channel Configuration",
+      "X.Y"
+    ],
+    "term": "Audio Channel Configuration"
+  },
+  {
+    "term": "Audio Processor"
+  },
+  {
+    "synonyms": [
+      "Automation"
+    ],
+    "term": "Automation Controller"
+  },
+  {
+    "abbreviations": [
+      "BNC"
+    ],
+    "definition": "A model of electrical signal connector, typically used with co-axial cable.  In digital cinema, its primary application is on the HD-SDI cables used by Series 1 media blocks and projector input boards.",
+    "term": "Bayonet Neill–Concelman"
+  },
+  {
+    "term": "Bi-amped"
+  },
+  {
+    "term": "Bitrate"
+  },
+  {
+    "term": "BluLink"
+  },
+  {
+    "definition": "The variance within which a DCI-compliant secure clock can be adjusted by the end user without intervention by the manufacturer.  This is six minutes, or 300 seconds.  If a secure clock has drifted beyond that, it is said to be 'out of budget,' and assistance from the manufacturer (usually in the form of a software patch) is needed.  If a secure clock drifts by over 30 minutes, it cannot be corrected in the field and must be returned to the manufacturer's FIPS-approved facility for correction and recertification.",
+    "relatedTerms": [
+      "Network Time Protocol",
+      "Secure clock"
+    ],
+    "term": "Budget"
+  },
+  {
+    "definition": "The DX115DC system, manufactured by CRU, Inc., consists of portable cartridges into which 2.5in or 3.5in SATA hard drives can be installed, and readers that are integrated into DCP servers and TMS computers.  Its purpose is to protect drives in shipping, and to enable quick and easy insertion and removal of DCP hard drives in the theater.  External readers with USB connectivity are available for use with servers that do not have them built in.  CRU DX115DC cartridges are the industry standard for the distribution of DCPs on physical media, used by all the major studios and many independent distributors.",
+    "relatedTerms": [
+      "DCP Server",
+      "Theater Management System"
+    ],
+    "sources": [
+      "https://www.cru-inc.com/products/digital-cinema/digital-cinema-dx115/"
+    ],
+    "synonyms": [
+      "CRU Bay",
+      "CRU Drive",
+      "CRU Sled",
+      "Hard Drive",
+      "HDD"
+    ],
+    "term": "CRU"
+  },
+  {
+    "relatedTerms": [
+      "AES3"
+    ],
+    "synonyms": [
+      "Cat5",
+      "Cat5e",
+      "Cat6",
+      "Cat7",
+      "Cat8"
+    ],
+    "term": "Categories of Ethernet Cable"
+  },
+  {
+    "synonyms": [
+      "Cert"
+    ],
+    "term": "Certificate"
+  },
+  {
+    "abbreviations": [
+      "CCAP"
+    ],
+    "relatedTerms": [
+      "Americans with Disabilities Act",
+      "Hearing Impaired",
+      "Open Caption",
+      "Visually Impaired Narration"
+    ],
+    "term": "Closed Caption"
+  },
+  {
+    "definition": "The process of adjusting the color temperature of the three formatters (one for each of the primary colors: red, green, and blue) on a projector's light engine, such that they conform to the specifications of the DCI XYZ color space.  A photoradiometer is used to measure the uncorrected (native) output of each formatter, and its reading is then used by the projector to correct the formatter's output as needed.  With all three DMDs at equal output, the DCI white point (X = 0.314 and Y = 0.351 on the CIE 1931 chromaticity diagram) should be measured after a successful calibration.",
+    "relatedTerms": [
+      "Color Space",
+      "Photoradiometer"
+    ],
+    "synonyms": [
+      "Shooting the Colors"
+    ],
+    "term": "Color Calibration"
+  },
+  {
+    "definition": "A method of encoding the visible representation of color (in the case of digital cinema, as digital data), defining the number and range of hues.  DCI digital cinema projection uses the DCI XYZ color space scheme, which offers a wider color gamut than those used in most consumer and broadcast systems (e.g. Rec. 709 for BluRay discs).",
+    "relatedTerms": [
+      "Color Calibration",
+      "Photoradiometer"
+    ],
+    "term": "Color Space"
+  },
+  {
+    "definition": "In cinema automation, the transmission and reception of commands by closing a circuit, without the need for any voltage to be applied to it.  This closure can be either momentary or two state (for example, circuit closed = fire alarm is not active / circuit open = fire alarm is active), depending on the equipment's requirements.",
+    "relatedTerms": [
+      "Automation Controller",
+      "General Purpose Input and Output"
+    ],
+    "term": "Contact Closure"
+  },
+  {
+    "definition": "Any given combination of aspect ratio and resolution within a DCP.  For example, the DCI 2K 'flat' container is 1998x1080 pixels.",
+    "relatedTerms": [
+      "Aspect Ratio",
+      "Digital Cinema Package",
+      "Resolution"
+    ],
+    "term": "Container"
+  },
+  {
+    "abbreviations": [
+      "CTT"
+    ],
+    "relatedTerms": [
+      "AnnotationText",
+      "Digital Cinema Naming Convention",
+      "Digital Cinema Package"
+    ],
+    "synonyms": [
+      "Content Title Text"
+    ],
+    "term": "ContentTitleText"
+  },
+  {
+    "definition": "The process of adjusting the relative position of the three formatters on a projector's light engine, such that the primary colors (red, green, and blue) are correctly aligned in relation to its prism.  Color fringing, or indistinct edges of objects in static shots, will be noticeable in projection if a light engine is out of convergence.",
+    "relatedTerms": [
+      "Light Engine"
+    ],
+    "term": "Convergence"
+  },
+  {
+    "relatedTerms": [
+      "Amplifier",
+      "Bi-amped",
+      "Tri-amped"
+    ],
+    "term": "Crossover",
+    "termContext": "Audio"
+  },
+  {
+    "abbreviations": [
+      "D-Sub"
+    ],
+    "definition": "D-Sub, DB9, DB15, DB25, DB37 D-Sub[miniature] is a family of multi-pin electrical signal connectors, some models of which are used in digital cinema systems.  The most commonly found are DB9, used in older equipment for automation connectivity using the RS232 protocol, DB15, used in some 3-D systems, DB25, used for AES3 audio hookups between media blocks and audio processors, and DB37, used for GPIO connections.",
+    "relatedTerms": [
+      "AES3",
+      "General Purpose Input/Output",
+      "RS232"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/D-subminiature"
+    ],
+    "synonyms": [
+      "DB9",
+      "DB15",
+      "DB25",
+      "DB37"
+    ],
+    "term": "D-Subminiature"
+  },
+  {
+    "definition": "The practice of deliberately aligning the components of a xenon arc light source, such that it does not achieve optimal light transmission.  This is done in order to reduce the reflected light from the screen to within DCI limits (14ft-l with a white test pattern), when this cannot be achieved even by running the lamp at its lowest rated current.",
+    "relatedTerms": [
+      "Xenon Arc Lamp"
+    ],
+    "term": "Defocus"
+  },
+  {
+    "abbreviations": [
+      "DCNC"
+    ],
+    "definition": "The formal shorthand method of naming a DCP (CTT and/or AT), to provide the technical information needed by theater staff to enable its correct presentation.  It was developed and maintained by ISDCF.",
+    "relatedTerms": [
+      "AnnotationText",
+      "ContentTitltText",
+      "Inter-Society Digital Cinema Forum"
+    ],
+    "sources": [
+      "https://registry-page.isdcf.com/"
+    ],
+    "term": "Digital Cinema Naming Convention"
+  },
+  {
+    "abbreviations": [
+      "DCP"
+    ],
+    "term": "Digital Cinema Package"
+  },
+  {
+    "abbreviations": [
+      "DMD"
+    ],
+    "relatedTerms": [
+      "Light Engine"
+    ],
+    "term": "Digital Micromirror Device"
+  },
+  {
+    "abbreviations": [
+      "DVI"
+    ],
+    "term": "Digital Video Interface"
+  },
+  {
+    "definition": "A cinema display technology in which the viewer looks directly at the light source as distinct from its reflection from a screen (i.e. one that does not consist of a projector and screen).  Arrays of light emitting diodes (LEDs) typically form the display device.  Cinema LED systems are generally able to reproduce much larger color spaces than reflected light display technologies (projectors and screens).",
+    "relatedTerms": [
+      "High Dynamic Range"
+    ],
+    "synonyms": [
+      "Cinema LED",
+      "Direct View",
+      "LED Wall"
+    ],
+    "term": "Direct View Display"
+  },
+  {
+    "relatedTerms": [
+      "Federal Information Processing Standards"
+    ],
+    "term": "FIPS Enclosure"
+  },
+  {
+    "definition": "When the secure decryption hardware in a media block is in a disabled state, either as the result of the volatile memory battery having discharged completely, the detection of an attempt to tamper with the secured hardware enclosure, or the detection of an attempt to install unauthorized security manager firmware.  Per DCI rules, hardware that is in a FIPS lock state cannot be repaired in the field, and must be shipped to a FIPS-approved facility operated by the manufacturer for repair.",
+    "relatedTerms": [
+      "Certificate",
+      "Federal Information Processing Standards",
+      "Media Block"
+    ],
+    "term": "FIPS Lock"
+  },
+  {
+    "synonyms": [
+      "FIPS"
+    ],
+    "term": "Federal Information Processing Standards"
+  },
+  {
+    "abbreviations": [
+      "FTP"
+    ],
+    "term": "File Transfer Protocol"
+  },
+  {
+    "definition": "Software, the sole function of which is to control and manage a hardware device.  It is so called because it is loaded from rewritable memory (e.g. flash memory) and can thus be replaced with newer versions, but its functionality is restricted to hardware management.  Software is distinct from firmware in that software operates multiple hardware devices and/or interacts with the user of a system.  The program code used by a digital cinema projector or server consists of both software and firmware components.",
+    "relatedTerms": [
+      "Media Block"
+    ],
+    "term": "Firmware"
+  },
+  {
+    "relatedTerms": [
+      "Aspect Ratio",
+      "Container"
+    ],
+    "synonyms": [
+      "185",
+      "1.85"
+    ],
+    "term": "Flat"
+  },
+  {
+    "definition": "A unit of measurement for the intensity of light reflected from a movie theater screen into the sensor of a measuring device.  Foot-lamberts is distinct from lumens in that it measures the light that reaches the human eye, not the light output from the projector.  The gain factor of the screen and ambient light in the auditorium can cause a significant difference between the two.  Per DCI requirements, a digital cinema system should be capable of lighting the screen to 14 fL.",
+    "relatedTerms": [
+      "Lumen",
+      "Nit",
+      "Photoradiometer"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Foot-lambert"
+    ],
+    "symbols": [
+      "fl",
+      "fL",
+      "ft-L"
+    ],
+    "term": "Foot-lambert"
+  },
+  {
+    "term": "Gain",
+    "termContext": "Audio"
+  },
+  {
+    "term": "Gain",
+    "termContext": "Screen"
+  },
+  {
+    "abbreviations": [
+      "GPIO"
+    ],
+    "relatedTerms": [
+      "Relay"
+    ],
+    "term": "General Purpose Input/Output"
+  },
+  {
+    "term": "Headroom",
+    "termContext": "Audio"
+  },
+  {
+    "definition": "The amount of additional output power needed from a xenon arc lamp beyond what is necessary to light the screen to DCI specifications (14ft-l) when it is newly installed.  The light output of a xenon arc lamp declines over the course of its service life (warranty hours), typically by 20-30%.  Therefore, if a lamp needs to be 'maxed out' (run at the maximum rated current) when new, it will be unable to light the screen satisfactorily before its warranty hours are used.  It is therefore best practice to use a rating of lamp with enough headroom to absorb this loss of output, and still be able to light the screen properly at the end of its service life.",
+    "term": "Headroom",
+    "termContext": "Xenon Arc Illumination"
+  },
+  {
+    "abbreviations": [
+      "HI"
+    ],
+    "synonyms": [
+      "Commentary Track"
+    ],
+    "term": "Hearing impaired"
+  },
+  {
+    "abbreviations": [
+      "HDR"
+    ],
+    "definition": "In the context of digital cinema, any color space with a wider gamut than DCI XYZ.  An example would be Rec. 2020.  Xenon arc and laser phosphor-lit projectors generally cannot reproduce HDR color spaces, which require RGB or 6P laser illumination, or a direct view display.",
+    "relatedTerms": [
+      "Color Space",
+      "Direct View Display"
+    ],
+    "term": "High Dynamic Range"
+  },
+  {
+    "abbreviations": [
+      "HFR"
+    ],
+    "definition": "The term is generally used to refer to any frame rate above 24 frames per second (FPS), which has been the de facto industry standard since the mid-1920s.  Proponents of HFR claim that it offers a more detailed and lifelike perception of movement than 24 FPS.  The HFR capabilities of a given cinema system are determined by the combination of projector, DCP server, and media block installed.",
+    "relatedTerms": [
+      "Series"
+    ],
+    "term": "High Frame Rate"
+  },
+  {
+    "abbreviations": [
+      "HDMI"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/HDMI"
+    ],
+    "term": "High-Definition Multimedia Interface"
+  },
+  {
+    "abbreviations": [
+      "HDCP"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/High-bandwidth_Digital_Content_Protection"
+    ],
+    "term": "High-bandwidth Digital Content Protection"
+  },
+  {
+    "abbreviations": [
+      "IAB"
+    ],
+    "sources": [
+      "https://doi.org/10.5594/SMPTE.RDD57.2021"
+    ],
+    "term": "Immersive Audio Bitstream"
+  },
+  {
+    "term": "Impedance",
+    "termContext": "Audio"
+  },
+  {
+    "abbreviations": [
+      "ICMP"
+    ],
+    "definition": "A device only offered by Barco that combines the functions of a DCP server, Integrated Media Block (IMB) and Integrated Cinema Processor (ICP).  It occupies the card cage slots of both the IMB and ICP in a Barco Series 2 or later projector.",
+    "relatedTerms": [
+      "Integrated Cinema Processor",
+      "Integrated Media Block",
+      "Media Block",
+      "Series"
+    ],
+    "synonyms": [
+      "Alchemy"
+    ],
+    "term": "Integrated Cinema Media Player"
+  },
+  {
+    "abbreviations": [
+      "ICP"
+    ],
+    "relatedTerms": [
+      "Integrated Cinema Media Player",
+      "Integrated Media Block",
+      "Media Block",
+      "Series"
+    ],
+    "term": "Integrated Cinema Processor"
+  },
+  {
+    "abbreviations": [
+      "IMB"
+    ],
+    "relatedTerms": [
+      "Integrated Cinema Media Player",
+      "Integrated Cinema Processor",
+      "Media Block",
+      "Series"
+    ],
+    "term": "Integrated Media Block"
+  },
+  {
+    "abbreviations": [
+      "ISDCF"
+    ],
+    "definition": "A nonprofit technical standards body within the industry.  Its major contributions are the Digital Cinema Naming Convention (DCNC), and defining the way in which hard disc drives used for the distribution of DCPs should be partitioned and formatted.",
+    "relatedTerms": [
+      "Digital Cinema Naming Convention"
+    ],
+    "term": "Inter-Society Digital Cinema Forum"
+  },
+  {
+    "abbreviations": [
+      "KDM"
+    ],
+    "term": "Key Delivery Message"
+  },
+  {
+    "term": "Keystone"
+  },
+  {
+    "relatedTerms": [
+      "Laser-illuminated Projection"
+    ],
+    "term": "Laser Phosphor"
+  },
+  {
+    "relatedTerms": [
+      "Laser Phosphor",
+      "RGB Laser"
+    ],
+    "synonyms": [
+      "Laser Projection"
+    ],
+    "term": "Laser-illuminated Projection"
+  },
+  {
+    "term": "Lens Shift"
+  },
+  {
+    "synonyms": [
+      "Light Processor (Barco)",
+      "Prism Assembly (NEC)",
+      "Optical Block (Sony)"
+    ],
+    "term": "Light Engine"
+  },
+  {
+    "synonyms": [
+      "Enigma Card"
+    ],
+    "term": "Link Decrypter"
+  },
+  {
+    "abbreviations": [
+      "LFE"
+    ],
+    "relatedTerms": [
+      "Subwoofer"
+    ],
+    "term": "Low Frequency Extension"
+  },
+  {
+    "relatedTerms": [
+      "Foot-lambert",
+      "Nit",
+      "Photoradiometer"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Lumen_(unit)"
+    ],
+    "symbols": [
+      "lm"
+    ],
+    "synonyms": [
+      "Luminous flux"
+    ],
+    "term": "Lumen"
+  },
+  {
+    "definition": "A network switch that includes the ability to manage the processing of IP packets that pass through it.  While they are not strictly necessary in digital cinema LANs, their functions can be useful or necessary in larger or more complex systems.",
+    "synonyms": [
+      "Smart switch"
+    ],
+    "term": "Managed Switch"
+  },
+  {
+    "term": "Masking"
+  },
+  {
+    "relatedTerms": [
+      "Integrated Cinema Media Player",
+      "Integrated Cinema Processor",
+      "Integrated Media Block",
+      "Series"
+    ],
+    "term": "Media Block"
+  },
+  {
+    "abbreviations": [
+      "NTP"
+    ],
+    "term": "Network Time Protocol"
+  },
+  {
+    "abbreviations": [
+      "NDF"
+    ],
+    "synonyms": [
+      "ND Filter"
+    ],
+    "term": "Neutral Density Filter"
+  },
+  {
+    "relatedTerms": [
+      "Foot-lambert",
+      "Lumen",
+      "Photoradiometer"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Candela_per_square_metre"
+    ],
+    "symbols": [
+      "cd/m^2",
+      "nt"
+    ],
+    "synonyms": [
+      "Candela per Square Metre",
+      "Candala"
+    ],
+    "term": "Nit"
+  },
+  {
+    "abbreviations": [
+      "OCAP"
+    ],
+    "definition": "A method of assisting the hearing impaired by means of descriptive timed text that is visible on the screen in projection.  Open captions are distinct from closed captions, which are only visible on a reading device used by the customer in the theater, and subtitles, which only translate foreign language dialogue.",
+    "relatedTerms": [
+      "Americans with Disabilities Act",
+      "Closed Caption",
+      "Hearing Impaired",
+      "Subtitle",
+      "Visually Impaired Narration"
+    ],
+    "term": "Open Caption"
+  },
+  {
+    "definition": "A device that measures the intensity and color temperature of reflected light, used for color calibration in digital cinema systems.  Older and cheaper models are generally only suitable for calibrating xenon arc-illuminated projectors, as their bandwidth sensitivity is not sufficient for use with laser light sources.  A photoradiometer differs from a light meter in that it can measure both color temperature and light levels: a light meter can only measure the latter.",
+    "relatedTerms": [
+      "Color Calibration",
+      "Color Space",
+      "Foot-lambert",
+      "Lumen",
+      "Nit"
+    ],
+    "synonyms": [
+      "Color Meter",
+      "Light Meter"
+    ],
+    "term": "Photoradiometer"
+  },
+  {
+    "definition": "In Internet Protocol (IP) networking, an integer that is attached to packets that indicates to switches and computers through or to it passes the nature of the data in that packet.  For example, ports 20 and 21 are typically used for FTP, and port 43744 is used by the Barco ICMP's web UI.  A port number can be between 0 and 65535.",
+    "term": "Port",
+    "termContext": "Networking"
+  },
+  {
+    "relatedTerms": [
+      "Laser-illuminated Projection"
+    ],
+    "term": "RGB Laser"
+  },
+  {
+    "term": "RJ45"
+  },
+  {
+    "synonyms": [
+      "Serial",
+      "Serial Port"
+    ],
+    "term": "RS232"
+  },
+  {
+    "term": "Rake"
+  },
+  {
+    "abbreviations": [
+      "RTA"
+    ],
+    "term": "Real Time Analyzer"
+  },
+  {
+    "abbreviations": [
+      "RAID"
+    ],
+    "term": "Redundant Array of Independent Discs"
+  },
+  {
+    "abbreviations": [
+      "RLP"
+    ],
+    "definition": "The location within a cinema auditorium used to measure sound levels and equalization when calibrating (tuning) the audio system.  The RLP is typically on the X-axis centerline, and two thirds of the distance along the Y-axis between the screen and the rear wall.",
+    "relatedTerms": [
+      "Tuning"
+    ],
+    "term": "Reference Listening Position"
+  },
+  {
+    "definition": "A device that allows a low voltage current to operate a switch within a circuit carying a much higher voltage.  Relays are used extensively within digital cinema automation processes.",
+    "relatedTerms": [
+      "Automation Controller",
+      "General Purpose Input and Output"
+    ],
+    "term": "Relay",
+    "termContext": "Electronics"
+  },
+  {
+    "relatedTerms": [
+      "Aspect Ratio",
+      "Container"
+    ],
+    "synonyms": [
+      "239",
+      "2.39"
+    ],
+    "term": "Scope"
+  },
+  {
+    "relatedTerms": [
+      "Budget",
+      "Network Time Protocol"
+    ],
+    "term": "Secure Clock"
+  },
+  {
+    "term": "Security Manager"
+  },
+  {
+    "definition": "Categories that refer to the hardware architecture of DCI-compliant digital cinema projectors.  Series 1 projectors were manufactured between approximately 2006 and 2011, and were the first generation to be capable of DCI compliance.  They are 2K only, and include three image processing boards manufactured by Texas Instruments.  They can only be used with an external media block, connected by HD-SDI.  Spare parts support for Series 1 projectors has now ceased, though a small number remain in revenue earning service.  Series 2 projectors were manufactured between approximately 2010 and 2020, can be 2K or 4K, contain a single TI image processing board, the Integrated Cinema Processor (ICP), and can be used with either an external or an integrated media block.  Most Series 2 models are still actively supported by their manufacturers.  In Series 3 and later projectors, only the Digital Micromirror Array (DMD) chips are actually manufactured by Texas Instruments: the other image processing hardware is made by the projector manufacturer.  Series 3 (Barco and Christie) and Series 4 (Barco) are essentially marketing labels as distinct from systems of TI image processing board infrastructure.",
+    "synonyms": [
+      "Series 1",
+      "Series 2",
+      "Series 3",
+      "Series 4"
+    ],
+    "term": "Series",
+    "termContext": "Projector Generation"
+  },
+  {
+    "term": "Shielded",
+    "termContext": "Ethernet Cable"
+  },
+  {
+    "definition": "The most common failure mode of a projector's light engine, in which one or more of the individual mirrors on one of the light engine's three digital micromirror devices (DMDs) will no longer move in response to commands from its formatter.  The result is visible dots on the screen of a consistent color (usually one of the primary colors or black), regardless of the content being projected.  It is sometimes possible to 'unstick' pixels by playing rapidly alternating black and white test patterns for an extended period, but this fault usually requires replacement of the entire light engine to resolve.",
+    "relatedTerms": [
+      "Digital Micromirror Device",
+      "Light Engine"
+    ],
+    "term": "Stuck Pixel"
+  },
+  {
+    "definition": "A method of translating foreign language dialogue to a non-native audience by means of timed text that is visible on the screen in projection.  Subtitles are distinct from open captions (OCAP) in that their purpose is simply to translate dialogue, not to assist the hearing impaired in understanding non-dialogue elements of a movie's soundtrack.",
+    "relatedTerms": [
+      "Open Caption"
+    ],
+    "term": "Subtitle"
+  },
+  {
+    "relatedTerms": [
+      "Low Frequency Extension "
+    ],
+    "term": "Subwoofer"
+  },
+  {
+    "relatedTerms": [
+      "Managed Switch"
+    ],
+    "term": "Switch",
+    "termContext": "Networking"
+  },
+  {
+    "synonyms": [
+      "Sync"
+    ],
+    "term": "Synchronization",
+    "termContext": "Audio"
+  },
+  {
+    "definition": "A still image used by digital cinema technicians during the installation or maintenance of a projector, to evaluate the quality of its output, and to optimize focus, focus uniformity, convergence, framing, keystone mitigation, and other characteristics of the projected image.",
+    "term": "Test Pattern"
+  },
+  {
+    "abbreviations": [
+      "TMS"
+    ],
+    "term": "Theatre Management System"
+  },
+  {
+    "abbreviations": [
+      "TLS"
+    ],
+    "definition": "A method of encrypting data passing over an IP network, that is mandated by DCI security requirements.",
+    "term": "Transport Layer Security"
+  },
+  {
+    "term": "Tri-amped"
+  },
+  {
+    "term": "Tuning"
+  },
+  {
+    "abbreviations": [
+      "UPS"
+    ],
+    "term": "Uninterruptible Power Supply"
+  },
+  {
+    "abbreviations": [
+      "USB"
+    ],
+    "term": "Universal Serial Bus"
+  },
+  {
+    "abbreviations": [
+      "UTC"
+    ],
+    "definition": "A method of stating the time of day that is independent of geographic time zones.  UTC is the same as Greenwich Mean Time, i.e. the time in the United Kingdom when daylight saving time is not in effect.  Per DCI requirements, log entries of all image processing boards, DCP servers, and media blocks record times in UTC.  In some cases, software can translate these into the local time where the equipment is operated for display and analysis.  The period of time validity for KDMs is always specified in UTC, meaning that it important to configure the time zone in DCI-compliant equipment correctly for the locale in which it is installed.",
+    "relatedTerms": [
+      "Key Delivery Message",
+      "Secure Clock"
+    ],
+    "term": "Universal Time, Co-Ordinated"
+  },
+  {
+    "abbreviations": [
+      "VNC"
+    ],
+    "term": "Virtual Network Computing"
+  },
+  {
+    "abbreviations": [
+      "VIN",
+      "VI"
+    ],
+    "relatedTerms": [
+      "Americans with Disabilities Act"
+    ],
+    "term": "Visually Impaired Narration"
+  },
+  {
+    "abbreviations": [
+      "Web UI"
+    ],
+    "term": "Web User Interface"
+  },
+  {
+    "sources": [
+      "https://ieeexplore.ieee.org/document/7291917"
+    ],
+    "term": "X-Curve"
+  }
+]
