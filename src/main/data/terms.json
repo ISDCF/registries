@@ -136,7 +136,7 @@
     "definition": "The variance within which a DCI-compliant secure clock can be adjusted by the end user without intervention by the manufacturer.  This is six minutes, or 300 seconds.  If a secure clock has drifted beyond that, it is said to be 'out of budget,' and assistance from the manufacturer (usually in the form of a software patch) is needed.  If a secure clock drifts by over 30 minutes, it cannot be corrected in the field and must be returned to the manufacturer's FIPS-approved facility for correction and recertification.",
     "relatedTerms": [
       "Network Time Protocol",
-      "Secure clock"
+      "Secure Clock"
     ],
     "term": "Budget"
   },
@@ -212,7 +212,7 @@
     "definition": "In cinema automation, the transmission and reception of commands by closing a circuit, without the need for any voltage to be applied to it.  This closure can be either momentary or two state (for example, circuit closed = fire alarm is not active / circuit open = fire alarm is active), depending on the equipment's requirements.",
     "relatedTerms": [
       "Automation Controller",
-      "General Purpose Input and Output"
+      "General Purpose Input/Output"
     ],
     "term": "Contact Closure"
   },
@@ -277,6 +277,9 @@
     "term": "D-Subminiature"
   },
   {
+    "term": "DCP Server"
+  },
+  {
     "definition": "The practice of deliberately aligning the components of a xenon arc light source, such that it does not achieve optimal light transmission.  This is done in order to reduce the reflected light from the screen to within DCI limits (14ft-l with a white test pattern), when this cannot be achieved even by running the lamp at its lowest rated current.",
     "relatedTerms": [
       "Xenon Arc Lamp"
@@ -290,7 +293,7 @@
     "definition": "The formal shorthand method of naming a DCP (CTT and/or AT), to provide the technical information needed by theater staff to enable its correct presentation.  It was developed and maintained by ISDCF.",
     "relatedTerms": [
       "AnnotationText",
-      "ContentTitltText",
+      "ContentTitleText",
       "Inter-Society Digital Cinema Forum"
     ],
     "sources": [
@@ -406,7 +409,7 @@
       "GPIO"
     ],
     "relatedTerms": [
-      "Relay"
+      "Relay (Electronics)"
     ],
     "term": "General Purpose Input/Output"
   },
@@ -426,7 +429,7 @@
     "synonyms": [
       "Commentary Track"
     ],
-    "term": "Hearing impaired"
+    "term": "Hearing Impaired"
   },
   {
     "abbreviations": [
@@ -445,7 +448,7 @@
     ],
     "definition": "The term is generally used to refer to any frame rate above 24 frames per second (FPS), which has been the de facto industry standard since the mid-1920s.  Proponents of HFR claim that it offers a more detailed and lifelike perception of movement than 24 FPS.  The HFR capabilities of a given cinema system are determined by the combination of projector, DCP server, and media block installed.",
     "relatedTerms": [
-      "Series"
+      "Series (Projector Generation)"
     ],
     "term": "High Frame Rate"
   },
@@ -489,7 +492,7 @@
       "Integrated Cinema Processor",
       "Integrated Media Block",
       "Media Block",
-      "Series"
+      "Series (Projector Generation)"
     ],
     "synonyms": [
       "Alchemy"
@@ -504,7 +507,7 @@
       "Integrated Cinema Media Player",
       "Integrated Media Block",
       "Media Block",
-      "Series"
+      "Series (Projector Generation)"
     ],
     "term": "Integrated Cinema Processor"
   },
@@ -516,7 +519,7 @@
       "Integrated Cinema Media Player",
       "Integrated Cinema Processor",
       "Media Block",
-      "Series"
+      "Series (Projector Generation)"
     ],
     "term": "Integrated Media Block"
   },
@@ -613,7 +616,7 @@
       "Integrated Cinema Media Player",
       "Integrated Cinema Processor",
       "Integrated Media Block",
-      "Series"
+      "Series (Projector Generation)"
     ],
     "term": "Media Block"
   },
@@ -730,10 +733,13 @@
     "definition": "A device that allows a low voltage current to operate a switch within a circuit carying a much higher voltage.  Relays are used extensively within digital cinema automation processes.",
     "relatedTerms": [
       "Automation Controller",
-      "General Purpose Input and Output"
+      "General Purpose Input/Output"
     ],
     "term": "Relay",
     "termContext": "Electronics"
+  },
+  {
+    "term": "Resolution"
   },
   {
     "relatedTerms": [
@@ -788,7 +794,7 @@
   },
   {
     "relatedTerms": [
-      "Low Frequency Extension "
+      "Low Frequency Extension"
     ],
     "term": "Subwoofer"
   },
@@ -814,7 +820,7 @@
     "abbreviations": [
       "TMS"
     ],
-    "term": "Theatre Management System"
+    "term": "Theater Management System"
   },
   {
     "abbreviations": [
@@ -879,5 +885,8 @@
       "https://ieeexplore.ieee.org/document/7291917"
     ],
     "term": "X-Curve"
+  },
+  {
+    "term": "Xenon Arc Lamp"
   }
 ]
