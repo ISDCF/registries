@@ -13,9 +13,6 @@ describe("terms schema", async () => {
           "Nit",
           "Photoradiometer"
         ],
-        "sources": [
-          "https://en.wikipedia.org/wiki/Foot-lambert"
-        ],
         "symbols": [
           "fl",
           "fL",
