@@ -1,4 +1,6 @@
 const { registries } = require("..")
+const chai = require('chai')
+const should = chai.should();
 const assert = require('assert');
 
 const { SAMPLE_BAD_URL, isSkipURLCheck } =  require("../src/main/scripts/url-checker")
@@ -6,6 +8,10 @@ const { SAMPLE_BAD_URL, isSkipURLCheck } =  require("../src/main/scripts/url-che
 describe("terms schema", async () => {
   let validate
   before(async () => { ({ terms: { validate } } = await registries() ) })
+
+  it("schema exists", async () => {
+    validate.should.be.a('function')
+  })
 
   it("valid", async () => {
     await assert.doesNotReject(validate([
