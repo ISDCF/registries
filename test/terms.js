@@ -1,7 +1,10 @@
 const { registries } = require("..")
 const assert = require('assert');
 
+const { SAMPLE_BAD_URL, isSkipURLCheck } =  require("../src/main/scripts/url-checker")
+
 describe("terms schema", async () => {
+  let validate
   before(async () => { ({ terms: { validate } } = await registries() ) })
 
   it("valid", async () => {
@@ -12,6 +15,9 @@ describe("terms schema", async () => {
           "Lumen",
           "Nit",
           "Photoradiometer"
+        ],
+        "sources": [
+          "https://en.wikipedia.org/wiki/Foot-lambert"
         ],
         "symbols": [
           "fl",
@@ -57,5 +63,12 @@ describe("terms schema", async () => {
       }
     ]), /fails schema/)
   })
+
+  if (! isSkipURLCheck())
+    it("bad url", async () => {
+      await assert.rejects(validate([
+        { term: "term", url: SAMPLE_BAD_URL},
+      ]), /Malicious URLs/)
+    })
 
 })

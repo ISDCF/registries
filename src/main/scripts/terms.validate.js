@@ -23,9 +23,7 @@ const { areBadURLs, isSkipURLCheck } = require('./url-checker.js')
 
 module.exports = async (registry, name) => {
 
-     /* is any key in the registry duplicated */
-
-  const keys = []
+  /* is any key in the registry duplicated */
 
   for (let i = 1; i < registry.length; i++) {
     if (registry[i].termContext !== undefined) {
