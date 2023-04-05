@@ -40,14 +40,15 @@ module.exports = async (registry, name) => {
 
   const definedTerms = []
   for (let t in registry) {
-    let term = registry[t].term
-    definedTerms.push(term)
+    definedTerms.push(registry[t].term)
   }
+
   for (let r in registry) {
     let relatedTerm = registry[r].relatedTerms
+
     for (let rT in relatedTerm) {
       if (!definedTerms.includes(relatedTerm[rT])) {
-        console.log(name + " registry term '" + registry[r].term + "' contains relatedTerm '" + relatedTerm[rT] + "' that is not a defined term");
+        throw `${name} registry '${registry[r].term}' contains relatedTerm '${relatedTerm[rT]}' that is not a defined term`;
       }
     }
   }
