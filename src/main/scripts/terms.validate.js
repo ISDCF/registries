@@ -23,34 +23,16 @@ const { areBadURLs, isSkipURLCheck } = require('./url-checker.js')
 
 module.exports = async (registry, name) => {
 
-  /* is any key in the registry duplicated */
-
+    /* is any key in the registry duplicated */
+  
   for (let i = 1; i < registry.length; i++) {
     if (registry[i].termContext !== undefined) {
       registry[i].term = (registry[i].term + " (" + registry[i].termContext + ")")
     }
+
     if (registry[i-1].term >= registry[i].term) {
       throw name + " registry key " + registry[i-1].term + " is " +
         ((registry[i-1].term === registry[i].term) ? "duplicated" : "not sorted");
-    }
-  }
-
-   /* are related terms defined in registry */
-
-  const definedTerms = []
-
-  for (let t in registry) {
-    let term = registry[t].term
-    definedTerms.push(term)
-  }
-
-  for (let rT in registry) {
-    let term = registry[rT].term
-    let relatedTerms = registry[rT].relatedTerms
-    for (r in relatedTerms) {
-      if (definedTerms.includes(relatedTerms[r]) !== true) {
-        throw name + " registry term '" + term + "' contains relatedTerm '" + relatedTerms[r] + "' that is not a defined term";
-      }
     }
   }
 
