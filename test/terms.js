@@ -67,7 +67,9 @@ describe("terms schema", async () => {
   if (! isSkipURLCheck())
     it("bad url", async () => {
       await assert.rejects(validate([
-        { term: "term", url: SAMPLE_BAD_URL},
+        { term: "term", "sources": [
+          SAMPLE_BAD_URL
+        ] }
       ]), /Malicious URLs/)
     })
 
