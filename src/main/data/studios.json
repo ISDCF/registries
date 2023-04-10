@@ -200,6 +200,16 @@
     "description": "AV-DESIGN"
   },
   {
+    "code": "AVM",
+    "contact": {
+      "address": "Str Parangului 76, Bucharest, Romania, 012328",
+      "email": "sebastian@avanpost.co",
+      "name": "Sebastian Plamadeala"
+    },
+    "description": "Avanpost Media",
+    "url": "https://avanpost.co"
+  },
+  {
     "code": "BA",
     "contact": {
       "address": "Lindenallee 55/57, 15366 Hoppegarten, Germany",
@@ -547,6 +557,16 @@
     "code": "DNT",
     "description": "Donten & Lacroix Films",
     "url": "http://www.dontenlacroix.eu/"
+  },
+  {
+    "code": "DS",
+    "contact": {
+      "address": "Condomínio Jardim Europa II conjunto Q casa 3, Grande Colorado, Sobradinho, DF - Brazil",
+      "email": "produtoradarkstar@gmail.com",
+      "name": "Jonathan Lucena"
+    },
+    "description": "Dark Star",
+    "url": "https://www.youtube.com/channel/UCQXaPlfwPpBkM2ZgcwRg0TQ"
   },
   {
     "code": "DVF",
