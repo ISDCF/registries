@@ -407,6 +407,16 @@
     "description": "ATL VIDEOFACTORY"
   },
   {
+    "code": "ATR",
+    "contact": {
+      "address": "Kameniti Stol 38, Croatia",
+      "email": "ater@aterstudio.com",
+      "name": "Mario Pulek"
+    },
+    "description": "ATER studio",
+    "url": "https://www.aterstudio.com"
+  },
+  {
     "code": "AUA",
     "contact": {
       "address": "Route des Jeunes 41B, 1227 Carouge, GE, Switzerland",
