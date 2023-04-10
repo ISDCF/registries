@@ -200,6 +200,16 @@
     "description": "AV-DESIGN"
   },
   {
+    "code": "AVM",
+    "contact": {
+      "address": "Str Parangului 76, Bucharest, Romania, 012328",
+      "email": "sebastian@avanpost.co",
+      "name": "Sebastian Plamadeala"
+    },
+    "description": "Avanpost Media",
+    "url": "https://avanpost.co"
+  },
+  {
     "code": "BA",
     "contact": {
       "address": "Lindenallee 55/57, 15366 Hoppegarten, Germany",
