@@ -2902,6 +2902,16 @@
     "description": "JC Film Consultancy Ltd"
   },
   {
+    "code": "JIN",
+    "contact": {
+      "address": "11, Magokjungang 2-ro, Gangseo-gu, Seoul, Republic of Korea",
+      "email": "jinmedia.dcp@gmail.com",
+      "name": "Mr. PARK Chan Jin"
+    },
+    "description": "JINMEDIA DCP LAB",
+    "url": "http://jinmedia.kr"
+  },
+  {
     "code": "JOP",
     "contact": {
       "address": "9, rue Robert Schuman 78120 Rambouillet, France",
