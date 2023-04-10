@@ -5657,6 +5657,16 @@
     "description": "WILD MIKE STUDIO"
   },
   {
+    "code": "WNS",
+    "contact": {
+      "address": "PO BOX 852261 Richardson, Texas 75085 USA",
+      "email": "howdy@seligpolyscope.com",
+      "name": "Dev Shapiro"
+    },
+    "description": "Selig Polyscope Company",
+    "url": "https://seligpolyscope.com"
+  },
+  {
     "code": "WP",
     "description": "BILL BRYN RUSSELL"
   },
