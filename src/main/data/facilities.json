@@ -452,6 +452,16 @@
     "description": "AV GRID"
   },
   {
+    "code": "AVM",
+    "contact": {
+      "address": "Str Parangului 76, Bucharest, Romania, 012328",
+      "email": "sebastian@avanpost.co",
+      "name": "Sebastian Plamadeala"
+    },
+    "description": "Avanpost Media",
+    "url": "https://avanpost.co"
+  },
+  {
     "code": "AVP",
     "description": "AV PRESERVATION BY RETO.CH"
   },
