@@ -5565,6 +5565,16 @@
     "description": "VIDEOBOLAGET POST PRODUCTION"
   },
   {
+    "code": "VPS",
+    "contact": {
+      "address": "Solomou 39 street, Exarchia Athens 10682, Greece",
+      "email": "dcp@videopress.gr",
+      "name": "George Kallipetis"
+    },
+    "description": "Videopress",
+    "url": "http://videopress.gr/"
+  },
+  {
     "code": "VS",
     "description": "VI.SO. VIRTUAL SOLUTION"
   },
