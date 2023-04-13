@@ -2449,6 +2449,11 @@
     "description": "FXPEAK"
   },
   {
+    "code": "FYM",
+    "description": "Free Your Mind",
+    "url": "http://www.fym.tv/"
+  },
+  {
     "code": "G4F",
     "description": "GOOD4FRAME"
   },
@@ -2930,6 +2935,16 @@
   {
     "code": "JC",
     "description": "JC Film Consultancy Ltd"
+  },
+  {
+    "code": "JIN",
+    "contact": {
+      "address": "11, Magokjungang 2-ro, Gangseo-gu, Seoul, Republic of Korea",
+      "email": "jinmedia.dcp@gmail.com",
+      "name": "Mr. PARK Chan Jin"
+    },
+    "description": "JINMEDIA DCP LAB",
+    "url": "http://jinmedia.kr"
   },
   {
     "code": "JOP",
