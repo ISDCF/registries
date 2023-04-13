@@ -2136,6 +2136,16 @@
     "description": "VICTORY STUDIOS"
   },
   {
+    "code": "VPS",
+    "contact": {
+      "address": "Solomou 39 Street, Exarchia Athens 10682, Greece",
+      "email": "dcp@videopress.gr",
+      "name": "George Kallipetis"
+    },
+    "description": "Videopress Greece",
+    "url": "http://videopress.gr"
+  },
+  {
     "code": "WBX",
     "contact": {
       "address": "111 Boulevard Duhamel du Monceau 45160 Olivet, Orleans, France",
