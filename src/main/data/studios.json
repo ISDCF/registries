@@ -482,6 +482,11 @@
     "url": "https://www.cineup.de"
   },
   {
+    "code": "CZN",
+    "description": "Curzon Film",
+    "url": "https://film.curzon.com/"
+  },
+  {
     "code": "DA",
     "description": "Dreamworks"
   },
@@ -1033,6 +1038,16 @@
     "code": "JAKE",
     "description": "Jacob's Art and Kinetic Entertainment Productions",
     "url": "https://jakeposeyart.com"
+  },
+  {
+    "code": "JAL",
+    "contact": {
+      "address": "4007 Munira Dr, Frisco, Texas 75035 USA",
+      "email": "jason@camp-lucky.com",
+      "name": "Jason Starne"
+    },
+    "description": "Muscular Puppy",
+    "url": "https://www.muscularpuppy.com"
   },
   {
     "code": "JC",
