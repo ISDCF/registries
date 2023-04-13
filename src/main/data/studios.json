@@ -482,6 +482,11 @@
     "url": "https://www.cineup.de"
   },
   {
+    "code": "CZN",
+    "description": "Curzon Film",
+    "url": "https://film.curzon.com/"
+  },
+  {
     "code": "DA",
     "description": "Dreamworks"
   },
