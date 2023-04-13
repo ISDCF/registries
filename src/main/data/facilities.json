@@ -407,6 +407,16 @@
     "description": "ATL VIDEOFACTORY"
   },
   {
+    "code": "ATR",
+    "contact": {
+      "address": "Kameniti Stol 38, Croatia",
+      "email": "ater@aterstudio.com",
+      "name": "Mario Pulek"
+    },
+    "description": "ATER studio",
+    "url": "https://www.aterstudio.com"
+  },
+  {
     "code": "AUA",
     "contact": {
       "address": "Route des Jeunes 41B, 1227 Carouge, GE, Switzerland",
@@ -440,6 +450,16 @@
   {
     "code": "AVG",
     "description": "AV GRID"
+  },
+  {
+    "code": "AVM",
+    "contact": {
+      "address": "Str Parangului 76, Bucharest, Romania, 012328",
+      "email": "sebastian@avanpost.co",
+      "name": "Sebastian Plamadeala"
+    },
+    "description": "Avanpost Media",
+    "url": "https://avanpost.co"
   },
   {
     "code": "AVP",
@@ -2429,6 +2449,11 @@
     "description": "FXPEAK"
   },
   {
+    "code": "FYM",
+    "description": "Free Your Mind",
+    "url": "http://www.fym.tv/"
+  },
+  {
     "code": "G4F",
     "description": "GOOD4FRAME"
   },
@@ -2824,6 +2849,16 @@
   {
     "code": "IR",
     "description": "L'IMMAGINE RITROVATA"
+  },
+  {
+    "code": "IRL",
+    "contact": {
+      "address": "46b Roumelis, Athens, Greece",
+      "email": "irlad.net@gmail.com",
+      "name": "Mr Tasos Gionis"
+    },
+    "description": "irlad network",
+    "url": "https://irlad.net/"
   },
   {
     "code": "IRP",
@@ -5545,6 +5580,16 @@
     "description": "VIDEOBOLAGET POST PRODUCTION"
   },
   {
+    "code": "VPS",
+    "contact": {
+      "address": "Solomou 39 street, Exarchia Athens 10682, Greece",
+      "email": "dcp@videopress.gr",
+      "name": "George Kallipetis"
+    },
+    "description": "Videopress",
+    "url": "http://videopress.gr/"
+  },
+  {
     "code": "VS",
     "description": "VI.SO. VIRTUAL SOLUTION"
   },
@@ -5617,6 +5662,16 @@
     "url": "https://www.will-production.com"
   },
   {
+    "code": "WIL",
+    "contact": {
+      "address": "31 rue du fossé des treize, 67000 Strasbourg, France",
+      "email": "anthony@will-production.com",
+      "name": "Anthony MORARDET "
+    },
+    "description": "Will Production",
+    "url": "https://www.will-production.com"
+  },
+  {
     "code": "WL",
     "description": "WAVE-LINE"
   },
@@ -5635,6 +5690,16 @@
   {
     "code": "WMS",
     "description": "WILD MIKE STUDIO"
+  },
+  {
+    "code": "WNS",
+    "contact": {
+      "address": "PO BOX 852261 Richardson, Texas 75085 USA",
+      "email": "howdy@seligpolyscope.com",
+      "name": "Dev Shapiro"
+    },
+    "description": "Selig Polyscope Company",
+    "url": "https://seligpolyscope.com"
   },
   {
     "code": "WP",
