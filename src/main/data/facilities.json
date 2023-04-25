@@ -923,6 +923,16 @@
     "url": "http://chromapost.io"
   },
   {
+    "code": "CHC",
+    "contact": {
+      "address": "1912 Hereford Ln. Nashville, TN 37221 USA",
+      "email": "jimmy@crookedhatcolor.com",
+      "name": "Jimmy Cadenas"
+    },
+    "description": "Crooked Hat Color",
+    "url": "https://crookedhatcolor.com/"
+  },
+  {
     "code": "CHD",
     "description": "Chicago HD",
     "url": "https://www.chicagohd.com"
