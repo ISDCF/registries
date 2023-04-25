@@ -4819,6 +4819,16 @@
     "description": "SOUNDFIRM BEIJING"
   },
   {
+    "code": "SFI",
+    "contact": {
+      "address": "Box 27126, 102 52 Stockholm, Sweden",
+      "email": "per.legelius@filminstitutet.se",
+      "name": "Per Legelius"
+    },
+    "description": "Swedish Film Institute",
+    "url": "https://www.filminstitutet.se/"
+  },
+  {
     "code": "SFK",
     "description": "Studentischer Filmkreis an der TU Darmstadt e.V."
   },
