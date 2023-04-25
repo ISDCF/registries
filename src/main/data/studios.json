@@ -1566,6 +1566,16 @@
     "description": "POLO FILM (DK)"
   },
   {
+    "code": "PP",
+    "contact": {
+      "address": "Lochhamer Str. 9, 82152 Planegg, Germany",
+      "email": "m.wieczorek@plaion.com",
+      "name": "Maik Wieczorek"
+    },
+    "description": "Plaion Pictures GmbH",
+    "url": "https://plaionpictures.com/de-us"
+  },
+  {
     "code": "PREN",
     "description": "Precision Entertainment",
     "url": "https://www.precisionentertainment.net"
@@ -1781,6 +1791,16 @@
     },
     "description": "SakhaFilm",
     "url": "https://sakhafilm.ru/"
+  },
+  {
+    "code": "SFI",
+    "contact": {
+      "address": "Box 27126, 102 52 Stockholm, Sweden",
+      "email": "per.legelius@filminstitutet.se",
+      "name": "Per Legelius"
+    },
+    "description": "Swedish Film Institute",
+    "url": "https://www.filminstitutet.se/"
   },
   {
     "code": "SFZ",
