@@ -4738,6 +4738,11 @@
     "description": "COLORWORKS"
   },
   {
+    "code": "SCX",
+    "description": "CJ 4DPLEX - SCREENX STUDIO",
+    "url": "http://www.screenxmovies.com/"
+  },
+  {
     "code": "SDC",
     "description": "SOHO DIGITAL CINEMA",
     "obsolete": true,
