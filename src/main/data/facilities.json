@@ -933,6 +933,16 @@
     "url": "http://chromapost.io"
   },
   {
+    "code": "CHC",
+    "contact": {
+      "address": "1912 Hereford Ln. Nashville, TN 37221 USA",
+      "email": "jimmy@crookedhatcolor.com",
+      "name": "Jimmy Cadenas"
+    },
+    "description": "Crooked Hat Color",
+    "url": "https://crookedhatcolor.com/"
+  },
+  {
     "code": "CHD",
     "description": "Chicago HD",
     "url": "https://www.chicagohd.com"
@@ -3003,6 +3013,16 @@
     "description": "Jvckenwood Video Tech"
   },
   {
+    "code": "KAB",
+    "contact": {
+      "address": "17a Weavers Court, BELFAST, BT12 5GH Northern Ireland",
+      "email": "claire@ka-boom.tv",
+      "name": "Claire Robinson "
+    },
+    "description": "Ka-boom Productions Ltd.",
+    "url": "https://ka-boom.tv/"
+  },
+  {
     "code": "KAM",
     "description": "KAMERAUDLEJNINGEN APS"
   },
@@ -4748,6 +4768,11 @@
     "description": "COLORWORKS"
   },
   {
+    "code": "SCX",
+    "description": "CJ 4DPLEX - SCREENX STUDIO",
+    "url": "http://www.screenxmovies.com/"
+  },
+  {
     "code": "SDC",
     "description": "SOHO DIGITAL CINEMA",
     "obsolete": true,
@@ -4817,6 +4842,16 @@
   {
     "code": "SFB",
     "description": "SOUNDFIRM BEIJING"
+  },
+  {
+    "code": "SFI",
+    "contact": {
+      "address": "Box 27126, 102 52 Stockholm, Sweden",
+      "email": "per.legelius@filminstitutet.se",
+      "name": "Per Legelius"
+    },
+    "description": "Swedish Film Institute",
+    "url": "https://www.filminstitutet.se/"
   },
   {
     "code": "SFK",
