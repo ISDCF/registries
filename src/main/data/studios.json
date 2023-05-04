@@ -916,6 +916,16 @@
     "url": "https://www.hff-muenchen.de/"
   },
   {
+    "code": "HIST",
+    "contact": {
+      "address": "Rua Rafael Correia Sampaio, 977 - São Caetano do Sul, São Paulo, Brazil",
+      "email": "ogustavocano@gmail.com",
+      "name": "Gustavo Cano"
+    },
+    "description": "Histeria Filmes",
+    "url": "https://www.youtube.com/@histeria_filmes/"
+  },
+  {
     "code": "HOJA",
     "contact": {
       "address": "Muradiye Mah. Göknar Sok. 28/24 Beşiktaş İstanbul, Turkey",
@@ -1757,6 +1767,16 @@
   {
     "code": "SBF",
     "description": "SOAPBOX FILMS"
+  },
+  {
+    "code": "SBLV",
+    "contact": {
+      "address": "68 Rue Julien Lacroix, 75020 Paris, France",
+      "email": "info@studiobelleville.com",
+      "name": "Mehdi Ghemari"
+    },
+    "description": "STUDIO BELLEVILLE",
+    "url": "https://studiobelleville.com"
   },
   {
     "code": "SC",

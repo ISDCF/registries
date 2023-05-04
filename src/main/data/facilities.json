@@ -1218,6 +1218,11 @@
     "url": "https://cpclondon.com/"
   },
   {
+    "code": "CPM",
+    "description": "CAMPUS CAPREA MEDIA",
+    "url": "https://campus-caprea.com/"
+  },
+  {
     "code": "CPP",
     "description": "CINEPOSTPRODUCTION"
   },
@@ -2677,6 +2682,16 @@
     },
     "description": "Higgins Postproduction",
     "url": "http://www.higgins-post.com"
+  },
+  {
+    "code": "HIS",
+    "contact": {
+      "address": "Rua Rafael Correia Sampaio 977 - São Caetano do Sul, São Paulo, Brazil",
+      "email": "ogustavocano@gmail.com",
+      "name": "Gustavo Cano"
+    },
+    "description": "Histeria Filmes",
+    "url": "https://www.youtube.com/@histeria_filmes/"
   },
   {
     "code": "HL",
@@ -4803,6 +4818,16 @@
   {
     "code": "SE",
     "description": "STUDIO ELEMENT"
+  },
+  {
+    "code": "SEA",
+    "contact": {
+      "address": "950 E 3rd St. #1324 Los Angeles CA 90013 USA",
+      "email": "andrew@seawolfpost.com",
+      "name": "Andrew Saulf"
+    },
+    "description": "Seawolf Post",
+    "url": "https://www.seawolfpost.com/"
   },
   {
     "code": "SEK",
