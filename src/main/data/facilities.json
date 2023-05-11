@@ -39,6 +39,16 @@
     "description": "123 Vision Pictures"
   },
   {
+    "code": "1S",
+    "contact": {
+      "address": "945 Taraval Street, #234, San Francisco, CA 94116 USA",
+      "email": "info@onestudios.net",
+      "name": "OneMan"
+    },
+    "description": "one studios",
+    "url": "https://onestudios.net/"
+  },
+  {
     "code": "1Z1",
     "description": "1Z1 SCREENWORKS"
   },
