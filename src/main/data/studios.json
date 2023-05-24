@@ -353,6 +353,11 @@
     "url": "https://www.bigvisions.de"
   },
   {
+    "code": "BWHW",
+    "description": "Bollywood Hollywood Productions",
+    "url": "https://www.bollywoodhollywood.com/"
+  },
+  {
     "code": "CAF",
     "contact": {
       "address": "Kindaruma Grove, Kindaruma Road, Nairobi",
@@ -924,6 +929,11 @@
     "code": "HFFM",
     "description": "HFF München (Hochschule für Fernsehen und Film München)",
     "url": "https://www.hff-muenchen.de/"
+  },
+  {
+    "code": "HHP",
+    "description": "Happy Hour Productions",
+    "url": "https://happyhourproductions.co.uk"
   },
   {
     "code": "HIST",
@@ -1880,6 +1890,16 @@
   {
     "code": "SM",
     "description": "SUHAN MOVIES"
+  },
+  {
+    "code": "SME",
+    "contact": {
+      "address": "10202 Washington Blvd Fl 6th Culver City, CA 90232-3119 USA",
+      "email": "lee.eigner@sonymusic.com",
+      "name": "Lee Eigner"
+    },
+    "description": "Sony Music Entertainment",
+    "url": "https://www.sonymusic.com/"
   },
   {
     "code": "SMTS",
