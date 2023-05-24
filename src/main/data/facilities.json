@@ -30,6 +30,16 @@
     "description": "1A DIGITAL FILM GMBH"
   },
   {
+    "code": "1S",
+    "contact": {
+      "address": "945 Taraval Street, #234, San Francisco, CA 94116 USA",
+      "email": "info@onestudios.net",
+      "name": "OneMan"
+    },
+    "description": "one studios",
+    "url": "https://onestudios.net/"
+  },
+  {
     "code": "1VP",
     "contact": {
       "address": "Feiteng Art Space Zoom A, No.173,Caochangdi, Chaoyang district, Beijing, China",
@@ -375,7 +385,7 @@
   {
     "code": "ARI",
     "description": "Aria Covamonas",
-    "url": "https://covamonas.x"
+    "url": "https://covamonas.com/"
   },
   {
     "code": "ARK",
@@ -1419,7 +1429,13 @@
   },
   {
     "code": "DBY",
-    "description": "D-CINEMA.BY"
+    "contact": {
+      "address": "4 rue Oginskogo, 220076 Minsk, Belarus",
+      "email": "telecine@tut.by",
+      "name": "Jonny Dane"
+    },
+    "description": "D-CINEMA.BY",
+    "url": "https://d-cinema.by/"
   },
   {
     "code": "DC",
@@ -2682,6 +2698,11 @@
   {
     "code": "HFO",
     "description": "HOCUS FOCUS (OSLO)"
+  },
+  {
+    "code": "HHP",
+    "description": "Happy Hour Productions",
+    "url": "https://happyhourproductions.co.uk/"
   },
   {
     "code": "HIG",
@@ -4769,6 +4790,16 @@
   {
     "code": "SCL",
     "description": "SCANLAB FRANCE"
+  },
+  {
+    "code": "SCM",
+    "contact": {
+      "address": "Via XXIV Maggio 5, 38051 Borgo Valsugana (TN), Italy",
+      "email": "presidente@slowcinema.it",
+      "name": "Mr. Juri Micheli"
+    },
+    "description": "SlowCinema Media",
+    "url": "https://www.slowcinema.it"
   },
   {
     "code": "SCN",
