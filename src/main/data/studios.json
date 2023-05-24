@@ -1887,6 +1887,16 @@
     "description": "SUHAN MOVIES"
   },
   {
+    "code": "SME",
+    "contact": {
+      "address": "10202 Washington Blvd Fl 6th Culver City, CA 90232-3119 USA",
+      "email": "lee.eigner@sonymusic.com",
+      "name": "Lee Eigner"
+    },
+    "description": "Sony Music Entertainment",
+    "url": "https://www.sonymusic.com/"
+  },
+  {
     "code": "SMTS",
     "description": "SMTS Media, LLC.",
     "url": "http://sethmctigue.com"
