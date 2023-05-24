@@ -30,6 +30,16 @@
     "description": "1A DIGITAL FILM GMBH"
   },
   {
+    "code": "1S",
+    "contact": {
+      "address": "945 Taraval Street, #234, San Francisco, CA 94116 USA",
+      "email": "info@onestudios.net",
+      "name": "OneMan"
+    },
+    "description": "one studios",
+    "url": "https://onestudios.net/"
+  },
+  {
     "code": "1VP",
     "contact": {
       "address": "Feiteng Art Space Zoom A, No.173,Caochangdi, Chaoyang district, Beijing, China",
@@ -375,7 +385,7 @@
   {
     "code": "ARI",
     "description": "Aria Covamonas",
-    "url": "https://covamonas.x"
+    "url": "https://covamonas.com/"
   },
   {
     "code": "ARK",
@@ -2688,6 +2698,11 @@
   {
     "code": "HFO",
     "description": "HOCUS FOCUS (OSLO)"
+  },
+  {
+    "code": "HHP",
+    "description": "Happy Hour Productions",
+    "url": "https://happyhourproductions.co.uk/"
   },
   {
     "code": "HIG",
