@@ -4771,6 +4771,16 @@
     "description": "SCANLAB FRANCE"
   },
   {
+    "code": "SCM",
+    "contact": {
+      "address": "Via XXIV Maggio 5, 38051 Borgo Valsugana (TN), Italy",
+      "email": "presidente@slowcinema.it",
+      "name": "Mr. Juri Micheli"
+    },
+    "description": "SlowCinema Media",
+    "url": "https://www.slowcinema.it"
+  },
+  {
     "code": "SCN",
     "description": "SHORTCUT NORGE"
   },
