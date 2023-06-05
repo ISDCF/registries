@@ -200,6 +200,16 @@
     "description": "AV-DESIGN"
   },
   {
+    "code": "AVM",
+    "contact": {
+      "address": "Str Parangului 76, Bucharest, Romania, 012328",
+      "email": "sebastian@avanpost.co",
+      "name": "Sebastian Plamadeala"
+    },
+    "description": "Avanpost Media",
+    "url": "https://avanpost.co"
+  },
+  {
     "code": "BA",
     "contact": {
       "address": "Lindenallee 55/57, 15366 Hoppegarten, Germany",
@@ -343,6 +353,11 @@
     "url": "https://www.bigvisions.de"
   },
   {
+    "code": "BWHW",
+    "description": "Bollywood Hollywood Productions",
+    "url": "https://www.bollywoodhollywood.com/"
+  },
+  {
     "code": "CAF",
     "contact": {
       "address": "Kindaruma Grove, Kindaruma Road, Nairobi",
@@ -355,6 +370,10 @@
   {
     "code": "CCC",
     "description": "COLUMBIA COLLEGE CHICAGO"
+  },
+  {
+    "code": "CCIP",
+    "description": "Chaos Cedar I Productions LLC"
   },
   {
     "code": "CDC",
@@ -472,6 +491,11 @@
     "url": "https://www.cineup.de"
   },
   {
+    "code": "CZN",
+    "description": "Curzon Film",
+    "url": "https://film.curzon.com/"
+  },
+  {
     "code": "DA",
     "description": "Dreamworks"
   },
@@ -547,6 +571,16 @@
     "code": "DNT",
     "description": "Donten & Lacroix Films",
     "url": "http://www.dontenlacroix.eu/"
+  },
+  {
+    "code": "DS",
+    "contact": {
+      "address": "Condomínio Jardim Europa II conjunto Q casa 3, Grande Colorado, Sobradinho, DF - Brazil",
+      "email": "produtoradarkstar@gmail.com",
+      "name": "Jonathan Lucena"
+    },
+    "description": "Dark Star",
+    "url": "https://www.youtube.com/channel/UCQXaPlfwPpBkM2ZgcwRg0TQ"
   },
   {
     "code": "DVF",
@@ -828,6 +862,16 @@
     "url": "https://gdff.pl/"
   },
   {
+    "code": "GDH",
+    "contact": {
+      "address": "GDH 559 CO., LTD., 92/11, Sukhumvit 31 Alley, Khlong Tan Nuea, Watthana, Bangkok, Thailand, 10110",
+      "email": "witchakorn@gdh559.co.th",
+      "name": "Mr. Witchakorn Saphangphol"
+    },
+    "description": "GDH 559 Company Limited",
+    "url": "https://www.gdh559.com/"
+  },
+  {
     "code": "GKID",
     "contact": {
       "address": "225 Broadway, Suite 2610, New York, New York 10007",
@@ -885,6 +929,21 @@
     "code": "HFFM",
     "description": "HFF München (Hochschule für Fernsehen und Film München)",
     "url": "https://www.hff-muenchen.de/"
+  },
+  {
+    "code": "HHP",
+    "description": "Happy Hour Productions",
+    "url": "https://happyhourproductions.co.uk"
+  },
+  {
+    "code": "HIST",
+    "contact": {
+      "address": "Rua Rafael Correia Sampaio, 977 - São Caetano do Sul, São Paulo, Brazil",
+      "email": "ogustavocano@gmail.com",
+      "name": "Gustavo Cano"
+    },
+    "description": "Histeria Filmes",
+    "url": "https://www.youtube.com/@histeria_filmes/"
   },
   {
     "code": "HOJA",
@@ -993,6 +1052,11 @@
     "url": "http://industryplant.biz"
   },
   {
+    "code": "IRL",
+    "description": "irlad network",
+    "url": "https://irlad.net/"
+  },
+  {
     "code": "IRP",
     "description": "INFINITY ROAD PICTURES"
   },
@@ -1008,6 +1072,16 @@
     "code": "JAKE",
     "description": "Jacob's Art and Kinetic Entertainment Productions",
     "url": "https://jakeposeyart.com"
+  },
+  {
+    "code": "JAL",
+    "contact": {
+      "address": "4007 Munira Dr, Frisco, Texas 75035 USA",
+      "email": "jason@camp-lucky.com",
+      "name": "Jason Starne"
+    },
+    "description": "Muscular Puppy",
+    "url": "https://www.muscularpuppy.com"
   },
   {
     "code": "JC",
@@ -1315,6 +1389,11 @@
     "url": "https://mubi.com/"
   },
   {
+    "code": "MZB",
+    "description": "MUZEBAT Media",
+    "url": "https://www.muzebat.com"
+  },
+  {
     "code": "MZTR",
     "contact": {
       "address": "Kodrigktonos 21, 10434, Athens,  GREECE",
@@ -1526,6 +1605,16 @@
     "description": "POLO FILM (DK)"
   },
   {
+    "code": "PP",
+    "contact": {
+      "address": "Lochhamer Str. 9, 82152 Planegg, Germany",
+      "email": "m.wieczorek@plaion.com",
+      "name": "Maik Wieczorek"
+    },
+    "description": "Plaion Pictures GmbH",
+    "url": "https://plaionpictures.com/de-us"
+  },
+  {
     "code": "PREN",
     "description": "Precision Entertainment",
     "url": "https://www.precisionentertainment.net"
@@ -1539,6 +1628,16 @@
     },
     "description": "PRL STUDIO",
     "url": "https://prl.com.pl/en/"
+  },
+  {
+    "code": "PSP",
+    "contact": {
+      "address": "7306 Holly Fern Cove, Austin, TX",
+      "email": "alex@paperstreetpictures.com",
+      "name": "Alex Euting"
+    },
+    "description": "Paper Street Pictures",
+    "url": "https://www.paperstreetpictures.com"
   },
   {
     "code": "PSR",
@@ -1695,6 +1794,16 @@
     "description": "SOAPBOX FILMS"
   },
   {
+    "code": "SBLV",
+    "contact": {
+      "address": "68 Rue Julien Lacroix, 75020 Paris, France",
+      "email": "info@studiobelleville.com",
+      "name": "Mehdi Ghemari"
+    },
+    "description": "STUDIO BELLEVILLE",
+    "url": "https://studiobelleville.com"
+  },
+  {
     "code": "SC",
     "description": "STUDIOCANAL"
   },
@@ -1707,6 +1816,11 @@
     },
     "description": "Supercoat Film",
     "url": "https://supercoat.film"
+  },
+  {
+    "code": "SCFI",
+    "description": "Surto Coletivo Filmes",
+    "url": "https://surtocoletivo.online/"
   },
   {
     "code": "SDM",
@@ -1731,6 +1845,16 @@
     },
     "description": "SakhaFilm",
     "url": "https://sakhafilm.ru/"
+  },
+  {
+    "code": "SFI",
+    "contact": {
+      "address": "Box 27126, 102 52 Stockholm, Sweden",
+      "email": "per.legelius@filminstitutet.se",
+      "name": "Per Legelius"
+    },
+    "description": "Swedish Film Institute",
+    "url": "https://www.filminstitutet.se/"
   },
   {
     "code": "SFZ",
@@ -1771,6 +1895,16 @@
   {
     "code": "SM",
     "description": "SUHAN MOVIES"
+  },
+  {
+    "code": "SME",
+    "contact": {
+      "address": "10202 Washington Blvd Fl 6th Culver City, CA 90232-3119 USA",
+      "email": "lee.eigner@sonymusic.com",
+      "name": "Lee Eigner"
+    },
+    "description": "Sony Music Entertainment",
+    "url": "https://www.sonymusic.com/"
   },
   {
     "code": "SMTS",
@@ -2084,6 +2218,16 @@
   {
     "code": "VIC",
     "description": "VICTORY STUDIOS"
+  },
+  {
+    "code": "VPS",
+    "contact": {
+      "address": "Solomou 39 Street, Exarchia Athens 10682, Greece",
+      "email": "dcp@videopress.gr",
+      "name": "George Kallipetis"
+    },
+    "description": "Videopress Greece",
+    "url": "http://videopress.gr"
   },
   {
     "code": "WBX",
