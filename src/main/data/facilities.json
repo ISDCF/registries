@@ -1299,6 +1299,16 @@
     "description": "CINETIC STUDIOS"
   },
   {
+    "code": "CSC",
+    "contact": {
+      "address": "1524, via Tuscolana, 00174 Roma Italy EU",
+      "email": "color.grading@fondazionecsc.ot",
+      "name": "Edoardo Dell'Acqua"
+    },
+    "description": "Centro Sperimentale di Cinematografia",
+    "url": "https://www.fondazionecsc.it"
+  },
+  {
     "code": "CSH",
     "description": "Crash+Sues"
   },
