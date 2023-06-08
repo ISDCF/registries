@@ -2710,6 +2710,11 @@
     "description": "HOCUS FOCUS (OSLO)"
   },
   {
+    "code": "HG",
+    "description": "Humanity Media & Entertainment Group",
+    "url": "https://humanitymeg.com"
+  },
+  {
     "code": "HHP",
     "description": "Happy Hour Productions",
     "url": "https://happyhourproductions.co.uk/"
@@ -5541,6 +5546,10 @@
     },
     "description": "Twickenham Film Studios",
     "url": "https://www.twickenhamstudios.com"
+  },
+  {
+    "code": "TXT",
+    "description": "Texture Films"
   },
   {
     "code": "UBP",
