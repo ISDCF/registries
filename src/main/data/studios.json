@@ -481,6 +481,16 @@
     "description": "CRISTIANA Video"
   },
   {
+    "code": "CSC",
+    "contact": {
+      "address": "1524 via Tuscolana, 00174 Roma Italy EU",
+      "email": "color.grading@fondazionecsc.it",
+      "name": "Edoardo dell'Acqua"
+    },
+    "description": "Centro Sperimentale di Cinematografia",
+    "url": "https://www.fondazionecsc.it"
+  },
+  {
     "code": "CTRL",
     "description": "CtrlMovie",
     "url": "https://www.ctrlmovie.com"
@@ -724,6 +734,16 @@
     "description": "FEEL GOOD ENTERTAINMENT"
   },
   {
+    "code": "FGE",
+    "contact": {
+      "address": "Lieu-dit Nestadio, 56680 Plouhinec, France",
+      "email": "nm@fgevents.live",
+      "name": "M. Mannino"
+    },
+    "description": "Feel Good Events",
+    "url": "https://www.feelgood-events.fr"
+  },
+  {
     "code": "FGSC",
     "contact": {
       "address": "25 Washington Ave, Brooklyn, NY 11205 USA",
@@ -912,6 +932,11 @@
     },
     "description": "Golden Touch Film",
     "url": "https://www.goldentouchfilm.com"
+  },
+  {
+    "code": "H2O",
+    "description": "h2o cinema&video",
+    "url": "https://tvonic.apkpure.com/movie/io-ho-fermato-questistante-della-tua-bellezza-emilio-greco-scultore-2005"
   },
   {
     "code": "HBO",
@@ -2146,6 +2171,10 @@
     },
     "description": "Transversal Films",
     "url": "https://transversalfilms.pe"
+  },
+  {
+    "code": "TXT",
+    "description": "Texture Films"
   },
   {
     "code": "UFOH",
