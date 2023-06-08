@@ -481,6 +481,16 @@
     "description": "CRISTIANA Video"
   },
   {
+    "code": "CSC",
+    "contact": {
+      "address": "1524 via Tuscolana, 00174 Roma Italy EU",
+      "email": "color.grading@fondazionecsc.it",
+      "name": "Edoardo dell'Acqua"
+    },
+    "description": "Centro Sperimentale di Cinematografia",
+    "url": "https://www.fondazionecsc.it"
+  },
+  {
     "code": "CTRL",
     "description": "CtrlMovie",
     "url": "https://www.ctrlmovie.com"
