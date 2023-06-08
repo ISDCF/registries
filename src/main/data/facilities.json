@@ -2299,6 +2299,16 @@
     "description": "FOCUS-FOX STUDIO"
   },
   {
+    "code": "FGE",
+    "contact": {
+      "address": "Lieu-dit Nestadio, 56680 Plouhinec, France",
+      "email": "nm@fgevents.live",
+      "name": "M. Mannino"
+    },
+    "description": "Feel Good Events",
+    "url": "https://www.feelgood-events.fr"
+  },
+  {
     "code": "FGS",
     "contact": {
       "address": "25 Washington Ave, Brooklyn, NY 11205 USA",
@@ -2708,6 +2718,11 @@
   {
     "code": "HFO",
     "description": "HOCUS FOCUS (OSLO)"
+  },
+  {
+    "code": "HG",
+    "description": "Humanity Media & Entertainment Group",
+    "url": "https://humanitymeg.com"
   },
   {
     "code": "HHP",
@@ -5541,6 +5556,10 @@
     },
     "description": "Twickenham Film Studios",
     "url": "https://www.twickenhamstudios.com"
+  },
+  {
+    "code": "TXT",
+    "description": "Texture Films"
   },
   {
     "code": "UBP",
