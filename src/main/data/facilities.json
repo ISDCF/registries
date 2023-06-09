@@ -5774,6 +5774,16 @@
     "description": "WELL DONE"
   },
   {
+    "code": "WDL",
+    "contact": {
+      "address": "3226 Nebraska Ave. Santa Monica, CA 90404 USA",
+      "email": "service@wilddreamlab.com",
+      "name": "Mr. Brian Bartelt"
+    },
+    "description": "Wild Dream Lab",
+    "url": "https://wilddreamlab.com"
+  },
+  {
     "code": "WDS",
     "description": "Walt Disney Studios"
   },
