@@ -4,7 +4,7 @@ on: [push, pull_request, pull_request_target, workflow_dispatch]
 
 jobs:
   build:
-    if: (github.event_name == 'push' && github.ref == 'refs/heads/main') || github.event_name == 'pull_request' || (github.event_name == 'pull_request_target' && github.event.pull_request.head.repo.full_name != github.repository)
+    if: (github.event_name == 'push' && github.ref_name == github.event.repository.default_branch) || (github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name == github.repository) || (github.event_name == 'pull_request_target' && github.event.pull_request.head.repo.full_name != github.repository)
     runs-on: ubuntu-latest
     env:
       G_SAFE_BROWSING_API_KEY: ${{ secrets.G_SAFE_BROWSING_API_KEY }}
@@ -16,9 +16,9 @@ jobs:
         fetch-depth: 0
         ref: ${{ github.event.pull_request.head.sha }}
 
-    - uses: actions/setup-node@v1
+    - uses: actions/setup-node@v3
       with:
-        node-version: '10'
+        node-version: '18'
 
     - run: npm install
 

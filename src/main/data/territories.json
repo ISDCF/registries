@@ -1,8 +1,28 @@
 [
   {
+    "dcncTag": "AD",
+    "dcncTerritory": "Andorra",
+    "tag": "AD"
+  },
+  {
     "dcncTag": "AE",
     "dcncTerritory": "United Arab Emirates",
     "tag": "AE"
+  },
+  {
+    "dcncTag": "AF",
+    "dcncTerritory": "Afghanistan",
+    "tag": "AF"
+  },
+  {
+    "dcncTag": "AG",
+    "dcncTerritory": "Antigua and Barbuda",
+    "tag": "AG"
+  },
+  {
+    "dcncTag": "AI",
+    "dcncTerritory": "Anguilla",
+    "tag": "AI"
   },
   {
     "dcncTag": "AL",
@@ -15,14 +35,29 @@
     "tag": "AM"
   },
   {
-    "dcncTag": "AN",
-    "dcncTerritory": "Curacao",
-    "tag": "CW"
+    "dcncTag": "ANT",
+    "dcncTerritory": "Netherlands Antilles",
+    "tag": "AN"
+  },
+  {
+    "dcncTag": "AO",
+    "dcncTerritory": "Angola",
+    "tag": "AO"
+  },
+  {
+    "dcncTag": "AQ",
+    "dcncTerritory": "Antarctica",
+    "tag": "AQ"
   },
   {
     "dcncTag": "AR",
     "dcncTerritory": "Argentina",
     "tag": "AR"
+  },
+  {
+    "dcncTag": "AS",
+    "dcncTerritory": "American Samoa",
+    "tag": "AS"
   },
   {
     "dcncTag": "AT",
@@ -38,6 +73,11 @@
     "dcncTag": "AW",
     "dcncTerritory": "Aruba",
     "tag": "AW"
+  },
+  {
+    "dcncTag": "AX",
+    "dcncTerritory": "Aland Islands",
+    "tag": "AX"
   },
   {
     "dcncTag": "AZ",
@@ -60,6 +100,11 @@
     "tag": "BE"
   },
   {
+    "dcncTag": "BF",
+    "dcncTerritory": "Burkina Faso",
+    "tag": "BF"
+  },
+  {
     "dcncTag": "BG",
     "dcncTerritory": "Bulgaria",
     "tag": "BG"
@@ -70,14 +115,64 @@
     "tag": "BH"
   },
   {
+    "dcncTag": "BI",
+    "dcncTerritory": "Burundi",
+    "tag": "BI"
+  },
+  {
+    "dcncTag": "BJ",
+    "dcncTerritory": "Benin",
+    "tag": "BJ"
+  },
+  {
+    "dcncTag": "BL",
+    "dcncTerritory": "Saint Barthélemy",
+    "tag": "BL"
+  },
+  {
+    "dcncTag": "BM",
+    "dcncTerritory": "Bermuda",
+    "tag": "BM"
+  },
+  {
+    "dcncTag": "BN",
+    "dcncTerritory": "Brunei Darussalam",
+    "tag": "BN"
+  },
+  {
     "dcncTag": "BO",
     "dcncTerritory": "Bolivia",
     "tag": "BO"
   },
   {
+    "dcncTag": "BQ",
+    "dcncTerritory": "Bonaire, Saint Eustatius and Saba",
+    "tag": "BQ"
+  },
+  {
     "dcncTag": "BR",
     "dcncTerritory": "Brazil",
     "tag": "BR"
+  },
+  {
+    "dcncTag": "BS",
+    "dcncTerritory": "Bahamas",
+    "tag": "BS"
+  },
+  {
+    "dcncTag": "BT",
+    "dcncTerritory": "Bhutan",
+    "tag": "BT"
+  },
+  {
+    "dcncTag": "BV",
+    "dcncTerritory": "Bouvet Island",
+    "tag": "BV"
+  },
+  {
+    "dcncTag": "BW",
+    "dcncTerritory": "Botswana",
+    "tag": "BW"
   },
   {
     "dcncTag": "BY",
@@ -95,14 +190,49 @@
     "tag": "CA"
   },
   {
+    "dcncTag": "CC",
+    "dcncTerritory": "Cocos  Islands",
+    "tag": "CC"
+  },
+  {
+    "dcncTag": "CD",
+    "dcncTerritory": "Congo, the Democratic Republic of the",
+    "tag": "CD"
+  },
+  {
+    "dcncTag": "CF",
+    "dcncTerritory": "Central African Republic",
+    "tag": "CF"
+  },
+  {
+    "dcncTag": "CG",
+    "dcncTerritory": "Congo",
+    "tag": "CG"
+  },
+  {
     "dcncTag": "CH",
     "dcncTerritory": "Switzerland",
     "tag": "CH"
   },
   {
+    "dcncTag": "CI",
+    "dcncTerritory": "Cote D'Ivoire",
+    "tag": "CI"
+  },
+  {
+    "dcncTag": "CK",
+    "dcncTerritory": "Cook Islands",
+    "tag": "CK"
+  },
+  {
     "dcncTag": "CL",
     "dcncTerritory": "Chile",
     "tag": "CL"
+  },
+  {
+    "dcncTag": "CM",
+    "dcncTerritory": "Cameroon",
+    "tag": "CM"
   },
   {
     "dcncTag": "CN",
@@ -125,6 +255,29 @@
     "tag": "RS"
   },
   {
+    "dcncTag": "CU",
+    "dcncTerritory": "Cuba",
+    "tag": "CU"
+  },
+  {
+    "dcncTag": "CUW",
+    "dcncTerritory": "Curacao",
+    "obsoleteDCNCTags": [
+      "AN"
+    ],
+    "tag": "CW"
+  },
+  {
+    "dcncTag": "CV",
+    "dcncTerritory": "Cape Verde",
+    "tag": "CV"
+  },
+  {
+    "dcncTag": "CX",
+    "dcncTerritory": "Christmas Island",
+    "tag": "CX"
+  },
+  {
     "dcncTag": "CY",
     "dcncTerritory": "Cyprus",
     "tag": "CY"
@@ -140,9 +293,19 @@
     "tag": "DE"
   },
   {
+    "dcncTag": "DJ",
+    "dcncTerritory": "Djibouti",
+    "tag": "DJ"
+  },
+  {
     "dcncTag": "DK",
     "dcncTerritory": "Denmark",
     "tag": "DK"
+  },
+  {
+    "dcncTag": "DM",
+    "dcncTerritory": "Dominica",
+    "tag": "DM"
   },
   {
     "dcncTag": "DO",
@@ -154,6 +317,11 @@
     "dcncTerritory": "Dubai",
     "tag": "AE-DU",
     "tagScope": "https://isdcf.com/ns/cplmd/territories"
+  },
+  {
+    "dcncTag": "DZ",
+    "dcncTerritory": "Algeria",
+    "tag": "DZ"
   },
   {
     "dcncTag": "EC",
@@ -171,6 +339,11 @@
     "tag": "EG"
   },
   {
+    "dcncTag": "ER",
+    "dcncTerritory": "Eritrea",
+    "tag": "ER"
+  },
+  {
     "dcncTag": "ES",
     "dcncTerritory": "Spain",
     "tag": "ES"
@@ -186,9 +359,39 @@
     "tag": "FI"
   },
   {
+    "dcncTag": "FJ",
+    "dcncTerritory": "Fiji",
+    "tag": "FJ"
+  },
+  {
+    "dcncTag": "FK",
+    "dcncTerritory": "Falkland Islands",
+    "tag": "FK"
+  },
+  {
+    "dcncTag": "FM",
+    "dcncTerritory": "Micronesia",
+    "tag": "FM"
+  },
+  {
+    "dcncTag": "FO",
+    "dcncTerritory": "Faeroe Islands",
+    "tag": "FO"
+  },
+  {
     "dcncTag": "FR",
     "dcncTerritory": "France",
     "tag": "FR"
+  },
+  {
+    "dcncTag": "GA",
+    "dcncTerritory": "Gabon",
+    "tag": "GA"
+  },
+  {
+    "dcncTag": "GD",
+    "dcncTerritory": "Grenada",
+    "tag": "GD"
   },
   {
     "dcncTag": "GE",
@@ -196,9 +399,39 @@
     "tag": "GE"
   },
   {
+    "dcncTag": "GF",
+    "dcncTerritory": "French Guiana",
+    "tag": "GF"
+  },
+  {
+    "dcncTag": "GG",
+    "dcncTerritory": "Guernsey",
+    "tag": "GG"
+  },
+  {
     "dcncTag": "GH",
     "dcncTerritory": "Ghana",
     "tag": "GH"
+  },
+  {
+    "dcncTag": "GI",
+    "dcncTerritory": "Gibraltar",
+    "tag": "GI"
+  },
+  {
+    "dcncTag": "GL",
+    "dcncTerritory": "Greenland",
+    "tag": "GL"
+  },
+  {
+    "dcncTag": "GM",
+    "dcncTerritory": "Gambia",
+    "tag": "GM"
+  },
+  {
+    "dcncTag": "GN",
+    "dcncTerritory": "Guinea",
+    "tag": "GN"
   },
   {
     "dcncTag": "GP",
@@ -206,9 +439,19 @@
     "tag": "GP"
   },
   {
+    "dcncTag": "GQ",
+    "dcncTerritory": "Equatorial Guinea",
+    "tag": "GQ"
+  },
+  {
     "dcncTag": "GR",
     "dcncTerritory": "Greece",
     "tag": "GR"
+  },
+  {
+    "dcncTag": "GS",
+    "dcncTerritory": "South Georgia and the South Sandwich Islands",
+    "tag": "GS"
   },
   {
     "dcncTag": "GT",
@@ -216,9 +459,29 @@
     "tag": "GT"
   },
   {
+    "dcncTag": "GU",
+    "dcncTerritory": "Guam",
+    "tag": "GU"
+  },
+  {
+    "dcncTag": "GW",
+    "dcncTerritory": "Guinea-Bissau",
+    "tag": "GW"
+  },
+  {
+    "dcncTag": "GY",
+    "dcncTerritory": "Guyana",
+    "tag": "GY"
+  },
+  {
     "dcncTag": "HK",
     "dcncTerritory": "Hong Kong",
     "tag": "HK"
+  },
+  {
+    "dcncTag": "HM",
+    "dcncTerritory": "Heard and McDonald Islands",
+    "tag": "HM"
   },
   {
     "dcncTag": "HN",
@@ -229,6 +492,11 @@
     "dcncTag": "HR",
     "dcncTerritory": "Croatia",
     "tag": "HR"
+  },
+  {
+    "dcncTag": "HT",
+    "dcncTerritory": "Haiti",
+    "tag": "HT"
   },
   {
     "dcncTag": "HU",
@@ -251,6 +519,11 @@
     "tag": "IL"
   },
   {
+    "dcncTag": "IM",
+    "dcncTerritory": "Isle of Man",
+    "tag": "IM"
+  },
+  {
     "dcncTag": "IN",
     "dcncTerritory": "India",
     "tag": "IN"
@@ -261,9 +534,19 @@
     "tag": "001"
   },
   {
+    "dcncTag": "IO",
+    "dcncTerritory": "British Indian Ocean Territory",
+    "tag": "IO"
+  },
+  {
     "dcncTag": "IQ",
     "dcncTerritory": "Iraq",
     "tag": "IQ"
+  },
+  {
+    "dcncTag": "IR",
+    "dcncTerritory": "Iran",
+    "tag": "IR"
   },
   {
     "dcncTag": "IS",
@@ -274,6 +557,11 @@
     "dcncTag": "IT",
     "dcncTerritory": "Italy",
     "tag": "IT"
+  },
+  {
+    "dcncTag": "JE",
+    "dcncTerritory": "Jersey",
+    "tag": "JE"
   },
   {
     "dcncTag": "JM",
@@ -306,6 +594,21 @@
     "tag": "KH"
   },
   {
+    "dcncTag": "KI",
+    "dcncTerritory": "Kiribati",
+    "tag": "KI"
+  },
+  {
+    "dcncTag": "KM",
+    "dcncTerritory": "Comoros",
+    "tag": "KM"
+  },
+  {
+    "dcncTag": "KN",
+    "dcncTerritory": "St. Kitts and Nevis",
+    "tag": "KN"
+  },
+  {
     "dcncTag": "KP",
     "dcncTerritory": "North Korea",
     "tag": "KP"
@@ -319,6 +622,11 @@
     "dcncTag": "KW",
     "dcncTerritory": "Kuwait",
     "tag": "KW"
+  },
+  {
+    "dcncTag": "KY",
+    "dcncTerritory": "Cayman Islands",
+    "tag": "KY"
   },
   {
     "dcncTag": "KZ",
@@ -341,9 +649,29 @@
     "tag": "LB"
   },
   {
+    "dcncTag": "LC",
+    "dcncTerritory": "St. Lucia",
+    "tag": "LC"
+  },
+  {
+    "dcncTag": "LI",
+    "dcncTerritory": "Liechtenstein",
+    "tag": "LI"
+  },
+  {
     "dcncTag": "LK",
     "dcncTerritory": "Sri Lanka",
     "tag": "LK"
+  },
+  {
+    "dcncTag": "LR",
+    "dcncTerritory": "Liberia",
+    "tag": "LR"
+  },
+  {
+    "dcncTag": "LS",
+    "dcncTerritory": "Lesotho",
+    "tag": "LS"
   },
   {
     "dcncTag": "LT",
@@ -361,9 +689,19 @@
     "tag": "LV"
   },
   {
+    "dcncTag": "LY",
+    "dcncTerritory": "Libyan Arab Jamahiriya",
+    "tag": "LY"
+  },
+  {
     "dcncTag": "MA",
     "dcncTerritory": "Morocco",
     "tag": "MA"
+  },
+  {
+    "dcncTag": "MC",
+    "dcncTerritory": "Monaco",
+    "tag": "MC"
   },
   {
     "dcncTag": "MD",
@@ -376,9 +714,29 @@
     "tag": "ME"
   },
   {
+    "dcncTag": "MF",
+    "dcncTerritory": "Saint Martin",
+    "tag": "MF"
+  },
+  {
+    "dcncTag": "MG",
+    "dcncTerritory": "Madagascar",
+    "tag": "MG"
+  },
+  {
+    "dcncTag": "MH",
+    "dcncTerritory": "Marshall Islands",
+    "tag": "MH"
+  },
+  {
     "dcncTag": "MK",
     "dcncTerritory": "Macedonia",
     "tag": "MK"
+  },
+  {
+    "dcncTag": "ML",
+    "dcncTerritory": "Mali",
+    "tag": "ML"
   },
   {
     "dcncTag": "MM",
@@ -396,9 +754,24 @@
     "tag": "MO"
   },
   {
+    "dcncTag": "MP",
+    "dcncTerritory": "Northern Mariana Islands",
+    "tag": "MP"
+  },
+  {
     "dcncTag": "MQ",
     "dcncTerritory": "Martinique",
     "tag": "MQ"
+  },
+  {
+    "dcncTag": "MR",
+    "dcncTerritory": "Mauritania",
+    "tag": "MR"
+  },
+  {
+    "dcncTag": "MS",
+    "dcncTerritory": "Montserrat",
+    "tag": "MS"
   },
   {
     "dcncTag": "MT",
@@ -416,6 +789,11 @@
     "tag": "MV"
   },
   {
+    "dcncTag": "MW",
+    "dcncTerritory": "Malawi",
+    "tag": "MW"
+  },
+  {
     "dcncTag": "MX",
     "dcncTerritory": "Mexico",
     "tag": "MX"
@@ -426,6 +804,16 @@
     "tag": "MY"
   },
   {
+    "dcncTag": "MZ",
+    "dcncTerritory": "Mozambique",
+    "tag": "MZ"
+  },
+  {
+    "dcncTag": "NA",
+    "dcncTerritory": " Namibia",
+    "tag": "NA"
+  },
+  {
     "dcncTag": "NAM",
     "dcncTerritory": "North America",
     "tag": "003"
@@ -434,6 +822,16 @@
     "dcncTag": "NC",
     "dcncTerritory": "New Caledonia",
     "tag": "NC"
+  },
+  {
+    "dcncTag": "NE",
+    "dcncTerritory": "Niger",
+    "tag": "NE"
+  },
+  {
+    "dcncTag": "NF",
+    "dcncTerritory": "Norfolk Island",
+    "tag": "NF"
   },
   {
     "dcncTag": "NG",
@@ -461,6 +859,16 @@
     "tag": "NP"
   },
   {
+    "dcncTag": "NR",
+    "dcncTerritory": "Nauru",
+    "tag": "NR"
+  },
+  {
+    "dcncTag": "NU",
+    "dcncTerritory": "Niue",
+    "tag": "NU"
+  },
+  {
     "dcncTag": "NZ",
     "dcncTerritory": "New Zealand",
     "tag": "NZ"
@@ -486,6 +894,11 @@
     "tag": "PF"
   },
   {
+    "dcncTag": "PG",
+    "dcncTerritory": "Papua New Guinea",
+    "tag": "PG"
+  },
+  {
     "dcncTag": "PH",
     "dcncTerritory": "Philippines",
     "tag": "PH"
@@ -501,9 +914,34 @@
     "tag": "PL"
   },
   {
+    "dcncTag": "PM",
+    "dcncTerritory": "St. Pierre and Miquelon",
+    "tag": "PM"
+  },
+  {
+    "dcncTag": "PN",
+    "dcncTerritory": "Pitcairn Island",
+    "tag": "PN"
+  },
+  {
+    "dcncTag": "PR",
+    "dcncTerritory": "Puerto Rico",
+    "tag": "PR"
+  },
+  {
+    "dcncTag": "PS",
+    "dcncTerritory": "Palestinian Territory",
+    "tag": "PS"
+  },
+  {
     "dcncTag": "PT",
     "dcncTerritory": "Portugal",
     "tag": "PT"
+  },
+  {
+    "dcncTag": "PW",
+    "dcncTerritory": "Palau",
+    "tag": "PW"
   },
   {
     "dcncTag": "PY",
@@ -531,9 +969,29 @@
     "tag": "RU"
   },
   {
+    "dcncTag": "RW",
+    "dcncTerritory": "Rwanda",
+    "tag": "RW"
+  },
+  {
     "dcncTag": "SA",
     "dcncTerritory": "Saudi Arabia",
     "tag": "SA"
+  },
+  {
+    "dcncTag": "SB",
+    "dcncTerritory": "Solomon Islands",
+    "tag": "SB"
+  },
+  {
+    "dcncTag": "SC",
+    "dcncTerritory": "Seychelles",
+    "tag": "SC"
+  },
+  {
+    "dcncTag": "SD",
+    "dcncTerritory": "Sudan",
+    "tag": "SD"
   },
   {
     "dcncTag": "SE",
@@ -546,9 +1004,19 @@
     "tag": "SG"
   },
   {
+    "dcncTag": "SH",
+    "dcncTerritory": "St. Helena",
+    "tag": "SH"
+  },
+  {
     "dcncTag": "SI",
     "dcncTerritory": "Slovenia",
     "tag": "SI"
+  },
+  {
+    "dcncTag": "SJ",
+    "dcncTerritory": "Svalbard & Jan Mayen Islands",
+    "tag": "SJ"
   },
   {
     "dcncTag": "SK",
@@ -556,9 +1024,34 @@
     "tag": "SK"
   },
   {
+    "dcncTag": "SL",
+    "dcncTerritory": "Sierra Leone",
+    "tag": "SL"
+  },
+  {
+    "dcncTag": "SM",
+    "dcncTerritory": "San Marino",
+    "tag": "SM"
+  },
+  {
     "dcncTag": "SN",
     "dcncTerritory": "Senegal",
     "tag": "SN"
+  },
+  {
+    "dcncTag": "SO",
+    "dcncTerritory": "Somali",
+    "tag": "SO"
+  },
+  {
+    "dcncTag": "SR",
+    "dcncTerritory": "Suriname",
+    "tag": "SR"
+  },
+  {
+    "dcncTag": "ST",
+    "dcncTerritory": "Sao Tome and Principe",
+    "tag": "ST"
   },
   {
     "dcncTag": "SV",
@@ -566,9 +1059,39 @@
     "tag": "SV"
   },
   {
+    "dcncTag": "SX",
+    "dcncTerritory": "Sint Maarten",
+    "tag": "SX"
+  },
+  {
     "dcncTag": "SY",
     "dcncTerritory": "Syrian Arab Republic",
     "tag": "SY"
+  },
+  {
+    "dcncTag": "SZ",
+    "dcncTerritory": "Eswatini",
+    "tag": "SZ"
+  },
+  {
+    "dcncTag": "TC",
+    "dcncTerritory": "urks and Caicos Islands",
+    "tag": "TC"
+  },
+  {
+    "dcncTag": "TD",
+    "dcncTerritory": "Chad",
+    "tag": "TD"
+  },
+  {
+    "dcncTag": "TF",
+    "dcncTerritory": "French Southern Territories",
+    "tag": "TF"
+  },
+  {
+    "dcncTag": "TG",
+    "dcncTerritory": "Togo",
+    "tag": "TG"
   },
   {
     "dcncTag": "TH",
@@ -577,8 +1100,18 @@
   },
   {
     "dcncTag": "TJ",
-    "dcncTerritory": "Tjikistan",
+    "dcncTerritory": "Tajikistan",
     "tag": "TJ"
+  },
+  {
+    "dcncTag": "TK",
+    "dcncTerritory": "Tokelau",
+    "tag": "TK"
+  },
+  {
+    "dcncTag": "TL",
+    "dcncTerritory": "Timor-Leste",
+    "tag": "TL"
   },
   {
     "dcncTag": "TM",
@@ -589,6 +1122,11 @@
     "dcncTag": "TN",
     "dcncTerritory": "Tunisia",
     "tag": "TN"
+  },
+  {
+    "dcncTag": "TO",
+    "dcncTerritory": "Tonga",
+    "tag": "TO"
   },
   {
     "comments": [
@@ -602,6 +1140,11 @@
     "dcncTag": "TT",
     "dcncTerritory": "Trinidad",
     "tag": "TT"
+  },
+  {
+    "dcncTag": "TV",
+    "dcncTerritory": "Tuvalu",
+    "tag": "TV"
   },
   {
     "dcncTag": "TW",
@@ -619,9 +1162,19 @@
     "tag": "UA"
   },
   {
+    "dcncTag": "UG",
+    "dcncTerritory": "Uganda",
+    "tag": "UG"
+  },
+  {
     "dcncTag": "UK",
     "dcncTerritory": "United Kingdom",
     "tag": "GB"
+  },
+  {
+    "dcncTag": "UM",
+    "dcncTerritory": "United States Minor Outlying Islands",
+    "tag": "UM"
   },
   {
     "dcncTag": "US",
@@ -639,9 +1192,29 @@
     "tag": "UZ"
   },
   {
+    "dcncTag": "VA",
+    "dcncTerritory": "Vatican City State",
+    "tag": "VA"
+  },
+  {
+    "dcncTag": "VC",
+    "dcncTerritory": "St. Vincent and the Grenadines",
+    "tag": "VC"
+  },
+  {
     "dcncTag": "VE",
     "dcncTerritory": "Venezuela",
     "tag": "VE"
+  },
+  {
+    "dcncTag": "VG",
+    "dcncTerritory": "British Virgin Islands",
+    "tag": "VG"
+  },
+  {
+    "dcncTag": "VI",
+    "dcncTerritory": "US Virgin Islands",
+    "tag": "VI"
   },
   {
     "dcncTag": "VN",
@@ -649,9 +1222,30 @@
     "tag": "VN"
   },
   {
+    "dcncTag": "VU",
+    "dcncTerritory": "Vanuatu",
+    "tag": "VU"
+  },
+  {
+    "dcncTag": "WF",
+    "dcncTerritory": "Wallis and Futuna Islands",
+    "tag": "WF"
+  },
+  {
     "dcncTag": "WS",
     "dcncTerritory": "Samoa",
     "tag": "WS"
+  },
+  {
+    "dcncTag": "XC",
+    "dcncTerritory": "Crimea",
+    "tag": "XC",
+    "tagScope": "https://isdcf.com/ns/cplmd/territories"
+  },
+  {
+    "dcncTag": "YT",
+    "dcncTerritory": "Mayotte",
+    "tag": "YT"
   },
   {
     "dcncTag": "ZA",
