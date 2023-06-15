@@ -203,6 +203,15 @@
     "description": "AUSTRIAN FILM MUSEUM"
   },
   {
+    "code": "AFS",
+    "contact": {
+      "address": "12, Asubiojo Street, Alaba-oro, Lagos, Nigeria",
+      "email": "afrigoldstudios@gmail.com",
+      "name": "Mr. Jerry Goldman"
+    },
+    "description": "Afrigold Studios"
+  },
+  {
     "code": "AGD",
     "description": "DIGITAL CINEMA SOLUTIONS"
   },
@@ -402,6 +411,11 @@
   {
     "code": "ASC",
     "description": "ASCENT MEDIA"
+  },
+  {
+    "code": "AST",
+    "description": "Assist corp.",
+    "url": "https://www.assist-corp.tv/"
   },
   {
     "code": "ASY",
