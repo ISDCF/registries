@@ -142,6 +142,12 @@
   },
   {
     "definition": "The DX115DC system, manufactured by CRU, Inc., consists of portable cartridges into which 2.5in or 3.5in SATA hard drives can be installed, and readers that are integrated into DCP servers and TMS computers.  Its purpose is to protect drives in shipping, and to enable quick and easy insertion and removal of DCP hard drives in the theater.  External readers with USB connectivity are available for use with servers that do not have them built in.  CRU DX115DC cartridges are the industry standard for the distribution of DCPs on physical media, used by all the major studios and many independent distributors.",
+    "media": {
+      "image": [
+        "https://www.cru-inc.com/scripts/thumbnail.php?w=800&h=450&pic=/product_image_galleries/Digital_Cinema_DX115/2-Data_Express_DX115_Carrier.png",
+        "https://www.cru-inc.com/scripts/thumbnail.php?w=800&h=450&pic=/product_image_galleries/Digital_Cinema_DX115/1-Data_Express_DX115.png"
+      ]
+    },
     "relatedTerms": [
       "DCP Server",
       "Theater Management System"
@@ -474,6 +480,11 @@
     "abbreviations": [
       "IAB"
     ],
+    "media": {
+      "video": [
+        "https://www.youtube.com/embed/U50WYIvo98k"
+      ]
+    },
     "sources": [
       "https://doi.org/10.5594/SMPTE.RDD57.2021"
     ],

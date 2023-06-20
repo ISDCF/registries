@@ -64,7 +64,10 @@ module.exports = async (registry, name) => {
       }
       let media = registry[e].media
       for (let m in media) {
-        urls.push(media[m])
+        let ms = media[m]
+        for (let s in ms) {
+          urls.push(ms[s])
+        }    
       }
     }
     const badURLs = await areBadURLs(urls);
