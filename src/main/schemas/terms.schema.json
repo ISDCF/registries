@@ -20,7 +20,7 @@
           "type": "object",
           "additionalProperties": false,
           "properties": {
-              "photo": {
+              "image": {
                   "type": "array",
                   "additionalItems": true,
                   "items": {
