@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/schema#",
-  "$id": "http://isdcf.com/ns/json-schemas/registries/terms/1.0.0-beta.1",
+  "$id": "http://isdcf.com/ns/json-schemas/registries/terms/1.0.0-beta.2",
   "$comment": "Copyright, ISDCF <info@isdcf.com>",
   "title": "Schema for the Terms Registry of the ISDCF",
   "type": "array",
@@ -16,13 +16,36 @@
       "definition": {
         "type": "string"
       },
-      "media": {
-        "type": "array",
-        "items": {
-          "type": "string",
-          "format": "uri"
-        }
-      },
+       "media": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+              "photo": {
+                  "type": "array",
+                  "additionalItems": true,
+                  "items": {
+                      "anyOf": [
+                          {
+                              "type": "string",
+                              "format": "uri"
+                          }
+                      ]
+                  }
+              },
+              "video": {
+                  "type": "array",
+                  "additionalItems": true,
+                  "items": {
+                      "anyOf": [
+                          {
+                              "type": "string",
+                              "format": "uri"
+                          }
+                      ]
+                  }
+              }
+          }
+      },   
       "relatedTerms": {
         "type": "array",
         "items": {
