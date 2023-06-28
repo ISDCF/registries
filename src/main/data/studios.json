@@ -1346,6 +1346,16 @@
     "url": "https://mstudios.fr/"
   },
   {
+    "code": "MINT",
+    "contact": {
+      "address": "3/80 Wentworth Park Rd, Glebe, NSW, Australia, 2037",
+      "email": "matt@mintfilms.com.au",
+      "name": "Matt Samperi"
+    },
+    "description": "Mint Films",
+    "url": "https://www.mintfilms.com.au"
+  },
+  {
     "code": "MM",
     "description": "Millennium Media",
     "url": "https://millennium-media.net/"
