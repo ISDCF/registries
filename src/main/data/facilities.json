@@ -3969,11 +3969,6 @@
     "description": "Neues Kino Basel"
   },
   {
-    "code": "NLI",
-    "description": "No Longer i, Productions",
-    "url": "https://www.signaturelight.com"
-  },
-  {
     "code": "NKF",
     "contact": {
       "address": "Leningradskiy pr-t, 47, Moscow, Russia",
@@ -3986,6 +3981,11 @@
   {
     "code": "NLE",
     "description": "NON-LINEAR EVOLUTION"
+  },
+  {
+    "code": "NLI",
+    "description": "No Longer i, Productions",
+    "url": "https://www.signaturelight.com"
   },
   {
     "code": "NOI",
