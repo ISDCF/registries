@@ -442,6 +442,16 @@
     "url": "https://cinemaran.com"
   },
   {
+    "code": "CNPL",
+    "contact": {
+      "address": "Ceramiczna 64, 05-230 Kobyłka, Warsaw, Poland",
+      "email": "rejmer@cinematographer.pl",
+      "name": "Piotr Rejmer"
+    },
+    "description": "Cinematographer Pl",
+    "url": "http://cinematographer.pl"
+  },
+  {
     "code": "CNRA",
     "description": "CINERAMA"
   },
@@ -2316,6 +2326,16 @@
   {
     "code": "WC",
     "description": "WEINSTEIN CO."
+  },
+  {
+    "code": "WID",
+    "contact": {
+      "address": "02-969 Warsaw, Poland, ul. Andrutowa 15",
+      "email": "bardzobardzowredna@gmail.com",
+      "name": "Filip Kovcin"
+    },
+    "description": "WIDNO TV",
+    "url": "https://widno.tv"
   },
   {
     "code": "WILL",
