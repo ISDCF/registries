@@ -3648,6 +3648,16 @@
     "description": "MISTIKA POST"
   },
   {
+    "code": "MJR",
+    "contact":{
+      "address": "4-31-1 Nakaochiai, Shinjuku-ku, Tokyo, Japan",
+      "email": "k.baba@mejiro.ac.jp",
+      "name": "Kazuyuki Baba"
+    },
+    "description": "Department of Media Studies, Mejiro University",
+    "url": "https://www.mejiro.ac.jp/univ/course/f_media/d_media/"
+  },
+  {
     "code": "ML",
     "description": "MAGICLAB"
   },
