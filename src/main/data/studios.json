@@ -442,6 +442,16 @@
     "url": "https://cinemaran.com"
   },
   {
+    "code": "CNPL",
+    "contact": {
+      "address": "Ceramiczna 64, 05-230 Kobyłka, Warsaw, Poland",
+      "email": "rejmer@cinematographer.pl",
+      "name": "Piotr Rejmer"
+    },
+    "description": "Cinematographer Pl",
+    "url": "http://cinematographer.pl"
+  },
+  {
     "code": "CNRA",
     "description": "CINERAMA"
   },
