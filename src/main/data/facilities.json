@@ -2711,6 +2711,11 @@
     "description": "Harvest Digital Agriculture"
   },
   {
+    "code": "HDM",
+    "description": "HDMG",
+    "url": "https://hdmg.com"
+  },
+  {
     "code": "HDQ",
     "description": "HEADQUARTER"
   },
