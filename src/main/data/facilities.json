@@ -2711,6 +2711,11 @@
     "description": "Harvest Digital Agriculture"
   },
   {
+    "code": "HDM",
+    "description": "HDMG",
+    "url": "https://hdmg.com"
+  },
+  {
     "code": "HDQ",
     "description": "HEADQUARTER"
   },
@@ -3983,6 +3988,11 @@
     "description": "NON-LINEAR EVOLUTION"
   },
   {
+    "code": "NLI",
+    "description": "No Longer i, Productions",
+    "url": "https://www.signaturelight.com"
+  },
+  {
     "code": "NOI",
     "description": "NOIR LUMIERE"
   },
@@ -4431,6 +4441,16 @@
   {
     "code": "PRE",
     "description": "PRESTIGE CONSULTING"
+  },
+  {
+    "code": "PRG",
+    "contact": {
+      "address": "Galernaya 73a, office 45b, Saint-Petersburg, Russia",
+      "email": "info@prodigidcp.net",
+      "name": "Mr. Alexander Lyakh"
+    },
+    "description": "Prodigi DCP Lab.",
+    "url": "https://prodigidcp.com/"
   },
   {
     "code": "PRL",
@@ -5884,6 +5904,16 @@
     },
     "description": "POSTPRODUCTION SOUND AND COLORGRADING STUDIO",
     "url": "https://www.will-production.com"
+  },
+  {
+    "code": "WID",
+    "contact": {
+      "address": "02-969 Warsaw, Poland, ul. Andrutowa 15",
+      "email": "bardzobardzowredna@gmail.com",
+      "name": "Filip Kovcin"
+    },
+    "description": "WIDNO TV",
+    "url": "https://widno.tv"
   },
   {
     "code": "WIL",

@@ -2323,6 +2323,16 @@
     "description": "WEINSTEIN CO."
   },
   {
+    "code": "WID",
+    "contact": {
+      "address": "02-969 Warsaw, Poland, ul. Andrutowa 15",
+      "email": "bardzobardzowredna@gmail.com",
+      "name": "Filip Kovcin"
+    },
+    "description": "WIDNO TV",
+    "url": "https://widno.tv"
+  },
+  {
     "code": "WILL",
     "description": "WILL PRODUCTION",
     "url": "https://www.will-production.com"
