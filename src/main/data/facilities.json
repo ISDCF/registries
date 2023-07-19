@@ -2735,6 +2735,16 @@
     "url": "http://highwater.co/"
   },
   {
+    "code": "HEE",
+    "contact": {
+      "address": "Gościną 3/45 20-532, Lublin, Poland",
+      "email": "hee.marcin.sady@gmail.com",
+      "name": "Marcin"
+    },
+    "description": "HEE STUDIO",
+    "url": "http://marcinsady.com"
+  },
+  {
     "code": "HFF",
     "description": "HFF Konrad Wolf",
     "url": "https://www.filmuniversitaet.de"
@@ -4743,6 +4753,11 @@
   {
     "code": "RL",
     "description": "REALDCP"
+  },
+  {
+    "code": "RLL",
+    "description": "Rafal Bryll Studio",
+    "url": "https://filmpolski.pl/fp/index.php?osoba=1182014"
   },
   {
     "code": "RLW",
