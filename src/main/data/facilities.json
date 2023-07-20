@@ -2995,6 +2995,16 @@
     "description": "IRUSOIN"
   },
   {
+    "code": "ISA",
+    "contact": {
+      "address": "1 rue de la Marie Josée, 40480 Vieux-Boucau-les-Bains, France",
+      "email": "faustine@surf-archive.com",
+      "name": "Mlle Antonangelo"
+    },
+    "description": "The International Surf Archive",
+    "url": "https://surf-archive.com/en"
+  },
+  {
     "code": "ISE",
     "description": "IMAGICA SEA"
   },
