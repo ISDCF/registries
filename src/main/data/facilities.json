@@ -1010,6 +1010,16 @@
     "description": "CINEDIGM"
   },
   {
+    "code": "CIP",
+    "contact": {
+      "address": "Ceramiczna 64, 05-230 Kobyłka, Warsaw, Poland",
+      "email": "rejmer@cinematographer.pl",
+      "name": "Piotr Rejmer"
+    },
+    "description": "CINEMATOGRAPHER PL",
+    "url": "http://cinematographer.pl"
+  },
+  {
     "code": "CIS",
     "description": "Cinematheque Suisse"
   },
