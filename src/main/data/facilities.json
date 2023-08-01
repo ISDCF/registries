@@ -5766,6 +5766,16 @@
     "description": "UNION PICTURES (CANADA)"
   },
   {
+    "code": "UPP",
+    "contact": {
+      "address": "Žitomírská 7/489, Prague, 101 00, Czech Republic",
+      "email": "ladislav.hrbacek@upp.cz",
+      "name": "Mr. Ladislav Hrbacek"
+    },
+    "description": "Universal Production Partners",
+    "url": "https://www.upp.cz/"
+  },
+  {
     "code": "URT",
     "description": "URTEXT FILM PRODUCTIONS"
   },
