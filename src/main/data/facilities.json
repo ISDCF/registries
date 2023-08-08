@@ -6090,6 +6090,11 @@
     ]
   },
   {
+    "code": "YET",
+    "description": "Yeti Coolers",
+    "url": "https://www.yeti.com"
+  },
+  {
     "code": "YMA",
     "description": "YMAGIS",
     "obsolete": true,
