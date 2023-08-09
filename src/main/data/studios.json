@@ -470,6 +470,16 @@
     "description": "COLOSO POST STUDIO"
   },
   {
+    "code": "CPO",
+    "contact": {
+      "address": "Strausberger Platz 17 Berlin, Germany",
+      "email": "marketing@coproductionoffice.eu",
+      "name": "Philippe Bober"
+    },
+    "description": "Coproduction Office",
+    "url": "https://coproductionoffice.eu/"
+  },
+  {
     "code": "CPR",
     "description": "ColorPRO"
   },
@@ -915,6 +925,16 @@
     },
     "description": "GKIDS, Inc.",
     "url": "https://www.gkids.com/"
+  },
+  {
+    "code": "GMF",
+    "contact": {
+      "address": "179 McGuinness Blvd, 2L, Brooklyn Ny 11222 United States",
+      "email": "enzo@goosemango.com",
+      "name": "Enzo Cellucci"
+    },
+    "description": "Goosemango Films",
+    "url": "https://sites.google.com/goosemango.com/goosemangofilms"
   },
   {
     "code": "GPI",
@@ -2108,6 +2128,11 @@
   {
     "code": "T25P",
     "description": "TAKE 25 PICTURES"
+  },
+  {
+    "code": "TBF",
+    "description": "The Biscuit Factory",
+    "url": "https://www.biscuitfactory.tv"
   },
   {
     "code": "TCF",
