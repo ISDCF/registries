@@ -1058,7 +1058,13 @@
   },
   {
     "code": "CLC",
-    "description": "Color Collective"
+    "contact": {
+      "address": "12 West 27th Street FL3 New York, NY 10001, USA",
+      "email": "alex@colorcollective.com",
+      "name": "Alex Bickel"
+    },
+    "description": "Color Collective",
+    "url": "https://www.colorcollective.com"
   },
   {
     "code": "CLF",
