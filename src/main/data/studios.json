@@ -795,6 +795,16 @@
     "description": "FILMMUSEUM MÜNCHEN"
   },
   {
+    "code": "FMP",
+    "contact": {
+      "address": "Workshop A08, 8/F, Block A, Veristrong Industrial Centre, No.34-36 Au Pui Wan Street, Fo Tan, Hong Kong",
+      "email": "donald.kwok@fmpro.hk",
+      "name": "Donald Kwok"
+    },
+    "description": "Flying Monkeys Production",
+    "url": "https://www.fmpro.hk"
+  },
+  {
     "code": "FORT",
     "description": "Fortuitous Films",
     "url": "https://www.andrewbowserdirector.com/onyx-the-fortuitous"
