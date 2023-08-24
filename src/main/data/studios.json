@@ -618,6 +618,16 @@
     "url": "https://www.youtube.com/channel/UCQXaPlfwPpBkM2ZgcwRg0TQ"
   },
   {
+    "code": "DV8",
+    "contact": {
+      "address": "13641 Washington circle Omaha NE 68137 United States",
+      "email": "doncrucifixto@gmail.com",
+      "name": "Mr. Tumi Oluyole"
+    },
+    "description": "DON CRUCIFIXTO",
+    "url": "https://www.doncrucifixto.com"
+  },
+  {
     "code": "DVF",
     "description": "DUAL V FILMS"
   },
@@ -793,6 +803,16 @@
   {
     "code": "FMM",
     "description": "FILMMUSEUM MÜNCHEN"
+  },
+  {
+    "code": "FMP",
+    "contact": {
+      "address": "Workshop A08, 8/F, Block A, Veristrong Industrial Centre, No.34-36 Au Pui Wan Street, Fo Tan, Hong Kong",
+      "email": "donald.kwok@fmpro.hk",
+      "name": "Donald Kwok"
+    },
+    "description": "Flying Monkeys Production",
+    "url": "https://www.fmpro.hk"
   },
   {
     "code": "FORT",
@@ -1371,6 +1391,11 @@
     },
     "description": "MICMUSS FILM ENTERTAINMENT",
     "url": "https://www.micmuss.com"
+  },
+  {
+    "code": "MFP",
+    "description": "Macfunky Productions",
+    "url": "https://www.instagram.com/macfunkyproductions/"
   },
   {
     "code": "MH",
