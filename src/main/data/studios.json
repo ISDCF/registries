@@ -677,6 +677,11 @@
     "description": "ELO FILM SCHOOL HELSINKI"
   },
   {
+    "code": "EML",
+    "description": "Elanti Media",
+    "url": "https://www.elantimedia.com"
+  },
+  {
     "code": "EONE",
     "contact": {
       "address": "45 Warren St, London W1T 6AG, England",
