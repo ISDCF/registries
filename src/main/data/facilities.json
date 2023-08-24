@@ -2403,6 +2403,16 @@
     "description": "FILMMUSEUM MÜNCHEN"
   },
   {
+    "code": "FMP",
+    "contact": {
+      "address": "Workshop A08, 8/F, Block A, Veristrong Industrial Centre, No.34-36 Au Pui Wan Street, Fo Tan, Hong Kong",
+      "email": "donald.kwok@fmpro.hk",
+      "name": "Donald Kwok"
+    },
+    "description": "Flying Monkeys Production",
+    "url": "https://www.fmpro.hk"
+  },
+  {
     "code": "FNL",
     "description": "FINALE EDITWORKS"
   },
@@ -2745,6 +2755,16 @@
     "code": "HDM",
     "description": "HDMG",
     "url": "https://hdmg.com"
+  },
+  {
+    "code": "HDN",
+    "contact": {
+      "address": "3054 Della Porta Ct Katy Texas 77493, United States",
+      "email": "olusolaadeaga@gmail.com",
+      "name": "Sola Adeaga"
+    },
+    "description": "Horeb Digital Network Inc",
+    "url": "https://www.horebdigital.com"
   },
   {
     "code": "HDQ",
@@ -4393,6 +4413,16 @@
     "description": "PREHISTORIC DIGITAL"
   },
   {
+    "code": "PHS",
+    "contact": {
+      "address": "429 Sylvan Avenue, Englewood Cliffs, NJ 07632 United States",
+      "email": "christianrush@phiphenstudios.com",
+      "name": "Christian Rush"
+    },
+    "description": "Phiphen Studios",
+    "url": "https://phiphenstudios.com/"
+  },
+  {
     "code": "PHX",
     "description": "Phoenix DCP",
     "url": "https://phoenixdcp.us"
@@ -4696,6 +4726,16 @@
   {
     "code": "RCP",
     "description": "REDCUP POST"
+  },
+  {
+    "code": "RCR",
+    "contact": {
+      "address": "931 Monroe Dr NE, Ste A102-263, Atlanta, GA 30308 United States",
+      "email": "rwood1123@gmail.com",
+      "name": "Raymond Wood"
+    },
+    "description": "RCR Video Marketing Group",
+    "url": "https://www.rcrvideo.com/dcp-creation"
   },
   {
     "code": "RD",
