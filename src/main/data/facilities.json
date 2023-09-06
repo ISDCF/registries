@@ -5783,6 +5783,16 @@
     "description": "TREACLE LIMITED (HK)"
   },
   {
+    "code": "TRF",
+    "contact": {
+      "address": "Fernando 88 - 104 Colonia Álamos CP 03400 Benito Juárez México City, México",
+      "email": "rodrigo@terrierfilms.com",
+      "name": "Rodrigo Hernández C."
+    },
+    "description": "Terrier Films",
+    "url": "https://terrierfilms.com"
+  },
+  {
     "code": "TRN",
     "description": "Tangren Cultural Film Group"
   },
