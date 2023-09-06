@@ -1309,6 +1309,16 @@
     "description": "LUCAS FILMS"
   },
   {
+    "code": "LG",
+    "contact": {
+      "address": "Calle Álvarez de Lugo, 62, Santa Cruz de Tenerife, Spain",
+      "email": "info@lagavetaproducciones.com",
+      "name": "Mr. Eduardo Cubillo Blasco"
+    },
+    "description": "La Gaveta Producciones SL",
+    "url": "https://lagavetaproducciones.com"
+  },
+  {
     "code": "LIFT",
     "description": "LIAISON OF INDEPENDENT FILMMAKERS OF TORONTO"
   },
