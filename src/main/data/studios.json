@@ -26,6 +26,16 @@
     "description": "9 LIGHT ENTERTAINMENT"
   },
   {
+    "code": "ABL",
+    "contact": {
+      "address": "Río Ebro 29, int. 1, Cuauhtémoc, Mexico City, Mexico",
+      "email": "ignaciotahhan@gmail.com",
+      "name": "Nacho Tahhan"
+    },
+    "description": "Abrelatas Films",
+    "url": "https://abrelatasfilms.godaddysites.com"
+  },
+  {
     "code": "AD",
     "contact": {
       "address": "57-16, Stroda str., Yakutsk, Sakha Republic, Russia",
