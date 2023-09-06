@@ -1297,6 +1297,11 @@
     "description": "COLORON"
   },
   {
+    "code": "CR1",
+    "description": "Critical Role Productions",
+    "url": "https://www.critrole.com"
+  },
+  {
     "code": "CRA",
     "description": "CINERAMA"
   },
@@ -3882,6 +3887,16 @@
     "description": "MEDIA PROJEKT"
   },
   {
+    "code": "MPA",
+    "contact": {
+      "address": "54B Moana Street, Woy Woy, NSW 2256, Sydney, Australia",
+      "email": "padam@mediapacific.com.au",
+      "name": "Mr Phillip Adam"
+    },
+    "description": "Media Pacific Studios",
+    "url": "https://www.mediapacific.com.au"
+  },
+  {
     "code": "MPI",
     "description": "WARNER BROS. MOTION PICTURE IMAGING"
   },
@@ -5773,6 +5788,16 @@
     "description": "TREACLE LIMITED (HK)"
   },
   {
+    "code": "TRF",
+    "contact": {
+      "address": "Fernando 88 - 104 Colonia Álamos CP 03400 Benito Juárez México City, México",
+      "email": "rodrigo@terrierfilms.com",
+      "name": "Rodrigo Hernández C."
+    },
+    "description": "Terrier Films",
+    "url": "https://terrierfilms.com"
+  },
+  {
     "code": "TRN",
     "description": "Tangren Cultural Film Group"
   },
@@ -6014,6 +6039,16 @@
   {
     "code": "VSO",
     "description": "Visom"
+  },
+  {
+    "code": "WAG",
+    "contact": {
+      "address": "120 Emily Dr. Lilburn, Ga 30047, USA",
+      "email": "charles@wagprodco.com",
+      "name": "Charles Gilbert"
+    },
+    "description": "Walk Among Giants Post",
+    "url": "https://wagprodco.com"
   },
   {
     "code": "WAN",
