@@ -3882,6 +3882,16 @@
     "description": "MEDIA PROJEKT"
   },
   {
+    "code": "MPA",
+    "contact": {
+      "address": "54B Moana Street, Woy Woy, NSW 2256, Sydney, Australia",
+      "email": "padam@mediapacific.com.au",
+      "name": "Mr Phillip Adam"
+    },
+    "description": "Media Pacific Studios",
+    "url": "https://www.mediapacific.com.au"
+  },
+  {
     "code": "MPI",
     "description": "WARNER BROS. MOTION PICTURE IMAGING"
   },
