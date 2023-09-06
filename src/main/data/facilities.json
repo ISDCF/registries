@@ -1297,6 +1297,11 @@
     "description": "COLORON"
   },
   {
+    "code": "CR1",
+    "description": "Critical Role Productions",
+    "url": "https://www.critrole.com"
+  },
+  {
     "code": "CRA",
     "description": "CINERAMA"
   },
