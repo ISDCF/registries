@@ -744,6 +744,16 @@
     "url": "https://www.filmsdunjour.com"
   },
   {
+    "code": "FAN",
+    "contact": {
+      "address": "PO Box 64, Virginia QLD 4014 Australia",
+      "email": "sally@fandangoproductions.com.au",
+      "name": "Sally Elliot"
+    },
+    "description": "Fandango Productions",
+    "url": "https://www.fandangoproductions.com.au"
+  },
+  {
     "code": "FAND",
     "contact": {
       "address": "237 West 35th Street, Suite 605, New York, NY 10001 USA",
