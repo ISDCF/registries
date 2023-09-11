@@ -397,6 +397,16 @@
     "description": "ARTECH DCINEMA"
   },
   {
+    "code": "ARG",
+    "contact": {
+      "address": "Rio Tavares, Florianópolis, SC. Brazil",
+      "email": "argireiaprodutora@gmail.com",
+      "name": "Argiréia Produções"
+    },
+    "description": "Argiréia Produções",
+    "url": "https://www.argireiaprodutora.com.br"
+  },
+  {
     "code": "ARI",
     "description": "Aria Covamonas",
     "url": "https://covamonas.com/"
