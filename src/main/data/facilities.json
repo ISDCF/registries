@@ -830,6 +830,16 @@
     "url": "https://app.clapperboard.online"
   },
   {
+    "code": "CBS",
+    "contact": {
+      "address": "Isabela Católica y Gangotena E11-223, Ecuador",
+      "email": "contact@cuartoblanco.studio",
+      "name": "Nicolas Andrade "
+    },
+    "description": "cuartoblanco",
+    "url": "https://cuartoblanco.studio/"
+  },
+  {
     "code": "CBT",
     "contact": {
       "address": "108c rue des tanneurs, 1000 Brussels, Belgium",
