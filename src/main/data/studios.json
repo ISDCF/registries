@@ -211,6 +211,16 @@
     "description": "ASIA TROPICAL FILMS"
   },
   {
+    "code": "ATLS",
+    "contact": {
+      "address": "92 Torrington Drive, Halifax, Canada",
+      "email": "atlasphotoshfx@gmail.com",
+      "name": "Joey Chapman"
+    },
+    "description": "Atlas Studios",
+    "url": "https://atlasphotographyhfx.ca/"
+  },
+  {
     "code": "AVA",
     "contact": {
       "address": "PLAZA DEL CORDÓN, 2 BAJO IZQUIERDA, 28005 MADRID, Spain",
