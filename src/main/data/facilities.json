@@ -2287,6 +2287,16 @@
     "url": "https://www.eyewerk.de"
   },
   {
+    "code": "FAC",
+    "contact": {
+      "address": "8 Rue de la Coulouvreniere, 1204 Geneva, Switzerland",
+      "email": "dcp@face-c.net",
+      "name": "Mr. Damien Molineaux"
+    },
+    "description": "Face-C",
+    "url": "https://face-c.net"
+  },
+  {
     "code": "FAL",
     "description": "SOFT Falmouth University UK"
   },
