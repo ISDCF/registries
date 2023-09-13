@@ -479,6 +479,16 @@
     "description": "AUWE DIGITAL"
   },
   {
+    "code": "AVC",
+    "contact": {
+      "address": "5350 Ethel Way, Sacramento, CA 95820 USA",
+      "email": "avclubfilmproductions@gmail.com",
+      "name": "Aiden Nelson"
+    },
+    "description": "AV Club Film Productions",
+    "url": "https://www.avclubfilmproductions.com/"
+  },
+  {
     "code": "AVD",
     "description": "AV-DESIGN"
   },
@@ -766,7 +776,8 @@
   },
   {
     "code": "BWD",
-    "description": "Blackwater Digital Services"
+    "description": "Blackwater Digital Services",
+    "url": "https://www.blackwater.digital"
   },
   {
     "code": "C19",
@@ -2284,6 +2295,16 @@
     },
     "description": "eyewerk GmbH",
     "url": "https://www.eyewerk.de"
+  },
+  {
+    "code": "FAC",
+    "contact": {
+      "address": "8 Rue de la Coulouvreniere, 1204 Geneva, Switzerland",
+      "email": "dcp@face-c.net",
+      "name": "Mr. Damien Molineaux"
+    },
+    "description": "Face-C",
+    "url": "https://face-c.net"
   },
   {
     "code": "FAL",
