@@ -171,6 +171,16 @@
     "url": "https://arc.film/"
   },
   {
+    "code": "ARG",
+    "contact": {
+      "address": "Rio Tavares, Florianópolis, SC. Brazil.",
+      "email": "argireiaprodutora@gmail.com",
+      "name": "Argiréia Produções"
+    },
+    "description": "Argiréia Produções",
+    "url": "https://www.argireiaprodutora.com.br"
+  },
+  {
     "code": "ARP",
     "description": "ARP"
   },
@@ -211,6 +221,16 @@
     "description": "ASIA TROPICAL FILMS"
   },
   {
+    "code": "ATLS",
+    "contact": {
+      "address": "92 Torrington Drive, Halifax, Canada",
+      "email": "atlasphotoshfx@gmail.com",
+      "name": "Joey Chapman"
+    },
+    "description": "Atlas Studios",
+    "url": "https://atlasphotographyhfx.ca/"
+  },
+  {
     "code": "AVA",
     "contact": {
       "address": "PLAZA DEL CORDÓN, 2 BAJO IZQUIERDA, 28005 MADRID, Spain",
@@ -219,6 +239,16 @@
     },
     "description": "AVALON DISTRIBUCIÓN AUDIOVISUAL, C.L.",
     "url": "http://www.avalon.me"
+  },
+  {
+    "code": "AVC",
+    "contact": {
+      "address": "5350 Ethel Way, Sacramento, CA 95820 USA",
+      "email": "amysoldschool@gmail.com",
+      "name": "Aiden Nelson"
+    },
+    "description": "AV Club Film Productions",
+    "url": "https://www.avclubfilmproductions.com/"
   },
   {
     "code": "AVD",
@@ -720,6 +750,11 @@
     "description": "EQUINOXE FILMS"
   },
   {
+    "code": "EVDN",
+    "description": "Erik van der Neut",
+    "url": "https://looknohands.com/"
+  },
+  {
     "code": "EXC",
     "description": "THE EXCHANGE"
   },
@@ -742,6 +777,16 @@
     },
     "description": "Les Films d'un Jour",
     "url": "https://www.filmsdunjour.com"
+  },
+  {
+    "code": "FAN",
+    "contact": {
+      "address": "PO Box 64, Virginia QLD 4014 Australia",
+      "email": "sally@fandangoproductions.com.au",
+      "name": "Sally Elliot"
+    },
+    "description": "Fandango Productions",
+    "url": "https://www.fandangoproductions.com.au"
   },
   {
     "code": "FAND",
