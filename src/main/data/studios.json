@@ -171,6 +171,16 @@
     "url": "https://arc.film/"
   },
   {
+    "code": "ARG",
+    "contact": {
+      "address": "Rio Tavares, Florianópolis, SC. Brazil.",
+      "email": "argireiaprodutora@gmail.com",
+      "name": "Argiréia Produções"
+    },
+    "description": "Argiréia Produções",
+    "url": "https://www.argireiaprodutora.com.br"
+  },
+  {
     "code": "ARP",
     "description": "ARP"
   },
