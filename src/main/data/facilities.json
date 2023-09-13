@@ -479,6 +479,16 @@
     "description": "AUWE DIGITAL"
   },
   {
+    "code": "AVC",
+    "contact": {
+      "address": "5350 Ethel Way, Sacramento, CA 95820 USA",
+      "email": "avclubfilmproductions@gmail.com",
+      "name": "Aiden Nelson"
+    },
+    "description": "AV Club Film Productions",
+    "url": "https://www.avclubfilmproductions.com/"
+  },
+  {
     "code": "AVD",
     "description": "AV-DESIGN"
   },
