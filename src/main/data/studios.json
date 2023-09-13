@@ -211,6 +211,16 @@
     "description": "ASIA TROPICAL FILMS"
   },
   {
+    "code": "ATLS",
+    "contact": {
+      "address": "92 Torrington Drive, Halifax, Canada",
+      "email": "atlasphotoshfx@gmail.com",
+      "name": "Joey Chapman"
+    },
+    "description": "Atlas Studios",
+    "url": "https://atlasphotographyhfx.ca/"
+  },
+  {
     "code": "AVA",
     "contact": {
       "address": "PLAZA DEL CORDÓN, 2 BAJO IZQUIERDA, 28005 MADRID, Spain",
@@ -219,6 +229,16 @@
     },
     "description": "AVALON DISTRIBUCIÓN AUDIOVISUAL, C.L.",
     "url": "http://www.avalon.me"
+  },
+  {
+    "code": "AVC",
+    "contact": {
+      "address": "5350 Ethel Way, Sacramento, CA 95820 USA",
+      "email": "amysoldschool@gmail.com",
+      "name": "Aiden Nelson"
+    },
+    "description": "AV Club Film Productions",
+    "url": "https://www.avclubfilmproductions.com/"
   },
   {
     "code": "AVD",
@@ -718,6 +738,11 @@
   {
     "code": "EQF",
     "description": "EQUINOXE FILMS"
+  },
+  {
+    "code": "EVDN",
+    "description": "Erik van der Neut",
+    "url": "https://looknohands.com/"
   },
   {
     "code": "EXC",
