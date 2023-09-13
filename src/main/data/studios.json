@@ -221,6 +221,16 @@
     "url": "http://www.avalon.me"
   },
   {
+    "code": "AVC",
+    "contact": {
+      "address": "5350 Ethel Way, Sacramento, CA 95820 USA",
+      "email": "amysoldschool@gmail.com",
+      "name": "Aiden Nelson"
+    },
+    "description": "AV Club Film Productions",
+    "url": "https://www.avclubfilmproductions.com/"
+  },
+  {
     "code": "AVD",
     "description": "AV-DESIGN"
   },
