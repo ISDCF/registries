@@ -1380,7 +1380,11 @@
   },
   {
     "code": "CSI",
-    "description": "C-SIDE PRODUCTIONS"
+    "description": "C-SIDE PRODUCTIONS",
+    "obsolete": true,
+    "obsoletedBy": [
+      "FAC"
+    ]
   },
   {
     "code": "CSP",
@@ -3676,6 +3680,11 @@
     "code": "MB",
     "description": "Martin Backhaus",
     "url": "https://martinbackhaus.com"
+  },
+  {
+    "code": "MBD",
+    "description": "MABIDO GmbH",
+    "url": "https://www.mabido.de"
   },
   {
     "code": "MC",
