@@ -1724,6 +1724,11 @@
     "url": "http://www.dakoitpictures.com"
   },
   {
+    "code": "DL",
+    "description": "De Lodge Amsterdam",
+    "url": "https://delodge.nl/"
+  },
+  {
     "code": "DLA",
     "description": "DELUXE LA",
     "obsolete": true,
