@@ -1478,6 +1478,16 @@
     "url": "https://www.micmuss.com"
   },
   {
+    "code": "MDN",
+    "contact": {
+      "address": "Valle Perdido 53, Estado de México",
+      "email": "miranda@madnessentertainment.mx",
+      "name": "Rodolfo Miranda"
+    },
+    "description": "Madness entertainment",
+    "url": "https://www.madnessentertainment.mx/"
+  },
+  {
     "code": "MFP",
     "description": "Macfunky Productions",
     "url": "https://www.instagram.com/macfunkyproductions/"
@@ -2026,6 +2036,11 @@
     "code": "SCFI",
     "description": "Surto Coletivo Filmes",
     "url": "https://surtocoletivo.online/"
+  },
+  {
+    "code": "SDC",
+    "description": "She Dreams Content Development and Production LLC",
+    "url": "https://shedreamscontent.com"
   },
   {
     "code": "SDM",
