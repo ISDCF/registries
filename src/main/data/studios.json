@@ -1609,6 +1609,16 @@
     "url": "http://www.trianon.gr/v1/"
   },
   {
+    "code": "NBCN",
+    "contact": {
+      "address": "30 Rockefeller Plaza, New York, NY 10112, USA",
+      "email": "alex.pilkington@nbcuni.com",
+      "name": "Alex Pilkington"
+    },
+    "description": "NBC News Studios",
+    "url": "https://nbcnewsstudios.com"
+  },
+  {
     "code": "NDG",
     "description": "NDG Studios"
   },
