@@ -1724,6 +1724,11 @@
     "url": "http://www.dakoitpictures.com"
   },
   {
+    "code": "DL",
+    "description": "De Lodge Amsterdam",
+    "url": "https://delodge.nl/"
+  },
+  {
     "code": "DLA",
     "description": "DELUXE LA",
     "obsolete": true,
@@ -2679,6 +2684,11 @@
   {
     "code": "GI",
     "description": "GIANT-INTERACTIVE"
+  },
+  {
+    "code": "GIG",
+    "description": "Gigantic Studios",
+    "url": "https://www.giganticstudios.com"
   },
   {
     "code": "GKD",
