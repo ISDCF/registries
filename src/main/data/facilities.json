@@ -1724,6 +1724,11 @@
     "url": "http://www.dakoitpictures.com"
   },
   {
+    "code": "DL",
+    "description": "De Lodge Amsterdam",
+    "url": "https://delodge.nl/"
+  },
+  {
     "code": "DLA",
     "description": "DELUXE LA",
     "obsolete": true,
@@ -2679,6 +2684,11 @@
   {
     "code": "GI",
     "description": "GIANT-INTERACTIVE"
+  },
+  {
+    "code": "GIG",
+    "description": "Gigantic Studios",
+    "url": "https://www.giganticstudios.com"
   },
   {
     "code": "GKD",
@@ -4069,6 +4079,16 @@
   {
     "code": "NB",
     "description": "NATIONAL LIBRARY OF NORWAY"
+  },
+  {
+    "code": "NBC",
+    "contact": {
+      "address": "30 Rockefeller Plaza, New York, NY 10112, USA",
+      "email": "alex.pilkington@nbcuni.com",
+      "name": "Alex Pilkington"
+    },
+    "description": "NBC News Studios",
+    "url": "https://nbcnewsstudios.com"
   },
   {
     "code": "NBS",
@@ -5732,6 +5752,16 @@
   {
     "code": "TLD",
     "description": "TIMELINE DIGITAL"
+  },
+  {
+    "code": "TLI",
+    "contact": {
+      "address": "1417 N. Kenwood St. Burbank, CA 91505, USA",
+      "email": "jeff@thelobby.tv",
+      "name": "Jeff Skinner"
+    },
+    "description": "The Lobby, Inc.",
+    "url": "https://www.thelobby.tv"
   },
   {
     "code": "TLK",
