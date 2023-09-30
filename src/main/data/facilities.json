@@ -5736,6 +5736,16 @@
     "url": "https://theofilms.com"
   },
   {
+    "code": "THP",
+    "contact": {
+      "address": "Alumnos 45. Colonia San Miguel Chapultepec, CDMX, Mexico",
+      "email": "alan@the-hub.mx",
+      "name": "Alan Duran"
+    },
+    "description": "The Hub Post",
+    "url": "http://the-hub.mx/"
+  },
+  {
     "code": "TIE",
     "description": "TELEIMAGE (BRASIL)"
   },
