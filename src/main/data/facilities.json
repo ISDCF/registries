@@ -3721,6 +3721,16 @@
     "description": "MOCEAN"
   },
   {
+    "code": "MCP",
+    "contact": {
+      "address": "Kazakhstan, Almaty, Turguta Ozala 221",
+      "email": "gitlin@dcpmaster.pro",
+      "name": "Mr. Iliya Gitlin"
+    },
+    "description": "DCPMaster PRO",
+    "url": "https://dcpmaster.pro"
+  },
+  {
     "code": "MCS",
     "contact": {
       "address": "Karadeniz cad. No: 58 53300 Pazar, Rize, Turkey",
