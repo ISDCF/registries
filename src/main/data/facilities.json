@@ -389,6 +389,11 @@
     "description": "ANIMATED PRODUCTION SERVICES"
   },
   {
+    "code": "APX",
+    "description": "Apex Post Production",
+    "url": "https://apexpost.com"
+  },
+  {
     "code": "ARA",
     "description": "ARANE"
   },
@@ -2737,6 +2742,16 @@
   {
     "code": "GRN",
     "description": "GREEN DCP"
+  },
+  {
+    "code": "GRU",
+    "contact": {
+      "address": "Condomínio Vivendas Bela Vista. Módulo J Casa 8. Bairro Grande Colorado. 73105-909, Brasília, Brasil",
+      "email": "gustavo@grutafilmes.com.br",
+      "name": "Gustavo PastorinoBranquinho"
+    },
+    "description": "Gruta Filmes",
+    "url": "https://www.grutafilmes.com"
   },
   {
     "code": "GS",
@@ -5734,6 +5749,16 @@
     },
     "description": "Theo Films LLC",
     "url": "https://theofilms.com"
+  },
+  {
+    "code": "THP",
+    "contact": {
+      "address": "Alumnos 45. Colonia San Miguel Chapultepec, CDMX, Mexico",
+      "email": "alan@the-hub.mx",
+      "name": "Alan Duran"
+    },
+    "description": "The Hub Post",
+    "url": "http://the-hub.mx/"
   },
   {
     "code": "TIE",
