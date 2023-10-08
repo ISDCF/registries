@@ -5032,6 +5032,16 @@
     "description": "ROUNDTABLE FILMS"
   },
   {
+    "code": "RTR",
+    "contact": {
+      "address": "August-Bebel-Str. 26-53, D-14482 Potsdam, Germany",
+      "email": "hermann@rotor-film.com",
+      "name": "Sebastian Hermann"
+    },
+    "description": "Rotor Film GmbH",
+    "url": "https://rotor-film.com"
+  },
+  {
     "code": "RVD",
     "description": "WORLDWIDE DIGITAL CINEMA"
   },
