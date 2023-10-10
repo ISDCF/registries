@@ -1636,6 +1636,16 @@
     ]
   },
   {
+    "code": "DE1",
+    "contact": {
+      "address": "Carrera 40C #12-95, Cali, Colombia",
+      "email": "david.escobar@correounivalle.edu.co",
+      "name": "David Escobar"
+    },
+    "description": "David Escobar",
+    "url": "https://www.instagram.com/david.escobar.foto/"
+  },
+  {
     "code": "DEF",
     "description": "DEFINITIONFILMS AUSTRALIA"
   },
