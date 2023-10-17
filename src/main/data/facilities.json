@@ -6383,6 +6383,16 @@
     "description": "YMAGIS QUICKDCP"
   },
   {
+    "code": "YNS",
+    "contact": {
+      "address": "PO BOX 960161, Miami, FL 33296, USA",
+      "email": "erik@ynsfilm.com",
+      "name": "Erik Diaz"
+    },
+    "description": "Yns Film",
+    "url": "https://ynsfilm.com"
+  },
+  {
     "code": "YPA",
     "description": "YMAGIS PARIS",
     "obsolete": true,
