@@ -5379,6 +5379,16 @@
     "description": "SOLUCIONES DVD"
   },
   {
+    "code": "SLK",
+    "contact": {
+      "address": "Rue du Counil, 34300 Agde, France",
+      "email": "xavier.rauscher@live.fr",
+      "name": "Xavier Rauscher"
+    },
+    "description": "Slaykyo",
+    "url": "http://slaykyo.free.fr/project/index.html"
+  },
+  {
     "code": "SLS",
     "description": "STORYLINE STUDIOS"
   },
@@ -6381,6 +6391,16 @@
   {
     "code": "YMQ",
     "description": "YMAGIS QUICKDCP"
+  },
+  {
+    "code": "YNS",
+    "contact": {
+      "address": "PO BOX 960161, Miami, FL 33296, USA",
+      "email": "erik@ynsfilm.com",
+      "name": "Erik Diaz"
+    },
+    "description": "Yns Film",
+    "url": "https://ynsfilm.com"
   },
   {
     "code": "YPA",
