@@ -6206,6 +6206,16 @@
     "url": "https://www.wanda.es"
   },
   {
+    "code": "WAS",
+    "contact": {
+      "address": "78-79 Long Lane, London, EC1A 9ET, UK",
+      "email": "jon@wash.co.uk",
+      "name": "Jon Dobson"
+    },
+    "description": "Wash",
+    "url": "https://wash.co.uk"
+  },
+  {
     "code": "WBE",
     "description": "West Bay Entertainment"
   },
