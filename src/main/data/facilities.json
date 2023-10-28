@@ -4452,6 +4452,16 @@
     "description": "P&B Communication S.R.L."
   },
   {
+    "code": "PBP",
+    "contact": {
+      "address": "Knoppvägen 5, 74450 Morgongåva, Sweden",
+      "email": "info@pitchblackproductions.se",
+      "name": "Mr. Alex"
+    },
+    "description": "119 Marvila Studios",
+    "url": "https://www.pitchblackproductions.se"
+  },
+  {
     "code": "PC",
     "description": "POST CATACLYSMA"
   },
@@ -4462,7 +4472,7 @@
       "email": "postcirclebd@gmail.com",
       "name": "Mohammad Rashaduzzaman"
     },
-    "description": "Post Circle",
+    "description": "PitchBlack Productions Sweden",
     "url": "https://www.facebook.com/post.circle"
   },
   {
