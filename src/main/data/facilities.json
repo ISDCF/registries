@@ -5837,6 +5837,16 @@
     "description": "TELSON SPAIN"
   },
   {
+    "code": "TLT",
+    "contact": {
+      "address": "2-34-5 Higashi-Oizumi, Nerima-ku, Tokyo 178-8666 JAPAN",
+      "email": "s.satake@td-labo.jp",
+      "name": "Mr. Satake"
+    },
+    "description": "Toei Digital Lab",
+    "url": "https://www.toeilab.co.jp/business1/"
+  },
+  {
     "code": "TM",
     "description": "Trailer Manufaktur | Berlin"
   },
