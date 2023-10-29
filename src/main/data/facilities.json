@@ -4462,6 +4462,16 @@
     "description": "P&B Communication S.R.L."
   },
   {
+    "code": "PBP",
+    "contact": {
+      "address": "Knoppvägen 5, 74450 Morgongåva, Sweden",
+      "email": "info@pitchblackproductions.se",
+      "name": "Mr. Alex"
+    },
+    "description": "PitchBlack Productions Sweden",
+    "url": "https://www.pitchblackproductions.se"
+  },
+  {
     "code": "PC",
     "description": "POST CATACLYSMA"
   },
