@@ -960,6 +960,16 @@
     "description": "Cohen Film Collection"
   },
   {
+    "code": "CFP",
+    "contact": {
+      "address": "207 E. Calaveras St. Altadena, CA 91001  USA",
+      "email": "rhayner@conformitypost.com",
+      "name": "Ricky Hayner"
+    },
+    "description": "Conformity Post",
+    "url": "https://sites.google.com/conformitypost.com/contact/home"
+  },
+  {
     "code": "CFS",
     "description": "COMMERCIAL FILMS SIAM CO. LTD."
   },
@@ -4452,6 +4462,16 @@
     "description": "P&B Communication S.R.L."
   },
   {
+    "code": "PBP",
+    "contact": {
+      "address": "Knoppvägen 5, 74450 Morgongåva, Sweden",
+      "email": "info@pitchblackproductions.se",
+      "name": "Mr. Alex"
+    },
+    "description": "PitchBlack Productions Sweden",
+    "url": "https://www.pitchblackproductions.se"
+  },
+  {
     "code": "PC",
     "description": "POST CATACLYSMA"
   },
@@ -5552,6 +5572,16 @@
   {
     "code": "STH",
     "description": "STUDIO HAMBURG"
+  },
+  {
+    "code": "STL",
+    "contact": {
+      "address": "Elsterstr. 29, 04109 Leipzig, Sachsen, Germany",
+      "email": "info@schnitterundton.de",
+      "name": "Florian Baitinger"
+    },
+    "description": "Bewegtbildvertonung",
+    "url": "https://www.schnitterundton.de"
   },
   {
     "code": "STM",
