@@ -905,6 +905,11 @@
     "url": "https://oeilsauvage.com"
   },
   {
+    "code": "FRA",
+    "description": "François Roussillon et Associés",
+    "url": "https://www.fraprod.com/"
+  },
+  {
     "code": "FRE",
     "description": "FRENETIC FILMS"
   },
@@ -1927,6 +1932,16 @@
   {
     "code": "RED",
     "description": "RED COMMUNICATIONS"
+  },
+  {
+    "code": "REJ",
+    "contact": {
+      "address": "ul. Rajska 3/115, Kraków, Poland",
+      "email": "contact@rejbel.studio",
+      "name": "Konrad Zięcina"
+    },
+    "description": "REJBEL.STUDIO",
+    "url": "https://www.rejbel.studio/"
   },
   {
     "code": "REL",
