@@ -1461,6 +1461,16 @@
     "description": "COMPLEXION FILMS"
   },
   {
+    "code": "CZN",
+    "contact": {
+      "address": "46 Old Church Rd, Clevedon BS21 6NN, North Somerset, UK",
+      "email": "sam@curzon.org.uk",
+      "name": "Sam Hellings"
+    },
+    "description": "Curzon Clevedon",
+    "url": "https://www.curzon.org.uk/"
+  },
+  {
     "code": "D2",
     "description": "D2"
   },
