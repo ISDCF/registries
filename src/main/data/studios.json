@@ -2535,12 +2535,22 @@
   {
     "code": "WBX",
     "contact": {
-      "address": "111 Boulevard Duhamel du Monceau 45160 Olivet, Orleans, France",
+      "address": "17 Via del Tirreno, 07052, San Teodoro, Italy",
       "email": "contact@wibix.fr",
       "name": "M. Antony Boistel"
     },
     "description": "Wibix",
     "url": "https://www.wibix.fr"
+  },
+  {
+    "code": "WBXS",
+    "contact": {
+      "address": "Río Ebro 29, int. 1, Cuauhtémoc, Mexico City, Mexico",
+      "email": "gianluca@whiteboxstudio.it",
+      "name": "Gianluca Vassallo"
+    },
+    "description": "White Box Studio srl",
+    "url": "https://www.whiteboxstudio.it"
   },
   {
     "code": "WC",
