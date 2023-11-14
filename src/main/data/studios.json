@@ -2543,6 +2543,16 @@
     "url": "https://www.wibix.fr"
   },
   {
+    "code": "WBXS",
+    "contact": {
+      "address": "17 Via del Tirreno, 07052, San Teodoro, Italy",
+      "email": "gianluca@whiteboxstudio.it",
+      "name": "Gianluca Vassallo"
+    },
+    "description": "White Box Studio srl",
+    "url": "https://www.whiteboxstudio.it"
+  },
+  {
     "code": "WC",
     "description": "WEINSTEIN CO."
   },
