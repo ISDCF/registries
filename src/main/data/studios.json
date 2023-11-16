@@ -2295,6 +2295,11 @@
     "description": "TAKE 25 PICTURES"
   },
   {
+    "code": "TAMA",
+    "description": "Cine Tamaris",
+    "url": "https://www.cine-tamaris.fr/"
+  },
+  {
     "code": "TBF",
     "description": "The Biscuit Factory",
     "url": "https://www.biscuitfactory.tv"
