@@ -189,6 +189,11 @@
     "description": "ARTHOUSE, ZURICH"
   },
   {
+    "code": "ARTE",
+    "description": "ARTE France Cinéma",
+    "url": "https://www.unifrance.org/annuaires/societe/80026/arte-france-cinema"
+  },
+  {
     "code": "ARWS",
     "description": "AIRWESS PRODUCTIONS"
   },
