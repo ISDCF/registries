@@ -457,6 +457,11 @@
     "description": "CONSTANTIN FILM VERLEIH"
   },
   {
+    "code": "CIN",
+    "description": "Cinéart",
+    "url": "https://www.cineart.be/fr"
+  },
+  {
     "code": "CJM",
     "description": "CINEJOY MOVIES GMBH",
     "obsolete": true,
