@@ -6193,6 +6193,16 @@
     "description": "VESTMEDIA A/S"
   },
   {
+    "code": "VMD",
+    "contact": {
+      "address": "PO Box 1462, Spokane WA 99210 USA",
+      "email": "tom@vexingmedia.com",
+      "name": "Tom Dineen"
+    },
+    "description": "Vexing Media",
+    "url": "https://vexingmedia.com/"
+  },
+  {
     "code": "VMT",
     "description": "VISUAL MEDIA & TECHNOLOGY"
   },
