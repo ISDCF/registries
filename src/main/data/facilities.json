@@ -5022,7 +5022,13 @@
   },
   {
     "code": "RLW",
-    "description": "RALUWA - DCP.COMPANY"
+    "contact": {
+      "address": "Zurich, Switzerland",
+      "email": "raluwa@raluwa.info",
+      "name": "Raoul Walzer"
+    },
+    "description": "raluwa - AtYourService!",
+    "url": "https://raluwa.info"
   },
   {
     "code": "RM",
@@ -6196,6 +6202,16 @@
   {
     "code": "VM",
     "description": "VESTMEDIA A/S"
+  },
+  {
+    "code": "VMD",
+    "contact": {
+      "address": "PO Box 1462, Spokane WA 99210 USA",
+      "email": "tom@vexingmedia.com",
+      "name": "Tom Dineen"
+    },
+    "description": "Vexing Media",
+    "url": "https://vexingmedia.com/"
   },
   {
     "code": "VMT",
