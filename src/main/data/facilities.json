@@ -4960,6 +4960,16 @@
     "description": "ROUNDABOUT ENTERTAINMENT INC."
   },
   {
+    "code": "REJ",
+    "contact": {
+      "address": "ul. Rajska 3/115, Kraków, Poland",
+      "email": "contact@rejbel.studio",
+      "name": "Konrad Zięcina"
+    },
+    "description": "REJBEL.STUDIO",
+    "url": "https://www.rejbel.studio/"
+  },
+  {
     "code": "REL",
     "description": "RELITA"
   },
@@ -5785,6 +5795,11 @@
   {
     "code": "TEF",
     "description": "TECHNICOLOR ENTERTAINEMENT SERVICES FRANCE"
+  },
+  {
+    "code": "TEK",
+    "description": "Mediatek Post Production",
+    "url": "https://www.mediatek-post.co.uk/"
   },
   {
     "code": "TET",
