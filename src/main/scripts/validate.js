@@ -23,6 +23,7 @@ const fs = require('fs');
 const { basename, join } = require('path')
 const { readFile, access, readdir } = require('fs').promises;
 const ajv = require('ajv');
+const assert = require('assert');
 
 const DATA_PATH = "src/main/data/";
 const DATA_SCHEMA_PATH = "src/main/schemas/%s.schema.json";
@@ -77,6 +78,31 @@ async function validateAll() {
     console.log(`Checking ${name}`);
     await validate();
   }));
+
+  /* confirm that studios and facilities with identical codes have identical contact information */
+
+  const studios = new Map(regs.studios.data.map(e => [e.code, e]));
+  const mismatches = [];
+
+  for (const facility of regs.facilities.data) {
+    const studio = studios.get(facility.code);
+
+    if (! studio)
+      continue;
+
+    try {
+      assert.deepEqual(studio.contact, facility.contact);
+    } catch (error) {
+      mismatches.push(studio.code);
+    }
+
+  }
+
+  if (mismatches.length > 0) {
+    mismatches.forEach(e => console.error(`Facility and studio ${e} have inconsistent contact information`));
+    throw "Facilities and studios have inconsistent contact information";
+  }
+
 }
 
 module.exports = {
