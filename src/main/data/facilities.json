@@ -5862,6 +5862,16 @@
     "url": "http://the-hub.mx/"
   },
   {
+    "code": "THS",
+    "contact": {
+      "address": "1-4-1 Seijo, Setagaya-ku, Tokyo, 157-8561, JAPAN",
+      "email": "ths-dcp@tohostudio.jp",
+      "name": "Yasu Chigira"
+    },
+    "description": "TOHO Studios Co., Ltd.",
+    "url": "https://www.tohostudio.jp"
+  },
+  {
     "code": "TIE",
     "description": "TELEIMAGE (BRASIL)"
   },
