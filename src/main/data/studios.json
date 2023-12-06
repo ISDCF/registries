@@ -507,6 +507,16 @@
     "url": "https://cinemaran.com"
   },
   {
+    "code": "CNMX",
+    "contact": {
+      "address": "Av. México-Coyoacan # 389, Colonia Xoco, Del. Benito Juarez, 03330 México DF",
+      "email": "etorres@cinetecanacional.net",
+      "name": "Edgar Torres"
+    },
+    "description": "Cineteca Nacional de México",
+    "url": "https://www.cinetecanacional.net/"
+  },
+  {
     "code": "CNPL",
     "contact": {
       "address": "Ceramiczna 64, 05-230 Kobyłka, Warsaw, Poland",
