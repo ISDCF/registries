@@ -2128,6 +2128,16 @@
     "description": "EDIT STUDIOS"
   },
   {
+    "code": "EFD",
+    "contact": {
+      "address": "Cra. 5 #77-51, Localidad de Chapinero, Bogotá, Colombia",
+      "email": "carlos.acero@efd.digital",
+      "name": "Mr. Carlos Acero"
+    },
+    "description": "EFD DIGITAL",
+    "url": "https://efd.digital/"
+  },
+  {
     "code": "EFF",
     "description": "EDINBURGH INTERNATIONAL FILM FESTIVAL"
   },
