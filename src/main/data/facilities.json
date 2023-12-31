@@ -335,6 +335,11 @@
     "description": "AMG DIGITAL CINEMA"
   },
   {
+    "code": "AML",
+    "description": "The Automated Moive Licensing System / SEKYVP, LLC",
+    "url": "https://sekyvp.com"
+  },
+  {
     "code": "AMS",
     "description": "Arrow Media Services"
   },
@@ -1084,6 +1089,16 @@
     "obsoletedBy": [
       "CJO"
     ]
+  },
+  {
+    "code": "CKP",
+    "contact": {
+      "address": "Block C1 Steel Rolling Road Jos, Nigeria",
+      "email": "johnsonfilmeditor@gmail.com",
+      "name": "Johnson Awolola"
+    },
+    "description": "Cinema Kpatakpata",
+    "url": "https://cinemakpatakpata.com"
   },
   {
     "code": "CL",
@@ -3248,6 +3263,11 @@
     "description": "JC Film Consultancy Ltd"
   },
   {
+    "code": "JDM",
+    "description": "Joost de Bot",
+    "url": "http://www.joostdebot.nl"
+  },
+  {
     "code": "JIN",
     "contact": {
       "address": "11, Magokjungang 2-ro, Gangseo-gu, Seoul, Republic of Korea",
@@ -4200,6 +4220,16 @@
     "description": "NETFLIX"
   },
   {
+    "code": "NEX",
+    "contact": {
+      "address": "25 Chart St, London, N1 6FA, United Kingdom",
+      "email": "nancy.edmondson@nexusstudios.com",
+      "name": "Nancy Edmondson "
+    },
+    "description": "Nexus Studios",
+    "url": "https://nexusstudios.com/"
+  },
+  {
     "code": "NF",
     "description": "NEVAFILM"
   },
@@ -4230,6 +4260,16 @@
   {
     "code": "NIM",
     "description": "NIMIC PRODUCTIONS"
+  },
+  {
+    "code": "NIS",
+    "contact": {
+      "address": "ShibuyaFLAG7F ,33-6 Udagawacho, Shibuya-ku, Tokyo 150-0042 ,JAPAN",
+      "email": "yfukuda@nitro.co.jp",
+      "name": "Yutaka Fukuda"
+    },
+    "description": "NiTRo SHIBUYA",
+    "url": "https://www.nitro.co.jp/EN/"
   },
   {
     "code": "NIT",
@@ -5873,13 +5913,8 @@
   },
   {
     "code": "THS",
-    "contact": {
-      "address": "1-4-1 Seijo, Setagaya-ku, Tokyo, 157-8561, JAPAN",
-      "email": "ths-dcp@tohostudio.jp",
-      "name": "Yasu Chigira"
-    },
     "description": "TOHO Studios Co., Ltd.",
-    "url": "https://www.tohostudio.jp"
+    "url": "https://www.tohostudio.jp/en"
   },
   {
     "code": "TIE",
@@ -6285,6 +6320,16 @@
   {
     "code": "VSO",
     "description": "Visom"
+  },
+  {
+    "code": "VXR",
+    "contact": {
+      "address": "4120 Piaffe Ave, Mint Hill, North Carolina USA",
+      "email": "sjoseph@voyager.net",
+      "name": "Stephen Joseph"
+    },
+    "description": "Voyager XR",
+    "url": "https://www.voyagerxr.net"
   },
   {
     "code": "WAG",
