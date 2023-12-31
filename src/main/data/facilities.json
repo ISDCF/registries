@@ -335,6 +335,11 @@
     "description": "AMG DIGITAL CINEMA"
   },
   {
+    "code": "AML",
+    "description": "The Automated Moive Licensing System / SEKYVP, LLC",
+    "url": "https://sekyvp.com"
+  },
+  {
     "code": "AMS",
     "description": "Arrow Media Services"
   },
@@ -1084,6 +1089,16 @@
     "obsoletedBy": [
       "CJO"
     ]
+  },
+  {
+    "code": "CKP",
+    "contact": {
+      "address": "Block C1 Steel Rolling Road Jos, Nigeria",
+      "email": "johnsonfilmeditor@gmail.com",
+      "name": "Johnson Awolola"
+    },
+    "description": "Cinema Kpatakpata",
+    "url": "https://cinemakpatakpata.com"
   },
   {
     "code": "CL",
@@ -4198,6 +4213,16 @@
   {
     "code": "NET",
     "description": "NETFLIX"
+  },
+  {
+    "code": "NEX",
+    "contact": {
+      "address": "25 Chart St, London, N1 6FA, United Kingdom",
+      "email": "nancy.edmondson@nexusstudios.com",
+      "name": "Nancy Edmondson "
+    },
+    "description": "Nexus Studios",
+    "url": "https://nexusstudios.com/"
   },
   {
     "code": "NF",
