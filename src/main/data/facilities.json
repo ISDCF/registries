@@ -4200,6 +4200,16 @@
     "description": "NETFLIX"
   },
   {
+    "code": "NEX",
+    "contact": {
+      "address": "25 Chart St, London, N1 6FA, United Kingdom",
+      "email": "nancy.edmondson@nexusstudios.com",
+      "name": "Nancy Edmondson "
+    },
+    "description": "Nexus Studios",
+    "url": "https://nexusstudios.com/"
+  },
+  {
     "code": "NF",
     "description": "NEVAFILM"
   },
