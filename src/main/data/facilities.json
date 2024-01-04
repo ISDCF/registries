@@ -5967,6 +5967,16 @@
     "description": "Trailer Manufaktur | Berlin"
   },
   {
+    "code": "TMF",
+    "contact": {
+      "address": "221 bis Boulevard Jean Jaures, 92100 Boulogne-Billancourt, Paris, France",
+      "email": "hiventy_dcp@transperfect.com",
+      "name": "Mr Jerome Auger"
+    },
+    "description": "Transperfect Media France",
+    "url": "https://www.hiventy.com/"
+  },
+  {
     "code": "TMG",
     "description": "The Mammal Group Post",
     "url": "https://www.themammalgroup.com"
