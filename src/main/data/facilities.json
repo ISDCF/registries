@@ -1749,7 +1749,11 @@
   },
   {
     "code": "DIC",
-    "description": "DIGIMAGE CINEMA"
+    "description": "DIGIMAGE CINEMA",
+        "obsolete": true,
+    "obsoletedBy": [
+      "TMF"
+    ],
   },
   {
     "code": "DIF",
@@ -3009,7 +3013,11 @@
   },
   {
     "code": "HVY",
-    "description": "HIVENTY"
+    "description": "HIVENTY",
+        "obsolete": true,
+    "obsoletedBy": [
+      "TMF"
+    ],
   },
   {
     "code": "HYP",
@@ -5737,7 +5745,11 @@
   },
   {
     "code": "SYL",
-    "description": "SYLICONE"
+    "description": "SYLICONE",
+        "obsolete": true,
+    "obsoletedBy": [
+      "TMF"
+    ],
   },
   {
     "code": "SYN",
