@@ -1750,7 +1750,7 @@
   {
     "code": "DIC",
     "description": "DIGIMAGE CINEMA",
-  "obsolete": true,
+    "obsolete": true,
     "obsoletedBy": [
       "TMF"
     ]
@@ -3019,7 +3019,7 @@
   {
     "code": "HVY",
     "description": "HIVENTY",
-  "obsolete": true,
+    "obsolete": true,
     "obsoletedBy": [
       "TMF"
     ]
@@ -5751,7 +5751,7 @@
   {
     "code": "SYL",
     "description": "SYLICONE",
-  "obsolete": true,
+    "obsolete": true,
     "obsoletedBy": [
       "TMF"
     ]
