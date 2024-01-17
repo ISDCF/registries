@@ -1750,7 +1750,7 @@
   {
     "code": "DIC",
     "description": "DIGIMAGE CINEMA",
-        "obsolete": true,
+  "obsolete": true,
     "obsoletedBy": [
       "TMF"
     ]
