@@ -5751,7 +5751,7 @@
   {
     "code": "SYL",
     "description": "SYLICONE",
-        "obsolete": true,
+  "obsolete": true,
     "obsoletedBy": [
       "TMF"
     ]
