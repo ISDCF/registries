@@ -36,7 +36,7 @@ jobs:
           git config --global user.name 'ISDCF Registries Canonicalizer'
           git config --global user.email 'admin@isdcf.com'
           git diff-index --quiet HEAD src/main/data || git commit -m "Registries have been canonicalized"
-          git push
+          git push origin HEAD:$GITHUB_HEAD_REF
 
     - name: verify that the registries are canonicalized
       if: github.actor != 'dependabot[bot]'
