@@ -28,15 +28,8 @@ jobs:
     - name: validate registries
       run: npm run validate
 
-    - name: verify that the registries are canonicalized
-      if: (github.ref == 'refs/heads/master' || github.event_name == 'pull_request' || github.event_name == 'pull_request_target') && github.actor != 'dependabot[bot]'
-      run: |
-          npm run canonicalize
-          git add src/main/data
-          git diff-index --quiet HEAD src/main/data
-
     - name: commit canonicalized registries
-      if: github.ref != 'refs/heads/master' && github.event_name != 'pull_request' && github.event_name != 'pull_request_target' && github.actor != 'dependabot[bot]'
+      if: github.ref_name != github.event.repository.default_branch && github.actor != 'dependabot[bot]'
       run: |
           npm run canonicalize
           git add src/main/data
@@ -45,8 +38,15 @@ jobs:
           git diff-index --quiet HEAD src/main/data || git commit -m "Registries have been canonicalized"
           git push
 
+    - name: verify that the registries are canonicalized
+      if: github.actor != 'dependabot[bot]'
+      run: |
+          npm run canonicalize
+          git add src/main/data
+          git diff-index --quiet HEAD src/main/data
+
     - name: Repository Dispatch
-      if: github.ref == 'refs/heads/master'
+      if: github.ref_name == github.event.repository.default_branch
       uses: peter-evans/repository-dispatch@v1
       with:
         token: ${{ secrets.REGISTRIES_SITE_PAT }}
