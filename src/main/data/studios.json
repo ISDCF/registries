@@ -41,6 +41,16 @@
     "url": "https://www.acaciasfilms.com/"
   },
   {
+    "code": "ACN",
+    "contact": {
+      "address": "Rosenbergstr. 52B, 70176 Stuttgart, Germany",
+      "email": "info@across-nations.de",
+      "name": "Tommy Niessner - Alex Wadouh"
+    },
+    "description": "Across Nations",
+    "url": "https://across-nations.de/"
+  },
+  {
     "code": "AD",
     "contact": {
       "address": "57-16, Stroda str., Yakutsk, Sakha Republic, Russia",
@@ -194,6 +204,11 @@
     "description": "ARTHOUSE, ZURICH"
   },
   {
+    "code": "ARTE",
+    "description": "ARTE France Cinéma",
+    "url": "https://www.unifrance.org/annuaires/societe/80026/arte-france-cinema"
+  },
+  {
     "code": "ARWS",
     "description": "AIRWESS PRODUCTIONS"
   },
@@ -210,6 +225,11 @@
     },
     "description": "Artist Star Asia Co.,Ltd.",
     "url": "https://www.facebook.com/artiststarasia/"
+  },
+  {
+    "code": "ASCT",
+    "description": "Ascote Elite",
+    "url": "https://ascot-elite.ch/fr/home.html"
   },
   {
     "code": "AST",
@@ -462,6 +482,11 @@
     "description": "CONSTANTIN FILM VERLEIH"
   },
   {
+    "code": "CIN",
+    "description": "Cinéart",
+    "url": "https://www.cineart.be/fr"
+  },
+  {
     "code": "CJM",
     "description": "CINEJOY MOVIES GMBH",
     "obsolete": true,
@@ -500,6 +525,16 @@
     },
     "description": "CINEMARAN ",
     "url": "https://cinemaran.com"
+  },
+  {
+    "code": "CNMX",
+    "contact": {
+      "address": "Av. México-Coyoacan # 389, Colonia Xoco, Del. Benito Juarez, 03330 México DF",
+      "email": "etorres@cinetecanacional.net",
+      "name": "Edgar Torres"
+    },
+    "description": "Cineteca Nacional de México",
+    "url": "https://www.cinetecanacional.net/"
   },
   {
     "code": "CNPL",
@@ -642,6 +677,11 @@
   {
     "code": "DI",
     "description": "Disney"
+  },
+  {
+    "code": "DIAP",
+    "description": "Diaphana",
+    "url": "https://diaphana.fr/"
   },
   {
     "code": "DK",
@@ -992,6 +1032,11 @@
     "description": "GRAND BRILLIANCE"
   },
   {
+    "code": "GBK",
+    "description": "Gebeka Films",
+    "url": "https://www.gebekafilms.com/?cn-reloaded=1"
+  },
+  {
     "code": "GCS",
     "contact": {
       "address": "6330 Miller Road, Brecksville, Ohio 44236 USA",
@@ -1319,6 +1364,11 @@
     "description": "KUNSTHOCHSCHULE FÜR MEDIEN"
   },
   {
+    "code": "KIN",
+    "description": "Kinology",
+    "url": "https://www.kinology.eu/"
+  },
+  {
     "code": "KIP",
     "description": "KINO-I PICTURES"
   },
@@ -1394,6 +1444,16 @@
   {
     "code": "LITV",
     "description": "LITVINSIGHT PRODUCTIONS"
+  },
+  {
+    "code": "LKA",
+    "contact": {
+      "address": "6750 NE Bennett St, Hillsboro, OR 97124, USA",
+      "email": "thaines@laika.com",
+      "name": "Tom Haines"
+    },
+    "description": "LAIKA",
+    "url": "https://laika.com"
   },
   {
     "code": "LN36",
@@ -1496,6 +1556,11 @@
     },
     "description": "Madness entertainment",
     "url": "https://www.madnessentertainment.mx/"
+  },
+  {
+    "code": "MET",
+    "description": "Metropolitan Film",
+    "url": "https://metrofilms.com/"
   },
   {
     "code": "MFP",
@@ -1657,6 +1722,16 @@
     "url": "http://www.filmlab.hu"
   },
   {
+    "code": "NHK",
+    "contact": {
+      "address": "2-2-1 Jinnnan, Shibuya-ku, Tokyo 150-8001, Japan",
+      "email": "shibasaki.t-hg@nhk.or.jp",
+      "name": "Takeshi Shibasaki"
+    },
+    "description": "NHK - Japan Broadcasting Corporation",
+    "url": "https://www.nhk.or.jp/"
+  },
+  {
     "code": "NIM",
     "description": "NIMIC PRODUCTIONS"
   },
@@ -1722,6 +1797,11 @@
     "url": "https://notsold.gratis"
   },
   {
+    "code": "NXO",
+    "description": "Nexo Digital",
+    "url": "https://www.nexodigital.it"
+  },
+  {
     "code": "O2",
     "contact": {
       "address": "Rua baumann 930, São Paulo, Brazil",
@@ -1730,6 +1810,11 @@
     },
     "description": "O2 FILMES",
     "url": "https://www.o2pos.com.br/en/"
+  },
+  {
+    "code": "OBR",
+    "description": "O'Brother",
+    "url": "https://obrother.be/"
   },
   {
     "code": "OCTP",
@@ -1755,6 +1840,11 @@
     },
     "description": "Les Films Opale",
     "url": "https://www.lesfilmsopale.com/"
+  },
+  {
+    "code": "ORA",
+    "description": "Orange Studio",
+    "url": "https://www.orange-studio.fr/"
   },
   {
     "code": "ORG",
@@ -1907,6 +1997,11 @@
   {
     "code": "PXR",
     "description": "PIXAR"
+  },
+  {
+    "code": "PYRA",
+    "description": "Pyramide Films",
+    "url": "http://www.pyramidefilms.com/"
   },
   {
     "code": "R29",
@@ -2112,6 +2207,11 @@
     "url": "https://www.filminstitutet.se/"
   },
   {
+    "code": "SFS",
+    "description": "SF Studios",
+    "url": "https://sfstudios.se/"
+  },
+  {
     "code": "SFZ",
     "description": "Studio Filmiz",
     "url": "https://studio-filmiz.fr"
@@ -2232,6 +2332,11 @@
     "url": "https://sparkefilms.net"
   },
   {
+    "code": "SRM",
+    "description": "Side Road Media",
+    "url": "https://sideroad.media/"
+  },
+  {
     "code": "SSD",
     "contact": {
       "address": "PO Box 7205, Bondi Beach NSW, 2026, Australia",
@@ -2300,6 +2405,11 @@
     "description": "TAKE 25 PICTURES"
   },
   {
+    "code": "TAM",
+    "description": "Tamasa Distribution",
+    "url": "https://www.tamasa-cinema.com/"
+  },
+  {
     "code": "TBF",
     "description": "The Biscuit Factory",
     "url": "https://www.biscuitfactory.tv"
@@ -2324,6 +2434,11 @@
     "code": "TENC",
     "description": "Tencent Pictures",
     "url": "https://www.tencent.com/en-us/business.html"
+  },
+  {
+    "code": "TF1",
+    "description": "TF1 Studio",
+    "url": "https://www.newenconnect.com/cinema/"
   },
   {
     "code": "TFL",
@@ -2433,6 +2548,11 @@
   {
     "code": "UFOH",
     "description": "UFOH! AS"
+  },
+  {
+    "code": "UGC",
+    "description": "UGC",
+    "url": "https://www.ugc.fr/"
   },
   {
     "code": "UIG",
