@@ -335,6 +335,11 @@
     "description": "AMG DIGITAL CINEMA"
   },
   {
+    "code": "AML",
+    "description": "The Automated Movie Licensing System / SEKYVP, LLC",
+    "url": "https://sekyvp.com"
+  },
+  {
     "code": "AMS",
     "description": "Arrow Media Services"
   },
@@ -1086,6 +1091,16 @@
     ]
   },
   {
+    "code": "CKP",
+    "contact": {
+      "address": "Block C1 Steel Rolling Road Jos, Nigeria",
+      "email": "johnsonfilmeditor@gmail.com",
+      "name": "Johnson Awolola"
+    },
+    "description": "Cinema Kpatakpata",
+    "url": "https://cinemakpatakpata.com"
+  },
+  {
     "code": "CL",
     "description": "CINE-LAB BRUSSELS"
   },
@@ -1734,7 +1749,11 @@
   },
   {
     "code": "DIC",
-    "description": "DIGIMAGE CINEMA"
+    "description": "DIGIMAGE CINEMA",
+    "obsolete": true,
+    "obsoletedBy": [
+      "TMF"
+    ]
   },
   {
     "code": "DIF",
@@ -1813,6 +1832,11 @@
   {
     "code": "DM",
     "description": "DCPMASTER"
+  },
+  {
+    "code": "DME",
+    "description": "DCPme.com",
+    "url": "https://www.dcpme.com"
   },
   {
     "code": "DMI",
@@ -2126,6 +2150,16 @@
   {
     "code": "EDT",
     "description": "EDIT STUDIOS"
+  },
+  {
+    "code": "EFD",
+    "contact": {
+      "address": "Cra. 5 #77-51, Localidad de Chapinero, Bogotá, Colombia",
+      "email": "carlos.acero@efd.digital",
+      "name": "Mr. Carlos Acero"
+    },
+    "description": "EFD DIGITAL",
+    "url": "https://efd.digital/"
   },
   {
     "code": "EFF",
@@ -2954,6 +2988,11 @@
     "url": "https://hoosierfilms.com"
   },
   {
+    "code": "HPP",
+    "description": "The Hive Post Production",
+    "url": "https://thehivefilms.com"
+  },
+  {
     "code": "HSL",
     "description": "HOCHSCHULE LUZERN"
   },
@@ -2979,7 +3018,11 @@
   },
   {
     "code": "HVY",
-    "description": "HIVENTY"
+    "description": "HIVENTY",
+    "obsolete": true,
+    "obsoletedBy": [
+      "TMF"
+    ]
   },
   {
     "code": "HYP",
@@ -3225,12 +3268,22 @@
     "description": "IMACULIX GMBH"
   },
   {
+    "code": "JAN",
+    "description": "Jan Koks",
+    "url": "https://www.jankoks.com"
+  },
+  {
     "code": "JBC",
     "description": "JAQUEZ BROS COMPANY"
   },
   {
     "code": "JC",
     "description": "JC Film Consultancy Ltd"
+  },
+  {
+    "code": "JDB",
+    "description": "Joost de Bot",
+    "url": "http://www.joostdebot.nl"
   },
   {
     "code": "JIN",
@@ -4185,6 +4238,16 @@
     "description": "NETFLIX"
   },
   {
+    "code": "NEX",
+    "contact": {
+      "address": "25 Chart St, London, N1 6FA, United Kingdom",
+      "email": "nancy.edmondson@nexusstudios.com",
+      "name": "Nancy Edmondson "
+    },
+    "description": "Nexus Studios",
+    "url": "https://nexusstudios.com/"
+  },
+  {
     "code": "NF",
     "description": "NEVAFILM"
   },
@@ -4215,6 +4278,16 @@
   {
     "code": "NIM",
     "description": "NIMIC PRODUCTIONS"
+  },
+  {
+    "code": "NIS",
+    "contact": {
+      "address": "ShibuyaFLAG7F ,33-6 Udagawacho, Shibuya-ku, Tokyo 150-0042 ,JAPAN",
+      "email": "yfukuda@nitro.co.jp",
+      "name": "Yutaka Fukuda"
+    },
+    "description": "NiTRo SHIBUYA",
+    "url": "https://www.nitro.co.jp/EN/"
   },
   {
     "code": "NIT",
@@ -4955,6 +5028,16 @@
     "description": "ROUNDABOUT ENTERTAINMENT INC."
   },
   {
+    "code": "REJ",
+    "contact": {
+      "address": "ul. Rajska 3/115, Kraków, Poland",
+      "email": "contact@rejbel.studio",
+      "name": "Konrad Zięcina"
+    },
+    "description": "REJBEL.STUDIO",
+    "url": "https://www.rejbel.studio/"
+  },
+  {
     "code": "REL",
     "description": "RELITA"
   },
@@ -5017,7 +5100,13 @@
   },
   {
     "code": "RLW",
-    "description": "RALUWA - DCP.COMPANY"
+    "contact": {
+      "address": "Zurich, Switzerland",
+      "email": "raluwa@raluwa.info",
+      "name": "Raoul Walzer"
+    },
+    "description": "raluwa - AtYourService!",
+    "url": "https://raluwa.info"
   },
   {
     "code": "RM",
@@ -5666,7 +5755,11 @@
   },
   {
     "code": "SYL",
-    "description": "SYLICONE"
+    "description": "SYLICONE",
+    "obsolete": true,
+    "obsoletedBy": [
+      "TMF"
+    ]
   },
   {
     "code": "SYN",
@@ -5776,6 +5869,11 @@
     "description": "TECHNICOLOR ENTERTAINEMENT SERVICES FRANCE"
   },
   {
+    "code": "TEK",
+    "description": "Mediatek Post Production",
+    "url": "https://www.mediatek-post.co.uk/"
+  },
+  {
     "code": "TET",
     "description": "TETRAGRADE"
   },
@@ -5836,6 +5934,11 @@
     "url": "http://the-hub.mx/"
   },
   {
+    "code": "THS",
+    "description": "TOHO Studios Co., Ltd.",
+    "url": "https://www.tohostudio.jp/en"
+  },
+  {
     "code": "TIE",
     "description": "TELEIMAGE (BRASIL)"
   },
@@ -5884,6 +5987,16 @@
   {
     "code": "TM",
     "description": "Trailer Manufaktur | Berlin"
+  },
+  {
+    "code": "TMF",
+    "contact": {
+      "address": "221 bis Boulevard Jean Jaures, 92100 Boulogne-Billancourt, Paris, France",
+      "email": "hiventy_dcp@transperfect.com",
+      "name": "Mr Jerome Auger"
+    },
+    "description": "Transperfect Media France",
+    "url": "https://www.hiventy.com/"
   },
   {
     "code": "TMG",
@@ -6193,6 +6306,16 @@
     "description": "VESTMEDIA A/S"
   },
   {
+    "code": "VMD",
+    "contact": {
+      "address": "PO Box 1462, Spokane WA 99210 USA",
+      "email": "tom@vexingmedia.com",
+      "name": "Tom Dineen"
+    },
+    "description": "Vexing Media",
+    "url": "https://vexingmedia.com/"
+  },
+  {
     "code": "VMT",
     "description": "VISUAL MEDIA & TECHNOLOGY"
   },
@@ -6229,6 +6352,16 @@
   {
     "code": "VSO",
     "description": "Visom"
+  },
+  {
+    "code": "VXR",
+    "contact": {
+      "address": "4120 Piaffe Ave, Mint Hill, North Carolina USA",
+      "email": "sjoseph@voyager.net",
+      "name": "Stephen Joseph"
+    },
+    "description": "Voyager XR",
+    "url": "https://www.voyagerxr.net"
   },
   {
     "code": "WAG",
