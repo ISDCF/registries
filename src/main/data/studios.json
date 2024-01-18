@@ -1349,6 +1349,11 @@
     "description": "KUNSTHOCHSCHULE FÜR MEDIEN"
   },
   {
+    "code": "KIN",
+    "description": "Kinology",
+    "url": "https://www.kinology.eu/"
+  },
+  {
     "code": "KIP",
     "description": "KINO-I PICTURES"
   },
