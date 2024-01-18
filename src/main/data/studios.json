@@ -36,6 +36,16 @@
     "url": "https://abrelatasfilms.godaddysites.com"
   },
   {
+    "code": "ACN",
+    "contact": {
+      "address": "Rosenbergstr. 52B, 70176 Stuttgart, Germany",
+      "email": "info@across-nations.de",
+      "name": "Tommy Niessner - Alex Wadouh"
+    },
+    "description": "Across Nations",
+    "url": "https://across-nations.de/"
+  },
+  {
     "code": "AD",
     "contact": {
       "address": "57-16, Stroda str., Yakutsk, Sakha Republic, Russia",
@@ -495,6 +505,16 @@
     },
     "description": "CINEMARAN ",
     "url": "https://cinemaran.com"
+  },
+  {
+    "code": "CNMX",
+    "contact": {
+      "address": "Av. México-Coyoacan # 389, Colonia Xoco, Del. Benito Juarez, 03330 México DF",
+      "email": "etorres@cinetecanacional.net",
+      "name": "Edgar Torres"
+    },
+    "description": "Cineteca Nacional de México",
+    "url": "https://www.cinetecanacional.net/"
   },
   {
     "code": "CNPL",
@@ -1391,6 +1411,16 @@
     "description": "LITVINSIGHT PRODUCTIONS"
   },
   {
+    "code": "LKA",
+    "contact": {
+      "address": "6750 NE Bennett St, Hillsboro, OR 97124, USA",
+      "email": "thaines@laika.com",
+      "name": "Tom Haines"
+    },
+    "description": "LAIKA",
+    "url": "https://laika.com"
+  },
+  {
     "code": "LN36",
     "description": "LINE 36 STUDIO"
   },
@@ -1655,6 +1685,16 @@
     },
     "description": "National Film Institute Filmlab",
     "url": "http://www.filmlab.hu"
+  },
+  {
+    "code": "NHK",
+    "contact": {
+      "address": "2-2-1 Jinnnan, Shibuya-ku, Tokyo 150-8001, Japan",
+      "email": "shibasaki.t-hg@nhk.or.jp",
+      "name": "Takeshi Shibasaki"
+    },
+    "description": "NHK - Japan Broadcasting Corporation",
+    "url": "https://www.nhk.or.jp/"
   },
   {
     "code": "NIM",
@@ -2232,6 +2272,11 @@
     "url": "https://sparkefilms.net"
   },
   {
+    "code": "SRM",
+    "description": "Side Road Media",
+    "url": "https://sideroad.media/"
+  },
+  {
     "code": "SSD",
     "contact": {
       "address": "PO Box 7205, Bondi Beach NSW, 2026, Australia",
@@ -2433,6 +2478,11 @@
   {
     "code": "UFOH",
     "description": "UFOH! AS"
+  },
+  {
+    "code": "UGC",
+    "description": "UGC",
+    "url": "https://www.ugc.fr/"
   },
   {
     "code": "UIG",
