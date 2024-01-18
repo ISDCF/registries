@@ -2365,6 +2365,11 @@
     "description": "TAKE 25 PICTURES"
   },
   {
+    "code": "TAM",
+    "description": "Tamasa Distribution",
+    "url": "https://www.tamasa-cinema.com/"
+  },
+  {
     "code": "TBF",
     "description": "The Biscuit Factory",
     "url": "https://www.biscuitfactory.tv"
