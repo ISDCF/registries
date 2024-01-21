@@ -36,6 +36,11 @@
     "url": "https://abrelatasfilms.godaddysites.com"
   },
   {
+    "code": "ACA",
+    "description": "Les Acacias",
+    "url": "https://www.acaciasfilms.com/"
+  },
+  {
     "code": "ACN",
     "contact": {
       "address": "Rosenbergstr. 52B, 70176 Stuttgart, Germany",
@@ -199,6 +204,11 @@
     "description": "ARTHOUSE, ZURICH"
   },
   {
+    "code": "ARTE",
+    "description": "ARTE France Cinéma",
+    "url": "https://www.unifrance.org/annuaires/societe/80026/arte-france-cinema"
+  },
+  {
     "code": "ARWS",
     "description": "AIRWESS PRODUCTIONS"
   },
@@ -215,6 +225,11 @@
     },
     "description": "Artist Star Asia Co.,Ltd.",
     "url": "https://www.facebook.com/artiststarasia/"
+  },
+  {
+    "code": "ASCT",
+    "description": "Ascote Elite",
+    "url": "https://ascot-elite.ch/fr/home.html"
   },
   {
     "code": "AST",
@@ -467,6 +482,11 @@
     "description": "CONSTANTIN FILM VERLEIH"
   },
   {
+    "code": "CIN",
+    "description": "Cinéart",
+    "url": "https://www.cineart.be/fr"
+  },
+  {
     "code": "CJM",
     "description": "CINEJOY MOVIES GMBH",
     "obsolete": true,
@@ -657,6 +677,11 @@
   {
     "code": "DI",
     "description": "Disney"
+  },
+  {
+    "code": "DIAP",
+    "description": "Diaphana",
+    "url": "https://diaphana.fr/"
   },
   {
     "code": "DK",
@@ -1007,6 +1032,11 @@
     "description": "GRAND BRILLIANCE"
   },
   {
+    "code": "GBK",
+    "description": "Gebeka Films",
+    "url": "https://www.gebekafilms.com/?cn-reloaded=1"
+  },
+  {
     "code": "GCS",
     "contact": {
       "address": "6330 Miller Road, Brecksville, Ohio 44236 USA",
@@ -1334,6 +1364,11 @@
     "description": "KUNSTHOCHSCHULE FÜR MEDIEN"
   },
   {
+    "code": "KIN",
+    "description": "Kinology",
+    "url": "https://www.kinology.eu/"
+  },
+  {
     "code": "KIP",
     "description": "KINO-I PICTURES"
   },
@@ -1521,6 +1556,11 @@
     },
     "description": "Madness entertainment",
     "url": "https://www.madnessentertainment.mx/"
+  },
+  {
+    "code": "MET",
+    "description": "Metropolitan Film",
+    "url": "https://metrofilms.com/"
   },
   {
     "code": "MFP",
@@ -1757,6 +1797,11 @@
     "url": "https://notsold.gratis"
   },
   {
+    "code": "NXO",
+    "description": "Nexo Digital",
+    "url": "https://www.nexodigital.it"
+  },
+  {
     "code": "O2",
     "contact": {
       "address": "Rua baumann 930, São Paulo, Brazil",
@@ -1765,6 +1810,11 @@
     },
     "description": "O2 FILMES",
     "url": "https://www.o2pos.com.br/en/"
+  },
+  {
+    "code": "OBR",
+    "description": "O'Brother",
+    "url": "https://obrother.be/"
   },
   {
     "code": "OCTP",
@@ -1790,6 +1840,11 @@
     },
     "description": "Les Films Opale",
     "url": "https://www.lesfilmsopale.com/"
+  },
+  {
+    "code": "ORA",
+    "description": "Orange Studio",
+    "url": "https://www.orange-studio.fr/"
   },
   {
     "code": "ORG",
@@ -1942,6 +1997,11 @@
   {
     "code": "PXR",
     "description": "PIXAR"
+  },
+  {
+    "code": "PYRA",
+    "description": "Pyramide Films",
+    "url": "http://www.pyramidefilms.com/"
   },
   {
     "code": "R29",
@@ -2108,6 +2168,11 @@
     "url": "https://surtocoletivo.online/"
   },
   {
+    "code": "SCS",
+    "description": "Single Core Studios",
+    "url": "https://singlecorestudios.com/"
+  },
+  {
     "code": "SDC",
     "description": "She Dreams Content Development and Production LLC",
     "url": "https://shedreamscontent.com"
@@ -2145,6 +2210,11 @@
     },
     "description": "Swedish Film Institute",
     "url": "https://www.filminstitutet.se/"
+  },
+  {
+    "code": "SFS",
+    "description": "SF Studios",
+    "url": "https://sfstudios.se/"
   },
   {
     "code": "SFZ",
@@ -2340,6 +2410,16 @@
     "description": "TAKE 25 PICTURES"
   },
   {
+    "code": "TAM",
+    "description": "Tamasa Distribution",
+    "url": "https://www.tamasa-cinema.com/"
+  },
+  {
+    "code": "TAMA",
+    "description": "Cine Tamaris",
+    "url": "https://www.cine-tamaris.fr/"
+  },
+  {
     "code": "TBF",
     "description": "The Biscuit Factory",
     "url": "https://www.biscuitfactory.tv"
@@ -2364,6 +2444,11 @@
     "code": "TENC",
     "description": "Tencent Pictures",
     "url": "https://www.tencent.com/en-us/business.html"
+  },
+  {
+    "code": "TF1",
+    "description": "TF1 Studio",
+    "url": "https://www.newenconnect.com/cinema/"
   },
   {
     "code": "TFL",
@@ -2473,6 +2558,11 @@
   {
     "code": "UFOH",
     "description": "UFOH! AS"
+  },
+  {
+    "code": "UGC",
+    "description": "UGC",
+    "url": "https://www.ugc.fr/"
   },
   {
     "code": "UIG",
