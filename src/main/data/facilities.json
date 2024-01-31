@@ -5880,6 +5880,16 @@
     ]
   },
   {
+    "code": "TEC",
+    "contact": {
+      "address": "9 rue Baudoin Paris 75013, France",
+      "email": "echerioux@cst.fr",
+      "name": "Mr Eric Cherioux"
+    },
+    "description": "CST -  Commission supérieure technique de l’image et du son",
+    "url": "https://cst.fr/"
+  },
+  {
     "code": "TEF",
     "description": "TECHNICOLOR ENTERTAINEMENT SERVICES FRANCE"
   },
