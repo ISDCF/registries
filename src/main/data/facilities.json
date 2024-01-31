@@ -2542,6 +2542,16 @@
     "url": "https://www.fmpro.hk"
   },
   {
+    "code": "FMZ",
+    "contact": {
+      "address": "124 Boulevard Rahal El Meskini, 1ern étage, Casablanca, Morocco",
+      "email": "freemonkeyzmaroc@gmail.com",
+      "name": "Mr. Youssef Barrada"
+    },
+    "description": "Free Monkeyz: Post production",
+    "url": "https://freemonkeyz.com/"
+  },
+  {
     "code": "FNL",
     "description": "FINALE EDITWORKS"
   },
@@ -3112,6 +3122,11 @@
   {
     "code": "IMA",
     "description": "IMAGICA"
+  },
+  {
+    "code": "IMC",
+    "description": "Imaging Creatives",
+    "url": "https://www.imagingcreatives.com"
   },
   {
     "code": "IMF",
@@ -5868,6 +5883,16 @@
     "obsoletedBy": [
       "TRD"
     ]
+  },
+  {
+    "code": "TEC",
+    "contact": {
+      "address": "9 rue Baudoin Paris 75013, France",
+      "email": "echerioux@cst.fr",
+      "name": "Mr Eric Cherioux"
+    },
+    "description": "CST -  Commission supérieure technique de l’image et du son",
+    "url": "https://cst.fr/"
   },
   {
     "code": "TEF",
