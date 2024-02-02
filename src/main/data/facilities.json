@@ -1764,6 +1764,16 @@
     "description": "DIGILAB"
   },
   {
+    "code": "DIT",
+    "contact": {
+      "address": " 9931 Willows Road NE. Redmond, WA 98052 USA",
+      "email": "CMosio@digipen.edu",
+      "name": "Chris Mosio"
+    },
+    "description": "Digipen Institute of Technology",
+    "url": "https://www.digipen.edu/"
+  },
+  {
     "code": "DKG",
     "description": "DCP.KG"
   },
