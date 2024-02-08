@@ -1290,6 +1290,16 @@
     "description": "IRUSOIN"
   },
   {
+    "code": "IY",
+    "contact": {
+      "address": "Istanbloom, Zincirlikuyu Sokak, Kore Şehitleri Cd. 16/1 NO: 31, 34394 Şişli/İstanbul, Turkey",
+      "email": "batukan.eremen@interyapim.com",
+      "name": "Batukan Deniz Eremen"
+    },
+    "description": "Inter Yapım",
+    "url": "https://interyapim.com/"
+  },
+  {
     "code": "JAG",
     "description": "JAGUAR FILMS PRODUCTIONS"
   },
@@ -1701,6 +1711,11 @@
     "code": "NEOP",
     "description": "NEOPA Inc.",
     "url": "https://neopa.jp"
+  },
+  {
+    "code": "NEPO",
+    "description": "Neopol Film",
+    "url": "https://www.neopol-film.de"
   },
   {
     "code": "NET",
