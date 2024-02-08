@@ -1540,6 +1540,16 @@
     ]
   },
   {
+    "code": "DAV",
+    "contact": {
+      "address": "Heroiv Dnepra 62, apt. 250, Ukraine, Kyiv",
+      "email": "a.dzhelmach@gmail.com",
+      "name": "Oleksandr Dzhelmach"
+    },
+    "description": "DAV production",
+    "url": "http://dav-production.com/"
+  },
+  {
     "code": "DB",
     "description": "DAME BLANCHE"
   },
