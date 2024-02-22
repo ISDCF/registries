@@ -625,6 +625,16 @@
     "description": "Dreamworks"
   },
   {
+    "code": "DAP",
+    "contact": {
+      "address": "Sandrainstrasse 3, 3007 Berne, Switzerland",
+      "email": "info@docandpost.ch",
+      "name": "Peter Guyer"
+    },
+    "description": "Peter Guyer doc&post",
+    "url": "https://docandpost.ch"
+  },
+  {
     "code": "DBDK",
     "description": "DIGIBIO.DK"
   },
