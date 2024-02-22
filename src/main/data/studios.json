@@ -791,6 +791,16 @@
     "description": "ELEVATION PICTURES"
   },
   {
+    "code": "EPDP",
+    "contact": {
+      "address": "3522 White House pl, LA, CA 90004, USA",
+      "email": "echoparkdcp@gmail.com",
+      "name": "John Phillips"
+    },
+    "description": "Echo Park DCP",
+    "url": "https://echoparkdcp.com"
+  },
+  {
     "code": "EQF",
     "description": "EQUINOXE FILMS"
   },
