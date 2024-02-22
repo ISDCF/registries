@@ -3629,6 +3629,11 @@
     "description": "LAGRANN"
   },
   {
+    "code": "LGS",
+    "description": "Lionsgate Screening room",
+    "url": "https://www.lionsgate.com"
+  },
+  {
     "code": "LHP",
     "description": "LOCAL HERO POST"
   },
