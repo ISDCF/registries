@@ -2808,7 +2808,7 @@
   {
     "code": "ZM",
     "description": "ZOOM-ENTERTAINMENT"
-  }
+  },
   {
     "code": "ZOOM",
     "contact": {
@@ -2818,5 +2818,5 @@
     },
     "description": "ZOOM",
     "url": "http://zoommedia.pl"
-  },
+  }
 ]
