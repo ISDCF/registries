@@ -599,6 +599,11 @@
     "description": "BRICKBOX DIGITAL MEDIA"
   },
   {
+    "code": "BEP",
+    "description": "Blinding Edge Pictures",
+    "url": "https://en.wikipedia.org/wiki/Blinding_Edge_Pictures"
+  },
+  {
     "code": "BEY",
     "description": "Beyond Content"
   },
