@@ -704,6 +704,16 @@
     "description": "B.O.A. VIDEOFILMKUNST GMBH"
   },
   {
+    "code": "BOO",
+    "contact": {
+      "address": "Tobacco Factory, Bristol, BS3 1TF, UK",
+      "email": "sam.hellings@boomsatsuma.education",
+      "name": "Mark Adams"
+    },
+    "description": "boomsatsuma Film School",
+    "url": "https://boomsatsuma.com"
+  },
+  {
     "code": "BOP",
     "description": "BEST & ORIGINAL PRODUCTION LIMITED"
   },
