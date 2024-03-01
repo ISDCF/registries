@@ -487,6 +487,16 @@
     "url": "https://www.cineart.be/fr"
   },
   {
+    "code": "CITY",
+    "contact": {
+      "address": "3F, No#52, Changsha St. Section 2, Wanhua District, Taipei, Taiwan",
+      "email": "stanley2002@gmail.com",
+      "name": "Stanley Chang"
+    },
+    "description": "CITY FILM LTD.",
+    "url": "https://www.facebook.com/cityfilm.taiwan"
+  },
+  {
     "code": "CJM",
     "description": "CINEJOY MOVIES GMBH",
     "obsolete": true,
