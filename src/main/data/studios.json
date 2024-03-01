@@ -2818,5 +2818,15 @@
   {
     "code": "ZM",
     "description": "ZOOM-ENTERTAINMENT"
+  },
+  {
+    "code": "ZOOM",
+    "contact": {
+      "address": "ul. Swieradowska 53,  02-662 Warsaw, Poland",
+      "email": "bardzobardzowredna@gmail.com",
+      "name": "Filip Kovcin"
+    },
+    "description": "ZOOM",
+    "url": "http://zoommedia.pl"
   }
 ]
