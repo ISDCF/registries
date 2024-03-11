@@ -2976,6 +2976,15 @@
     ]
   },
   {
+    "dcncLanguage": "Unknown language",
+    "dcncTag": "UND",
+    "rfc5646Tag": "UND",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
     "dcncLanguage": "Upper Sorbian",
     "dcncTag": "HSB",
     "rfc5646Tag": "hsb",
