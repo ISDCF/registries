@@ -2708,6 +2708,16 @@
     "description": "VICTORY STUDIOS"
   },
   {
+    "code": "VPP",
+    "contact": {
+      "address": "Peterburi tee 90F-32, Tallinn, Harjumaa, Tallinn, Estonia",
+      "email": "vitapictura@gmail.com",
+      "name": "Georgius Misjura"
+    },
+    "description": "Vita Pictura",
+    "url": "https://vitapictura.co"
+  },
+  {
     "code": "VPS",
     "contact": {
       "address": "Solomou 39 Street, Exarchia Athens 10682, Greece",
