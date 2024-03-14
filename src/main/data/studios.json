@@ -2154,6 +2154,16 @@
     "description": "RELITA"
   },
   {
+    "code": "RVS",
+    "contact": {
+      "address": "43B Cottenham Road, London UK",
+      "email": "hello@robertovivancos.com",
+      "name": "Roberto Vivancos"
+    },
+    "description": "Roberto Vivancos Studio",
+    "url": "https://www.robertovivancos.com"
+  },
+  {
     "code": "S4U",
     "description": "BGProjets Sub4u"
   },
