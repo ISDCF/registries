@@ -2978,7 +2978,7 @@
   {
     "dcncLanguage": "Unknown language",
     "dcncTag": "UND",
-    "rfc5646Tag": "UND",
+    "rfc5646Tag": "und",
     "use": [
       "audio",
       "text"
