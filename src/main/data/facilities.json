@@ -4642,6 +4642,11 @@
     "description": "SONY PCL"
   },
   {
+    "code": "PCN",
+    "description": "Picnic",
+    "url": "https://picnicpost.es"
+  },
+  {
     "code": "PCT",
     "contact": {
       "address": "1159 Dundas St. E. Suite 151-152, Toronto, ON M4M 3N9, Canada",
