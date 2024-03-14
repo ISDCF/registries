@@ -2863,6 +2863,16 @@
     "description": "GREEN DCP"
   },
   {
+    "code": "GRT",
+    "contact": {
+      "address": "Eerste Schinkelstraat 2, 1075 TX Amsterdam, Netherlands",
+      "email": "erik@degrot.com",
+      "name": "Erik van den Heuvel"
+    },
+    "description": "DE GROT",
+    "url": "https://degrot.com/"
+  },
+  {
     "code": "GRU",
     "contact": {
       "address": "Condomínio Vivendas Bela Vista. Módulo J Casa 8. Bairro Grande Colorado. 73105-909, Brasília, Brasil",
