@@ -5593,6 +5593,16 @@
     "description": "SOLUCIONES DVD"
   },
   {
+    "code": "SLG",
+    "contact": {
+      "address": "120 Bradford Street, Brooklyn NY 11207, USA",
+      "email": "samuel@bradfordoperations.com",
+      "name": "Samuel Gursky"
+    },
+    "description": "Bradford Operations",
+    "url": "https://www.bradfordoperations.com/"
+  },
+  {
     "code": "SLK",
     "contact": {
       "address": "Rue du Counil, 34300 Agde, France",
