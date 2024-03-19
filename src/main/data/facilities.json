@@ -1106,6 +1106,11 @@
     ]
   },
   {
+    "code": "CKM",
+    "description": "Chai Khana Media",
+    "url": "https://chaikhana.media/en"
+  },
+  {
     "code": "CKP",
     "contact": {
       "address": "Block C1 Steel Rolling Road Jos, Nigeria",
@@ -3481,6 +3486,11 @@
     "description": "KIT DIGITAL"
   },
   {
+    "code": "KLF",
+    "description": "Kleinen Filmak",
+    "url": "https://linktr.ee/kleinenfilmak"
+  },
+  {
     "code": "KMR",
     "contact": {
       "address": "Wallstraße 21, 14770 Brandenburg (Germany)",
@@ -4657,6 +4667,11 @@
     "description": "SONY PCL"
   },
   {
+    "code": "PCN",
+    "description": "Picnic",
+    "url": "https://picnicpost.es"
+  },
+  {
     "code": "PCT",
     "contact": {
       "address": "1159 Dundas St. E. Suite 151-152, Toronto, ON M4M 3N9, Canada",
@@ -5272,6 +5287,16 @@
   {
     "code": "RVP",
     "description": "ROEL VIDELER POSTPRODUCTION"
+  },
+  {
+    "code": "RVS",
+    "contact": {
+      "address": "43B Cottenham Road E17 6RP, London, UK",
+      "email": "hello@robertovivancos.com",
+      "name": "Roberto Vivancos"
+    },
+    "description": "Roberto Vivancos Studio",
+    "url": "https://www.robertovivancos.com"
   },
   {
     "code": "RWK",
