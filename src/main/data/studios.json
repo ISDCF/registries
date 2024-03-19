@@ -510,6 +510,11 @@
     "url": "http://www.cinejoymovies.ch"
   },
   {
+    "code": "CKM",
+    "description": "Chai Khana Media",
+    "url": "https://chaikhana.media/en"
+  },
+  {
     "code": "CL",
     "description": "CINEMALIVE"
   },
@@ -2716,6 +2721,16 @@
   {
     "code": "VIC",
     "description": "VICTORY STUDIOS"
+  },
+  {
+    "code": "VPP",
+    "contact": {
+      "address": "Peterburi tee 90F-32, Tallinn, Harjumaa, Tallinn, Estonia",
+      "email": "vitapictura@gmail.com",
+      "name": "Georgius Misjura"
+    },
+    "description": "Vita Pictura",
+    "url": "https://vitapictura.co"
   },
   {
     "code": "VPS",
