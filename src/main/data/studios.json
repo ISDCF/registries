@@ -510,6 +510,11 @@
     "url": "http://www.cinejoymovies.ch"
   },
   {
+    "code": "CKM",
+    "description": "Chai Khana Media",
+    "url": "https://chaikhana.media/en"
+  },
+  {
     "code": "CL",
     "description": "CINEMALIVE"
   },
@@ -2154,6 +2159,16 @@
     "description": "RELITA"
   },
   {
+    "code": "RVS",
+    "contact": {
+      "address": "43B Cottenham Road, London UK",
+      "email": "hello@robertovivancos.com",
+      "name": "Roberto Vivancos"
+    },
+    "description": "Roberto Vivancos Studio",
+    "url": "https://www.robertovivancos.com"
+  },
+  {
     "code": "S4U",
     "description": "BGProjets Sub4u"
   },
@@ -2706,6 +2721,16 @@
   {
     "code": "VIC",
     "description": "VICTORY STUDIOS"
+  },
+  {
+    "code": "VPP",
+    "contact": {
+      "address": "Peterburi tee 90F-32, Tallinn, Harjumaa, Tallinn, Estonia",
+      "email": "vitapictura@gmail.com",
+      "name": "Georgius Misjura"
+    },
+    "description": "Vita Pictura",
+    "url": "https://vitapictura.co"
   },
   {
     "code": "VPS",
