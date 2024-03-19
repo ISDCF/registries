@@ -2976,6 +2976,18 @@
     ]
   },
   {
+    "comments": [
+      "Only to be used in fields or elements where the absence of value does not mean 'Unknown language'."
+    ],
+    "dcncLanguage": "Unknown language",
+    "dcncTag": "UND",
+    "rfc5646Tag": "und",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
     "dcncLanguage": "Upper Sorbian",
     "dcncTag": "HSB",
     "rfc5646Tag": "hsb",

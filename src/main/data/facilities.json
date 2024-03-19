@@ -2863,6 +2863,16 @@
     "description": "GREEN DCP"
   },
   {
+    "code": "GRT",
+    "contact": {
+      "address": "Eerste Schinkelstraat 2, 1075 TX Amsterdam, Netherlands",
+      "email": "erik@degrot.com",
+      "name": "Erik van den Heuvel"
+    },
+    "description": "DE GROT",
+    "url": "https://degrot.com/"
+  },
+  {
     "code": "GRU",
     "contact": {
       "address": "Condomínio Vivendas Bela Vista. Módulo J Casa 8. Bairro Grande Colorado. 73105-909, Brasília, Brasil",
@@ -3942,6 +3952,11 @@
     "description": "MAGESTIC FILM"
   },
   {
+    "code": "MGS",
+    "description": "Matthew Greenberg Studio",
+    "url": "https://greenberg.studio"
+  },
+  {
     "code": "MH",
     "description": "MILKHAUS"
   },
@@ -4640,6 +4655,11 @@
   {
     "code": "PCL",
     "description": "SONY PCL"
+  },
+  {
+    "code": "PCN",
+    "description": "Picnic",
+    "url": "https://picnicpost.es"
   },
   {
     "code": "PCT",
@@ -5586,6 +5606,16 @@
   {
     "code": "SLD",
     "description": "SOLUCIONES DVD"
+  },
+  {
+    "code": "SLG",
+    "contact": {
+      "address": "120 Bradford Street, Brooklyn NY 11207, USA",
+      "email": "samuel@bradfordoperations.com",
+      "name": "Samuel Gursky"
+    },
+    "description": "Bradford Operations",
+    "url": "https://www.bradfordoperations.com/"
   },
   {
     "code": "SLK",
