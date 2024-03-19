@@ -5258,6 +5258,11 @@
     "description": "RED SQUARE MOTION"
   },
   {
+    "code": "RSO",
+    "description": "Royal Swedish Opera",
+    "url": "https://www.operan.se"
+  },
+  {
     "code": "RSS",
     "description": "RED SKY STUDIOS"
   },
