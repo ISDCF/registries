@@ -621,6 +621,16 @@
     "url": "https://www.fondazionecsc.it"
   },
   {
+    "code": "CTL",
+    "contact": {
+      "address": "Wertstraße 28, 73240 Wendlingen, Germany",
+      "email": "info@cinetec-Landfried.de",
+      "name": "Mr. Landfried"
+    },
+    "description": "Cinetec Landfried GmbH",
+    "url": "https://www.cinetec-landfried.de/"
+  },
+  {
     "code": "CTRL",
     "description": "CtrlMovie",
     "url": "https://www.ctrlmovie.com"
