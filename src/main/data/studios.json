@@ -2792,6 +2792,11 @@
     "description": "WEINSTEIN CO."
   },
   {
+    "code": "WDAS",
+    "description": "Walt Disney Animation Studios",
+    "url": "https://disneyanimation.com"
+  },
+  {
     "code": "WID",
     "contact": {
       "address": "02-969 Warsaw, Poland, ul. Andrutowa 15",
