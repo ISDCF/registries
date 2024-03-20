@@ -2860,6 +2860,16 @@
     "description": "GUALUMBO POST BOUTIQUE"
   },
   {
+    "code": "GRD",
+    "contact": {
+      "address": "1475 rue Ottawa, Montreal, QC H3C 1S9, Canada",
+      "email": "epiquemal@mtlgrande.com",
+      "name": "Etienne Piquemal"
+    },
+    "description": "Grande Post-production",
+    "url": "https://grandestudios.com/fr"
+  },
+  {
     "code": "GRL",
     "description": "GRAAL S.A."
   },
