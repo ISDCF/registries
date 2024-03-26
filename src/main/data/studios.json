@@ -729,6 +729,11 @@
     "url": "https://www.ledock.ca"
   },
   {
+    "code": "DLA",
+    "description": "Disney Live Action",
+    "url": "https://movies.disney.com"
+  },
+  {
     "code": "DLB",
     "description": "Dolby Laboratories"
   },
@@ -2790,6 +2795,11 @@
   {
     "code": "WC",
     "description": "WEINSTEIN CO."
+  },
+  {
+    "code": "WDAS",
+    "description": "Walt Disney Animation Studios",
+    "url": "https://disneyanimation.com"
   },
   {
     "code": "WID",
