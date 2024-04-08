@@ -765,6 +765,16 @@
     "description": "BERRYMOUNT AUTOMATION"
   },
   {
+    "code": "BRU",
+    "contact": {
+      "address": "Hilarion Plaza 3644, Cordoba, Argentina",
+      "email": "schmukler.federico@gmail.com",
+      "name": "Federico Schmukler"
+    },
+    "description": "Brujas Producciones",
+    "url": "https://www.instagram.com/brujasproducciones/"
+  },
+  {
     "code": "BRW",
     "description": "BREAKWATER STUDIOS"
   },
@@ -5400,6 +5410,11 @@
   {
     "code": "SCA",
     "description": "SCARAMANGA MEDIEN GMBH"
+  },
+  {
+    "code": "SCD",
+    "description": "Screen Domain",
+    "url": "https://screendomain.co"
   },
   {
     "code": "SCE",

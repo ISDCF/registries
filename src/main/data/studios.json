@@ -1739,6 +1739,11 @@
     "url": "https://mubi.com/"
   },
   {
+    "code": "MUCH",
+    "description": "Mucho Mas Media",
+    "url": "https://muchomasmedia.com"
+  },
+  {
     "code": "MZB",
     "description": "MUZEBAT Media",
     "url": "https://www.muzebat.com"
@@ -2504,6 +2509,11 @@
   {
     "code": "SZS",
     "description": "Storia Senza Storia"
+  },
+  {
+    "code": "T0J0",
+    "description": "Tercer Ojo",
+    "url": "https://www.tercerojo.com.mx"
   },
   {
     "code": "T25P",
