@@ -4,6 +4,16 @@
     "description": "01_STUDIO P.I."
   },
   {
+    "code": "0J0",
+    "contact": {
+      "address": "Jesús García 1631,44600, Guadalajara, Jalisco, MEX",
+      "email": "terc3r.ojostudio@gmail.com",
+      "name": "Gabriel Esdras"
+    },
+    "description": "Tercer Ojo",
+    "url": "http://www.tercerojo.com.mx"
+  },
+  {
     "code": "10C",
     "description": "Ten Cent"
   },
