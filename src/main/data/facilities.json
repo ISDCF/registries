@@ -1562,6 +1562,16 @@
     "description": "DACODEC"
   },
   {
+    "code": "DAP",
+    "contact": {
+      "address": "Sandrainstrasse 3, 3007 Bern, Switzerland",
+      "email": "post@docandpost.ch",
+      "name": "Peter Guyer"
+    },
+    "description": "doc&post",
+    "url": "https://docandpost.ch"
+  },
+  {
     "code": "DAU",
     "description": "DELUXE AUSTRALIA",
     "obsolete": true,
