@@ -2127,6 +2127,16 @@
     "description": "Dreamworks Animation"
   },
   {
+    "code": "DWF",
+    "contact": {
+      "address": "Rheinlanddamm 211, 44137 Dortmund, Germany",
+      "email": "pascal@dwfilms.de",
+      "name": "Pascal Hempel"
+    },
+    "description": "deepwater films",
+    "url": "https://www.dwfilms.de"
+  },
+  {
     "code": "DWS",
     "description": "DCP-WERKSTATT"
   },
