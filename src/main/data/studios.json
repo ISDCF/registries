@@ -753,6 +753,16 @@
     "url": "http://www.dontenlacroix.eu/"
   },
   {
+    "code": "DOS",
+    "contact": {
+      "address": "Hedwigstrasse 12, 8003 Zürich, Switzerland",
+      "email": "raoul.walzer@gmail.com",
+      "name": "Raoul Walzer"
+    },
+    "description": "DANCE ON SCREEN",
+    "url": "https://danceonscreen.ch/"
+  },
+  {
     "code": "DS",
     "contact": {
       "address": "Condomínio Jardim Europa II conjunto Q casa 3, Grande Colorado, Sobradinho, DF - Brazil",
@@ -775,6 +785,16 @@
   {
     "code": "DVF",
     "description": "DUAL V FILMS"
+  },
+  {
+    "code": "DWF",
+    "contact": {
+      "address": "Rheinlanddamm 211, 44137 Dortmund, Germany",
+      "email": "pascal@dwfilms.de",
+      "name": "Pascal Hempel"
+    },
+    "description": "deepwater films",
+    "url": "https://www.dwfilms.de"
   },
   {
     "code": "EAG",
