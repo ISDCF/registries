@@ -1582,6 +1582,16 @@
     "description": "LVT"
   },
   {
+    "code": "M5",
+    "contact": {
+      "address": "Calle Maestro Arbós 3, oficina 109, 28019, Madrid, Spain",
+      "email": "juanma.aragon@mesa5producciones.es",
+      "name": "Mr. Juan Manuel Aragon"
+    },
+    "description": "Mesa5 Producciones",
+    "url": "https://www.mesa5producciones.es"
+  },
+  {
     "code": "MAD",
     "description": "Madman Entertainment"
   },
