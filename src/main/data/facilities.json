@@ -3844,6 +3844,16 @@
     "description": "LightVAULT"
   },
   {
+    "code": "LVF",
+    "contact": {
+      "address": "236 rue de la mairie 73220 Epirre, France",
+      "email": "contact@alavolettefilm.com",
+      "name": "Marjolaine GAL"
+    },
+    "description": "A la Volette Film",
+    "url": "https://www.alavolettefilm.com"
+  },
+  {
     "code": "LVR",
     "description": "LVR DIGITAL"
   },
