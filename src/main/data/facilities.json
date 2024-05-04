@@ -6286,6 +6286,16 @@
     ]
   },
   {
+    "code": "TPU",
+    "contact": {
+      "address": "2-9-5 Honcho, Nakano, Tokyo, Japan",
+      "email": "k.baba@img.t-kougei.ac.jp",
+      "name": "Kazuyuki Baba"
+    },
+    "description": "Tokyo Polytechnic University",
+    "url": "https://www.t-kougei.ac.jp"
+  },
+  {
     "code": "TPW",
     "description": "Tallinn Postworks"
   },
