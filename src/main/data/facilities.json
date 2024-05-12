@@ -6198,6 +6198,16 @@
     "description": "THE LOOK"
   },
   {
+    "code": "TLN",
+    "contact": {
+      "address": "Rua de Marvila 119 - 1950-197 Lisboa, Portugal",
+      "email": "shane@thislooksnice.com",
+      "name": "Shane Simmons"
+    },
+    "description": "This Looks Nice",
+    "url": "httpshttps://www.thislooksnice.com"
+  },
+  {
     "code": "TLS",
     "description": "TELSON SPAIN"
   },
