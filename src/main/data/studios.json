@@ -412,6 +412,11 @@
     "url": "http://www.bigpicture.es"
   },
   {
+    "code": "BPS",
+    "description": "Blue Post",
+    "url": "https://bluepost.com.au"
+  },
+  {
     "code": "BRM",
     "description": "BERRYMOUNT AUTOMATION"
   },
@@ -1226,6 +1231,11 @@
   {
     "code": "HBO",
     "description": "Home Box Office"
+  },
+  {
+    "code": "HDM",
+    "description": "Hochschule der Medien Stuttgart",
+    "url": "https://www.hdm-stuttgart.de"
   },
   {
     "code": "HF",
