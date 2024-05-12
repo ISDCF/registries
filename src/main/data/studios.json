@@ -1228,6 +1228,11 @@
     "description": "Home Box Office"
   },
   {
+    "code": "HDM",
+    "description": "Hochschule der Medien Stuttgart",
+    "url": "https://www.hdm-stuttgart.de"
+  },
+  {
     "code": "HF",
     "description": "HEIMATFILM"
   },
