@@ -1594,6 +1594,16 @@
     "description": "LASERFILM CINE Y VÍDEO, SL"
   },
   {
+    "code": "LUP",
+    "contact": {
+      "address": 339 Upper Street, N1 0PB, London, United Kingdom",
+      "email": "roly.wheeler@lupusfilms.com",
+      "name": "Roly Wheeler"
+    },
+    "description": "Lupus Films",
+    "url": "https://lupusfilms.com/"
+  },
+  {
     "code": "LVLF",
     "description": "Level Films"
   },
