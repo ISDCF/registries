@@ -3093,6 +3093,11 @@
     "description": "HINTERLAND"
   },
   {
+    "code": "HMS",
+    "description": "Hochschule der Medien Stuttgart",
+    "url": "https://www.hdm-stuttgart.de"
+  },
+  {
     "code": "HOO",
     "description": "Hoosier Films",
     "url": "https://hoosierfilms.com"
