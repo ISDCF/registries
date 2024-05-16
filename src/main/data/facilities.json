@@ -3093,6 +3093,11 @@
     "description": "HINTERLAND"
   },
   {
+    "code": "HMS",
+    "description": "Hochschule der Medien Stuttgart",
+    "url": "https://www.hdm-stuttgart.de"
+  },
+  {
     "code": "HOO",
     "description": "Hoosier Films",
     "url": "https://hoosierfilms.com"
@@ -3852,6 +3857,16 @@
   {
     "code": "LV",
     "description": "LightVAULT"
+  },
+  {
+    "code": "LVF",
+    "contact": {
+      "address": "236 rue de la Mairie, 73220 Epierre, France",
+      "email": "contact@alavolettefilm.com",
+      "name": "Marjolaine GAL"
+    },
+    "description": "A la Volette Film",
+    "url": "https://www.alavolettefilm.com"
   },
   {
     "code": "LVR",
@@ -6345,6 +6360,16 @@
   {
     "code": "TRN",
     "description": "Tangren Cultural Film Group"
+  },
+  {
+    "code": "TSL",
+    "contact": {
+      "address": "4 Olumo Road, Parkview Estate, Ikoyi, Lagos 101233, Nigeria",
+      "email": "j.chidebe@trinostudios.com",
+      "name": "Jude Chidebe"
+    },
+    "description": "Trino Studios Limited",
+    "url": "https://www.trinostudios.com"
   },
   {
     "code": "TTP",
