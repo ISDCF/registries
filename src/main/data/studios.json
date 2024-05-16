@@ -412,6 +412,11 @@
     "url": "http://www.bigpicture.es"
   },
   {
+    "code": "BPS",
+    "description": "Blue Post",
+    "url": "https://bluepost.com.au"
+  },
+  {
     "code": "BRM",
     "description": "BERRYMOUNT AUTOMATION"
   },
@@ -753,6 +758,16 @@
     "url": "http://www.dontenlacroix.eu/"
   },
   {
+    "code": "DOS",
+    "contact": {
+      "address": "Hedwigstrasse 12, 8003 Zürich, Switzerland",
+      "email": "raoul.walzer@gmail.com",
+      "name": "Raoul Walzer"
+    },
+    "description": "DANCE ON SCREEN",
+    "url": "https://danceonscreen.ch/"
+  },
+  {
     "code": "DS",
     "contact": {
       "address": "Condomínio Jardim Europa II conjunto Q casa 3, Grande Colorado, Sobradinho, DF - Brazil",
@@ -775,6 +790,16 @@
   {
     "code": "DVF",
     "description": "DUAL V FILMS"
+  },
+  {
+    "code": "DWF",
+    "contact": {
+      "address": "Rheinlanddamm 211, 44137 Dortmund, Germany",
+      "email": "pascal@dwfilms.de",
+      "name": "Pascal Hempel"
+    },
+    "description": "deepwater films",
+    "url": "https://www.dwfilms.de"
   },
   {
     "code": "EAG",
@@ -1218,6 +1243,11 @@
     "description": "Home Box Office"
   },
   {
+    "code": "HDM",
+    "description": "Hochschule der Medien Stuttgart",
+    "url": "https://www.hdm-stuttgart.de"
+  },
+  {
     "code": "HF",
     "description": "HEIMATFILM"
   },
@@ -1478,6 +1508,11 @@
     "url": "https://kominek.ca"
   },
   {
+    "code": "KTT",
+    "description": "Kill The Tape",
+    "url": "https://www.killthetape.com/"
+  },
+  {
     "code": "LA",
     "description": "LOCAL ACQUISITION"
   },
@@ -1516,7 +1551,7 @@
   },
   {
     "code": "LFLM",
-    "description": "LUCAS FILMS"
+    "description": "Lucasfilm Ltd."
   },
   {
     "code": "LG",
@@ -1582,6 +1617,16 @@
   {
     "code": "LSR",
     "description": "LASERFILM CINE Y VÍDEO, SL"
+  },
+  {
+    "code": "LUP",
+    "contact": {
+      "address": "339 Upper Street, N1 0PB, London, United Kingdom",
+      "email": "roly.wheeler@lupusfilms.com",
+      "name": "Roly Wheeler"
+    },
+    "description": "Lupus Films",
+    "url": "https://lupusfilms.com/"
   },
   {
     "code": "LVLF",

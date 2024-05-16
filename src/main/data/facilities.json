@@ -2127,6 +2127,16 @@
     "description": "Dreamworks Animation"
   },
   {
+    "code": "DWF",
+    "contact": {
+      "address": "Rheinlanddamm 211, 44137 Dortmund, Germany",
+      "email": "pascal@dwfilms.de",
+      "name": "Pascal Hempel"
+    },
+    "description": "deepwater films",
+    "url": "https://www.dwfilms.de"
+  },
+  {
     "code": "DWS",
     "description": "DCP-WERKSTATT"
   },
@@ -3844,6 +3854,16 @@
     "description": "LightVAULT"
   },
   {
+    "code": "LVF",
+    "contact": {
+      "address": "236 rue de la Mairie, 73220 Epierre, France",
+      "email": "contact@alavolettefilm.com",
+      "name": "Marjolaine GAL"
+    },
+    "description": "A la Volette Film",
+    "url": "https://www.alavolettefilm.com"
+  },
+  {
     "code": "LVR",
     "description": "LVR DIGITAL"
   },
@@ -4054,6 +4074,7 @@
       "name": "Kazuyuki Baba"
     },
     "description": "Department of Media Studies, Mejiro University",
+    "obsolete": true,
     "url": "https://www.mejiro.ac.jp/univ/course/f_media/d_media/"
   },
   {
@@ -4847,6 +4868,11 @@
     },
     "description": "PK18 FILMS PRODUCTION",
     "url": "https://www.pk18films.com/"
+  },
+  {
+    "code": "PL1",
+    "description": "Post Lab One",
+    "url": "https://postlab1.com"
   },
   {
     "code": "PLA",
@@ -6187,6 +6213,16 @@
     "description": "THE LOOK"
   },
   {
+    "code": "TLN",
+    "contact": {
+      "address": "Rua de Marvila 119 - 1950-197 Lisboa, Portugal",
+      "email": "shane@thislooksnice.com",
+      "name": "Shane Simmons"
+    },
+    "description": "This Looks Nice",
+    "url": "https://www.thislooksnice.com"
+  },
+  {
     "code": "TLS",
     "description": "TELSON SPAIN"
   },
@@ -6274,6 +6310,16 @@
     "obsoletedBy": [
       "PSL"
     ]
+  },
+  {
+    "code": "TPU",
+    "contact": {
+      "address": "2-9-5 Honcho, Nakano, Tokyo, Japan",
+      "email": "k.baba@img.t-kougei.ac.jp",
+      "name": "Kazuyuki Baba"
+    },
+    "description": "Tokyo Polytechnic University",
+    "url": "https://www.t-kougei.ac.jp"
   },
   {
     "code": "TPW",
