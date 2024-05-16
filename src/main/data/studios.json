@@ -412,6 +412,11 @@
     "url": "http://www.bigpicture.es"
   },
   {
+    "code": "BPS",
+    "description": "Blue Post",
+    "url": "https://bluepost.com.au"
+  },
+  {
     "code": "BRM",
     "description": "BERRYMOUNT AUTOMATION"
   },
@@ -1219,6 +1224,16 @@
     "url": "https://www.goldentouchfilm.com"
   },
   {
+    "code": "H18",
+    "contact": {
+      "address": "5025 Orbitor Drive, Building 4, Unit 301, Mississauga, ON L4W 4Y5, Canada",
+      "email": "pasha@h18m.com",
+      "name": "Pasha Patriki"
+    },
+    "description": "Hangar 18 Media",
+    "url": "https://hangar18.media/"
+  },
+  {
     "code": "H2O",
     "description": "h2o cinema&video",
     "url": "https://tvonic.apkpure.com/movie/io-ho-fermato-questistante-della-tua-bellezza-emilio-greco-scultore-2005"
@@ -1226,6 +1241,11 @@
   {
     "code": "HBO",
     "description": "Home Box Office"
+  },
+  {
+    "code": "HDM",
+    "description": "Hochschule der Medien Stuttgart",
+    "url": "https://www.hdm-stuttgart.de"
   },
   {
     "code": "HF",
@@ -1488,6 +1508,11 @@
     "url": "https://kominek.ca"
   },
   {
+    "code": "KTT",
+    "description": "Kill The Tape",
+    "url": "https://www.killthetape.com/"
+  },
+  {
     "code": "LA",
     "description": "LOCAL ACQUISITION"
   },
@@ -1526,7 +1551,7 @@
   },
   {
     "code": "LFLM",
-    "description": "LUCAS FILMS"
+    "description": "Lucasfilm Ltd."
   },
   {
     "code": "LG",
@@ -1592,6 +1617,16 @@
   {
     "code": "LSR",
     "description": "LASERFILM CINE Y VÍDEO, SL"
+  },
+  {
+    "code": "LUP",
+    "contact": {
+      "address": "339 Upper Street, N1 0PB, London, United Kingdom",
+      "email": "roly.wheeler@lupusfilms.com",
+      "name": "Roly Wheeler"
+    },
+    "description": "Lupus Films",
+    "url": "https://lupusfilms.com/"
   },
   {
     "code": "LVLF",
