@@ -3590,6 +3590,16 @@
     "description": "KINOTUR"
   },
   {
+    "code": "KTT",
+    "contact": {
+      "address": "16 rue de Charonne, 75011 Paris, France",
+      "email": "patrick.raymond@killthetape.com",
+      "name": "Mr. Patrick RAYMOND"
+    },
+    "description": "KILL THE TAPE",
+    "url": "https://www.killthetape.com/"
+  },
+  {
     "code": "KWX",
     "description": "Klockworx"
   },
