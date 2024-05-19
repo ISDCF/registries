@@ -1609,7 +1609,11 @@
   },
   {
     "code": "DC",
-    "description": "DIGITAL CUT"
+    "description": "DIGITAL CUT",
+    "obsolete": true,
+    "obsoletedBy": [
+      "KTT"
+    ],
   },
   {
     "code": "DC2",
