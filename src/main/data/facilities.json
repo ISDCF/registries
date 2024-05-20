@@ -1609,7 +1609,11 @@
   },
   {
     "code": "DC",
-    "description": "DIGITAL CUT"
+    "description": "DIGITAL CUT",
+    "obsolete": true,
+    "obsoletedBy": [
+      "KTT"
+    ]
   },
   {
     "code": "DC2",
@@ -3588,6 +3592,16 @@
   {
     "code": "KTR",
     "description": "KINOTUR"
+  },
+  {
+    "code": "KTT",
+    "contact": {
+      "address": "16 rue de Charonne, 75011 Paris, France",
+      "email": "patrick.raymond@killthetape.com",
+      "name": "Mr. Patrick RAYMOND"
+    },
+    "description": "KILL THE TAPE",
+    "url": "https://www.killthetape.com/"
   },
   {
     "code": "KWX",
