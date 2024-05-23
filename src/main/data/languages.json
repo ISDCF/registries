@@ -1957,6 +1957,15 @@
     ]
   },
   {
+    "dcncLanguage": "Meankieli",
+    "dcncTag": "FIT",
+    "rfc5646Tag": "fit",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
     "dcncLanguage": "Mohawk",
     "dcncTag": "MOH",
     "rfc5646Tag": "moh",
