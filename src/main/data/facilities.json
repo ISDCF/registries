@@ -3887,6 +3887,16 @@
     "description": "LVR DIGITAL"
   },
   {
+    "code": "LW",
+    "contact": {
+      "address": "11846 Ventura Blvd., Suite 120, Studio City, CA 91604, USA",
+      "email": "aaron@lightwavepost.com",
+      "name": "Aaron Fink"
+    },
+    "description": "Lightwave Post",
+    "url": "https://www.lightwavepost.com"
+  },
+  {
     "code": "LWK",
     "description": "LISBONWORKS, Interactive Productions",
     "url": "http://www.lisbonworks.com"
