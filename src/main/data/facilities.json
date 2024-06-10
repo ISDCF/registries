@@ -86,6 +86,16 @@
     "description": "2V STUDIOS LTD"
   },
   {
+    "code": "3CA",
+    "contact": {
+      "address": "Carrer de la TV3, s/n 08970 Sant Joan Despí, Barcelona, Spain",
+      "email": "xbonet.q@3cat.cat",
+      "name": "Xavier Bonet"
+    },
+    "description": "3CAT",
+    "url": "https://www.ccma.cat/3cat/"
+  },
+  {
     "code": "3DV",
     "description": "DEEP VISION 3D"
   },
@@ -3550,6 +3560,15 @@
     "url": "https://linktr.ee/kleinenfilmak"
   },
   {
+    "code": "KMG",
+    "contact": {
+      "address": "Suvilahdenkatu 6 A 5, 00500 Helsinki, Finland",
+      "email": "antti.nayha@gmail.com",
+      "name": "Antti Näyhä"
+    },
+    "description": "Kinomagia"
+  },
+  {
     "code": "KMR",
     "contact": {
       "address": "Wallstraße 21, 14770 Brandenburg (Germany)",
@@ -3885,6 +3904,16 @@
   {
     "code": "LVR",
     "description": "LVR DIGITAL"
+  },
+  {
+    "code": "LW",
+    "contact": {
+      "address": "11846 Ventura Blvd., Suite 120, Studio City, CA 91604, USA",
+      "email": "aaron@lightwavepost.com",
+      "name": "Aaron Fink"
+    },
+    "description": "Lightwave Post",
+    "url": "https://www.lightwavepost.com"
   },
   {
     "code": "LWK",
