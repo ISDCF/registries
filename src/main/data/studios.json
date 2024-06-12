@@ -266,6 +266,16 @@
     "url": "http://www.avalon.me"
   },
   {
+    "code": "AVAS",
+    "contact": {
+      "address": "Calle elice, edificio victoria, Chacao, Caracas, Venezuela",
+      "email": "info@avakian.studio",
+      "name": "Mr. Avak Avakian"
+    },
+    "description": "Avakian Studios",
+    "url": "https://avakian.studio"
+  },
+  {
     "code": "AVC",
     "contact": {
       "address": "5350 Ethel Way, Sacramento, CA 95820 USA",
