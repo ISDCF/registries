@@ -18,6 +18,16 @@
     "description": "123 Vision Pictures"
   },
   {
+    "code": "3CAT",
+    "contact": {
+      "address": "Carrer Oriol Martorell, 1 Sant Joan Despí, Barcelona, Spain",
+      "email": "xbonet.q@3cat.cat",
+      "name": "Xavier Bonet"
+    },
+    "description": "TV3, 3Cat:  Is the public TV from Catalonia (Spain)",
+    "url": "https://www.3cat.cat/"
+  },
+  {
     "code": "3DV",
     "description": "DEEP VISION 3D"
   },
