@@ -132,6 +132,16 @@
     "url": "https://www.amkfilms.com"
   },
   {
+    "code": "AMP",
+    "contact": {
+      "address": "P.O. Box 1323, Phoenix, Oregon, 97535 USA",
+      "email": "info@valhallamedia.io",
+      "name": "Mr. Ethan Gans-Morse"
+    },
+    "description": "Anima Mundi Productions",
+    "url": "https://animamundiproductions.com/"
+  },
+  {
     "code": "AMZN",
     "description": "Amazon Studios"
   },
