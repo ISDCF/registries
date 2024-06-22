@@ -2923,6 +2923,16 @@
     "url": "http://videopress.gr"
   },
   {
+    "code": "VSV",
+    "contact": {
+      "address": "Carrer d'Aragó, 14, 08015 Barcelona, Spain",
+      "email": "egodes@vasava.es",
+      "name": "Enric Godes"
+    },
+    "description": "Vasava",
+    "url": "https://www.vasava.es"
+  },
+  {
     "code": "WAG",
     "contact": {
       "address": "120 Emily Dr. Lilburn, Ga 30047, USA",
