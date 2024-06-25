@@ -1492,6 +1492,16 @@
     "url": "https://jolirideau.com"
   },
   {
+    "code": "JTM",
+    "contact": {
+      "address": "158 Rogers Ave, Apt 1C, Brooklyn, NY 11216, USA",
+      "email": "alana.nichole.curtis@gmail.com",
+      "name": "Alana Curtis"
+    },
+    "description": "July Third Media",
+    "url": "https://julythird.co"
+  },
+  {
     "code": "JWE",
     "description": "Journeywork Entertainment",
     "url": "https://www.journeyworkent.com"
@@ -2921,6 +2931,16 @@
     },
     "description": "Videopress Greece",
     "url": "http://videopress.gr"
+  },
+  {
+    "code": "VSV",
+    "contact": {
+      "address": "Carrer d'Aragó, 14, 08015 Barcelona, Spain",
+      "email": "egodes@vasava.es",
+      "name": "Enric Godes"
+    },
+    "description": "Vasava",
+    "url": "https://www.vasava.es"
   },
   {
     "code": "WAG",
