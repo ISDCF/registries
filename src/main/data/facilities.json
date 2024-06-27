@@ -6224,6 +6224,16 @@
     "description": "TOKYO LABORATORY"
   },
   {
+    "code": "THE",
+    "contact": {
+      "address": "Pereira Leite, 323 - Alto de Pinheiros, São Paulo - SP, 05442-000, Brazil",
+      "email": "helenajardim@theend.tv",
+      "name": "Helena Jardim"
+    },
+    "description": "The End Post",
+    "url": "https://theend.tv"
+  },
+  {
     "code": "THF",
     "contact": {
       "address": "26311 NE valley st. #219, Duvall, Washington, 98019, USA",
