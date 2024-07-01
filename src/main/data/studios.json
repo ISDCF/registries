@@ -837,6 +837,11 @@
     "url": "https://www.dwfilms.de"
   },
   {
+    "code": "E765",
+    "description": "Extension 765e",
+    "url": "https://extension765.com"
+  },
+  {
     "code": "EAG",
     "description": "EAGLE PICTURES"
   },
@@ -1859,6 +1864,11 @@
     },
     "description": "Mill Road Technology",
     "url": "https://www.millroadtech.com"
+  },
+  {
+    "code": "MRTY",
+    "description": "Marty Studio",
+    "url": "https://www.marty-studio.com"
   },
   {
     "code": "MRV",
