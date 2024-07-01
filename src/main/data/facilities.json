@@ -2442,6 +2442,16 @@
     "description": "EMPIRE VIDEO PRODUCTION"
   },
   {
+    "code": "EVR",
+    "contact": {
+      "address": "23 Rte des Forges, 44380 Pornichet, France",
+      "email": "faurie.k@gmail.com",
+      "name": "Karen Faurie"
+    },
+    "description": "Realisatrice",
+    "url": "https://www.everest.studio/"
+  },
+  {
     "code": "EWP",
     "description": "ERIK WITTBUSCH POSTPRODUCTION"
   },
@@ -4358,6 +4368,11 @@
     "description": "MATRIS MÜHENDISLIK"
   },
   {
+    "code": "MTY",
+    "description": "Marty Studio",
+    "url": "https://www.marty-studio.com"
+  },
+  {
     "code": "MUB",
     "contact": {
       "address": "7 Newburgh St, Carnaby, London W1F 7RB, UK",
@@ -4738,6 +4753,16 @@
   {
     "code": "OXI",
     "description": "OXIDO"
+  },
+  {
+    "code": "P4N",
+    "contact": {
+      "address": "Bellerivestrasse 5, 8008 Zürich, Switzerland",
+      "email": "info@panimage.ch",
+      "name": "Beat Lenherr"
+    },
+    "description": "PANIMAGE",
+    "url": "https://www.panimage.ch/"
   },
   {
     "code": "PAN",
