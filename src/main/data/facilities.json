@@ -2442,6 +2442,16 @@
     "description": "EMPIRE VIDEO PRODUCTION"
   },
   {
+    "code": "EVR",
+    "contact": {
+      "address": "23 Rte des Forges, 44380 Pornichet, France",
+      "email": "faurie.k@gmail.com",
+      "name": "Karen Faurie"
+    },
+    "description": "Realisatrice",
+    "url": "https://www.everest.studio/"
+  },
+  {
     "code": "EWP",
     "description": "ERIK WITTBUSCH POSTPRODUCTION"
   },
