@@ -1541,6 +1541,16 @@
     "description": "KINO CYFROWE"
   },
   {
+    "code": "KF44",
+    "contact": {
+      "address": "23 Rte des Forges, 44380 Pornichet, France",
+      "email": "faurie.k@gmail.com",
+      "name": "Karen Faurie"
+    },
+    "description": "Karen Faurie",
+    "url": "https://www.karenfaurie.com"
+  },
+  {
     "code": "KHH",
     "description": "Kinemathek Hamburg"
   },
