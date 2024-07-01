@@ -4745,6 +4745,16 @@
     "description": "OXIDO"
   },
   {
+    "code": "P4N",
+    "contact": {
+      "address": "Bellerivestrasse 5, 8008 Zürich, Switzerland",
+      "email": "info@panimage.ch",
+      "name": "Beat Lenherr"
+    },
+    "description": "PANIMAGE",
+    "url": "https://www.panimage.ch/"
+  },
+  {
     "code": "PAN",
     "description": "Panoptimo GmbH",
     "url": "https://panoptimo.com/"
