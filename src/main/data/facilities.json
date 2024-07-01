@@ -4368,6 +4368,11 @@
     "description": "MATRIS MÜHENDISLIK"
   },
   {
+    "code": "MTY",
+    "description": "Marty Studio",
+    "url": "https://www.marty-studio.com"
+  },
+  {
     "code": "MUB",
     "contact": {
       "address": "7 Newburgh St, Carnaby, London W1F 7RB, UK",
@@ -4748,6 +4753,16 @@
   {
     "code": "OXI",
     "description": "OXIDO"
+  },
+  {
+    "code": "P4N",
+    "contact": {
+      "address": "Bellerivestrasse 5, 8008 Zürich, Switzerland",
+      "email": "info@panimage.ch",
+      "name": "Beat Lenherr"
+    },
+    "description": "PANIMAGE",
+    "url": "https://www.panimage.ch/"
   },
   {
     "code": "PAN",
