@@ -1386,6 +1386,16 @@
     "description": "ICON ENTERTAINMENT"
   },
   {
+    "code": "ICRL",
+    "contact": {
+      "address": "2121 Avenue of the Stars, Suite 2320, Los Angeles, CA 90067, USA",
+      "email": "devon@iconicreleasing.com",
+      "name": "Devon Canfield"
+    },
+    "description": "Iconic Events Releasing",
+    "url": "https://www.iconicreleasing.com/"
+  },
+  {
     "code": "IFC",
     "description": "IFC FILMS"
   },
