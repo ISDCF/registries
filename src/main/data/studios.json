@@ -1269,6 +1269,16 @@
     "description": "Gdynia Film School"
   },
   {
+    "code": "GSM",
+    "contact": {
+      "address": "Goldsmith 225, Polanco, Reforma, Miguel Hidalgo, 11550 Ciudad de México, CDMX, Mexico",
+      "email": "luis@grande-studios.com",
+      "name": "Luis Bigler"
+    },
+    "description": "Grande Studios Mexico",
+    "url": "https://grande-studios.com/"
+  },
+  {
     "code": "GTF",
     "contact": {
       "address": "Labråten 81, 1614 Fredrikstad, Norway",
