@@ -2279,6 +2279,16 @@
     "url": "http://www.pyramidefilms.com/"
   },
   {
+    "code": "QNT",
+    "contact": {
+      "address": "R. Mergenthaler, 1000 - Vila Leopoldina, São Paulo - SP, 05311-030, Brazil",
+      "email": "lucas.c@quanta.works",
+      "name": "Lucas Coimbra"
+    },
+    "description": "Quanta",
+    "url": "https://quanta.works/"
+  },
+  {
     "code": "R29",
     "description": "REFINERY29"
   },
