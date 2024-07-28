@@ -532,6 +532,16 @@
     "description": "CONSTANTIN FILM VERLEIH"
   },
   {
+    "code": "CGG",
+    "contact": {
+      "address": "Rue du Pré-Bouvier 9, 1242 Satigny, Switzerland",
+      "email": "jb@colorgrade.ch",
+      "name": "Jean-Baptiste Perrin"
+    },
+    "description": "Color Grade Geneva",
+    "url": "https://colorgrade.ch"
+  },
+  {
     "code": "CIN",
     "description": "Cinéart",
     "url": "https://www.cineart.be/fr"
@@ -2277,6 +2287,16 @@
     "code": "PYRA",
     "description": "Pyramide Films",
     "url": "http://www.pyramidefilms.com/"
+  },
+  {
+    "code": "QNT",
+    "contact": {
+      "address": "R. Mergenthaler, 1000 - Vila Leopoldina, São Paulo - SP, 05311-030, Brazil",
+      "email": "lucas.c@quanta.works",
+      "name": "Lucas Coimbra"
+    },
+    "description": "Quanta",
+    "url": "https://quanta.works/"
   },
   {
     "code": "R29",
