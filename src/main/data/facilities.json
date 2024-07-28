@@ -1022,6 +1022,16 @@
     "description": "CONSTANTIN FILM VERLEIH"
   },
   {
+    "code": "CGG",
+    "contact": {
+      "address": "Rue du Pré-Bouvier 9, 1242 Satigny, Switzerland",
+      "email": "jb@colorgrade.ch",
+      "name": "Jean-Baptiste Perrin"
+    },
+    "description": "Color Grade Geneva",
+    "url": "https://colorgrade.ch"
+  },
+  {
     "code": "CGK",
     "description": "CINEMA GOTIKA"
   },
