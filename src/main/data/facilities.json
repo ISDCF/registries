@@ -3920,7 +3920,11 @@
   },
   {
     "code": "LUM",
-    "description": "LUMIÈRES NUMÉRIQUES"
+    "description": "LUMIÈRES NUMÉRIQUES",
+     "obsolete": true,
+    "obsoletedBy": [
+      "RK"
+    ]
   },
   {
     "code": "LV",
@@ -5382,6 +5386,16 @@
   {
     "code": "RIT",
     "description": "RITCS (Royal Institute for Theatre, Cinema and Sound)"
+  },
+  {
+    "code": "RK",
+    "contact": {
+      "address": "36 Rue Emile Decorps, 69100 Villeurbanne, France",
+      "email": "eymeric@regular-kolor.com",
+      "name": "Mr. Eymeric Jorat"
+    },
+    "description": "Regular Kolor",
+    "url": "https://indie.rent/post-production-labo/"
   },
   {
     "code": "RL",
