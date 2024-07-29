@@ -3921,7 +3921,7 @@
   {
     "code": "LUM",
     "description": "LUMIÈRES NUMÉRIQUES",
-     "obsolete": true,
+    "obsolete": true,
     "obsoletedBy": [
       "RK"
     ]
