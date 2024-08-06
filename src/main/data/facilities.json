@@ -799,6 +799,11 @@
     "url": "https://brilliantscreenweb.azurewebsites.net/index.html"
   },
   {
+    "code": "BST",
+    "description": "Blair Stewart Films",
+    "url": "https://filmfreeway.com/BlairStewart"
+  },
+  {
     "code": "BT",
     "description": "BT PRODUCTION"
   },
@@ -5399,7 +5404,12 @@
   },
   {
     "code": "RLL",
-    "description": "Rafal Bryll Studio",
+    "contact": {
+      "address": "Kazimierza Sotta Sokoła 1A/19, 02-790 Warszawa, Poland",
+      "email": "r.bryll2021@gmail.com",
+      "name": "Mr. Rafał Bryll"
+    },
+    "description": "Rafał Bryll",
     "url": "https://filmpolski.pl/fp/index.php?osoba=1182014"
   },
   {
