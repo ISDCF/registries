@@ -469,6 +469,11 @@
     "description": "BANTAM STREET"
   },
   {
+    "code": "BST",
+    "description": "Blair Stewart Films",
+    "url": "https://filmfreeway.com/BlairStewart"
+  },
+  {
     "code": "BV",
     "description": "Bertone Visuals"
   },
@@ -1436,6 +1441,16 @@
     "code": "IH",
     "description": "Iron Horse Motion Picture Studios",
     "url": "https://www.ironhorsemps.com"
+  },
+  {
+    "code": "IKR",
+    "contact": {
+      "address": "Reinier Claeszenstraat 62-2, 1056WP Amsterdam, Netherlands",
+      "email": "vasilisa.ikryannikova@gmail.com",
+      "name": "Vasilisa Ikryannikova"
+    },
+    "description": "Vasilisa Ikryannikova",
+    "url": "https://vasilisaikryannikova.com"
   },
   {
     "code": "ILP",
