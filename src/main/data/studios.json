@@ -808,6 +808,16 @@
     "description": "Dolby Laboratories"
   },
   {
+    "code": "DMM",
+    "contact": {
+      "address": "6555 Barton Ave ste 190, Los Angeles, CA 90038",
+      "email": "Steven@DigitalMediaManagement.com",
+      "name": "Steven Luevano"
+    },
+    "description": "Digital Media Management",
+    "url": "https://digitalmediamanagement.com/"
+  },
+  {
     "code": "DNT",
     "description": "Donten & Lacroix Films",
     "url": "http://www.dontenlacroix.eu/"
