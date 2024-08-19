@@ -3819,6 +3819,16 @@
     "description": "Lily Post Prod"
   },
   {
+    "code": "LIP",
+    "contact": {
+      "address": "123 Wardour St, London W1F 0UW, UK",
+      "email": "rick@lipsyncpost.co.uk",
+      "name": "Rick White"
+    },
+    "description": "LipSync Post",
+    "url": "https://lipsyncpost.co.uk/"
+  },
+  {
     "code": "LIS",
     "description": "LISTO VIDEOFILM"
   },
