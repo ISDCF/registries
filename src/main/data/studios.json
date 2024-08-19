@@ -2293,6 +2293,16 @@
     "url": "https://cinedigm.com"
   },
   {
+    "code": "PUSH",
+    "contact": {
+      "address": "60 Cole Valley Road, Birmingham, B28 0DF, UK",
+      "email": "h@push-pictures.com",
+      "name": "Howard Matthews"
+    },
+    "description": "Push Pictures",
+    "url": "https://push-pictures.com"
+  },
+  {
     "code": "PV",
     "description": "Paramount Vantage"
   },
@@ -2652,6 +2662,11 @@
     },
     "description": "Sacred Pact Films",
     "url": "https://sacredpact.com"
+  },
+  {
+    "code": "SPL",
+    "description": "Suitable Pictures",
+    "url": "https://www.imdb.com/search/title/?companies=co0865294"
   },
   {
     "code": "SPNC",
@@ -3100,6 +3115,11 @@
     },
     "description": "WIDNO TV",
     "url": "https://widno.tv"
+  },
+  {
+    "code": "WIL",
+    "description": "Wildcard Pictures Corp.",
+    "url": "https://www.wildsound.ca"
   },
   {
     "code": "WILL",

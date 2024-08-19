@@ -3819,6 +3819,16 @@
     "description": "Lily Post Prod"
   },
   {
+    "code": "LIP",
+    "contact": {
+      "address": "123 Wardour St, London W1F 0UW, UK",
+      "email": "rick@lipsyncpost.co.uk",
+      "name": "Rick White"
+    },
+    "description": "LipSync Post",
+    "url": "https://lipsyncpost.co.uk/"
+  },
+  {
     "code": "LIS",
     "description": "LISTO VIDEOFILM"
   },
@@ -5292,6 +5302,11 @@
     "description": "LA RUCHE STUDIO"
   },
   {
+    "code": "RCL",
+    "description": "Red Chillies",
+    "url": "https://www.redchillies.com/contact-us"
+  },
+  {
     "code": "RCO",
     "description": "RICART & CO"
   },
@@ -5945,7 +5960,13 @@
   },
   {
     "code": "SOO",
-    "description": "STUCK ON ON"
+    "contact": {
+      "address": "516 Navasota St, Austin, TX 78722, USA",
+      "email": "parke@stuckonon.com",
+      "name": "Parke Gregg"
+    },
+    "description": "STUCK ON ON",
+    "url": "https://www.stuckonon.com"
   },
   {
     "code": "SOS",
