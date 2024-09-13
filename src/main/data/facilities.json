@@ -626,6 +626,16 @@
     "description": "Buffalo 8 Post Production"
   },
   {
+    "code": "BFP",
+    "contact": {
+      "address": "Caracas, Miranda, Venezuela",
+      "email": "bolivarfilmsaudio@gmail.com",
+      "name": "Mr Ivan Gozon"
+    },
+    "description": "BOLIVAR FILMS POST",
+    "url": "https://www.bolivarfilms.com/"
+  },
+  {
     "code": "BG",
     "description": "Basement Games Productions",
     "url": "http://basementgames.ca"
