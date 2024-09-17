@@ -1947,6 +1947,16 @@
     "description": "DIGITAL MEDIA SERVICES UK"
   },
   {
+    "code": "DML",
+    "contact": {
+      "address": "38 Rue Alexis Lepere, 93100 Montreuil, France",
+      "email": "contact@liakhov.com",
+      "name": "Denis Liakhov"
+    },
+    "description": "Denis Liakhov",
+    "url": "https://www.liakhov.com"
+  },
+  {
     "code": "DMM",
     "description": "Dan Mitre Media Dubai"
   },
@@ -6729,6 +6739,11 @@
   {
     "code": "UTS",
     "description": "UNTITLED STUDIOS"
+  },
+  {
+    "code": "VAG",
+    "description": "Vagrants",
+    "url": "https://www.vagrants.com"
   },
   {
     "code": "VCV",
