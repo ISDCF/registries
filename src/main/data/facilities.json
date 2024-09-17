@@ -5881,6 +5881,16 @@
     "description": "Studio Holder"
   },
   {
+    "code": "SHO",
+    "contact": {
+      "address": "15 Paternoster Row, Sheffield City Centre, Sheffield S1 2BX, UK",
+      "email": "projection@showroomworkstation.org.uk",
+      "name": "Andy Graves"
+    },
+    "description": "Showroom Cinema",
+    "url": "https://www.showroomworkstation.org.uk/"
+  },
+  {
     "code": "SIL",
     "description": "SILVER TRAK DIGITAL"
   },
