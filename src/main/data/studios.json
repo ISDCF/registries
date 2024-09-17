@@ -1696,6 +1696,11 @@
     "url": "https://www.laboratoriocisco.org/"
   },
   {
+    "code": "LDOS",
+    "description": "Leidos",
+    "url": "https://www.leidos.com/"
+  },
+  {
     "code": "LEG",
     "description": "LEGENDE DISTRIBUTION"
   },
