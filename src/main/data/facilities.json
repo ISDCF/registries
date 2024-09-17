@@ -118,6 +118,11 @@
     "url": "https://www.instagram.com/4plusfilmscr/"
   },
   {
+    "code": "4PT",
+    "description": "4 PUNTOS",
+    "url": "https://www.facebook.com/profile.php?id=100083819267739"
+  },
+  {
     "code": "4RP",
     "description": "4th Rock Production and Post Inc",
     "url": "https://4throckpost.com"
@@ -1957,6 +1962,16 @@
     "description": "DIGITAL MEDIA SERVICES UK"
   },
   {
+    "code": "DML",
+    "contact": {
+      "address": "38 Rue Alexis Lepere, 93100 Montreuil, France",
+      "email": "contact@liakhov.com",
+      "name": "Denis Liakhov"
+    },
+    "description": "Denis Liakhov",
+    "url": "https://www.liakhov.com"
+  },
+  {
     "code": "DMM",
     "description": "Dan Mitre Media Dubai"
   },
@@ -3778,6 +3793,11 @@
     "description": "LABRADOR"
   },
   {
+    "code": "LDS",
+    "description": "Leidos",
+    "url": "https://www.leidos.com/"
+  },
+  {
     "code": "LEO",
     "description": "LEO VALEN"
   },
@@ -3998,6 +4018,16 @@
     "code": "LWP",
     "description": "Laurelwood Pictures",
     "url": "https://laurelwoodpictures.com/"
+  },
+  {
+    "code": "LYS",
+    "contact": {
+      "address": "15 Av. Jean Jaurès, 94340 Joinville-le-Pont, France",
+      "email": "technique@lysi.fr",
+      "name": "Mr Jean-Noël MARCIN"
+    },
+    "description": "LYSI MEDIA",
+    "url": "https://www.lysi.fr"
   },
   {
     "code": "M1",
@@ -5642,6 +5672,16 @@
     "url": "https://www.saya.fr/"
   },
   {
+    "code": "SBS",
+    "contact": {
+      "address": "9 Rue Emile Allez, 75017 Paris, France",
+      "email": "c.larue@serialb-studio.com",
+      "name": "Mr. Christophe LARUE"
+    },
+    "description": "SerialB Studio",
+    "url": "https://www.serialb-studio.com"
+  },
+  {
     "code": "SBV",
     "contact": {
       "address": "68 rue Julien Lacroix, Paris, France",
@@ -5879,6 +5919,16 @@
   {
     "code": "SHL",
     "description": "Studio Holder"
+  },
+  {
+    "code": "SHO",
+    "contact": {
+      "address": "15 Paternoster Row, Sheffield City Centre, Sheffield S1 2BX, UK",
+      "email": "projection@showroomworkstation.org.uk",
+      "name": "Andy Graves"
+    },
+    "description": "Showroom Cinema",
+    "url": "https://www.showroomworkstation.org.uk/"
   },
   {
     "code": "SIL",
@@ -6729,6 +6779,11 @@
   {
     "code": "UTS",
     "description": "UNTITLED STUDIOS"
+  },
+  {
+    "code": "VAG",
+    "description": "Vagrants",
+    "url": "https://www.vagrants.com"
   },
   {
     "code": "VCV",
