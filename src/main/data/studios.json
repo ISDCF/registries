@@ -1512,6 +1512,16 @@
     "description": "INNERLENS PRODUCTIONS"
   },
   {
+    "code": "IMF",
+    "contact": {
+      "address": "49 Hackney Road, London, E2 7NX, UK",
+      "email": "sorcha.dunphy@intermissionfilm.com",
+      "name": "Sorcha Dunphy"
+    },
+    "description": "Intermission Film",
+    "url": "https://intermissionfilm.com"
+  },
+  {
     "code": "IMG",
     "description": "IMAGINASTUDIO"
   },
