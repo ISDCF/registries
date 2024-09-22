@@ -1224,6 +1224,16 @@
     "url": "https://www.gaumont.fr/"
   },
   {
+    "code": "GAL",
+    "contact": {
+      "address": "40 Rue Anatole France, 92300 Levallois-Perret, France",
+      "email": "mail@galateefilms.com",
+      "name": "Nicolas ELGHOZI"
+    },
+    "description": "GALATÉE FILMS",
+    "url": "https://galateefilms.com/"
+  },
+  {
     "code": "GAME",
     "description": "Game Theory Films"
   },
