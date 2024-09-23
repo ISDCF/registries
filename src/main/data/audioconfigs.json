@@ -189,12 +189,14 @@
   {
     "dcncCode": "AURO",
     "dcncSortOrder": 12,
-    "description": "Barco AURO Immersive Audio"
+    "description": "Barco AURO Immersive Audio",
+    "note": "Deprecated (label and bitstream)."
   },
   {
     "dcncCode": "DTSX",
     "dcncSortOrder": 13,
-    "description": "DTS:X Immersive Audio"
+    "description": "DTS:X Immersive Audio",
+    "note": "Deprecated (label and bitstream)."
   },
   {
     "cplMetadata": {
