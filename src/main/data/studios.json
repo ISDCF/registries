@@ -2750,6 +2750,14 @@
     "description": "SOMAFILM"
   },
   {
+    "code": "SPC",
+    "contact": {
+      "email": "allison_mackie@spe.sony.com",
+      "name": "Allison Mackie"
+    },
+    "description": "SONY PICTURES CLASSICS"
+  },
+  {
     "code": "SPE",
     "description": "SONY PICTURES ENTERTAINMENT"
   },
