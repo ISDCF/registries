@@ -51,6 +51,11 @@
     "description": "9 LIGHT ENTERTAINMENT"
   },
   {
+    "code": "AAA",
+    "description": "AntiAntiArt",
+    "url": "https://www.facebook.com/antiantiartprod"
+  },
+  {
     "code": "ABL",
     "contact": {
       "address": "Río Ebro 29, int. 1, Cuauhtémoc, Mexico City, Mexico",
@@ -358,6 +363,11 @@
     },
     "description": "Brush & Quill",
     "url": "https://michaelsstorytime.com"
+  },
+  {
+    "code": "BB",
+    "description": "Bonde Brown",
+    "url": "https://bondebrown.com"
   },
   {
     "code": "BBF",
@@ -1222,6 +1232,16 @@
     "code": "GA",
     "description": "Gaumont",
     "url": "https://www.gaumont.fr/"
+  },
+  {
+    "code": "GAL",
+    "contact": {
+      "address": "40 Rue Anatole France, 92300 Levallois-Perret, France",
+      "email": "mail@galateefilms.com",
+      "name": "Nicolas ELGHOZI"
+    },
+    "description": "GALATÉE FILMS",
+    "url": "https://galateefilms.com/"
   },
   {
     "code": "GAME",
