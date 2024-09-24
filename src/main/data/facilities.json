@@ -3600,6 +3600,16 @@
     "url": "https://www.kaputpost.com"
   },
   {
+    "code": "KAS",
+    "contact": {
+      "address": "3619 W Magnolia Blvd, Burbank, CA 91505, USA",
+      "email": "administrator@kappastudios.com",
+      "name": "Paul Long"
+    },
+    "description": "Kappa Studios, Inc.",
+    "url": "https://www.kappastudios.com/"
+  },
+  {
     "code": "KB",
     "description": "KINOBILDER"
   },
