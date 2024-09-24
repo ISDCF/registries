@@ -184,19 +184,25 @@
     "dcncCode": "ATMOS",
     "dcncSortOrder": 11,
     "description": "Dolby ATMOS Immersive Audio",
-    "note": "Deprecated. The IAB code should be used instead."
+    "note": "Deprecated. The IAB code should be used instead.",
+    "obsolete": true,
+    "obsoletedBy": [
+      "IAB"
+    ]
   },
   {
     "dcncCode": "AURO",
     "dcncSortOrder": 12,
     "description": "Barco AURO Immersive Audio",
-    "note": "Deprecated (label and bitstream)."
+    "note": "Deprecated label and bitstream.",
+    "obsolete": true
   },
   {
     "dcncCode": "DTSX",
     "dcncSortOrder": 13,
     "description": "DTS:X Immersive Audio",
-    "note": "Deprecated (label and bitstream)."
+    "note": "Deprecated label and bitstream.",
+    "obsolete": true
   },
   {
     "cplMetadata": {
