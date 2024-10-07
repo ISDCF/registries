@@ -3600,6 +3600,16 @@
     "url": "https://www.kaputpost.com"
   },
   {
+    "code": "KAS",
+    "contact": {
+      "address": "3619 W Magnolia Blvd, Burbank, CA 91505, USA",
+      "email": "administrator@kappastudios.com",
+      "name": "Paul Long"
+    },
+    "description": "Kappa Studios, Inc.",
+    "url": "https://www.kappastudios.com/"
+  },
+  {
     "code": "KB",
     "description": "KINOBILDER"
   },
@@ -6111,6 +6121,16 @@
   {
     "code": "SPS",
     "description": "SOLOPOST SERVICES"
+  },
+  {
+    "code": "SPX",
+    "contact": {
+      "address": "Eeuwfeestlaan 20, 1020 Bruxelles, Belgium",
+      "email": "p.forret@brightfish.be",
+      "name": "Peter Forret"
+    },
+    "description": "Spottix by Brightfish",
+    "url": "https://www.brightfish.be"
   },
   {
     "code": "SQR",
