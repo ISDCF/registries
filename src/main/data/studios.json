@@ -398,6 +398,16 @@
     "description": "BELARUSFILM"
   },
   {
+    "code": "BFB",
+    "contact": {
+      "address": "Eeuwfeestlaan 20, 1020 Bruxelles, Belgium",
+      "email": "p.forret@brightfish.be",
+      "name": "Peter Forret"
+    },
+    "description": "Brightfish Belgium",
+    "url": "https://www.brightfish.be"
+  },
+  {
     "code": "BG",
     "description": "Basement Games"
   },
