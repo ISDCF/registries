@@ -565,6 +565,16 @@
     "description": "CDC UNITED NETWORK"
   },
   {
+    "code": "CES",
+    "contact": {
+      "address": "Laarderweg 27a, 1402 BB Bussum, Netherlands",
+      "email": "irmo@censtudios.com",
+      "name": "Mr. Irmo Stijnberg"
+    },
+    "description": "Censtudios",
+    "url": "https://censtudios.com"
+  },
+  {
     "code": "CF",
     "description": "CHALIA FILMS"
   },
@@ -1695,6 +1705,11 @@
     },
     "description": "K2 Studios Australia",
     "url": "https://www.k2studios.us"
+  },
+  {
+    "code": "KCDC",
+    "description": "Kaerucafe Digital Cinema Circus",
+    "url": "https://www.kaerucafe.co.jp"
   },
   {
     "code": "KCP",
