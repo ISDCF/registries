@@ -1146,6 +1146,11 @@
     "description": "Film Ink"
   },
   {
+    "code": "FITT",
+    "description": "Fittonia Films",
+    "url": "https://marieclairemarcotte.com/Producer"
+  },
+  {
     "code": "FMM",
     "description": "FILMMUSEUM MÜNCHEN"
   },
@@ -2301,6 +2306,11 @@
     },
     "description": "Oceanic Research Group, Inc.",
     "url": "http://www.oceanicresearch.org"
+  },
+  {
+    "code": "ORP",
+    "description": "Otter Ridge Pictures",
+    "url": "https://www.otterridgepictures.com"
   },
   {
     "code": "OSCP",
