@@ -3850,7 +3850,13 @@
   },
   {
     "code": "LFT",
-    "description": "LIAISON OF INDEPENDENT FILMMAKERS OF TORONTO"
+    "contact": {
+      "address": "1137 Dupont St., Toronto, ON, M6H 2A3, Canada",
+      "email": "techsupport@lift.ca",
+      "name": "Karl Reinsalu"
+    },
+    "description": "Liaison of Independent Filmmakers of Toronto (LIFT)",
+    "url": "https://lift.ca/"
   },
   {
     "code": "LGN",
