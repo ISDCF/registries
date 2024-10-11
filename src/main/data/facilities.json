@@ -1523,7 +1523,13 @@
   },
   {
     "code": "CUB",
-    "description": "Cubic Post"
+    "contact": {
+      "address": "Calle Consell de Cent, 68 B, 08015 Barcelona, Spain",
+      "email": "nacho.melero@cube-post.com",
+      "name": "Mr. Nacho Melero"
+    },
+    "description": "Cube Post",
+    "url": "https://www.cube-post.com/"
   },
   {
     "code": "CUT",
