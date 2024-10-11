@@ -1380,6 +1380,16 @@
     "url": "https://www.centerpointpost.com"
   },
   {
+    "code": "CPB",
+    "contact": {
+      "address": "Calle Consell de Cent, 68 B, 08015 Barcelona, Spain",
+      "email": "nacho.melero@cube-post.com",
+      "name": "Mr. Nacho Melero"
+    },
+    "description": "Cube Post",
+    "url": "https://www.cube-post.com/"
+  },
+  {
     "code": "CPC",
     "description": "CINEMA PRODUCTION COMPLEX",
     "obsolete": true
@@ -1523,13 +1533,7 @@
   },
   {
     "code": "CUB",
-    "contact": {
-      "address": "Calle Consell de Cent, 68 B, 08015 Barcelona, Spain",
-      "email": "nacho.melero@cube-post.com",
-      "name": "Mr. Nacho Melero"
-    },
-    "description": "Cube Post",
-    "url": "https://www.cube-post.com/"
+    "description": "Cube Post"
   },
   {
     "code": "CUT",
