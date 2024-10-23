@@ -571,6 +571,16 @@
     "url": "http://www.bundesarchiv.de"
   },
   {
+    "code": "BAP",
+    "contact": {
+      "address": "Carrer de la Noguera Pallaresa, 59-61, Sants-Montjuïc, 08014 Barcelona, Spain",
+      "email": "montaje@bandeapart.org",
+      "name": "Alexandre Kröner Moreira"
+    },
+    "description": "Bande à Part Escuela de Cine Barcelona",
+    "url": "https://www.bandeapart.org/"
+  },
+  {
     "code": "BB",
     "description": "BASISBERLIN"
   },
