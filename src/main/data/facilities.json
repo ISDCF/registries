@@ -1715,7 +1715,13 @@
   },
   {
     "code": "DCM",
-    "description": "DIGITAL CINEMA MASTERING"
+    "contact": {
+      "address": "Alter Schlachthof 33, 76131 Karlsruhe, Germany",
+      "email": "julius@digital-cinema-mastering.com",
+      "name": "Julius Waltenberger"
+    },
+    "description": "Digital Cinema Mastering",
+    "url": "https://digital-cinema-mastering.com/"
   },
   {
     "code": "DCN",
