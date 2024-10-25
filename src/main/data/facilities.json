@@ -1,10 +1,5 @@
 [
   {
-    "code": "WDAS",
-    "description": "Walt Disney Animation Studios",
-    "url": "https://disneyanimation.com"
-  },
-  {
     "code": "01S",
     "description": "01_STUDIO P.I."
   },
@@ -7021,6 +7016,11 @@
   {
     "code": "WD",
     "description": "WELL DONE"
+  },
+  {
+    "code": "WDAS",
+    "description": "Walt Disney Animation Studios",
+    "url": "https://disneyanimation.com"
   },
   {
     "code": "WDL",
