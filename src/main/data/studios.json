@@ -2989,6 +2989,16 @@
     "url": "https://www.tencent.com/en-us/business.html"
   },
   {
+    "code": "TES",
+    "contact": {
+      "address": "Carrera 56A  61-24, Medellín, Colombia",
+      "email": "teselacinelab@gmail.com",
+      "name": "Anderson Ascanio"
+    },
+    "description": "Tesela Cine Lab",
+    "url": "https://teselacinelab.com/"
+  },
+  {
     "code": "TF1",
     "description": "TF1 Studio",
     "url": "https://www.newenconnect.com/cinema/"
@@ -3297,6 +3307,11 @@
   {
     "code": "WR",
     "description": "WARNER BROS."
+  },
+  {
+    "code": "WSND",
+    "description": "WildSound Festival",
+    "url": "https://wildsoundfestivalreview.com/"
   },
   {
     "code": "WSP",

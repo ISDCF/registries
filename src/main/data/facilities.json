@@ -571,6 +571,16 @@
     "url": "http://www.bundesarchiv.de"
   },
   {
+    "code": "BAP",
+    "contact": {
+      "address": "Carrer de la Noguera Pallaresa, 59-61, Sants-Montjuïc, 08014 Barcelona, Spain",
+      "email": "montaje@bandeapart.org",
+      "name": "Alexandre Kröner Moreira"
+    },
+    "description": "Bande à Part Escuela de Cine Barcelona",
+    "url": "https://www.bandeapart.org/"
+  },
+  {
     "code": "BB",
     "description": "BASISBERLIN"
   },
@@ -1503,6 +1513,11 @@
     "code": "CT",
     "description": "CT-SF",
     "url": "https://www.ct-sf.com"
+  },
+  {
+    "code": "CTB",
+    "description": "Cuttingboard",
+    "url": "https://www.cuttingboard.tv"
   },
   {
     "code": "CTL",
