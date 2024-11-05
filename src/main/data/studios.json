@@ -3304,6 +3304,11 @@
     "description": "WARNER BROS."
   },
   {
+    "code": "WSND",
+    "description": "WildSound Festival",
+    "url": "https://wildsoundfestivalreview.com/"
+  },
+  {
     "code": "WSP",
     "contact": {
       "address": "PO Box 679W Ballarat West Victoria, Australia, 3350",
