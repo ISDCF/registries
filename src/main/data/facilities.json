@@ -576,6 +576,16 @@
     "url": "http://www.bundesarchiv.de"
   },
   {
+    "code": "BAP",
+    "contact": {
+      "address": "Carrer de la Noguera Pallaresa, 59-61, Sants-Montjuïc, 08014 Barcelona, Spain",
+      "email": "montaje@bandeapart.org",
+      "name": "Alexandre Kröner Moreira"
+    },
+    "description": "Bande à Part Escuela de Cine Barcelona",
+    "url": "https://www.bandeapart.org/"
+  },
+  {
     "code": "BB",
     "description": "BASISBERLIN"
   },
@@ -1385,6 +1395,16 @@
     "url": "https://www.centerpointpost.com"
   },
   {
+    "code": "CPB",
+    "contact": {
+      "address": "Calle Consell de Cent, 68 B, 08015 Barcelona, Spain",
+      "email": "nacho.melero@cube-post.com",
+      "name": "Mr. Nacho Melero"
+    },
+    "description": "Cube Post",
+    "url": "https://www.cube-post.com/"
+  },
+  {
     "code": "CPC",
     "description": "CINEMA PRODUCTION COMPLEX",
     "obsolete": true
@@ -1725,7 +1745,13 @@
   },
   {
     "code": "DCM",
-    "description": "DIGITAL CINEMA MASTERING"
+    "contact": {
+      "address": "Alter Schlachthof 33, 76131 Karlsruhe, Germany",
+      "email": "julius@digital-cinema-mastering.com",
+      "name": "Julius Waltenberger"
+    },
+    "description": "Digital Cinema Mastering",
+    "url": "https://digital-cinema-mastering.com/"
   },
   {
     "code": "DCN",
