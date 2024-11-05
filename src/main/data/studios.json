@@ -277,6 +277,11 @@
     "url": "https://ascot-elite.ch/fr/home.html"
   },
   {
+    "code": "ASSB",
+    "description": "Astro Studios",
+    "url": "https://studios.astro.com.my/astro-sound-vision"
+  },
+  {
     "code": "AST",
     "contact": {
       "address": "Otakaari 7, Espoo, Finland",
@@ -952,6 +957,11 @@
   {
     "code": "EDF",
     "description": "Early Day Films"
+  },
+  {
+    "code": "EDO",
+    "description": "El Dedo en el Ojo S.L.",
+    "url": "https://www.eldedoenelojo.com/"
   },
   {
     "code": "EF",
@@ -2984,6 +2994,16 @@
     "url": "https://www.tencent.com/en-us/business.html"
   },
   {
+    "code": "TES",
+    "contact": {
+      "address": "Carrera 56A  61-24, Medellín, Colombia",
+      "email": "teselacinelab@gmail.com",
+      "name": "Anderson Ascanio"
+    },
+    "description": "Tesela Cine Lab",
+    "url": "https://teselacinelab.com/"
+  },
+  {
     "code": "TF1",
     "description": "TF1 Studio",
     "url": "https://www.newenconnect.com/cinema/"
@@ -3292,6 +3312,11 @@
   {
     "code": "WR",
     "description": "WARNER BROS."
+  },
+  {
+    "code": "WSND",
+    "description": "WildSound Festival",
+    "url": "https://wildsoundfestivalreview.com/"
   },
   {
     "code": "WSP",
