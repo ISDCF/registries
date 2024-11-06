@@ -47,6 +47,16 @@
     "url": "https://www.facebook.com/profile.php?id=100083819267739"
   },
   {
+    "code": "83F",
+    "contact": {
+      "address": "R. Antonio Marinho Correia, 140 - Jardim Cidade Universitária, João Pessoa - PB, 58052-569, Brazil",
+      "email": "contato@83filmes.com",
+      "name": "Mr. Maxsuel"
+    },
+    "description": "83 Filmes",
+    "url": "https://83filmes.com"
+  },
+  {
     "code": "9LE",
     "description": "9 LIGHT ENTERTAINMENT"
   },
@@ -275,6 +285,11 @@
     "code": "ASCT",
     "description": "Ascote Elite",
     "url": "https://ascot-elite.ch/fr/home.html"
+  },
+  {
+    "code": "ASSB",
+    "description": "Astro Studios",
+    "url": "https://studios.astro.com.my/astro-sound-vision"
   },
   {
     "code": "AST",
@@ -952,6 +967,11 @@
   {
     "code": "EDF",
     "description": "Early Day Films"
+  },
+  {
+    "code": "EDO",
+    "description": "El Dedo en el Ojo S.L.",
+    "url": "https://www.eldedoenelojo.com/"
   },
   {
     "code": "EF",
@@ -1702,6 +1722,16 @@
     "url": "https://www.journeyworkent.com"
   },
   {
+    "code": "JZL",
+    "contact": {
+      "address": "61 Greenpoint Ave #637, Brooklyn, NY 11222, USA",
+      "email": "justinlai96@gmail.com",
+      "name": "Justin Lai"
+    },
+    "description": "Justin Lai Studios LLC",
+    "url": "https://bkpt.co"
+  },
+  {
     "code": "K2A",
     "contact": {
       "address": "Unit 4,7 Grevillea St, BYRON BAY NSW 2481 AUSTRALIA",
@@ -2434,6 +2464,16 @@
     "url": "https://cinedigm.com"
   },
   {
+    "code": "PURS",
+    "contact": {
+      "address": "2312 E Admiral Blvd, Tulsa, OK 74110",
+      "email": "ty@pursuitfilms.com",
+      "name": "Ty Clark"
+    },
+    "description": "Pursuit Films",
+    "url": "https://www.pursuitfilms.com"
+  },
+  {
     "code": "PUSH",
     "contact": {
       "address": "60 Cole Valley Road, Birmingham, B28 0DF, UK",
@@ -2984,6 +3024,16 @@
     "url": "https://www.tencent.com/en-us/business.html"
   },
   {
+    "code": "TES",
+    "contact": {
+      "address": "Carrera 56A  61-24, Medellín, Colombia",
+      "email": "teselacinelab@gmail.com",
+      "name": "Anderson Ascanio"
+    },
+    "description": "Tesela Cine Lab",
+    "url": "https://teselacinelab.com/"
+  },
+  {
     "code": "TF1",
     "description": "TF1 Studio",
     "url": "https://www.newenconnect.com/cinema/"
@@ -3292,6 +3342,11 @@
   {
     "code": "WR",
     "description": "WARNER BROS."
+  },
+  {
+    "code": "WSND",
+    "description": "WildSound Festival",
+    "url": "https://wildsoundfestivalreview.com/"
   },
   {
     "code": "WSP",
