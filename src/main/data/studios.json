@@ -277,6 +277,11 @@
     "url": "https://ascot-elite.ch/fr/home.html"
   },
   {
+    "code": "ASSB",
+    "description": "Astro Studios",
+    "url": "https://studios.astro.com.my/astro-sound-vision"
+  },
+  {
     "code": "AST",
     "contact": {
       "address": "Otakaari 7, Espoo, Finland",
@@ -952,6 +957,11 @@
   {
     "code": "EDF",
     "description": "Early Day Films"
+  },
+  {
+    "code": "EDO",
+    "description": "El Dedo en el Ojo S.L.",
+    "url": "https://www.eldedoenelojo.com/"
   },
   {
     "code": "EF",
@@ -3312,6 +3322,11 @@
   {
     "code": "WR",
     "description": "WARNER BROS."
+  },
+  {
+    "code": "WSND",
+    "description": "WildSound Festival",
+    "url": "https://wildsoundfestivalreview.com/"
   },
   {
     "code": "WSP",
