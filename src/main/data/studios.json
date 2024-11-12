@@ -61,6 +61,16 @@
     "description": "9 LIGHT ENTERTAINMENT"
   },
   {
+    "code": "AA",
+    "contact": {
+      "address": "14 Davidson Drive, Toronto, ON, N5A 0C6, Canada",
+      "email": "chris@americananalog.tv",
+      "name": "Chris Cunningham"
+    },
+    "description": "American Analog",
+    "url": "https://www.americananalog.tv/"
+  },
+  {
     "code": "AAA",
     "description": "AntiAntiArt",
     "url": "https://www.facebook.com/antiantiartprod"
