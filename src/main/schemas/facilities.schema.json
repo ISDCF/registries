@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/schema#",
-  "$id": "http://isdcf.com/ns/json-schemas/registries/facilities/1.0.0",
+  "$id": "http://isdcf.com/ns/json-schemas/registries/facilities/2.0.0",
   "$comment": "Copyright, ISDCF <info@isdcf.com>",
   "title": "Schema for the Facilities registry of the ISDCF",
   "definitions": {
