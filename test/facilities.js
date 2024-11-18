@@ -26,6 +26,8 @@ describe("facilities schema", async () => {
       { code: "III", description: "I I I", contact: { name: "Bob Smith", email: "bob@foo.com" } },
       { code: "JJJ", description: "J J J", contact: { name: "Bob Smith", address: "1234 Main St., Anytown, State, Country" } },
       { code: "KKK", description: "K K K", contact: { email: "bob@foo.com" } },
+      { code: "LLLL", description: "L L L L", contact: { email: "bob@foo.com" } },
+      { code: "MMMM", description: "M M M M", obsolete: true, contact: { email: "bob@foo.com" }, obsoletedBy: [ "LLLL" ] },
     ]))
   })
 
