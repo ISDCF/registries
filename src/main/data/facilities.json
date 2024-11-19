@@ -3428,6 +3428,16 @@
     "description": "INSTINCTUAL"
   },
   {
+    "code": "INT",
+    "contact": {
+      "address": "3F,2-10-8,Meguro,Meguro,Tokyo,153-0063 Japan",
+      "email": "tamaki@interceptor-inc.com",
+      "name": "Genta Tamaki"
+    },
+    "description": "Interceptor Inc.",
+    "url": "http://www.interceptor-inc.com"
+  },
+  {
     "code": "IO",
     "description": "POST LAB IO"
   },
