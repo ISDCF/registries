@@ -1517,6 +1517,16 @@
     ]
   },
   {
+    "code": "CSM",
+    "contact": {
+      "address": "London, United Kingdom",
+      "email": "caneyeceem@gmail.com",
+      "name": "Ms. Maryam"
+    },
+    "description": "Central Saint Martins",
+    "url": "https://www.arts.ac.uk/colleges/central-saint-martins"
+  },
+  {
     "code": "CSP",
     "description": "CINESYNC POLAND"
   },
