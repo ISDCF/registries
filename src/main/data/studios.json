@@ -1224,6 +1224,16 @@
     "url": "https://www.pigouilleprod.com"
   },
   {
+    "code": "FSFE",
+    "contact": {
+      "address": "Schönhauser Allee 6-7, 10119 Berlin, Germany",
+      "email": "contact@fsfe.org",
+      "name": "Matthias Kirschner"
+    },
+    "description": "Free Software Foundation Europe",
+    "url": "https://ada.fsfe.org/movie"
+  },
+  {
     "code": "FTC",
     "contact": {
       "address": "Via di Sant'Erasmo, 2 - 00184, Rome, Italy",
