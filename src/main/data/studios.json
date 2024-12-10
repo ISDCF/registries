@@ -2768,6 +2768,16 @@
     "url": "https://www.filminstitutet.se/"
   },
   {
+    "code": "SFM",
+    "contact": {
+      "address": "Neuffenstraße 17, 73262 Reichenbach an der Fils, Germany",
+      "email": "isdcf@silkframe-media.de",
+      "name": "Marc Rufeis"
+    },
+    "description": "silkframe media",
+    "url": "https://silkframe-media.de"
+  },
+  {
     "code": "SFS",
     "description": "SF Studios",
     "url": "https://sfstudios.se/"
