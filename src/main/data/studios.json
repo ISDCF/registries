@@ -2719,6 +2719,11 @@
     "url": "https://supercoat.film"
   },
   {
+    "code": "SCFI",
+    "description": "Surto Coletivo Filmes",
+    "url": "https://surtocoletivo.online/"
+  },
+  {
     "code": "SCHW",
     "contact": {
       "address": "Rütistrasse 12, 8952 Schlieren, Switzerland",
@@ -2727,11 +2732,6 @@
     },
     "description": "Schweizer Video - Schweizer AG",
     "url": "https://www.schweizervideo.ch/"
-  },
-  {
-    "code": "SCFI",
-    "description": "Surto Coletivo Filmes",
-    "url": "https://surtocoletivo.online/"
   },
   {
     "code": "SCS",
