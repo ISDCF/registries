@@ -3013,6 +3013,16 @@
     "description": "TAKE 25 PICTURES"
   },
   {
+    "code": "T3W",
+    "contact": {
+      "address": "Av. Presidente Kennedy, 34 - Campinas, São José - SC, 88102-400, Brazil",
+      "email": "diego@t3w.io",
+      "name": "Diego Fincatto"
+    },
+    "description": "T3w Tecnologia",
+    "url": "https://t3w.io"
+  },
+  {
     "code": "TAM",
     "description": "Tamasa Distribution",
     "url": "https://www.tamasa-cinema.com/"
