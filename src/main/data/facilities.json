@@ -3204,6 +3204,11 @@
     "url": "https://humanitymeg.com"
   },
   {
+    "code": "HHM",
+    "description": "HANSENHOUSE MEDIA LLC",
+    "url": "https://www.hansenhousemedia.com"
+  },
+  {
     "code": "HHP",
     "description": "Happy Hour Productions",
     "url": "https://happyhourproductions.co.uk/"
@@ -4426,6 +4431,11 @@
   {
     "code": "MOR",
     "description": "MORDISCO FILMS"
+  },
+  {
+    "code": "MOS",
+    "description": "MOSAIC Post Production",
+    "url": "http://colorbymosaic.com"
   },
   {
     "code": "MOT",
