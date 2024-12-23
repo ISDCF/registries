@@ -480,6 +480,16 @@
     "url": "https://bleat.tv"
   },
   {
+    "code": "BLDR",
+    "contact": {
+      "address": "Buikslotermeerplein 161, 1025 ET Amsterdam, Netherlands",
+      "email": "info@blender.org",
+      "name": "Ton Roosendaal"
+    },
+    "description": "Blender Foundation",
+    "url": "https://www.blender.org/about/foundation/"
+  },
+  {
     "code": "BLNK",
     "description": "BLANKTAPE"
   },
