@@ -536,6 +536,16 @@
     "description": "AV GRID"
   },
   {
+    "code": "AVI",
+    "contact": {
+      "address": "8 Imp. Mousset, 75012 Paris, France",
+      "email": "contact@avidia.fr",
+      "name": "Mr Serge Alves"
+    },
+    "description": "AVIDIA",
+    "url": "http://www.avidia.fr/"
+  },
+  {
     "code": "AVM",
     "contact": {
       "address": "Str Parangului 76, Bucharest, Romania, 012328",
