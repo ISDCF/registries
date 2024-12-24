@@ -1527,6 +1527,16 @@
     ]
   },
   {
+    "code": "CSM",
+    "contact": {
+      "address": "1 Granary Square, King's Cross, London, N1C 4AA, England",
+      "email": "caneyeceem@gmail.com",
+      "name": "Ms. Maryam"
+    },
+    "description": "Central Saint Martins",
+    "url": "https://www.arts.ac.uk/colleges/central-saint-martins"
+  },
+  {
     "code": "CSP",
     "description": "CINESYNC POLAND"
   },
