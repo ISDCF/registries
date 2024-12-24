@@ -536,6 +536,16 @@
     "description": "AV GRID"
   },
   {
+    "code": "AVI",
+    "contact": {
+      "address": "8 Imp. Mousset, 75012 Paris, France",
+      "email": "contact@avidia.fr",
+      "name": "Mr Serge Alves"
+    },
+    "description": "AVIDIA",
+    "url": "http://www.avidia.fr/"
+  },
+  {
     "code": "AVM",
     "contact": {
       "address": "Str Parangului 76, Bucharest, Romania, 012328",
@@ -1589,6 +1599,16 @@
   {
     "code": "CXF",
     "description": "COMPLEXION FILMS"
+  },
+  {
+    "code": "CYM",
+    "contact": {
+      "address": "Gedempt Hamerkanaal 155, 1021 KP Amsterdam, Netherlands",
+      "email": "marco@catchyourmoment.nl",
+      "name": "Marco Lubbers"
+    },
+    "description": "Catch Your Moment",
+    "url": "https://catchyourmoment.nl/"
   },
   {
     "code": "CYN",
@@ -3204,6 +3224,11 @@
     "url": "https://humanitymeg.com"
   },
   {
+    "code": "HHM",
+    "description": "HANSENHOUSE MEDIA LLC",
+    "url": "https://www.hansenhousemedia.com"
+  },
+  {
     "code": "HHP",
     "description": "Happy Hour Productions",
     "url": "https://happyhourproductions.co.uk/"
@@ -4426,6 +4451,11 @@
   {
     "code": "MOR",
     "description": "MORDISCO FILMS"
+  },
+  {
+    "code": "MOS",
+    "description": "MOSAIC Post Production",
+    "url": "http://colorbymosaic.com"
   },
   {
     "code": "MOT",
@@ -6046,6 +6076,11 @@
   {
     "code": "SLD",
     "description": "SOLUCIONES DVD"
+  },
+  {
+    "code": "SLF",
+    "description": "Skyline Finishing",
+    "url": "https://skylinefinishing.com"
   },
   {
     "code": "SLG",
