@@ -527,6 +527,16 @@
     "url": "https://bluepost.com.au"
   },
   {
+    "code": "BPW",
+    "contact": {
+      "address": "603, Matruchhaya, New Link Road Ext, Oshiwara, Andheri West, Mumbai 400102, India",
+      "email": "sid@bridgepostworks.com",
+      "name": "Sidharth Ameer"
+    },
+    "description": "Bridge PostWorks",
+    "url": "https://www.bridgepostworks.com"
+  },
+  {
     "code": "BRM",
     "description": "BERRYMOUNT AUTOMATION"
   },
