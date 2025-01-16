@@ -2715,6 +2715,11 @@
     "description": "RELITA"
   },
   {
+    "code": "RTC",
+    "description": "Rita Cine",
+    "url": "http://www.ritacine.com.ar"
+  },
+  {
     "code": "RVS",
     "contact": {
       "address": "43B Cottenham Road, London UK",
