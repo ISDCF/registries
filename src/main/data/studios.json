@@ -312,6 +312,11 @@
     "url": "https://studios.aalto.fi/"
   },
   {
+    "code": "AT",
+    "description": "Adrian Țofei",
+    "url": "https://adriantofei.com"
+  },
+  {
     "code": "ATF",
     "description": "ASIA TROPICAL FILMS"
   },
@@ -535,6 +540,16 @@
     "code": "BPS",
     "description": "Blue Post",
     "url": "https://bluepost.com.au"
+  },
+  {
+    "code": "BPW",
+    "contact": {
+      "address": "603, Matruchhaya, New Link Road Ext, Oshiwara, Andheri West, Mumbai 400102, India",
+      "email": "sid@bridgepostworks.com",
+      "name": "Sidharth Ameer"
+    },
+    "description": "Bridge PostWorks",
+    "url": "https://www.bridgepostworks.com"
   },
   {
     "code": "BRM",
