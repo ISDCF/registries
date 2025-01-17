@@ -4104,6 +4104,16 @@
     ]
   },
   {
+    "code": "LUX",
+    "contact": {
+      "address": "Graniidi 29-4, 10413 Tallinn, Estonia",
+      "email": "luxfilm@luxfilm.ee",
+      "name": "Priit Pääsuke"
+    },
+    "description": "LUXFILM OÜ",
+    "url": "https://luxfilm.ee"
+  },
+  {
     "code": "LV",
     "description": "LightVAULT"
   },
