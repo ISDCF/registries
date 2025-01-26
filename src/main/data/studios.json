@@ -2135,6 +2135,16 @@
     "description": "MAGNA MANA PRODUCTION"
   },
   {
+    "code": "MNS",
+    "contact": {
+      "address": "Bd. Dinicu Golescu Nr.9, Et.1, Ap.1, Int.01, Sect.1, Bucharest, 010862, Romania",
+      "email": "angel.angelescu@mercenar.com",
+      "name": "Mr. Angel Angelescu"
+    },
+    "description": "Mercenar Studios",
+    "url": "https://www.mercenar.com"
+  },
+  {
     "code": "MODE",
     "contact": {
       "address": "2830 W. Fountain Blvd. Tampa, FL USA",
