@@ -657,6 +657,11 @@
     "description": "CONSTANTIN FILM VERLEIH"
   },
   {
+    "code": "CFZG",
+    "description": "Croatia Film",
+    "url": "https://www.croatia-film.hr/"
+  },
+  {
     "code": "CGG",
     "contact": {
       "address": "Rue du Pré-Bouvier 9, 1242 Satigny, Switzerland",
