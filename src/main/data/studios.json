@@ -1284,6 +1284,16 @@
     "url": "https://www.pigouilleprod.com"
   },
   {
+    "code": "FRSP",
+    "contact": {
+      "address": "17 Avenue Des Fleurs, 06000 Nice, France",
+      "email": "prod@freespiritpictures.com",
+      "name": "Lassana Lestin"
+    },
+    "description": "FreeSpirit Pictures",
+    "url": "https://www.freespiritpictures.com/"
+  },
+  {
     "code": "FSFE",
     "contact": {
       "address": "Schönhauser Allee 6-7, 10119 Berlin, Germany",
