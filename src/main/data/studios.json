@@ -1632,6 +1632,11 @@
     "url": "https://hulu.com"
   },
   {
+    "code": "HWY",
+    "description": "HanWay Films",
+    "url": "https://www.hanwayfilms.com"
+  },
+  {
     "code": "HYST",
     "contact": {
       "address": "7-1 Brock Avenue, Toronto, Ontario, Canada M6K 2K6",
