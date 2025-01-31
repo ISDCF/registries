@@ -1475,6 +1475,11 @@
     "description": "GRAMERCY PICTURES"
   },
   {
+    "code": "GRU",
+    "description": "Les Cinémas du Grütli",
+    "url": "https://www.cinemas-du-grutli.ch"
+  },
+  {
     "code": "GSA",
     "contact": {
       "address": "ul. Łąkowa 35/38, 80-769 Gdańsk, Poland",
