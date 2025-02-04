@@ -1475,6 +1475,11 @@
     "description": "GRAMERCY PICTURES"
   },
   {
+    "code": "GRU",
+    "description": "Les Cinémas du Grütli",
+    "url": "https://www.cinemas-du-grutli.ch"
+  },
+  {
     "code": "GSA",
     "contact": {
       "address": "ul. Łąkowa 35/38, 80-769 Gdańsk, Poland",
@@ -1630,6 +1635,11 @@
     },
     "description": "Hulu",
     "url": "https://hulu.com"
+  },
+  {
+    "code": "HWY",
+    "description": "HanWay Films",
+    "url": "https://www.hanwayfilms.com"
   },
   {
     "code": "HYST",
@@ -2330,6 +2340,16 @@
   {
     "code": "NIM",
     "description": "NIMIC PRODUCTIONS"
+  },
+  {
+    "code": "NITR",
+    "contact": {
+      "address": "30 Glenn Street, Ste 402, White Plains, NY 10603, USA",
+      "email": "paul@nitrous.tv",
+      "name": "Paul c. Rosen"
+    },
+    "description": "Nitrous Ltd",
+    "url": "https://www.nitrous.tv"
   },
   {
     "code": "NLTS",
