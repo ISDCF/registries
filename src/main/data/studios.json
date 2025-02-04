@@ -878,6 +878,16 @@
     "description": "DCI KOMPETENZZENTRUM"
   },
   {
+    "code": "DCTV",
+    "contact": {
+      "address": "87 Lafayette Street, New York, NY 10013, USA",
+      "email": "erik@dctvny.org",
+      "name": "Erik Piil"
+    },
+    "description": "DCTV",
+    "url": "https://www.dctvny.org/"
+  },
+  {
     "code": "DDF",
     "contact": {
       "address": "Theodor Christensens Pl. 1, 1437 København, Copenhagen, Denmark",
