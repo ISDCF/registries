@@ -1009,6 +1009,11 @@
     "description": "CODICINE"
   },
   {
+    "code": "CDG",
+    "description": "Lucas Zibung",
+    "url": "https://www.cinemas-du-grutli.ch"
+  },
+  {
     "code": "CDI",
     "description": "COSMODIGITAL"
   },
