@@ -1009,6 +1009,11 @@
     "description": "CODICINE"
   },
   {
+    "code": "CDG",
+    "description": "Lucas Zibung",
+    "url": "https://www.cinemas-du-grutli.ch"
+  },
+  {
     "code": "CDI",
     "description": "COSMODIGITAL"
   },
@@ -5678,6 +5683,11 @@
     "code": "ROJ",
     "description": "ROJO Studio",
     "url": "https://www.wearerojo.com"
+  },
+  {
+    "code": "RON",
+    "description": "Rondo Media",
+    "url": "https://rondo.cymru"
   },
   {
     "code": "RPC",
