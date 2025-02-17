@@ -2104,8 +2104,14 @@
     "description": "DCP MOVIES"
   },
   {
-    "code": "DPP",
-    "description": "DIVO POST PRODUCTION"
+    "code": "DPP", 
+    "contact": {
+      "address": "Svend Trøsts Vej 19a, 1912 Frederiksberg, Denmark",
+      "email": "support@divopost.dk",
+      "name": "PETER RONGSTED"
+    },
+    "description": "DIVO POST PRODUCTION",
+    "url": "https://divopost.dk"
   },
   {
     "code": "DPS",
