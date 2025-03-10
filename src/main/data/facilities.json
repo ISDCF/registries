@@ -7122,6 +7122,16 @@
     "description": "Visom"
   },
   {
+    "code": "VWS",
+    "contact": {
+      "address": "Gutenbergstrasse 10a, CH-3011 Bern, Switzerland",
+      "email": "pierre@videowerkstatt.ch",
+      "name": "Pierre Reischer"
+    },
+    "description": "Videowerkstatt Bern",
+    "url": "https://www.videowerkstatt.ch"
+  },
+  {
     "code": "VXR",
     "contact": {
       "address": "4120 Piaffe Ave, Mint Hill, North Carolina USA",
