@@ -3448,6 +3448,10 @@
     "url": "https://www.visitfilms.com"
   },
   {
+    "code": "VFS",
+    "description": "VFS FILMS"
+  },
+  {
     "code": "VFX",
     "contact": {
       "address": "Seeböckgasse 59/1A/2, Vienna, Austria",
@@ -3456,10 +3460,6 @@
     },
     "description": "viennaFX postproduction",
     "url": "https://www.vfx.at/"
-  },
-  {
-    "code": "VFS",
-    "description": "VFS FILMS"
   },
   {
     "code": "VHE",
