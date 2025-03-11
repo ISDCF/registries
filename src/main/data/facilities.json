@@ -1140,6 +1140,11 @@
     "description": "CHROMA MEDIA"
   },
   {
+    "code": "CHV",
+    "description": "Copenhagen Visual",
+    "url": "https://copenhagenvisual.com/"
+  },
+  {
     "code": "CIB",
     "description": "CineFuture Budapest"
   },
