@@ -1179,6 +1179,11 @@
     "url": "https://www.fandor.com"
   },
   {
+    "code": "FAS",
+    "description": "Faustian Productions",
+    "url": "https://www.instagram.com/faustianp"
+  },
+  {
     "code": "FB",
     "description": "FILM BILDER"
   },
@@ -1199,7 +1204,13 @@
   },
   {
     "code": "FE",
-    "description": "FATHOM EVENTS"
+    "contact": {
+      "address": "6465 Greenwood Plaza Blvd., Suite 550, Centennial CO 80111, USA",
+      "email": "jbarrickman@fathomentertainment.com",
+      "name": "Jonathan Barrickman"
+    },
+    "description": "Fathom Entertainment",
+    "url": "http://www.fathomentertainment.com"
   },
   {
     "code": "FF",
@@ -2676,6 +2687,11 @@
     "description": "PRIMEWORKS"
   },
   {
+    "code": "PWB",
+    "description": "Photographers Without Borders",
+    "url": "https://www.photographerswithoutborders.org/"
+  },
+  {
     "code": "PWE",
     "description": "Parkwood Entertainment",
     "url": "https://www.beyonce.com"
@@ -3461,6 +3477,16 @@
     "description": "VFS FILMS"
   },
   {
+    "code": "VFX",
+    "contact": {
+      "address": "Seeböckgasse 59/1A/2, Vienna, Austria",
+      "email": "f.w@vfx.at",
+      "name": "Christian Vollenhofer-Rohlfing"
+    },
+    "description": "viennaFX postproduction",
+    "url": "https://www.vfx.at/"
+  },
+  {
     "code": "VHE",
     "contact": {
       "address": "Postbus 146, 3360 AC Sliedrecht, Netherlands",
@@ -3477,6 +3503,10 @@
   {
     "code": "VIE",
     "description": "viennaFX postproduction",
+    "obsolete": true,
+    "obsoletedBy": [
+      "VFX"
+    ],
     "url": "https://www.vfx.at"
   },
   {
