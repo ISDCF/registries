@@ -3463,6 +3463,16 @@
     "description": "VFS FILMS"
   },
   {
+    "code": "VFX",
+    "contact": {
+      "address": "Seeböckgasse 59/1A/2, Vienna, Austria",
+      "email": "f.w@vfx.at",
+      "name": "Christian Vollenhofer-Rohlfing"
+    },
+    "description": "viennaFX postproduction",
+    "url": "https://www.vfx.at/"
+  },
+  {
     "code": "VHE",
     "contact": {
       "address": "Postbus 146, 3360 AC Sliedrecht, Netherlands",
@@ -3479,6 +3489,10 @@
   {
     "code": "VIE",
     "description": "viennaFX postproduction",
+    "obsolete": true,
+    "obsoletedBy": [
+      "VFX"
+    ],
     "url": "https://www.vfx.at"
   },
   {
