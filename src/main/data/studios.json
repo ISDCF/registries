@@ -1199,7 +1199,13 @@
   },
   {
     "code": "FE",
-    "description": "FATHOM EVENTS"
+    "contact": {
+      "address": "6465 Greenwood Plaza Blvd. Suite 550 Centennial, CO 80111 USA",
+      "email": "jbarrickman@fathomentertainment.com",
+      "name": "Jonathan Barrickman"
+    },
+    "description": "Fathom Entertainment",
+    "url": "http://www.fathomentertainment.com"
   },
   {
     "code": "FF",
