@@ -3478,11 +3478,11 @@
   {
     "code": "VIE",
     "description": "viennaFX postproduction",
-    "url": "https://www.vfx.at",
     "obsolete": true,
     "obsoletedBy": [
       "VFX"
-    ]
+    ],
+    "url": "https://www.vfx.at"
   },
   {
     "code": "VPP",
