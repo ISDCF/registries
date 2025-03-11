@@ -1140,6 +1140,11 @@
     "description": "CHROMA MEDIA"
   },
   {
+    "code": "CHV",
+    "description": "Copenhagen Visual",
+    "url": "https://copenhagenvisual.com/"
+  },
+  {
     "code": "CIB",
     "description": "CineFuture Budapest"
   },
@@ -2687,7 +2692,13 @@
   },
   {
     "code": "FE",
-    "description": "FATHOM EVENTS"
+    "contact": {
+      "address": "6465 Greenwood Plaza Blvd. Suite 550 Centennial, CO 80111, USA",
+      "email": "jbarrickman@fathomentertainment.com",
+      "name": "Jonathan Barrickman"
+    },
+    "description": "Fathom Entertainment",
+    "url": "http://www.fathomentertainment.com"
   },
   {
     "code": "FF",
@@ -7120,6 +7131,16 @@
   {
     "code": "VSO",
     "description": "Visom"
+  },
+  {
+    "code": "VWS",
+    "contact": {
+      "address": "Gutenbergstrasse 10a, CH-3011 Bern, Switzerland",
+      "email": "pierre@videowerkstatt.ch",
+      "name": "Pierre Reischer"
+    },
+    "description": "Videowerkstatt Bern",
+    "url": "https://www.videowerkstatt.ch"
   },
   {
     "code": "VXR",
