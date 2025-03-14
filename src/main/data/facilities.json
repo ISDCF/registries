@@ -209,7 +209,13 @@
   },
   {
     "code": "AE",
-    "description": "Automatic Earth"
+    "contact": {
+      "address": "3392 Sherbourne St., Suite 306, Toronto, ON M4X 1K3, Canada",
+      "email": "adam@automaticearthpost.com",
+      "name": "Adam Hunt"
+    },
+    "description": "Automatic Earth",
+    "url": "https://www.automaticearthpost.com/"
   },
   {
     "code": "AFA",
