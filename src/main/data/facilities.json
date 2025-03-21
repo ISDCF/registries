@@ -4752,6 +4752,16 @@
     "description": "NDG Studios"
   },
   {
+    "code": "NDL",
+    "contact": {
+      "address": "Calle 159A #22-06, Bogotá, Colombia",
+      "email": "sebastianparrarr@gmail.com",
+      "name": "Sebastian Parra R."
+    },
+    "description": "Numa Digital Lab",
+    "url": "https://www.instagram.com/numa.color"
+  },
+  {
     "code": "NET",
     "description": "NETFLIX"
   },
