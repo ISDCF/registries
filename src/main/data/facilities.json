@@ -3287,6 +3287,16 @@
     "description": "HOCUS FOCUS (OSLO)"
   },
   {
+    "code": "HFS",
+    "contact": {
+      "address": "4 Rue Maillard, 75011 Paris, France",
+      "email": "alex.s@highfun.com",
+      "name": "Alexandre Sadowsky"
+    },
+    "description": "High Fun Services",
+    "url": "http://www.highfun.com/"
+  },
+  {
     "code": "HG",
     "description": "Humanity Media & Entertainment Group",
     "url": "https://humanitymeg.com"
