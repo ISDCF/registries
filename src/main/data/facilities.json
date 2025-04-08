@@ -1797,6 +1797,11 @@
     "description": "DCP FACTORY"
   },
   {
+    "code": "DCG",
+    "description": "DCP Generator",
+    "url": "https://www.dcpgenerator.com"
+  },
+  {
     "code": "DCK",
     "description": "DCI KOMPETENZZENTRUM"
   },
