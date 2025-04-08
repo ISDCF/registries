@@ -52,6 +52,11 @@
     "url": "https://www.facebook.com/profile.php?id=100083819267739"
   },
   {
+    "code": "528",
+    "description": "528 Evenings Media",
+    "url": "https://528evenings.com/"
+  },
+  {
     "code": "83F",
     "contact": {
       "address": "R. Antonio Marinho Correia, 140 - Jardim Cidade Universitária, João Pessoa - PB, 58052-569, Brazil",
@@ -2758,6 +2763,11 @@
   {
     "code": "RED",
     "description": "RED COMMUNICATIONS"
+  },
+  {
+    "code": "RED7",
+    "description": "Red 7 Productions",
+    "url": "https://red7productions.com"
   },
   {
     "code": "REJ",
