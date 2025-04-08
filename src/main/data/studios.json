@@ -3629,6 +3629,16 @@
     "url": "https://www.will-production.com"
   },
   {
+    "code": "WK",
+    "contact": {
+      "address": "Karl-Tauchnitz-Straße 6, 04107 Leipzig, Germany",
+      "email": "cgoldacker@weltkino.de",
+      "name": "Mrs. Conny Goldacker"
+    },
+    "description": "Weltkino Filmverleih",
+    "url": "https://www.weltkino.de/"
+  },
+  {
     "code": "WLDS",
     "description": "WORLDS",
     "url": "https://changeworlds.org"
