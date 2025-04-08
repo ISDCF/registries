@@ -1797,6 +1797,11 @@
     "description": "DCP FACTORY"
   },
   {
+    "code": "DCG",
+    "description": "DCP Generator",
+    "url": "https://www.dcpgenerator.com"
+  },
+  {
     "code": "DCK",
     "description": "DCI KOMPETENZZENTRUM"
   },
@@ -3287,6 +3292,16 @@
     "description": "HOCUS FOCUS (OSLO)"
   },
   {
+    "code": "HFS",
+    "contact": {
+      "address": "4 Rue Maillard, 75011 Paris, France",
+      "email": "alex.s@highfun.com",
+      "name": "Alexandre Sadowsky"
+    },
+    "description": "High Fun Services",
+    "url": "http://www.highfun.com/"
+  },
+  {
     "code": "HG",
     "description": "Humanity Media & Entertainment Group",
     "url": "https://humanitymeg.com"
@@ -4342,6 +4357,16 @@
   {
     "code": "MEL",
     "description": "MELS STUDIOS AND POSTPRODUCTION"
+  },
+  {
+    "code": "MER",
+    "contact": {
+      "address": "45 Charles St, Norwood SA 5067, Australia",
+      "email": "edit@merlinpost.com.au",
+      "name": "Benjamin Day"
+    },
+    "description": "Merlin Post Production",
+    "url": "https://www.merlinpost.com.au"
   },
   {
     "code": "MET",
@@ -6492,6 +6517,11 @@
     "code": "T6M",
     "description": "Tycho6 Media UG",
     "url": "http://www.tycho6media.com"
+  },
+  {
+    "code": "TAL",
+    "description": "Tales Untold",
+    "url": "https://talesuntold-agency.com/"
   },
   {
     "code": "TAT",
