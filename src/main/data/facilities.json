@@ -4359,6 +4359,16 @@
     "description": "MELS STUDIOS AND POSTPRODUCTION"
   },
   {
+    "code": "MER",
+    "contact": {
+      "address": "45 Charles St, Norwood SA 5067, Australia",
+      "email": "edit@merlinpost.com.au",
+      "name": "Benjamin Day"
+    },
+    "description": "Merlin Post Production",
+    "url": "https://www.merlinpost.com.au"
+  },
+  {
     "code": "MET",
     "description": "Metropolis Post Facility"
   },
