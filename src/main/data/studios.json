@@ -776,6 +776,11 @@
     "description": "CINERAMA"
   },
   {
+    "code": "COA",
+    "description": "COA Pictures",
+    "url": "https://coapictures.com"
+  },
+  {
     "code": "CON",
     "description": "Conic",
     "url": "https://www.conic.film"
