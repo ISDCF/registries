@@ -776,6 +776,11 @@
     "description": "CINERAMA"
   },
   {
+    "code": "COA",
+    "description": "COA Pictures",
+    "url": "https://coapictures.com"
+  },
+  {
     "code": "CON",
     "description": "Conic",
     "url": "https://www.conic.film"
@@ -947,6 +952,16 @@
   {
     "code": "DI",
     "description": "Disney"
+  },
+  {
+    "code": "DI3",
+    "contact": {
+      "address": "32, Dolgoji-ro 8ga-gil, Seongbuk-gu, Seoul, Republic of Korea",
+      "email": "urdivinefactory@gmail.com",
+      "name": "Divine Sung"
+    },
+    "description": "A Divine Film",
+    "url": "https://www.instagram.com/summerscameramovie/"
   },
   {
     "code": "DIAP",
@@ -1143,6 +1158,16 @@
   {
     "code": "EQF",
     "description": "EQUINOXE FILMS"
+  },
+  {
+    "code": "ESP",
+    "contact": {
+      "address": "The Old Dairy, Walk Farm, Frampton on severn, Gloucestershire GL2 7PR, UK",
+      "email": "daveblackham@espritfilm.co.uk",
+      "name": "Dave Blackham"
+    },
+    "description": "Esprit Film and Television Limited",
+    "url": "https://www.espritfilm.co.uk"
   },
   {
     "code": "EVDN",
@@ -1377,6 +1402,16 @@
   {
     "code": "FU",
     "description": "SOFT Falmouth University UK"
+  },
+  {
+    "code": "FUB",
+    "contact": {
+      "address": "Marlene-Dietrich-Allee 11, D-14482 Potsdam-Babelsberg, Germany",
+      "email": "u.kunz@filmuniversitaet.de",
+      "name": "Uli Kunz"
+    },
+    "description": "Film University Babelsberg",
+    "url": "https://www.filmuniversitaet.de/"
   },
   {
     "code": "FV",
@@ -1614,7 +1649,11 @@
   },
   {
     "code": "HFF",
-    "description": "HFF KONRAD WOLF"
+    "description": "HFF KONRAD WOLF",
+    "obsolete": true,
+    "obsoletedBy": [
+      "FUB"
+    ]
   },
   {
     "code": "HFFM",
