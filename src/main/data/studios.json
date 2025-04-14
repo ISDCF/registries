@@ -1377,7 +1377,7 @@
   {
     "code": "FU",
     "description": "SOFT Falmouth University UK"
-  },  
+  },
   {
     "code": "FUB",
     "contact": {
@@ -1625,7 +1625,7 @@
   {
     "code": "HFF",
     "description": "HFF KONRAD WOLF",
-      "obsolete": true,
+    "obsolete": true,
     "obsoletedBy": [
       "FUB"
     ]
