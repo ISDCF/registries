@@ -1377,6 +1377,16 @@
   {
     "code": "FU",
     "description": "SOFT Falmouth University UK"
+  },  
+  {
+    "code": "FUB",
+    "contact": {
+      "address": "Marlene-Dietrich-Allee 11, D-14482 Potsdam-Babelsberg, Germany",
+      "email": "u.kunz@filmuniversitaet.de",
+      "name": "Uli Kunz"
+    },
+    "description": "Film University Babelsberg",
+    "url": "https://www.filmuniversitaet.de/"
   },
   {
     "code": "FV",
@@ -1614,7 +1624,11 @@
   },
   {
     "code": "HFF",
-    "description": "HFF KONRAD WOLF"
+    "description": "HFF KONRAD WOLF",
+      "obsolete": true,
+    "obsoletedBy": [
+      "FUB"
+    ]
   },
   {
     "code": "HFFM",
