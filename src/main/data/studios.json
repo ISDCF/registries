@@ -776,6 +776,11 @@
     "description": "CINERAMA"
   },
   {
+    "code": "COA",
+    "description": "COA Pictures",
+    "url": "https://coapictures.com"
+  },
+  {
     "code": "CON",
     "description": "Conic",
     "url": "https://www.conic.film"
@@ -947,6 +952,16 @@
   {
     "code": "DI",
     "description": "Disney"
+  },
+  {
+    "code": "DI3",
+    "contact": {
+      "address": "32, Dolgoji-ro 8ga-gil, Seongbuk-gu, Seoul, Republic of Korea",
+      "email": "urdivinefactory@gmail.com",
+      "name": "Divine Sung"
+    },
+    "description": "A Divine Film",
+    "url": "https://www.instagram.com/summerscameramovie/"
   },
   {
     "code": "DIAP",
@@ -1389,6 +1404,16 @@
     "description": "SOFT Falmouth University UK"
   },
   {
+    "code": "FUB",
+    "contact": {
+      "address": "Marlene-Dietrich-Allee 11, D-14482 Potsdam-Babelsberg, Germany",
+      "email": "u.kunz@filmuniversitaet.de",
+      "name": "Uli Kunz"
+    },
+    "description": "Film University Babelsberg",
+    "url": "https://www.filmuniversitaet.de/"
+  },
+  {
     "code": "FV",
     "description": "Fractured Visions",
     "url": "https://www.fracvis.co.uk"
@@ -1624,7 +1649,11 @@
   },
   {
     "code": "HFF",
-    "description": "HFF KONRAD WOLF"
+    "description": "HFF KONRAD WOLF",
+    "obsolete": true,
+    "obsoletedBy": [
+      "FUB"
+    ]
   },
   {
     "code": "HFFM",
