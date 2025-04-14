@@ -1807,6 +1807,11 @@
     "description": "DCP FACTORY"
   },
   {
+    "code": "DCG",
+    "description": "DCP Generator",
+    "url": "https://www.dcpgenerator.com"
+  },
+  {
     "code": "DCK",
     "description": "DCI KOMPETENZZENTRUM"
   },
@@ -1957,6 +1962,16 @@
   {
     "code": "DI",
     "description": "digital images GmbH"
+  },
+  {
+    "code": "DI7",
+    "contact": {
+      "address": "32, Dolgoji-ro 8ga-gil, Seongbuk-gu, Seoul, Republic of Korea",
+      "email": "urdivinefactory@gmail.com",
+      "name": "A Divine Film"
+    },
+    "description": "THE FIN",
+    "url": "https://www.instagram.com/summerscameramovie/"
   },
   {
     "code": "DIC",
@@ -3061,6 +3076,11 @@
     "description": "GDC TECHNOLOGY LIMITED"
   },
   {
+    "code": "GEL",
+    "description": "Gelert Post Production",
+    "url": "https://www.gelert.tv"
+  },
+  {
     "code": "GF",
     "description": "GENESIS FILM"
   },
@@ -3295,6 +3315,16 @@
   {
     "code": "HFO",
     "description": "HOCUS FOCUS (OSLO)"
+  },
+  {
+    "code": "HFS",
+    "contact": {
+      "address": "4 Rue Maillard, 75011 Paris, France",
+      "email": "alex.s@highfun.com",
+      "name": "Alexandre Sadowsky"
+    },
+    "description": "High Fun Services",
+    "url": "http://www.highfun.com/"
   },
   {
     "code": "HG",
@@ -3783,6 +3813,16 @@
   {
     "code": "KFA",
     "description": "KURZFILMAGENTUR HAMBURG"
+  },
+  {
+    "code": "KFF",
+    "contact": {
+      "address": "Bodenstedtstraße 16, 22761 Hamburg, Germany",
+      "email": "print@shortfilm.com",
+      "name": "Sebastian Apel"
+    },
+    "description": "KURZFILM FESTIVAL HAMBURG",
+    "url": "https://festival.shortfilm.com/"
   },
   {
     "code": "KFM",
@@ -4352,6 +4392,16 @@
   {
     "code": "MEL",
     "description": "MELS STUDIOS AND POSTPRODUCTION"
+  },
+  {
+    "code": "MER",
+    "contact": {
+      "address": "45 Charles St, Norwood SA 5067, Australia",
+      "email": "edit@merlinpost.com.au",
+      "name": "Benjamin Day"
+    },
+    "description": "Merlin Post Production",
+    "url": "https://www.merlinpost.com.au"
   },
   {
     "code": "MET",
@@ -6485,6 +6535,11 @@
     "description": "Synchro"
   },
   {
+    "code": "T3F",
+    "description": "The 3rd Films LLC",
+    "url": "https://www.the3rdfilms.com/"
+  },
+  {
     "code": "T6",
     "contact": {
       "address": "2F 129 Scout Rallos Extension, 1103 Quezon City, Philippines",
@@ -6502,6 +6557,11 @@
     "code": "T6M",
     "description": "Tycho6 Media UG",
     "url": "http://www.tycho6media.com"
+  },
+  {
+    "code": "TAL",
+    "description": "Tales Untold",
+    "url": "https://talesuntold-agency.com/"
   },
   {
     "code": "TAT",

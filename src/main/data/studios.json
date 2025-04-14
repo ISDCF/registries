@@ -52,6 +52,11 @@
     "url": "https://www.facebook.com/profile.php?id=100083819267739"
   },
   {
+    "code": "528",
+    "description": "528 Evenings Media",
+    "url": "https://528evenings.com/"
+  },
+  {
     "code": "83F",
     "contact": {
       "address": "R. Antonio Marinho Correia, 140 - Jardim Cidade Universitária, João Pessoa - PB, 58052-569, Brazil",
@@ -771,6 +776,11 @@
     "description": "CINERAMA"
   },
   {
+    "code": "COA",
+    "description": "COA Pictures",
+    "url": "https://coapictures.com"
+  },
+  {
     "code": "CON",
     "description": "Conic",
     "url": "https://www.conic.film"
@@ -942,6 +952,16 @@
   {
     "code": "DI",
     "description": "Disney"
+  },
+  {
+    "code": "DI3",
+    "contact": {
+      "address": "32, Dolgoji-ro 8ga-gil, Seongbuk-gu, Seoul, Republic of Korea",
+      "email": "urdivinefactory@gmail.com",
+      "name": "Divine Sung"
+    },
+    "description": "A Divine Film",
+    "url": "https://www.instagram.com/summerscameramovie/"
   },
   {
     "code": "DIAP",
@@ -1138,6 +1158,16 @@
   {
     "code": "EQF",
     "description": "EQUINOXE FILMS"
+  },
+  {
+    "code": "ESP",
+    "contact": {
+      "address": "The Old Dairy, Walk Farm, Frampton on severn, Gloucestershire GL2 7PR, UK",
+      "email": "daveblackham@espritfilm.co.uk",
+      "name": "Dave Blackham"
+    },
+    "description": "Esprit Film and Television Limited",
+    "url": "https://www.espritfilm.co.uk"
   },
   {
     "code": "EVDN",
@@ -1372,6 +1402,16 @@
   {
     "code": "FU",
     "description": "SOFT Falmouth University UK"
+  },
+  {
+    "code": "FUB",
+    "contact": {
+      "address": "Marlene-Dietrich-Allee 11, D-14482 Potsdam-Babelsberg, Germany",
+      "email": "u.kunz@filmuniversitaet.de",
+      "name": "Uli Kunz"
+    },
+    "description": "Film University Babelsberg",
+    "url": "https://www.filmuniversitaet.de/"
   },
   {
     "code": "FV",
@@ -1609,7 +1649,11 @@
   },
   {
     "code": "HFF",
-    "description": "HFF KONRAD WOLF"
+    "description": "HFF KONRAD WOLF",
+    "obsolete": true,
+    "obsoletedBy": [
+      "FUB"
+    ]
   },
   {
     "code": "HFFM",
@@ -2321,6 +2365,16 @@
     "url": "https://muchomasmedia.com"
   },
   {
+    "code": "MWC",
+    "contact": {
+      "address": "Beacon House, Queens Road, Bristol, BS8 1QU, UK",
+      "email": "info@myworld-creates.com",
+      "name": "csdmb@bris.ac.uk"
+    },
+    "description": "My World Creates University of Bristol",
+    "url": "https://www.myworld-creates.com"
+  },
+  {
     "code": "MZB",
     "description": "MUZEBAT Media",
     "url": "https://www.muzebat.com"
@@ -2758,6 +2812,11 @@
   {
     "code": "RED",
     "description": "RED COMMUNICATIONS"
+  },
+  {
+    "code": "RED7",
+    "description": "Red 7 Productions",
+    "url": "https://red7productions.com"
   },
   {
     "code": "REJ",
@@ -3617,6 +3676,16 @@
     "code": "WILL",
     "description": "WILL PRODUCTION",
     "url": "https://www.will-production.com"
+  },
+  {
+    "code": "WK",
+    "contact": {
+      "address": "Karl-Tauchnitz-Straße 6, 04107 Leipzig, Germany",
+      "email": "cgoldacker@weltkino.de",
+      "name": "Mrs. Conny Goldacker"
+    },
+    "description": "Weltkino Filmverleih",
+    "url": "https://www.weltkino.de/"
   },
   {
     "code": "WLDS",
