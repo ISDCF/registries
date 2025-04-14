@@ -949,6 +949,16 @@
     "description": "Disney"
   },
   {
+    "code": "DI3",
+    "contact": {
+      "address": "32, Dolgoji-ro 8ga-gil, Seongbuk-gu, Seoul, Republic of Korea",
+      "email": "urdivinefactory@gmail.com",
+      "name": "Divine Sung"
+    },
+    "description": "A Divine Film",
+    "url": "https://www.instagram.com/summerscameramovie/"
+  },
+  {
     "code": "DIAP",
     "description": "Diaphana",
     "url": "https://diaphana.fr/"
