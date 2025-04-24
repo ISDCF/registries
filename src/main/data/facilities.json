@@ -4380,6 +4380,16 @@
     "description": "MDI MARGUTTA DIGITAL INTERNATIONAL SRL"
   },
   {
+    "code": "ME",
+    "contact": {
+      "address": "Am Coloneum 1, 50829 Köln, GERMANY",
+      "email": "florian.peters@mmc.de",
+      "name": "Mr. Florian Peters"
+    },
+    "description": "Magic Eye - MMC Studios",
+    "url": "https://magiceye.de"
+  },
+  {
     "code": "MEF",
     "contact": {
       "address": "32 rue Titon, 75011 Paris, France",
