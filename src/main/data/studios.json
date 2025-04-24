@@ -2011,6 +2011,16 @@
     "description": "Lantern Entertainment"
   },
   {
+    "code": "LAP",
+    "contact": {
+      "address": "189 S 9th St Apt 29, Brooklyn NY 11211-6011, USA",
+      "email": "sasha@laundrymenproductions.com",
+      "name": "Sasha Shapiro"
+    },
+    "description": "Laundrymen Productions",
+    "url": "https://www.laundrymenproductions.com/"
+  },
+  {
     "code": "LC",
     "description": "Laboratório Cisco",
     "url": "https://www.laboratoriocisco.org/"
