@@ -6354,6 +6354,16 @@
     "description": "SPECTICAST ENTERTAINMENT"
   },
   {
+    "code": "SPF",
+    "contact": {
+      "address": "Økernveien 121, 0579 Oslo, NORWAY",
+      "email": "andreas@spindelfilm.no",
+      "name": "Andreas Hovde"
+    },
+    "description": "Spindel Film",
+    "url": "https://www.spindelfilm.no/"
+  },
+  {
     "code": "SPI",
     "description": "SONY PICTURES IMAGEWORKS"
   },
