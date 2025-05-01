@@ -1783,6 +1783,11 @@
     "url": "https://vasilisaikryannikova.com"
   },
   {
+    "code": "ILM",
+    "description": "Industrial Light & Magic",
+    "url": "https://www.ilm.com"
+  },
+  {
     "code": "ILP",
     "description": "INNERLENS PRODUCTIONS"
   },
@@ -2379,7 +2384,7 @@
     "contact": {
       "address": "Beacon House, Queens Road, Bristol, BS8 1QU, UK",
       "email": "info@myworld-creates.com",
-      "name": "csdmb@bris.ac.uk"
+      "name": "Dave Blackham"
     },
     "description": "My World Creates University of Bristol",
     "url": "https://www.myworld-creates.com"
@@ -2485,6 +2490,11 @@
     "description": "Noah Media Group"
   },
   {
+    "code": "NOL",
+    "description": "NOLITA",
+    "url": "https://nolita.fr"
+  },
+  {
     "code": "NP",
     "contact": {
       "address": "11 S. Main Street Dayton, OH 45458",
@@ -2575,6 +2585,11 @@
     },
     "description": "Octopuce Production",
     "url": "https://octopuceproduction.fr"
+  },
+  {
+    "code": "ODC",
+    "description": "Outpost Digital Cinema",
+    "url": "https://www.outpostdigitalcinema.com"
   },
   {
     "code": "ONE",
@@ -3045,6 +3060,15 @@
     },
     "description": "SakhaFilm",
     "url": "https://sakhafilm.ru/"
+  },
+  {
+    "code": "SFFG",
+    "contact": {
+      "address": "Suite 351, 68 Abell Street, Toronto, ON M6J 0B1, Canada",
+      "email": "farhang.ghajar@gmail.com",
+      "name": "Farhang Ghajar"
+    },
+    "description": "Andy Beans Productions"
   },
   {
     "code": "SFI",
