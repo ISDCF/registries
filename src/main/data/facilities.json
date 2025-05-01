@@ -2691,6 +2691,11 @@
     "description": "SOFT Falmouth University UK"
   },
   {
+    "code": "FAR",
+    "description": "The Farm Post",
+    "url": "https://farmpost.tv"
+  },
+  {
     "code": "FAT",
     "description": "FATS Digital"
   },
@@ -6696,7 +6701,11 @@
   },
   {
     "code": "TFG",
-    "description": "The Farm Group"
+    "description": "The Farm Group",
+    "obsolete": true,
+    "obsoletedBy": [
+      "FAR"
+    ]
   },
   {
     "code": "TFL",
