@@ -992,6 +992,11 @@
     "description": "CINECOLOR DIGITAL"
   },
   {
+    "code": "CCF",
+    "description": "Creature Camp Films",
+    "url": "https://www.creaturecampfilms.com/"
+  },
+  {
     "code": "CCI",
     "description": "CARMIKE DIGITAL LAB"
   },
@@ -1745,6 +1750,11 @@
     "description": "DAME BLANCHE"
   },
   {
+    "code": "DBP",
+    "description": "Dan & Ben Production Company",
+    "url": "https://www.dbpc.biz"
+  },
+  {
     "code": "DBX",
     "description": "DIGITAL BLUE (MX)"
   },
@@ -1885,6 +1895,11 @@
       "DSS",
       "WDS"
     ]
+  },
+  {
+    "code": "DE",
+    "description": "Digital Emulsion",
+    "url": "https://www.digital-emulsion.com"
   },
   {
     "code": "DE1",
@@ -2684,6 +2699,11 @@
   {
     "code": "FAL",
     "description": "SOFT Falmouth University UK"
+  },
+  {
+    "code": "FAR",
+    "description": "The Farm Post",
+    "url": "https://farmpost.tv"
   },
   {
     "code": "FAT",
@@ -3900,6 +3920,11 @@
     "description": "KINO DIGITAL"
   },
   {
+    "code": "KPP",
+    "description": "Kantana Post Production (Thailand)",
+    "url": "https://www.kantanadigital.com/"
+  },
+  {
     "code": "KPT",
     "description": "KRAKOWSKI PARK TECHNOLOGICZNY"
   },
@@ -4378,6 +4403,16 @@
   {
     "code": "MDI",
     "description": "MDI MARGUTTA DIGITAL INTERNATIONAL SRL"
+  },
+  {
+    "code": "ME",
+    "contact": {
+      "address": "Am Coloneum 1, 50829 Köln, GERMANY",
+      "email": "florian.peters@mmc.de",
+      "name": "Mr. Florian Peters"
+    },
+    "description": "Magic Eye - MMC Studios",
+    "url": "https://magiceye.de"
   },
   {
     "code": "MEF",
@@ -6354,6 +6389,16 @@
     "description": "SPECTICAST ENTERTAINMENT"
   },
   {
+    "code": "SPF",
+    "contact": {
+      "address": "Økernveien 121, 0579 Oslo, NORWAY",
+      "email": "andreas@spindelfilm.no",
+      "name": "Andreas Hovde"
+    },
+    "description": "Spindel Film",
+    "url": "https://www.spindelfilm.no/"
+  },
+  {
     "code": "SPI",
     "description": "SONY PICTURES IMAGEWORKS"
   },
@@ -6474,6 +6519,21 @@
   {
     "code": "STR",
     "description": "START"
+  },
+  {
+    "code": "STS",
+    "contact": {
+      "address": "Oranim 2, Kiryat Tivon 3600600, ISRAEL",
+      "email": "netkafka95@gmail.com",
+      "name": "Netanel Kafka"
+    },
+    "description": "Synesthesia Collective Independent",
+    "url": "https://synesthesiacollect.wixsite.com/synesthesiacollectiv"
+  },
+  {
+    "code": "STU",
+    "description": "Studio Releasing, LLC",
+    "url": "http://www.StudioReleasing.com"
   },
   {
     "code": "SUB",
@@ -6691,7 +6751,11 @@
   },
   {
     "code": "TFG",
-    "description": "The Farm Group"
+    "description": "The Farm Group",
+    "obsolete": true,
+    "obsoletedBy": [
+      "FAR"
+    ]
   },
   {
     "code": "TFL",
