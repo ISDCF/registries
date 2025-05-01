@@ -992,6 +992,11 @@
     "description": "CINECOLOR DIGITAL"
   },
   {
+    "code": "CCF",
+    "description": "Creature Camp Films",
+    "url": "https://www.creaturecampfilms.com/"
+  },
+  {
     "code": "CCI",
     "description": "CARMIKE DIGITAL LAB"
   },
@@ -2686,6 +2691,11 @@
     "description": "SOFT Falmouth University UK"
   },
   {
+    "code": "FAR",
+    "description": "The Farm Post",
+    "url": "https://farmpost.tv"
+  },
+  {
     "code": "FAT",
     "description": "FATS Digital"
   },
@@ -4378,6 +4388,16 @@
   {
     "code": "MDI",
     "description": "MDI MARGUTTA DIGITAL INTERNATIONAL SRL"
+  },
+  {
+    "code": "ME",
+    "contact": {
+      "address": "Am Coloneum 1, 50829 Köln, GERMANY",
+      "email": "florian.peters@mmc.de",
+      "name": "Mr. Florian Peters"
+    },
+    "description": "Magic Eye - MMC Studios",
+    "url": "https://magiceye.de"
   },
   {
     "code": "MEF",
@@ -6354,6 +6374,16 @@
     "description": "SPECTICAST ENTERTAINMENT"
   },
   {
+    "code": "SPF",
+    "contact": {
+      "address": "Økernveien 121, 0579 Oslo, NORWAY",
+      "email": "andreas@spindelfilm.no",
+      "name": "Andreas Hovde"
+    },
+    "description": "Spindel Film",
+    "url": "https://www.spindelfilm.no/"
+  },
+  {
     "code": "SPI",
     "description": "SONY PICTURES IMAGEWORKS"
   },
@@ -6691,7 +6721,11 @@
   },
   {
     "code": "TFG",
-    "description": "The Farm Group"
+    "description": "The Farm Group",
+    "obsolete": true,
+    "obsoletedBy": [
+      "FAR"
+    ]
   },
   {
     "code": "TFL",
