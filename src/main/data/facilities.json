@@ -7048,6 +7048,16 @@
     "description": "TVC SOHO"
   },
   {
+    "code": "TVK",
+    "contact": {
+      "address": "Via Buccari, 16, 00195 Roma RM, ITALY",
+      "email": "vincenzo@tvco.eu",
+      "name": "Vincenzo Mosca"
+    },
+    "description": "TV Co. SRL",
+    "url": "https://www.tvco.eu"
+  },
+  {
     "code": "TVM",
     "description": "WARNER BROS. TV MARKETING TEAM"
   },
