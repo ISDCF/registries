@@ -385,6 +385,11 @@
     "description": "Arrow Media Services"
   },
   {
+    "code": "AMT",
+    "description": "Amediateka Content Operations",
+    "url": "https://amediateka.ru"
+  },
+  {
     "code": "AMV",
     "description": "ALL MOBILE VIDEO"
   },
