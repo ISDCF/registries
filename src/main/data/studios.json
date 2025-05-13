@@ -71,6 +71,11 @@
     "description": "9 LIGHT ENTERTAINMENT"
   },
   {
+    "code": "A24",
+    "description": "A24",
+    "url": "https://a24films.com/"
+  },
+  {
     "code": "AA",
     "contact": {
       "address": "14 Davidson Drive, Toronto, ON, N5A 0C6, Canada",
@@ -104,6 +109,11 @@
     },
     "description": "American Brightlight Film Productions",
     "url": "https://brightlightfilm.us"
+  },
+  {
+    "code": "ABS",
+    "description": "ABS-CBN International",
+    "url": "https://www.abs-cbn.com/"
   },
   {
     "code": "ACA",
@@ -174,6 +184,16 @@
   {
     "code": "AK",
     "description": "ALASTI KINO"
+  },
+  {
+    "code": "AL",
+    "contact": {
+      "address": "McLellan Works, 274 Sauchiehall St,  Glasgow, United Kingdom, G2 3EH",
+      "email": "robbie@alltheanime.com",
+      "name": "Robbie Duncan"
+    },
+    "description": "Anime Limited",
+    "url": "https://www.alltheanime.com/"
   },
   {
     "code": "ALIB",
@@ -434,6 +454,16 @@
     "description": "Bad Blood Films"
   },
   {
+    "code": "BBI",
+    "contact": {
+      "address": "132-140 Goswell Road, 4th Floor, London EC1V 7DY",
+      "email": "fayaoge@blackbearpictures.com",
+      "name": "Frank Ayaoge "
+    },
+    "description": "Black Bear International",
+    "url": "https://blackbearpictures.com/"
+  },
+  {
     "code": "BEE",
     "description": "BEE Movies",
     "url": "http://www.beemovies.co.uk"
@@ -570,6 +600,11 @@
     },
     "description": "Bridge PostWorks",
     "url": "https://www.bridgepostworks.com"
+  },
+  {
+    "code": "BRI",
+    "description": "Briarclif",
+    "url": "https://www.briarcliffentertainment.com/"
   },
   {
     "code": "BRM",
@@ -1326,6 +1361,11 @@
     "url": "https://www.fmpro.hk"
   },
   {
+    "code": "FN",
+    "description": "Film Nation",
+    "url": "https://filmnation.com/"
+  },
+  {
     "code": "FORT",
     "description": "Fortuitous Films",
     "url": "https://www.andrewbowserdirector.com/onyx-the-fortuitous"
@@ -1884,6 +1924,11 @@
     "url": "https://www.muscularpuppy.com"
   },
   {
+    "code": "JAN",
+    "description": "Janus",
+    "url": "https://www.janusfilms.com/"
+  },
+  {
     "code": "JC",
     "description": "JC Film Consultancy Ltd"
   },
@@ -1974,6 +2019,11 @@
     },
     "description": "Karen Faurie",
     "url": "https://www.karenfaurie.com"
+  },
+  {
+    "code": "KFD",
+    "description": "Kinepolis",
+    "url": "https://kinepolis.com/"
   },
   {
     "code": "KHH",
@@ -2272,6 +2322,11 @@
     "url": "https://www.mintfilms.com.au"
   },
   {
+    "code": "MLS",
+    "description": "Magenta Light Studios",
+    "url": "https://magentalightstudios.com/"
+  },
+  {
     "code": "MM",
     "description": "Millennium Media",
     "url": "https://millennium-media.net/"
@@ -2316,6 +2371,11 @@
     "code": "MOTL",
     "description": "Motlys",
     "url": "https://www.motlys.com"
+  },
+  {
+    "code": "MP",
+    "description": "Magnolia Pictures",
+    "url": "https://www.magnoliapictures.com/"
   },
   {
     "code": "MRMX",
@@ -2417,6 +2477,11 @@
   {
     "code": "NDG",
     "description": "NDG Studios"
+  },
+  {
+    "code": "NEON",
+    "description": "Neon",
+    "url": "https://www.neonrated.com/"
   },
   {
     "code": "NEOP",
@@ -2715,6 +2780,11 @@
     "url": "https://www.precisionentertainment.net"
   },
   {
+    "code": "PRKC",
+    "description": "Park Circus",
+    "url": "https://parkcircus.com/"
+  },
+  {
     "code": "PRL",
     "contact": {
       "address": "Dominikańska 9/5, 02-738 Warsaw, Poland",
@@ -2811,6 +2881,11 @@
   {
     "code": "R29",
     "description": "REFINERY29"
+  },
+  {
+    "code": "RA",
+    "description": "Roadside Attractions",
+    "url": "https://roadsideattractions.com/"
   },
   {
     "code": "RAM",
@@ -2997,6 +3072,11 @@
     },
     "description": "STUDIO BELLEVILLE",
     "url": "https://studiobelleville.com"
+  },
+  {
+    "code": "SBN",
+    "description": "Saban",
+    "url": "https://www.sabanfilms.com/"
   },
   {
     "code": "SC",
@@ -3567,6 +3647,11 @@
     "description": "VERACITY PRODUCTIONS"
   },
   {
+    "code": "VERT",
+    "description": "Vertical Entertainment",
+    "url": "https://www.vert-ent.com/"
+  },
+  {
     "code": "VES",
     "description": "VESTRON PICTURES",
     "url": "https://vestron.pictures"
@@ -3623,6 +3708,11 @@
     "url": "https://www.vfx.at"
   },
   {
+    "code": "VOLT",
+    "description": "Backroom International",
+    "url": "https://backroom-international.com/"
+  },
+  {
     "code": "VPP",
     "contact": {
       "address": "Peterburi tee 90F-32, Tallinn, Harjumaa, Tallinn, Estonia",
@@ -3651,6 +3741,11 @@
     },
     "description": "Vasava",
     "url": "https://www.vasava.es"
+  },
+  {
+    "code": "VVS",
+    "description": "VVS Films",
+    "url": "https://vvsfilms.com/"
   },
   {
     "code": "WAG",
