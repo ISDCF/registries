@@ -186,16 +186,6 @@
     "description": "ALASTI KINO"
   },
   {
-    "code": "AL",
-    "contact": {
-      "address": "McLellan Works, 274 Sauchiehall St,  Glasgow, United Kingdom, G2 3EH",
-      "email": "robbie@alltheanime.com",
-      "name": "Robbie Duncan"
-    },
-    "description": "Anime Limited",
-    "url": "https://www.alltheanime.com/"
-  },
-  {
     "code": "ALIB",
     "description": "ALIBABA GROUP"
   },
@@ -253,6 +243,16 @@
   {
     "code": "ANIM",
     "description": "ANIMASIA STUDIOS"
+  },
+  {
+    "code": "ANML",
+    "contact": {
+      "address": "McLellan Works, 274 Sauchiehall St,  Glasgow, United Kingdom, G2 3EH",
+      "email": "robbie@alltheanime.com",
+      "name": "Robbie Duncan"
+    },
+    "description": "Anime Limited",
+    "url": "https://www.alltheanime.com/"
   },
   {
     "code": "ANT",
@@ -458,7 +458,7 @@
     "contact": {
       "address": "132-140 Goswell Road, 4th Floor, London EC1V 7DY",
       "email": "fayaoge@blackbearpictures.com",
-      "name": "Frank Ayaoge "
+      "name": "Frank Ayaoge"
     },
     "description": "Black Bear International",
     "url": "https://blackbearpictures.com/"
@@ -3709,8 +3709,8 @@
   },
   {
     "code": "VOLT",
-    "description": "Backroom International",
-    "url": "https://backroom-international.com/"
+    "description": "Voltage Pictures",
+    "url": "https://www.voltagepictures.com/"
   },
   {
     "code": "VPP",
