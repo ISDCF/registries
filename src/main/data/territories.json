@@ -1,5 +1,11 @@
 [
   {
+    "dcncTag": "172",
+    "dcncTerritory": "Commonwealth of Independent States",
+    "tag": "172",
+    "tagScope": "https://isdcf.com/ns/cplmd/territories"
+  },
+  {
     "dcncTag": "AD",
     "dcncTerritory": "Andorra",
     "tag": "AD"
