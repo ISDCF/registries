@@ -220,6 +220,12 @@
     "tag": "CI"
   },
   {
+    "dcncTag": "CIS",
+    "dcncTerritory": "Commonwealth of Independent States",
+    "tag": "900",
+    "tagScope": "https://isdcf.com/ns/cplmd/territories"
+  },
+  {
     "dcncTag": "CK",
     "dcncTerritory": "Cook Islands",
     "tag": "CK"
