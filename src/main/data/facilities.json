@@ -1832,6 +1832,16 @@
     "url": "https://www.dcpgenerator.com"
   },
   {
+    "code": "DCI",
+    "contact": {
+      "address": "VIA VIAZZA SINISTRA 2, 40054 MEZZOLARA DI BUDRIO BO, ITALY",
+      "email": "dcinema@dcinema.it",
+      "name": "Mr. Elia Orselli"
+    },
+    "description": "Dcinema srl",
+    "url": "https://www.dcinema.it"
+  },
+  {
     "code": "DCK",
     "description": "DCI KOMPETENZZENTRUM"
   },
