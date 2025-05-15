@@ -2596,6 +2596,16 @@
     "description": "EMC POST PRODUCTION"
   },
   {
+    "code": "EMF",
+    "contact": {
+      "address": "Strada Kossuth Lajos nr. 28, 535600 Odorheiu Secuiesc, Județul Harghita, ROMÂNIA",
+      "email": "tornaiisti@gmail.com",
+      "name": "Mr. Tornai Istvan"
+    },
+    "description": "Erdélyi Magyar Film",
+    "url": "https://transylvanianfilms.com/?fbclid=IwY2xjawKOtkZleHRuA2FlbQIxMABicmlkETE2ajRPbjNzYjVOTXQ5ak1YAR6LbNr9hGVk1YB5kx04CAOn0ZZkD2d-pLgxu-i-Nrfw6BJmV1unmZ4wDluZrw_aem_8-s-Ng1rZ9UvO22ioXAXJg"
+  },
+  {
     "code": "EML",
     "description": "Elanti Media Limited",
     "url": "https://www.elantimedia.com"
@@ -5342,6 +5352,11 @@
   {
     "code": "PHD",
     "description": "PREHISTORIC DIGITAL"
+  },
+  {
+    "code": "PHF",
+    "description": "Phenom Films",
+    "url": "http://www.phenom-films.com/"
   },
   {
     "code": "PHS",
