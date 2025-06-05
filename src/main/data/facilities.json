@@ -5873,7 +5873,7 @@
   {
     "code": "RIH",
     "description": "REAL IMAGE, HYDERABAD",
-      "obsolete": true,
+    "obsolete": true,
     "obsoletedBy": [
       "QCH"
     ]
@@ -5881,7 +5881,7 @@
   {
     "code": "RIK",
     "description": "REAL IMAGE, KOCHI",
-      "obsolete": true,
+    "obsolete": true,
     "obsoletedBy": [
       "QCK"
     ]
@@ -5889,7 +5889,7 @@
   {
     "code": "RIM",
     "description": "REAL IMAGE, MUMBAI",
-      "obsolete": true,
+    "obsolete": true,
     "obsoletedBy": [
       "QCM"
     ]
