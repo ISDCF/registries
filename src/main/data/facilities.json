@@ -3450,6 +3450,16 @@
     "description": "HECKMANN UND THIELE"
   },
   {
+    "code": "HVK",
+    "contact": {
+      "address": "Isenburgstraat 24, 4813 NC Breda, NETHERLANDS",
+      "email": "huubkuyvenhoven07@gmail.com",
+      "name": "Huub Kuyvenhoven"
+    },
+    "description": "HVK",
+    "url": "https://letterboxd.com/huubkuyvenhoven/"
+  },
+  {
     "code": "HVY",
     "description": "HIVENTY",
     "obsolete": true,
