@@ -1139,6 +1139,16 @@
     "url": "http://chromapost.io"
   },
   {
+    "code": "CHA",
+    "contact": {
+      "address": "Goseburgstr 27, 21339 Lueneburg, GERMANY",
+      "email": "technik@chaussee.film",
+      "name": "Torben Seemann"
+    },
+    "description": "CHAUSSEE",
+    "url": "https://www.chaussee.film"
+  },
+  {
     "code": "CHC",
     "contact": {
       "address": "3201 Dickerson Pike, Nashville, TN 37207 USA",
