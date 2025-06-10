@@ -2736,6 +2736,16 @@
     "description": "Paramount"
   },
   {
+    "code": "PCK",
+    "contact": {
+      "address": "Muehlebachstrasse 113, 8008 Zurich, SWITZERLAND",
+      "email": "raluwa@raluwa.info",
+      "name": "Raoul Walzer"
+    },
+    "description": "PEACOCK FILM Schweiz",
+    "url": "https://www.peacock.ch/"
+  },
+  {
     "code": "PEAK",
     "description": "PEAK MEDIA"
   },
