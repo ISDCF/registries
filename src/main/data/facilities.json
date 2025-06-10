@@ -7005,6 +7005,16 @@
     "description": "TITRA FILM GENEVA"
   },
   {
+    "code": "TIU",
+    "contact": {
+      "address": "OBERNEUHOFSTRASSE 8, 6340 BAAR, SWITZERLAND",
+      "email": "info@turnitup.ch",
+      "name": "Selmir Suljevic"
+    },
+    "description": "Film-LAB",
+    "url": "https://turnitup.ch"
+  },
+  {
     "code": "TK",
     "description": "TELEKING"
   },
