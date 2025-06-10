@@ -3116,6 +3116,11 @@
     "url": "https://galenterprise.co.jp"
   },
   {
+    "code": "GAM",
+    "description": "Gamma Ray Digital",
+    "url": "https://www.gammaraydigital.com"
+  },
+  {
     "code": "GAR",
     "description": "GARRISON"
   },
@@ -5509,6 +5514,16 @@
     "description": "Poly Son Post Production"
   },
   {
+    "code": "POS",
+    "contact": {
+      "address": "6980 18E AVENUE, MONTRÉAL QC H2A 2M6, CANADA",
+      "email": "postetv.contact@gmail.com",
+      "name": "Etienne Piquemal"
+    },
+    "description": "POSTÉ INC",
+    "url": "https://www.postetvinc.com/"
+  },
+  {
     "code": "POW",
     "contact": {
       "address": "13-15 Adelaide Road, Mount Cook, Wellington 6021, New Zealand",
@@ -6998,6 +7013,16 @@
   {
     "code": "TIT",
     "description": "TITRA FILM GENEVA"
+  },
+  {
+    "code": "TIU",
+    "contact": {
+      "address": "OBERNEUHOFSTRASSE 8, 6340 BAAR, SWITZERLAND",
+      "email": "info@turnitup.ch",
+      "name": "Selmir Suljevic"
+    },
+    "description": "Film-LAB",
+    "url": "https://turnitup.ch"
   },
   {
     "code": "TK",

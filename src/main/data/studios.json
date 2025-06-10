@@ -1024,6 +1024,11 @@
     "url": "https://www.ledock.ca"
   },
   {
+    "code": "DKM",
+    "description": "Door Knocker Media",
+    "url": "http://www.dkm.rocks"
+  },
+  {
     "code": "DLA",
     "description": "Disney Live Action",
     "url": "https://movies.disney.com"
@@ -1770,6 +1775,11 @@
     },
     "description": "Hulu",
     "url": "https://hulu.com"
+  },
+  {
+    "code": "HVK",
+    "description": "HVK",
+    "url": "https://letterboxd.com/huubkuyvenhoven/"
   },
   {
     "code": "HWY",
@@ -2726,6 +2736,16 @@
     "description": "Paramount"
   },
   {
+    "code": "PCK",
+    "contact": {
+      "address": "Muehlebachstrasse 113, 8008 Zurich, SWITZERLAND",
+      "email": "raluwa@raluwa.info",
+      "name": "Raoul Walzer"
+    },
+    "description": "PEACOCK FILM Schweiz",
+    "url": "https://www.peacock.ch/"
+  },
+  {
     "code": "PEAK",
     "description": "PEAK MEDIA"
   },
@@ -2788,6 +2808,11 @@
     "code": "PREN",
     "description": "Precision Entertainment",
     "url": "https://www.precisionentertainment.net"
+  },
+  {
+    "code": "PRIN",
+    "description": "Princess Pictures",
+    "url": "https://www.screenproducersireland.com/directory/princess-pictures-ltd"
   },
   {
     "code": "PRKC",
@@ -3544,6 +3569,11 @@
     "description": "Tobis Film GmbH"
   },
   {
+    "code": "TORA",
+    "description": "Projeto de extensão da ECO – UFRJ",
+    "url": "https://www.instagram.com/coletivonatoraufrj"
+  },
+  {
     "code": "TRCL",
     "description": "TREACLE LIMITED (HK)"
   },
@@ -3751,6 +3781,16 @@
     },
     "description": "Videopress Greece",
     "url": "http://videopress.gr"
+  },
+  {
+    "code": "VRL",
+    "contact": {
+      "address": "20-22 Wenlock Road, London N1 7GU, UNITED KINGDOM",
+      "email": "will@vertigoreleasing.com",
+      "name": "Andy Dillon"
+    },
+    "description": "Vertigo Releasing",
+    "url": "https://www.vertigoreleasing.com/home"
   },
   {
     "code": "VSV",
