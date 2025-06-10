@@ -4886,6 +4886,15 @@
     "url": "https://www.cinearts.co.jp/"
   },
   {
+    "code": "NCF",
+    "contact": {
+      "email": "Cameron.gregg@newcirclefilms.com",
+      "name": "Cameron Gregg"
+    },
+    "description": "NewCircleFilms",
+    "url": "https://www.newcirclefilms.com"
+  },
+  {
     "code": "NCP",
     "description": "NEDCIPRO BV"
   },
