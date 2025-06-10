@@ -5684,6 +5684,56 @@
     "description": "PIANETA ZERO"
   },
   {
+    "code": "QCB",
+    "contact": {
+      "address": "1034 Dr Rajkumar Road, Rajaji Nagar 4th Block, Bengaluru 560010, INDIA",
+      "email": "dcpinfo@qubecinema.com",
+      "name": "Sujesh Kumar"
+    },
+    "description": "Qube Cinema, Bangalore",
+    "url": "https://www.qubecinema.com/"
+  },
+  {
+    "code": "QCC",
+    "contact": {
+      "address": "42 Dr. Ranga Road, Mylapore, Chennai 600004, INDIA",
+      "email": "dcpinfo@qubecinema.com",
+      "name": "Sujesh Kumar"
+    },
+    "description": "Qube Cinema, Chennai",
+    "url": "https://www.qubecinema.com/"
+  },
+  {
+    "code": "QCH",
+    "contact": {
+      "address": "MCH No 317/A/B, MLA's Colony, Road No 12, Banjara Hills, Hyderabad 500034, INDIA",
+      "email": "dcpinfo@qubecinema.com",
+      "name": "Sujesh Kumar"
+    },
+    "description": "Qube Cinema, Hyderabad",
+    "url": "https://www.qubecinema.com/"
+  },
+  {
+    "code": "QCK",
+    "contact": {
+      "address": "41/643-C A L Jacob Road, Kochi 682035, INDIA",
+      "email": "dcpinfo@qubecinema.com",
+      "name": "Sujesh Kumar"
+    },
+    "description": "Qube Cinema, Kochi",
+    "url": "https://www.qubecinema.com/"
+  },
+  {
+    "code": "QCM",
+    "contact": {
+      "address": "B/13, 4th Floor, Aver Plaza, Opp. Citi Mall, Link Road, Andheri West, Mumbai 400053, INDIA",
+      "email": "dcpinfo@qubecinema.com",
+      "name": "Sujesh Kumar"
+    },
+    "description": "Qube Cinema, Mumbai",
+    "url": "https://www.qubecinema.com/"
+  },
+  {
     "code": "QNT",
     "contact": {
       "address": "R. Mergenthaler, 1000 - Vila Leopoldina, São Paulo - SP, 05311-030, Brazil",
@@ -5849,19 +5899,35 @@
   },
   {
     "code": "RIC",
-    "description": "REAL IMAGE, CHENNAI"
+    "description": "REAL IMAGE, CHENNAI",
+    "obsolete": true,
+    "obsoletedBy": [
+      "QCC"
+    ]
   },
   {
     "code": "RIH",
-    "description": "REAL IMAGE, HYDERABAD"
+    "description": "REAL IMAGE, HYDERABAD",
+    "obsolete": true,
+    "obsoletedBy": [
+      "QCH"
+    ]
   },
   {
     "code": "RIK",
-    "description": "REAL IMAGE, KOCHI"
+    "description": "REAL IMAGE, KOCHI",
+    "obsolete": true,
+    "obsoletedBy": [
+      "QCK"
+    ]
   },
   {
     "code": "RIM",
-    "description": "REAL IMAGE, MUMBAI"
+    "description": "REAL IMAGE, MUMBAI",
+    "obsolete": true,
+    "obsoletedBy": [
+      "QCM"
+    ]
   },
   {
     "code": "RIT",
