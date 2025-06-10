@@ -1145,6 +1145,16 @@
     "url": "http://chromapost.io"
   },
   {
+    "code": "CHA",
+    "contact": {
+      "address": "Goseburgstr 27, 21339 Lueneburg, GERMANY",
+      "email": "technik@chaussee.film",
+      "name": "Torben Seemann"
+    },
+    "description": "CHAUSSEE",
+    "url": "https://www.chaussee.film"
+  },
+  {
     "code": "CHC",
     "contact": {
       "address": "3201 Dickerson Pike, Nashville, TN 37207 USA",
@@ -3456,6 +3466,16 @@
     "description": "HECKMANN UND THIELE"
   },
   {
+    "code": "HVK",
+    "contact": {
+      "address": "Isenburgstraat 24, 4813 NC Breda, NETHERLANDS",
+      "email": "huubkuyvenhoven07@gmail.com",
+      "name": "Huub Kuyvenhoven"
+    },
+    "description": "HVK",
+    "url": "https://letterboxd.com/huubkuyvenhoven/"
+  },
+  {
     "code": "HVY",
     "description": "HIVENTY",
     "obsolete": true,
@@ -4880,6 +4900,15 @@
     "code": "NCA",
     "description": "Nippon Cine Arts Co.,Ltd.",
     "url": "https://www.cinearts.co.jp/"
+  },
+  {
+    "code": "NCF",
+    "contact": {
+      "email": "Cameron.gregg@newcirclefilms.com",
+      "name": "Cameron Gregg"
+    },
+    "description": "NewCircleFilms",
+    "url": "https://www.newcirclefilms.com"
   },
   {
     "code": "NCP",
