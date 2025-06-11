@@ -5779,7 +5779,13 @@
   },
   {
     "code": "QUB",
-    "description": "QUBE CINEMA"
+    "contact": {
+      "address": "11954 S La Cienega Blvd, Hawthorne, CA 90250, USA",
+      "email": "dcpinfo@qubecinema.com",
+      "name": "Sujesh Kumar"
+    },
+    "description": "Qube Cinema, Los Angeles",
+    "url": "https://www.qubecinema.com/"
   },
   {
     "code": "R2I",
