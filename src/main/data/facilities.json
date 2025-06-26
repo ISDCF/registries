@@ -3160,6 +3160,16 @@
     "description": "Global Film Factory"
   },
   {
+    "code": "GFP",
+    "contact": {
+      "address": "6 Chao-utid Rd., Baan Pong, Ratchaburi 70110, THAILAND",
+      "email": "greenretinafilmpost@gmail.com",
+      "name": "Mr. Yutthana Seneewong"
+    },
+    "description": "GREEN RETINA FILM POST",
+    "url": "https://www.facebook.com/greenretinapost"
+  },
+  {
     "code": "GI",
     "description": "GIANT-INTERACTIVE"
   },
