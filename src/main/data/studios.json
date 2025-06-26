@@ -2767,6 +2767,16 @@
     "description": "PINK APPLE FILM"
   },
   {
+    "code": "PL",
+    "contact": {
+      "address": "2 Rue Lamennais, 75008 Paris, FRANCE",
+      "email": "nicolas.mifsud@bydeluxe.com",
+      "name": "Thierry Fontaine"
+    },
+    "description": "Pathé Live",
+    "url": "https://www.pathelive.com/"
+  },
+  {
     "code": "PLAY",
     "contact": {
       "address": "Türkenstraße 89, 80799 Munich, Germany",
