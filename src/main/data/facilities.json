@@ -7466,6 +7466,16 @@
     "description": "VISUAL MEDIA & TECHNOLOGY"
   },
   {
+    "code": "VOK",
+    "contact": {
+      "address": "Hardstrasse 94, 8004 Zürich, SWITZERLAND",
+      "email": "milutin@vokos.ch",
+      "name": "Milutin Kostic"
+    },
+    "description": "vokos production GmbH",
+    "url": "https://www.vokos.ch"
+  },
+  {
     "code": "VP",
     "description": "VEGA PROD"
   },
