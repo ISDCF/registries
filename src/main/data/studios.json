@@ -2899,6 +2899,16 @@
     "description": "PIXAR"
   },
   {
+    "code": "PYR",
+    "contact": {
+      "address": "32 Rue de l'Échiquier, 75010 Paris, FRANCE",
+      "email": "nicolas.mifsud@bydeluxe.com",
+      "name": "Lagesse Eric"
+    },
+    "description": "Pyramide Films",
+    "url": "http://www.pyramidefilms.com/"
+  },
+  {
     "code": "PYRA",
     "description": "Pyramide Films",
     "url": "http://www.pyramidefilms.com/"
