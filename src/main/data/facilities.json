@@ -2537,6 +2537,16 @@
     "description": "EGLIFILM POSTPRODUCTION"
   },
   {
+    "code": "EGM",
+    "contact": {
+      "address": "26 Avenue Guy Môquet, 94310 Orly, FRANCE",
+      "email": "l.stehlin@ecolemelies.fr",
+      "name": "Stehlin"
+    },
+    "description": "Ecole georges Melies",
+    "url": "https://www.ecolegeorgesmelies.fr/fr/"
+  },
+  {
     "code": "EHC",
     "description": "EDITHOUSE (COPENHAGEN, DENMARK)"
   },
