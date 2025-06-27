@@ -2542,6 +2542,16 @@
     "description": "EGLIFILM POSTPRODUCTION"
   },
   {
+    "code": "EGM",
+    "contact": {
+      "address": "26 Avenue Guy Môquet, 94310 Orly, FRANCE",
+      "email": "l.stehlin@ecolemelies.fr",
+      "name": "Stehlin"
+    },
+    "description": "Ecole georges Melies",
+    "url": "https://www.ecolegeorgesmelies.fr/fr/"
+  },
+  {
     "code": "EHC",
     "description": "EDITHOUSE (COPENHAGEN, DENMARK)"
   },
@@ -3163,6 +3173,16 @@
   {
     "code": "GFF",
     "description": "Global Film Factory"
+  },
+  {
+    "code": "GFP",
+    "contact": {
+      "address": "6 Chao-utid Rd., Baan Pong, Ratchaburi 70110, THAILAND",
+      "email": "greenretinafilmpost@gmail.com",
+      "name": "Mr. Yutthana Seneewong"
+    },
+    "description": "GREEN RETINA FILM POST",
+    "url": "https://www.facebook.com/greenretinapost"
   },
   {
     "code": "GI",
