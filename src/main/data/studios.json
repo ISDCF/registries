@@ -2255,6 +2255,16 @@
     "description": "Moving Adventures Medien GmbH"
   },
   {
+    "code": "MARS",
+    "contact": {
+      "address": "66 Rue de Miromesnil, 75008 Paris, FRANCE",
+      "email": "nicolas.mifsud@bydeluxe.com",
+      "name": "Mme. Valérie Garcia"
+    },
+    "description": "Mars Films",
+    "url": "https://cineuropa.org/fr/prodcompany/8194/"
+  },
+  {
     "code": "MAX",
     "description": "MAXIWORKS PRODUCTIONS"
   },
