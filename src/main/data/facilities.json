@@ -230,6 +230,11 @@
   },
   {
     "code": "AE",
+    "contact": {
+      "address": "392 Sherbourne St Suite 306, Toronto ON M4X 1K3, CANADA",
+      "email": "adam@automaticearthpost.com",
+      "name": "Adam Hunt"
+    },
     "description": "Automatic Earth",
     "url": "https://automaticearthpost.com/"
   },
