@@ -1648,6 +1648,11 @@
     "description": "Cubic Post"
   },
   {
+    "code": "CUP",
+    "description": "cineUP",
+    "url": "https://cineup.de"
+  },
+  {
     "code": "CUT",
     "description": "CutPro Digital Filmlab",
     "url": "http://cutpro.hu"
