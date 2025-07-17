@@ -1114,6 +1114,16 @@
     "description": "CONSTANTIN FILM VERLEIH"
   },
   {
+    "code": "CFX",
+    "contact": {
+      "address": "816 BOOTH HILL RD, SHELTON CT 06484, USA",
+      "email": "cinemediafx@gmail.com",
+      "name": "Robert Cavaleri"
+    },
+    "description": "CINEMEDIA FX",
+    "url": "https://www.cinemediafx.com"
+  },
+  {
     "code": "CFZ",
     "description": "Croatia Film",
     "url": "https://www.croatia-film.hr/"
