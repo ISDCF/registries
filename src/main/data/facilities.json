@@ -2234,6 +2234,16 @@
     "description": "DEPAUL UNIVERSITY - SCHOOL OF CINEMATIC ARTS"
   },
   {
+    "code": "DR",
+    "contact": {
+      "address": "Avenida del Mediterraneo 226, 03730 Javea, Alicante, SPAIN",
+      "email": "lab@dcpready.com",
+      "name": "Hector Sala"
+    },
+    "description": "DCPReady",
+    "url": "https://www.dcpready.com"
+  },
+  {
     "code": "DRG",
     "contact": {
       "address": "Santa Eduvigis, Caracas, Venezuela",
