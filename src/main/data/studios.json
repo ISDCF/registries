@@ -968,6 +968,16 @@
     "description": "DCI KOMPETENZZENTRUM"
   },
   {
+    "code": "DCRE",
+    "contact": {
+      "address": "Avenida del Mediterraneo 226, 03730 Javea, Alicante, SPAIN",
+      "email": "lab@dcpready.com",
+      "name": "Hector Sala"
+    },
+    "description": "DCPReady",
+    "url": "https://www.dcpready.com"
+  },
+  {
     "code": "DCTV",
     "contact": {
       "address": "87 Lafayette Street, New York, NY 10013, USA",
