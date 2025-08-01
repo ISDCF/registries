@@ -146,6 +146,16 @@
     "url": "http://artdoydu.com"
   },
   {
+    "code": "ADDA",
+    "contact": {
+      "address": "Str. Siret nr. 95, Corp 3, Parter, Sector 1, Bucuresti 011715, ROMANIA",
+      "email": "andrei@audiodesign.ro",
+      "name": "Andrei Constantinescu"
+    },
+    "description": "Audio Design Digital Art",
+    "url": "https://www.audiodesign.ro"
+  },
+  {
     "code": "ADHP",
     "description": "A Doll's House Pictures",
     "url": "https://www.adollshousepictures.com/"
