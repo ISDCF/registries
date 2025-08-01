@@ -4210,6 +4210,16 @@
     "description": "Lily Post Prod"
   },
   {
+    "code": "LIO",
+    "contact": {
+      "address": "722/46 Belvoir St, Surry Hills NSW 2010, AUSTRALIA",
+      "email": "daniel@lionsden.pictures",
+      "name": "Daniel Havas"
+    },
+    "description": "Lion's Den Production Company",
+    "url": "https://lionsden.pictures"
+  },
+  {
     "code": "LIP",
     "contact": {
       "address": "123 Wardour St, London W1F 0UW, UK",
