@@ -5571,6 +5571,16 @@
     "description": "PMT (QUEBEC)"
   },
   {
+    "code": "PNK",
+    "contact": {
+      "address": "Mercedes 906 Of. 301, 11100 Montevideo, URUGUAY",
+      "email": "multipin@gmail.com",
+      "name": "Sebastián Cerveñansky"
+    },
+    "description": "Punk",
+    "url": "https://punk.com.uy/"
+  },
+  {
     "code": "PNY",
     "description": "POST FACTORY NY",
     "obsolete": true
