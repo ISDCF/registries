@@ -3201,6 +3201,16 @@
     "description": "GENESIS FILM"
   },
   {
+    "code": "GF1",
+    "contact": {
+      "address": "64 Nguyen Thuong Hien St, Hanh Thong Ward, Ho Chi Minh City, VIETNAM",
+      "email": "chautat@greenfairies-postproduction.com",
+      "name": "Ms. Chau Tat"
+    },
+    "description": "Green Fairies Post",
+    "url": "https://vimeo.com/gfpostproduction"
+  },
+  {
     "code": "GFF",
     "description": "Global Film Factory"
   },
