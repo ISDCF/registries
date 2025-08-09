@@ -2550,6 +2550,16 @@
     "description": "MYSTIC STUDIOS & VINAYAK PRODUCTIONS"
   },
   {
+    "code": "MTIM",
+    "contact": {
+      "address": "1301 E MAIN ST BOX 58 MURFREESBORO TN 37132-0001, USA",
+      "email": "rodrigo.gomez@mtsu.edu",
+      "name": "Mr. Rodrigo Gomez"
+    },
+    "description": "MT IMAGINE",
+    "url": "https://mtimagine.mtsu.edu/"
+  },
+  {
     "code": "MU",
     "contact": {
       "address": "7 Newburgh St, Carnaby, London W1F 7RB, UK",
