@@ -6710,6 +6710,16 @@
     "description": "SOLOPOST SERVICES"
   },
   {
+    "code": "SPT",
+    "contact": {
+      "address": "184-187 SIDWELL ST EXETER EX4 6RD UNITED KINGDOM",
+      "email": "simeon@spinningpath.com",
+      "name": "Simeon Costello"
+    },
+    "description": "Spinning Path",
+    "url": "https://www.spinningpath.com"
+  },
+  {
     "code": "SPX",
     "contact": {
       "address": "Eeuwfeestlaan 20, 1020 Bruxelles, Belgium",
