@@ -239,6 +239,16 @@
     "url": "https://automaticearthpost.com/"
   },
   {
+    "code": "AF",
+    "contact": {
+      "address": "A DE ITALIA 11-17 CASA 17, 41012 SEVILLA, SPAIN",
+      "email": "juanf.ropero@Antipodasfilmlab.com",
+      "name": "Juan F. Ropero"
+    },
+    "description": "Antipodas Film Lab",
+    "url": "https://antipodasfilmlab.com/"
+  },
+  {
     "code": "AFA",
     "description": "ANTHOLOGY FILM ARCHIVES"
   },
@@ -6708,6 +6718,16 @@
   {
     "code": "SPS",
     "description": "SOLOPOST SERVICES"
+  },
+  {
+    "code": "SPT",
+    "contact": {
+      "address": "184-187 SIDWELL ST, EXETER EX4 6RD, UNITED KINGDOM",
+      "email": "simeon@spinningpath.com",
+      "name": "Simeon Costello"
+    },
+    "description": "Spinning Path",
+    "url": "https://www.spinningpath.com"
   },
   {
     "code": "SPX",
