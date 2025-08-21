@@ -7321,6 +7321,11 @@
     "description": "Tangren Cultural Film Group"
   },
   {
+    "code": "TRP",
+    "description": "The Room Post",
+    "url": "https://theroompost.com/"
+  },
+  {
     "code": "TSL",
     "contact": {
       "address": "4 Olumo Road, Parkview Estate, Ikoyi, Lagos 101233, Nigeria",
