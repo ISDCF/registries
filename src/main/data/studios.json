@@ -2844,6 +2844,16 @@
     "description": "OTL Releasing"
   },
   {
+    "code": "OVS",
+    "contact": {
+      "address": "16 Ridgewood Dr, Greenville, SC, 29615, USA",
+      "email": "Collins.White@othervision.net",
+      "name": "Collins Abbott White"
+    },
+    "description": "Other Vision Studios",
+    "url": "http://www.othervisionstudios.com"
+  },
+  {
     "code": "OVSP",
     "description": "OVERSPIL (DK)"
   },
