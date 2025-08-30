@@ -799,6 +799,10 @@
     "description": "CINEMALIVE"
   },
   {
+    "code": "CLBI",
+    "description": "C'est la bagarre ici"
+  },
+  {
     "code": "CLF",
     "description": "Cinelume Postproduction"
   },
