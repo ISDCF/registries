@@ -3528,6 +3528,16 @@
     "description": "Studio 10 Filmes"
   },
   {
+    "code": "STER",
+    "contact": {
+      "address": "4058 Broadwater Court, Bozeman, MT 59718, USA",
+      "email": "scottsterlingcolor@gmail.com",
+      "name": "Scott Sterling"
+    },
+    "description": "Scott Sterling Color",
+    "url": "https://www.imdb.com/name/nm2879600/"
+  },
+  {
     "code": "STIN",
     "description": "STOUTLIGHT INCORPORATED"
   },
