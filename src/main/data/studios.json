@@ -536,6 +536,16 @@
     "description": "BLUMHOUSE PRODUCTIONS"
   },
   {
+    "code": "BHF",
+    "contact": {
+      "address": "PO Box 6164, Sheridan, WY 82801, USA",
+      "email": "steve@bighornfilms.com",
+      "name": "Stephen Tucker"
+    },
+    "description": "Bighorn Films",
+    "url": "https://www.bighornfilms.com/"
+  },
+  {
     "code": "BHS",
     "description": "BLACK HANGER STUDIOS"
   },
