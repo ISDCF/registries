@@ -2816,6 +2816,16 @@
     "url": "https://www.outpostdigitalcinema.com"
   },
   {
+    "code": "OJO",
+    "contact": {
+      "address": "Calle 9 N° 65, 1900 La Plata, Argentina",
+      "email": "ojoreja@gmail.com",
+      "name": "Federico Raúl Bongiorno"
+    },
+    "description": "Ojoreja films",
+    "url": "http://www.lacasadelminotauro.ar/es/"
+  },
+  {
     "code": "ONE",
     "description": "ONE FILMVERLEIH",
     "url": "https://one-filmverleih.de"
