@@ -1585,6 +1585,16 @@
     "description": "CREATIVITY MEDIA LONDON"
   },
   {
+    "code": "CRN",
+    "contact": {
+      "address": "R FELIPE NERI 366 SALA 401, 90440-150 PORTO ALEGRE, BRAZIL",
+      "email": "pedro@carnotauro.co",
+      "name": "Pedro Valadão"
+    },
+    "description": "Carnotauro Post Production",
+    "url": "https://carnotauro.co"
+  },
+  {
     "code": "CRP",
     "description": "CENTRAL POST (COSTA RICA)"
   },
