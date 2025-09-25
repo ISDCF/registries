@@ -2769,6 +2769,16 @@
     "url": "https://nolita.fr"
   },
   {
+    "code": "NOR",
+    "contact": {
+      "address": "61 Rue de Lyon, 75012 Paris, FRANCE",
+      "email": "denis@nordalisfilms.fr",
+      "name": "Denis Liakhov"
+    },
+    "description": "Nordalis Films",
+    "url": "https://www.nordalisfilms.fr"
+  },
+  {
     "code": "NP",
     "contact": {
       "address": "11 S. Main Street Dayton, OH 45458",
