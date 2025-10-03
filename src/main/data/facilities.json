@@ -7801,11 +7801,25 @@
   },
   {
     "code": "WFG",
-    "description": "WEFADETOGREY"
+    "description": "WEFADETOGREY",
+    "obsolete": true,
+    "obsoletedBy": [
+      "WFTG"
+    ]
   },
   {
     "code": "WFS",
     "description": "WATERFRONT FILM STUDIOS"
+  },
+  {
+    "code": "WFTG",
+    "contact": {
+      "address": "Hansaring 88, 50670 Cologne, Germany",
+      "email": "jan.pfitzner@wefadetogrey.de",
+      "name": "Jan Pfitzner"
+    },
+    "description": "WeFadeToGrey GmbH",
+    "url": "https://wefadetogrey.de"
   },
   {
     "code": "WG",
