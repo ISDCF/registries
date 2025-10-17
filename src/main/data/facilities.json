@@ -2346,6 +2346,16 @@
     "description": "DICENTIA STUDIOS"
   },
   {
+    "code": "DSTR",
+    "contact": {
+      "address": "Gral. Juan Gregorio Las Heras 1639, 1602 Florida, Buenos Aires, Argentina",
+      "email": "destornillador.prod@gmail.com",
+      "name": "Ana Inés Ferrer"
+    },
+    "description": "Destornillador Producciones",
+    "url": "https://www.instagram.com/destornillador.prods/#"
+  },
+  {
     "code": "DTA",
     "description": "DELUXE AUSTRALIA",
     "obsolete": true,
