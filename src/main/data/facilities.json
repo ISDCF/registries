@@ -2346,6 +2346,16 @@
     "description": "DICENTIA STUDIOS"
   },
   {
+    "code": "DSTR",
+    "contact": {
+      "address": "Gral. Juan Gregorio Las Heras 1639, 1602 Florida, Buenos Aires, Argentina",
+      "email": "destornillador.prod@gmail.com",
+      "name": "Ana Inés Ferrer"
+    },
+    "description": "Destornillador Producciones",
+    "url": "https://www.instagram.com/destornillador.prods/#"
+  },
+  {
     "code": "DTA",
     "description": "DELUXE AUSTRALIA",
     "obsolete": true,
@@ -2533,6 +2543,16 @@
   {
     "code": "ECS",
     "description": "ELECTRIC CINEMA AND SOUND STUDIOS"
+  },
+  {
+    "code": "ECVM",
+    "contact": {
+      "address": "120 Boylston St, Boston, MA 02116, USA",
+      "email": "mark_chesak@emerson.edu",
+      "name": "David Hadley"
+    },
+    "description": "Emerson College Visual Media Arts",
+    "url": "https://emerson.edu/academics/schools-labs-and-centers/school-film-television-and-media-arts"
   },
   {
     "code": "ED",
@@ -7442,6 +7462,11 @@
   {
     "code": "TVM",
     "description": "WARNER BROS. TV MARKETING TEAM"
+  },
+  {
+    "code": "TVP",
+    "description": "Polish Television",
+    "url": "https://www.tvp.pl/"
   },
   {
     "code": "TW",
