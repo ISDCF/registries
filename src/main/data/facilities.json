@@ -2535,6 +2535,16 @@
     "description": "ELECTRIC CINEMA AND SOUND STUDIOS"
   },
   {
+    "code": "ECVM",
+    "contact": {
+      "address": "120 Boylston St, Boston, MA 02116, USA",
+      "email": "mark_chesak@emerson.edu",
+      "name": "David Hadley"
+    },
+    "description": "Emerson College Visual Media Arts",
+    "url": "https://emerson.edu/academics/schools-labs-and-centers/school-film-television-and-media-arts"
+  },
+  {
     "code": "ED",
     "description": "E D I T D U D E S"
   },
@@ -7442,6 +7452,11 @@
   {
     "code": "TVM",
     "description": "WARNER BROS. TV MARKETING TEAM"
+  },
+  {
+    "code": "TVP",
+    "description": "Polish Television",
+    "url": "https://www.tvp.pl/"
   },
   {
     "code": "TW",
