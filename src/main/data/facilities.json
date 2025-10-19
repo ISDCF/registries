@@ -3816,6 +3816,16 @@
     "description": "POST LAB IO"
   },
   {
+    "code": "ION",
+    "contact": {
+      "address": "30N GOULD ST, STE N, Sheridan,WY 82801, USA",
+      "email": "iondcp@gmail.com",
+      "name": "SANJAY SHRIVASTAVA"
+    },
+    "description": "IONDCP",
+    "url": "https://iondcp.com/"
+  },
+  {
     "code": "IP",
     "description": "Iris Prize Outreach",
     "url": "https://irisprize.org"
