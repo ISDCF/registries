@@ -3462,6 +3462,16 @@
     "description": "Homeless Bob Production"
   },
   {
+    "code": "HBR",
+    "contact": {
+      "address": "Harbour c/o Pixel Unit GmbH, Rellinger Weg 1, 25474 Ellerbek, Germany",
+      "email": "benjamin@harbour.hamburg",
+      "name": "Benjamin Behre"
+    },
+    "description": "Harbour®",
+    "url": "https://harbour.hamburg"
+  },
+  {
     "code": "HBT",
     "description": "Holy Bit!"
   },
