@@ -1845,6 +1845,16 @@
     ]
   },
   {
+    "code": "HFG",
+    "contact": {
+      "address": "6310 San Vicente Blvd Ste 500, Los Angeles CA 90048, USA",
+      "email": "Paul@highland.film",
+      "name": "Paul Hazen"
+    },
+    "description": "Highland Film Group",
+    "url": "https://www.highlandfilmgroup.com"
+  },
+  {
     "code": "HFFM",
     "description": "HFF München (Hochschule für Fernsehen und Film München)",
     "url": "https://www.hff-muenchen.de/"
