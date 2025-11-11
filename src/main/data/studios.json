@@ -445,6 +445,16 @@
     "description": "AV-DESIGN"
   },
   {
+    "code": "AVE",
+    "contact": {
+      "address": "6310 San Vicente Blvd Ste 500, Los Angeles CA 90048, USA",
+      "email": "Paul@highland.film",
+      "name": "Paul Hazen"
+    },
+    "description": "The Avenue",
+    "url": "https://www.highlandfilmgroup.com"
+  },
+  {
     "code": "AVM",
     "contact": {
       "address": "Str Parangului 76, Bucharest, Romania, 012328",
