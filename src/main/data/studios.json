@@ -1071,6 +1071,16 @@
     "description": "DELPHI FILMVERLEIH GMBH"
   },
   {
+    "code": "DFI",
+    "contact": {
+      "address": "25 Katara Cultural Village, PO Box 23473, Doha, Qatar",
+      "email": "pgiannakos@dohafilm.com",
+      "name": "Panos Giannakos"
+    },
+    "description": "Doha Film Institute",
+    "url": "https://www.dohafilm.com"
+  },
+  {
     "code": "DFS",
     "description": "DUALFILM, STUTTGART"
   },
