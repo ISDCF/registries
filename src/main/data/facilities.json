@@ -6934,6 +6934,16 @@
     "description": "STUDIO HAMBURG"
   },
   {
+    "code": "STIW",
+    "contact": {
+      "address": "Belse 3578, 82391 Kilafors, Sweden",
+      "email": "info@sothisiswhy.com",
+      "name": "Peter Mattsson"
+    },
+    "description": "So This Is Why",
+    "url": "https://www.sothisiswhy.com"
+  },
+  {
     "code": "STL",
     "contact": {
       "address": "Elsterstr. 29, 04109 Leipzig, Sachsen, Germany",
