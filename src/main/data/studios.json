@@ -568,6 +568,16 @@
     "url": "https://www.brightfish.be"
   },
   {
+    "code": "BFP",
+    "contact": {
+      "address": "Calle Luis Guillermo Villegas Blanco, Santa Eduvigis, Caracas 1071, Distrito Capital, Venezuela",
+      "email": "bolivarfilmsaudio@gmail.com",
+      "name": "Luis Guillermo Villegas"
+    },
+    "description": "Bolivar Films",
+    "url": "https://www.bolivarfilms.com/"
+  },
+  {
     "code": "BG",
     "description": "Basement Games"
   },
