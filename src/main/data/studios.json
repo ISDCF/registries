@@ -534,6 +534,16 @@
     "url": "http://belgafilms.be/"
   },
   {
+    "code": "BEMO",
+    "contact": {
+      "address": "61 Gipps St, Collingwood VIC 3066, Australia",
+      "email": "beezalmop@gmail.com",
+      "name": "Jack Ralph"
+    },
+    "description": "Beezal Mop FIlms",
+    "url": "https://www.patreon.com/c/beezalmop"
+  },
+  {
     "code": "BEP",
     "contact": {
       "address": "5726 Camellia Ave, Apt. 204, North Hollywood, CA, 91601 USA",
@@ -566,6 +576,16 @@
     },
     "description": "Brightfish Belgium",
     "url": "https://www.brightfish.be"
+  },
+  {
+    "code": "BFP",
+    "contact": {
+      "address": "Calle Luis Guillermo Villegas Blanco, Santa Eduvigis, Caracas 1071, Distrito Capital, Venezuela",
+      "email": "bolivarfilmsaudio@gmail.com",
+      "name": "Luis Guillermo Villegas"
+    },
+    "description": "Bolivar Films",
+    "url": "https://www.bolivarfilms.com/"
   },
   {
     "code": "BG",
