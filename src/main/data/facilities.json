@@ -706,6 +706,16 @@
     "description": "BRICKBOX DIGITAL MEDIA"
   },
   {
+    "code": "BEMO",
+    "contact": {
+      "address": "61 Gipps St, Collingwood VIC 3066, Australia",
+      "email": "beezalmop@gmail.com",
+      "name": "Jack Ralph"
+    },
+    "description": "Beezal Mop FIlms",
+    "url": "https://www.patreon.com/c/beezalmop"
+  },
+  {
     "code": "BEP",
     "description": "Blinding Edge Pictures",
     "url": "https://en.wikipedia.org/wiki/Blinding_Edge_Pictures"
