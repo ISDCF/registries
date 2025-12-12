@@ -207,6 +207,11 @@
     "description": "ATOMIC IMAGING, CHICAGO"
   },
   {
+    "code": "AIS",
+    "description": "Alien Internet Services",
+    "url": "https://www.alieninternet.eu/"
+  },
+  {
     "code": "AK",
     "description": "ALASTI KINO"
   },
