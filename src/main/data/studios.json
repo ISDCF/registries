@@ -207,6 +207,11 @@
     "description": "ATOMIC IMAGING, CHICAGO"
   },
   {
+    "code": "AIS",
+    "description": "Alien Internet Services",
+    "url": "https://www.alieninternet.eu/"
+  },
+  {
     "code": "AK",
     "description": "ALASTI KINO"
   },
@@ -773,6 +778,11 @@
     "url": "https://www.vimeo.com/cafeluna"
   },
   {
+    "code": "CAMZ",
+    "description": "Camera X",
+    "url": "https://www.camerax.tv"
+  },
+  {
     "code": "CB",
     "contact": {
       "address": "5817 Lindenhurst Ave, Los Angeles, CA 90036, USA",
@@ -1321,6 +1331,11 @@
     "code": "EFS",
     "description": "Eight Flow Studio",
     "url": "https://davidspadora.com"
+  },
+  {
+    "code": "EL",
+    "description": "Eladia",
+    "url": "https://punk.com.uy"
   },
   {
     "code": "ELA",
@@ -2994,6 +3009,11 @@
     "code": "ODC",
     "description": "Outpost Digital Cinema",
     "url": "https://www.outpostdigitalcinema.com"
+  },
+  {
+    "code": "OHA",
+    "description": "Ohana Prod",
+    "url": "https://www.instagram.com/ohana.prod.fr/"
   },
   {
     "code": "OJO",

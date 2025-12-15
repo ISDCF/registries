@@ -309,6 +309,11 @@
     "description": "AIA POST & COLOR"
   },
   {
+    "code": "AIS",
+    "description": "Alien Internet Services",
+    "url": "https://www.alieninternet.eu/"
+  },
+  {
     "code": "AIX",
     "description": "ACCESS IT",
     "obsolete": true,
