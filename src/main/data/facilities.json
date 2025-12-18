@@ -494,6 +494,11 @@
     "description": "ARTECH DCINEMA"
   },
   {
+    "code": "ARC1",
+    "description": "Arc Film",
+    "url": "https://arc.site/"
+  },
+  {
     "code": "ARI",
     "description": "Aria Covamonas",
     "url": "https://covamonas.com/"
