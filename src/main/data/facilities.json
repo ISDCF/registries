@@ -435,6 +435,16 @@
     "description": "ALL MOBILE VIDEO"
   },
   {
+    "code": "AN",
+    "contact": {
+      "address": "Hasenheide 9, 10967 Berlin, Germany",
+      "email": "service@andecfilm.de",
+      "name": "Ludwig Draser"
+    },
+    "description": "ANDEC FILMTECHNIK GMBH",
+    "url": "https://andecfilm.de/"
+  },
+  {
     "code": "AND",
     "description": "ANDROMEDA FILM"
   },
