@@ -156,6 +156,16 @@
     "description": "902 POST INC."
   },
   {
+    "code": "A35",
+    "contact": {
+      "address": "No. 143, Lane 136, Erjiu Rd, Sanxia District, New Taipei City, Taiwan 237",
+      "email": "sam@asteroid35.com",
+      "name": "Mr. Sam Kung"
+    },
+    "description": "Asteroid 35 DCP Production",
+    "url": "https://asteroid35.com/"
+  },
+  {
     "code": "AAA",
     "description": "AntiAntiArt",
     "url": "https://www.facebook.com/antiantiartprod"
