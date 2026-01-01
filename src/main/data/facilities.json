@@ -156,6 +156,16 @@
     "description": "902 POST INC."
   },
   {
+    "code": "A35",
+    "contact": {
+      "address": "No. 143, Lane 136, Erjiu Rd, Sanxia District, New Taipei City, Taiwan 237",
+      "email": "sam@asteroid35.com",
+      "name": "Mr. Sam Kung"
+    },
+    "description": "Asteroid 35 DCP Production",
+    "url": "https://asteroid35.com/"
+  },
+  {
     "code": "AAA",
     "description": "AntiAntiArt",
     "url": "https://www.facebook.com/antiantiartprod"
@@ -435,6 +445,16 @@
     "description": "ALL MOBILE VIDEO"
   },
   {
+    "code": "AN",
+    "contact": {
+      "address": "Hasenheide 9, 10967 Berlin, Germany",
+      "email": "service@andecfilm.de",
+      "name": "Ludwig Draser"
+    },
+    "description": "ANDEC FILMTECHNIK GMBH",
+    "url": "https://andecfilm.de/"
+  },
+  {
     "code": "AND",
     "description": "ANDROMEDA FILM"
   },
@@ -492,6 +512,11 @@
   {
     "code": "ARC",
     "description": "ARTECH DCINEMA"
+  },
+  {
+    "code": "ARC1",
+    "description": "Arc Film",
+    "url": "https://arc.site/"
   },
   {
     "code": "ARI",
