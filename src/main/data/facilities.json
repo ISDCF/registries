@@ -5840,6 +5840,11 @@
     "description": "POST PRO GUMBO"
   },
   {
+    "code": "PPUK",
+    "description": "PARAMOUNT PICS UK",
+    "url": "https://www.paramount-mediahub.co.uk/"
+  },
+  {
     "code": "PRE",
     "description": "PRESTIGE CONSULTING"
   },
