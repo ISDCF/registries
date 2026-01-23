@@ -7744,6 +7744,15 @@
     "description": "URTEXT FILM PRODUCTIONS"
   },
   {
+    "code": "USFA",
+    "contact": {
+      "email": "luz@unserefarben.ch",
+      "name": "Luzius Müller"
+    },
+    "description": "Unsere Farben D.I. Production",
+    "url": "https://www.unserefarben.ch"
+  },
+  {
     "code": "USP",
     "description": "UNIVERSAL STUDIOPOST"
   },
