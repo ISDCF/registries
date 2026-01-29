@@ -514,6 +514,11 @@
     "url": "https://www.bundesarchiv.de/"
   },
   {
+    "code": "BAGL",
+    "description": "BAGLAND",
+    "url": "https://www.bagland-prod.dk"
+  },
+  {
     "code": "BAQ",
     "contact": {
       "address": "4639 Huron Ave, San Diego, CA 92117",
