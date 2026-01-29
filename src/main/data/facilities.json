@@ -7757,6 +7757,11 @@
     "description": "UNIVERSAL STUDIOPOST"
   },
   {
+    "code": "UTA",
+    "description": "University of Texas - Austin",
+    "url": "https://rtf.utexas.edu"
+  },
+  {
     "code": "UTD",
     "description": "UTD. BY CONTENT"
   },
