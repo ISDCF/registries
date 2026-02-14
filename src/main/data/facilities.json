@@ -2777,6 +2777,16 @@
     ]
   },
   {
+    "code": "EMB",
+    "contact": {
+      "address": "Gaudenzdorfer Gürtel 43-45/1A2, A-1120 Vienna, Austria",
+      "email": "office@embel-studio.com",
+      "name": "Mr. Andreas Daxer"
+    },
+    "description": "Embel Studio Post",
+    "url": "https://embelstudiopost.com/"
+  },
+  {
     "code": "EMC",
     "description": "EMC POST PRODUCTION"
   },
