@@ -7800,6 +7800,16 @@
     "description": "VIDÉO DE POCHE"
   },
   {
+    "code": "VDTK",
+    "contact": {
+      "address": "Budapest, Lovas út 3-18 1, 1012 Hungary",
+      "email": "david@videoteka.tv",
+      "name": "David Kovacs"
+    },
+    "description": "VIDEOTÉKA",
+    "url": "https://videoteka.tv"
+  },
+  {
     "code": "VE",
     "description": "Village Entertainment"
   },
