@@ -52,7 +52,7 @@ exports.areBadURLs = async function(url_list) {
       },
       (res) => {
         if (res.statusCode !== 200) {
-          reject("Bad API call: " + res.statusCode + " " + res.statusMessage + ");
+          reject("Bad API call: " + res.statusCode + " " + res.statusMessage);
         }
 
         res.setEncoding('utf8');
