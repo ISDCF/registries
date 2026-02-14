@@ -39,68 +39,78 @@ if (! ("G_SAFE_BROWSING_API_KEY" in process.env) && ! isSkipURLCheck()) {
 
 exports.areBadURLs = async function(url_list) {
 
-  const threatEntries = url_list.map((e) => ({"url" : e}));
+  let badURLs = [];
 
-  return await new Promise((resolve, reject) => {
-    let r = https.request(
-      `https://safebrowsing.googleapis.com/v4/threatMatches:find?key=${process.env.G_SAFE_BROWSING_API_KEY}`,
-      {
-        "headers": {
-          "Content-Type": "application/json"
+  /* Google Safe Browsing API supports at most 500 URLs per call */
+  for (let i = 0; i < url_list.length; i += 500) {
+
+    const threatEntries = url_list.slice(i, i + 500).map((e) => ({"url" : e}));
+
+    const matches = await new Promise((resolve, reject) => {
+      let r = https.request(
+        `https://safebrowsing.googleapis.com/v4/threatMatches:find?key=${process.env.G_SAFE_BROWSING_API_KEY}`,
+        {
+          "headers": {
+            "Content-Type": "application/json"
+          },
+          "method": "POST"
         },
-        "method": "POST"
-      },
-      (res) => {
-        if (res.statusCode !== 200) {
-          reject("Bad API call: " + res.statusCode + " " + res.statusMessage);
-        }
-
-        res.setEncoding('utf8');
-
-        let body = "";
-
-        res.on('data', (chunk) => {
-          body += chunk;
-        });
-
-        res.on('end', () => {
-          if (!res.complete)
-            reject(e);
-
-          try {
-            const m = JSON.parse(body);
-
-            if (! ("matches" in m)) {
-              resolve([]);
-            } else {
-              resolve(m.matches.map(e => e.threat.url));
-            }
-
-          } catch(e) {
-            reject(e);
+        (res) => {
+          if (res.statusCode !== 200) {
+            reject("Bad API call: " + res.statusCode + " " + res.statusMessage);
           }
-        });
-      }
-    );
 
-    r.on('error', (e) => {
-      reject(e);
+          res.setEncoding('utf8');
+
+          let body = "";
+
+          res.on('data', (chunk) => {
+            body += chunk;
+          });
+
+          res.on('end', () => {
+            if (!res.complete)
+              reject("Response incomplete");
+
+            try {
+              const m = JSON.parse(body);
+
+              if (! ("matches" in m)) {
+                resolve([]);
+              } else {
+                resolve(m.matches.map(e => e.threat.url));
+              }
+
+            } catch(e) {
+              reject(e);
+            }
+          });
+        }
+      );
+
+      r.on('error', (e) => {
+        reject(e);
+      });
+
+      r.write(JSON.stringify({
+        "client": {
+          "clientId":      "isdcf.com/registries",
+          "clientVersion": "1.0.0"
+        },
+        "threatInfo": {
+          "threatTypes":      ["THREAT_TYPE_UNSPECIFIED", "MALWARE", "SOCIAL_ENGINEERING", "UNWANTED_SOFTWARE", "POTENTIALLY_HARMFUL_APPLICATION"],
+          "platformTypes":    ["ANY_PLATFORM"],
+          "threatEntryTypes": ["URL"],
+          "threatEntries": threatEntries
+        }
+      }));
+
+      r.end();
     });
 
-    r.write(JSON.stringify({
-      "client": {
-        "clientId":      "isdcf.com/registries",
-        "clientVersion": "1.0.0"
-      },
-      "threatInfo": {
-        "threatTypes":      ["THREAT_TYPE_UNSPECIFIED", "MALWARE", "SOCIAL_ENGINEERING", "UNWANTED_SOFTWARE", "POTENTIALLY_HARMFUL_APPLICATION"],
-        "platformTypes":    ["ANY_PLATFORM"],
-        "threatEntryTypes": ["URL"],
-        "threatEntries": threatEntries
-      }
-    }));
+    badURLs = badURLs.concat(matches);
+  }
 
-    r.end();
-  });
+  return badURLs;
 
 }
