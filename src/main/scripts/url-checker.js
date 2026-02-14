@@ -41,6 +41,7 @@ exports.areBadURLs = async function(url_list) {
 
   let badURLs = [];
 
+  /* Google Safe Browsing API supports at most 500 URLs per call */
   for (let i = 0; i < url_list.length; i += 500) {
 
     const threatEntries = url_list.slice(i, i + 500).map((e) => ({"url" : e}));
