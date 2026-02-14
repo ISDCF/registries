@@ -2714,6 +2714,16 @@
     "url": "https://www.mintfilms.com.au"
   },
   {
+    "code": "MIST",
+    "contact": {
+      "address": "36 Rue Emile Decorps, 69100 Villeurbanne, France",
+      "email": "victor@mist-postproduction.com",
+      "name": "Dagand Victor"
+    },
+    "description": "Mist Post-production",
+    "url": "https://www.mist-postproduction.com/"
+  },
+  {
     "code": "MJP",
     "description": "Max Jacobs Productions",
     "url": "https://www.maxjproductions.com/"
@@ -3765,6 +3775,16 @@
     "description": "SOMAFILM"
   },
   {
+    "code": "SOP",
+    "contact": {
+      "address": "Sivrissariou 9, Kesariani 161 21, Greece",
+      "email": "info@soulproductions.gr",
+      "name": "Ioanna Soultani"
+    },
+    "description": "Soul Productions",
+    "url": "https://soulproductions.gr"
+  },
+  {
     "code": "SPC",
     "contact": {
       "email": "allison_mackie@spe.sony.com",
@@ -4009,6 +4029,11 @@
     "code": "TAMA",
     "description": "Cine Tamaris",
     "url": "https://www.cine-tamaris.fr/"
+  },
+  {
+    "code": "TB",
+    "description": "True Brit Entertainment",
+    "url": "https://www.true-brit.com/"
   },
   {
     "code": "TBF",
