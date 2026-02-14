@@ -2777,6 +2777,16 @@
     ]
   },
   {
+    "code": "EMB",
+    "contact": {
+      "address": "Gaudenzdorfer Gürtel 43-45/1A2, A-1120 Vienna, Austria",
+      "email": "office@embel-studio.com",
+      "name": "Mr. Andreas Daxer"
+    },
+    "description": "Embel Studio Post",
+    "url": "https://embelstudiopost.com/"
+  },
+  {
     "code": "EMC",
     "description": "EMC POST PRODUCTION"
   },
@@ -7798,6 +7808,16 @@
   {
     "code": "VDP",
     "description": "VIDÉO DE POCHE"
+  },
+  {
+    "code": "VDTK",
+    "contact": {
+      "address": "Budapest, Lovas út 3-18 1, 1012 Hungary",
+      "email": "david@videoteka.tv",
+      "name": "David Kovacs"
+    },
+    "description": "VIDEOTÉKA",
+    "url": "https://videoteka.tv"
   },
   {
     "code": "VE",
