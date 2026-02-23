@@ -4230,7 +4230,18 @@
       "name": "Antti Näyhä"
     },
     "description": "Kinomagia"
+  },  
+  {
+    "code": "KMPT",
+    "contact": {
+      "address": "Ul. Pavla Šubića 8, 10000, Zagreb, Croatia",
+      "email": "tibor@kompot.hr",
+      "name": "Tibor Keser"
+    },
+    "description": "KOMPOST",
+    "url": "https://www.kompot.hr"
   },
+
   {
     "code": "KMR",
     "contact": {
