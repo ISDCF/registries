@@ -2970,6 +2970,11 @@
     "description": "FILMDOC B.V."
   },
   {
+    "code": "FC",
+    "description": "Filmconsult / Media production",
+    "url": "https://filmconsult.de"
+  },
+  {
     "code": "FCR",
     "contact": {
       "address": "Barrio Escalante 1106, Cariari #10, San Jose, Costa Rica, 10101",
@@ -4232,6 +4237,16 @@
     "description": "Kinomagia"
   },
   {
+    "code": "KMPT",
+    "contact": {
+      "address": "Ul. Pavla Šubića 8, 10000, Zagreb, Croatia",
+      "email": "tibor@kompot.hr",
+      "name": "Tibor Keser"
+    },
+    "description": "KOMPOST",
+    "url": "https://www.kompot.hr"
+  },
+  {
     "code": "KMR",
     "contact": {
       "address": "Wallstraße 21, 14770 Brandenburg (Germany)",
@@ -4388,6 +4403,11 @@
     "description": "LA COMPAGNIE DE L'IMAGE"
   },
   {
+    "code": "LCL",
+    "description": "LORENZO Colorlab",
+    "url": "https://www.lorenzocolorlab.com"
+  },
+  {
     "code": "LDN",
     "description": "LOUDNESS FILMS"
   },
@@ -4413,7 +4433,7 @@
     "contact": {
       "address": "771 avenue Marc Lepoutre, 84700 Sorgues, France",
       "email": "info@filmsfievre.com",
-      "name": "Denis Liakhov"
+      "name": "Abdelhadi El Rharbi"
     },
     "description": "Les Films Fievre",
     "url": "https://www.filmsfievre.com"
@@ -5355,7 +5375,7 @@
     "code": "NOR",
     "contact": {
       "address": "61 Rue de Lyon, 75012 Paris, FRANCE",
-      "email": "denis@nordalisfilms.fr",
+      "email": "tech@nordalisfilms.fr",
       "name": "Denis Liakhov"
     },
     "description": "Nordalis Films",
@@ -7322,6 +7342,16 @@
     "code": "TEK",
     "description": "Mediatek Post Production",
     "url": "https://www.mediatek-post.co.uk/"
+  },
+  {
+    "code": "TES",
+    "contact": {
+      "address": "Cra. 56A #61-24, La Candelaria, Medellín, La Candelaria, Medellín, Antioquia, Colombia",
+      "email": "teselacinelab@gmail.com",
+      "name": "Anderson Ascanio"
+    },
+    "description": "Tesela Cine Lab",
+    "url": "https://teselacinelab.com/"
   },
   {
     "code": "TET",
