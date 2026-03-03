@@ -22,7 +22,6 @@
           "properties": {
               "image": {
                   "type": "array",
-                  "additionalItems": true,
                   "items": {
                       "anyOf": [
                           {
@@ -34,7 +33,6 @@
               },
               "video": {
                   "type": "array",
-                  "additionalItems": true,
                   "items": {
                       "anyOf": [
                           {

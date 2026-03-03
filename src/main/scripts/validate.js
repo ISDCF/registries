@@ -23,6 +23,8 @@ const fs = require('fs');
 const { basename, join } = require('path')
 const { readFile, access, readdir } = require('fs').promises;
 const ajv = require('ajv');
+const addFormats = require("ajv-formats");
+
 
 const DATA_PATH = "src/main/data/";
 const DATA_SCHEMA_PATH = "src/main/schemas/%s.schema.json";
@@ -31,17 +33,26 @@ const DATA_VALIDATE_PATH = "src/main/scripts/%s.validate.js"; // additional chec
 /* load and validate the registry */
 
 var validator_factory = new ajv();
+addFormats(validator_factory);
+var validators = {};
+fs.readdirSync(DATA_PATH).forEach(file => {
+  const name = basename(file, ".json");
+  const schemaFile = DATA_SCHEMA_PATH.replace("%s", name);
+  const schema = JSON.parse(fs.readFileSync(schemaFile));
+  const schemaVersion = basename(schema.$id);
+  validators[name] = {ns: schemaVersion, validate: validator_factory.compile(schema)};
+});
+  
 
 async function registries() {
   /* create a mapping of schema/data name to validator */
   return await (await readdir(DATA_PATH)).reduce(async (aProm, dataFile) => {
     const a = await aProm
     const name = basename(dataFile, ".json")
-    const schemaFile = DATA_SCHEMA_PATH.replace("%s", name)
     const validateFile = DATA_VALIDATE_PATH.replace("%s", name)
-    const schema = JSON.parse(await readFile(schemaFile))
-    const schemaVersion = basename(schema.$id)
-    const schemaValidate = validator_factory.compile(schema)
+    const validator = validators[name];
+    const schemaVersion = validator.ns;
+    const schemaValidate = validator.validate;
     const dataFilePath = join(DATA_PATH, dataFile)
     const data = JSON.parse(await readFile(dataFilePath))
 
