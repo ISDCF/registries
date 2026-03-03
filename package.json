@@ -17,14 +17,15 @@
   "license": "CC-BY-4.0",
   "devDependencies": {
     "@xmldom/xmldom": "^0.8.4",
-    "chai": "^4.2.0",
+    "chai": "^6.2.2",
     "cldr-core": "^36.0.0",
     "cldr-localenames-modern": "^36.0.0",
     "json-stable-stringify": "^1.0.1",
     "language-tags": "^1.0.5",
-    "mocha": "^11.1.0"
+    "mocha": "^11.3.0"
   },
   "dependencies": {
-    "ajv": "^8.18.0"
+    "ajv": "^8.18.0",
+    "ajv-formats": "^3.0.1"
   }
 }
