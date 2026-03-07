@@ -5096,6 +5096,16 @@
     "description": "MARK DCP"
   },
   {
+    "code": "MRM",
+    "contact": {
+      "address": "C. Capitán Aguilar 255, Nuevo Obispado, 64040 Monterrey, N.L., Mexico",
+      "email": "alejandro@marambra.mx",
+      "name": "Alejandro Gonzalez Guajardo"
+    },
+    "description": "Marambra",
+    "url": "https://marambra.mx/"
+  },
+  {
     "code": "MRS",
     "description": "M.R. SOUND"
   },
