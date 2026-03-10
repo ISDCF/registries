@@ -2814,6 +2814,16 @@
     "description": "ELITE MEDIA TECHNOLOGIES"
   },
   {
+    "code": "ENE",
+    "contact": {
+      "address": "Moreno 1199, C1091AAW Cdad. Autónoma de Buenos Aires, Argentina",
+      "email": "postproduccion@enerc.gob.ar",
+      "name": "Nicolás Vetromile"
+    },
+    "description": "ENERC Escuela Nacional de Experimentación y Realización Cinematográfica Argentina",
+    "url": "https://www.enerc.gob.ar"
+  },
+  {
     "code": "ENT",
     "description": "ANTITALENT"
   },
