@@ -782,6 +782,16 @@
     "description": "BANTAM STREET"
   },
   {
+    "code": "BSS",
+    "contact": {
+      "address": "2301 Locust Street, St. Louis, MO 63103, USA",
+      "email": "ryan@brutonstroube.com",
+      "name": "Ryan Bicknell"
+    },
+    "description": "Bruton Stroube Studios",
+    "url": "https://brutonstroube.com/"
+  },
+  {
     "code": "BST",
     "description": "Blair Stewart Films",
     "url": "https://filmfreeway.com/BlairStewart"
