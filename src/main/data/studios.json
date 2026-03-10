@@ -218,7 +218,7 @@
   {
     "code": "AHS",
     "contact": {
-      "address": "100 Universal City Plaza, #5183, Universal City, United States",
+      "address": "100 Universal City Plaza, #5183, Universal City, CA, USA",
       "email": "david.smutny@alphahollywoodstudios.com",
       "name": "Milan Friedrich"
     },
@@ -296,7 +296,7 @@
   {
     "code": "ANG",
     "contact": {
-      "address": "295 W Center St, Provo, UT 84601 USA",
+      "address": "295 W Center St, Provo, UT 84601, USA",
       "email": "jeremy@angel.com",
       "name": "Jeremy Neish"
     },
@@ -481,7 +481,7 @@
   {
     "code": "AVC",
     "contact": {
-      "address": "5350 Ethel Way, Sacramento, CA 95820 USA",
+      "address": "5350 Ethel Way, Sacramento, CA 95820, USA",
       "email": "amysoldschool@gmail.com",
       "name": "Aiden Nelson"
     },
@@ -540,7 +540,7 @@
   {
     "code": "BAQ",
     "contact": {
-      "address": "4639 Huron Ave, San Diego, CA 92117",
+      "address": "4639 Huron Ave, San Diego, CA 92117, USA",
       "email": "michaelgkinsell@gmail.com",
       "name": "Michael Kinsell"
     },
@@ -589,7 +589,7 @@
   {
     "code": "BEP",
     "contact": {
-      "address": "5726 Camellia Ave, Apt. 204, North Hollywood, CA, 91601 USA",
+      "address": "5726 Camellia Ave, Apt. 204, North Hollywood, CA 91601, USA",
       "email": "beareleganceproductions@gmail.com",
       "name": "Eric DePriester"
     },
@@ -869,7 +869,7 @@
   {
     "code": "CFP",
     "contact": {
-      "address": "207 E. Calaveras St. Altadena, CA 91001 USA",
+      "address": "207 E. Calaveras St., Altadena, CA 91001, USA",
       "email": "rhayner@conformitypost.com",
       "name": "Ricky Hayner"
     },
@@ -1027,7 +1027,7 @@
   {
     "code": "CRL",
     "contact": {
-      "address": "1 N. College St, Northfield, MN 55057 USA",
+      "address": "1 N. College St, Northfield, MN 55057, USA",
       "email": "pbernhardt@carleton.edu",
       "name": "Paul Bernhardt"
     },
@@ -1242,7 +1242,7 @@
   {
     "code": "DMM",
     "contact": {
-      "address": "6555 Barton Ave ste 190, Los Angeles, CA 90038, USA",
+      "address": "6555 Barton Ave, Ste. 190, Los Angeles, CA 90038, USA",
       "email": "Steven@DigitalMediaManagement.com",
       "name": "Steven Luevano"
     },
@@ -1307,7 +1307,7 @@
   {
     "code": "DV8",
     "contact": {
-      "address": "13641 Washington circle Omaha NE 68137 United States",
+      "address": "13641 Washington Circle, Omaha, NE 68137, USA",
       "email": "doncrucifixto@gmail.com",
       "name": "Mr. Tumi Oluyole"
     },
@@ -1430,7 +1430,7 @@
   {
     "code": "EPDP",
     "contact": {
-      "address": "3522 White House pl, LA, CA 90004, USA",
+      "address": "3522 White House Pl., Los Angeles, CA 90004, USA",
       "email": "echoparkdcp@gmail.com",
       "name": "John Phillips"
     },
@@ -1508,7 +1508,7 @@
   {
     "code": "FAND",
     "contact": {
-      "address": "237 West 35th Street, Suite 605, New York, NY 10001 USA",
+      "address": "237 West 35th Street, Suite 605, New York, NY 10001, USA",
       "email": "ksantiago@cinedigm.com",
       "name": "Karinah Santiago"
     },
@@ -1547,7 +1547,7 @@
   {
     "code": "FE",
     "contact": {
-      "address": "6465 Greenwood Plaza Blvd., Suite 550, Centennial CO 80111, USA",
+      "address": "6465 Greenwood Plaza Blvd., Suite 550, Centennial, CO 80111, USA",
       "email": "jbarrickman@fathomentertainment.com",
       "name": "Jonathan Barrickman"
     },
@@ -1604,7 +1604,7 @@
   {
     "code": "FGSC",
     "contact": {
-      "address": "25 Washington Ave, Brooklyn, NY 11205 USA",
+      "address": "25 Washington Ave, Brooklyn, NY 11205, USA",
       "email": "jkim@brooklyn.cuny.edu",
       "name": "Jay Kim"
     },
@@ -1807,7 +1807,7 @@
   {
     "code": "GCS",
     "contact": {
-      "address": "6330 Miller Road, Brecksville, Ohio 44236 USA",
+      "address": "6330 Miller Road, Brecksville, OH 44236, USA",
       "email": "Mark@garagecreativestudios.com",
       "name": "Mark Hamer"
     },
@@ -1852,7 +1852,7 @@
   {
     "code": "GKID",
     "contact": {
-      "address": "225 Broadway, Suite 2610, New York, New York 10007",
+      "address": "225 Broadway, Suite 2610, New York, NY 10007, USA",
       "email": "lyle@gkids.com",
       "name": "Lyle Zanca"
     },
@@ -1862,7 +1862,7 @@
   {
     "code": "GMF",
     "contact": {
-      "address": "179 McGuinness Blvd, 2L, Brooklyn Ny 11222 United States",
+      "address": "179 McGuinness Blvd, 2L, Brooklyn, NY 11222, USA",
       "email": "enzo@goosemango.com",
       "name": "Enzo Cellucci"
     },
@@ -2233,7 +2233,7 @@
   {
     "code": "JAL",
     "contact": {
-      "address": "4007 Munira Dr, Frisco, Texas 75035 USA",
+      "address": "4007 Munira Dr, Frisco, TX 75035, USA",
       "email": "jason@camp-lucky.com",
       "name": "Jason Starne"
     },
@@ -2407,7 +2407,7 @@
   {
     "code": "KO",
     "contact": {
-      "address": "141 Cove Road, Oyster Bay, NY 11771 USA",
+      "address": "141 Cove Road, Oyster Bay, NY 11771, USA",
       "email": "kaseyoldford@gmail.com",
       "name": "Kasey Oldford"
     },
@@ -2789,7 +2789,7 @@
   {
     "code": "MODE",
     "contact": {
-      "address": "2830 W. Fountain Blvd. Tampa, FL USA",
+      "address": "2830 W. Fountain Blvd., Tampa, FL, USA",
       "email": "moederecords@gmail.com",
       "name": "Gregg Perkins"
     },
@@ -2864,7 +2864,7 @@
   {
     "code": "MTIM",
     "contact": {
-      "address": "1301 E MAIN ST, BOX 58, MURFREESBORO, TN 37132-0001, USA",
+      "address": "1301 E Main St, Box 58, Murfreesboro, TN 37132-0001, USA",
       "email": "rodrigo.gomez@mtsu.edu",
       "name": "Mr. Rodrigo Gomez"
     },
@@ -3019,7 +3019,7 @@
   {
     "code": "NP",
     "contact": {
-      "address": "11 S. Main Street Dayton, OH 45458",
+      "address": "11 S. Main Street, Dayton, OH 45458, USA",
       "email": "nicheproductions@nicheproductions.com",
       "name": "Allen Farst"
     },
@@ -3072,7 +3072,7 @@
   {
     "code": "NU",
     "contact": {
-      "address": "633 Clark St, Evanston, IL 60208 USA",
+      "address": "633 Clark St, Evanston, IL 60208, USA",
       "email": "justinefisher2025@u.northwestern.edu",
       "name": "Justine Fisher"
     },
@@ -3166,7 +3166,7 @@
   {
     "code": "ORG",
     "contact": {
-      "address": "P.O. Box 94, North Reading, MA 01864",
+      "address": "P.O. Box 94, North Reading, MA 01864, USA",
       "email": "jbird@oceanicresearch.org",
       "name": "Jonathan Bird"
     },
@@ -3356,7 +3356,7 @@
   {
     "code": "PURS",
     "contact": {
-      "address": "2312 E Admiral Blvd, Tulsa, OK 74110",
+      "address": "2312 E Admiral Blvd, Tulsa, OK 74110, USA",
       "email": "ty@pursuitfilms.com",
       "name": "Ty Clark"
     },
@@ -3444,7 +3444,7 @@
   {
     "code": "RDF",
     "contact": {
-      "address": "11290 Point East dr., #205, Rancho Cordova, CA, USA 95742",
+      "address": "11290 Point East Dr., #205, Rancho Cordova, CA 95742, USA",
       "email": "admin@reddiamond.film",
       "name": "Mr. Paul Koliadych"
     },
@@ -3526,7 +3526,7 @@
   {
     "code": "RMS",
     "contact": {
-      "address": "2000 Ivar Avenue #11, Los Angeles, CA 90068 USA",
+      "address": "2000 Ivar Avenue #11, Los Angeles, CA 90068, USA",
       "email": "rob.serrini@gmail.com",
       "name": "Roberto Serrini"
     },
@@ -3671,7 +3671,7 @@
   {
     "code": "SDM",
     "contact": {
-      "address": "2900 Olympic Blvd, Santa Monica CA 90404 USA",
+      "address": "2900 Olympic Blvd, Santa Monica, CA 90404, USA",
       "email": "mmiller@skydance.com",
       "name": "Max Miller"
     },
@@ -3769,7 +3769,7 @@
   {
     "code": "SME",
     "contact": {
-      "address": "10202 Washington Blvd Fl 6th Culver City, CA 90232-3119 USA",
+      "address": "10202 Washington Blvd, Fl. 6, Culver City, CA 90232-3119, USA",
       "email": "lee.eigner@sonymusic.com",
       "name": "Lee Eigner"
     },
@@ -3834,7 +3834,7 @@
   {
     "code": "SPF",
     "contact": {
-      "address": "109 Ingraham St. #307 Brooklyn, NY 11237 United States",
+      "address": "109 Ingraham St. #307, Brooklyn, NY 11237, USA",
       "email": "sunny@sacredpact.com",
       "name": "Sunny Lee"
     },
@@ -3991,7 +3991,7 @@
   {
     "code": "SVM",
     "contact": {
-      "address": "245 Kenneth Dr Ste 400, Rochester, NY 14623",
+      "address": "245 Kenneth Dr, Ste. 400, Rochester, NY 14623, USA",
       "email": "jmorgante@screenvisionmedia.com",
       "name": "Jeremy Morgante"
     },
@@ -4114,7 +4114,7 @@
   {
     "code": "TFL",
     "contact": {
-      "address": "26311 NE Valley St #219, Duvall, Washington, 98019 USA",
+      "address": "26311 NE Valley St #219, Duvall, WA 98019, USA",
       "email": "startmeup@gmail.com",
       "name": "Joey Capone"
     },
@@ -4296,7 +4296,7 @@
   {
     "code": "VAR",
     "contact": {
-      "address": "16 Park Ave #303, Rutherford, NJ 07070 USA",
+      "address": "16 Park Ave #303, Rutherford, NJ 07070, USA",
       "email": "djm@variancefilms.com",
       "name": "Dylan Marchetti"
     },
@@ -4425,7 +4425,7 @@
   {
     "code": "WAG",
     "contact": {
-      "address": "120 Emily Dr. Lilburn, Ga 30047, USA",
+      "address": "120 Emily Dr., Lilburn, GA 30047, USA",
       "email": "charles@wagprodco.com",
       "name": "Charles Gilbert"
     },
@@ -4541,7 +4541,7 @@
   {
     "code": "YNS",
     "contact": {
-      "address": "PO BOX 960161, Miami, FL 33296, USA",
+      "address": "PO Box 960161, Miami, FL 33296, USA",
       "email": "erik@ynsfilm.com",
       "name": "Erik Diaz"
     },
