@@ -4304,6 +4304,16 @@
     "description": "KINO DIGITAL"
   },
   {
+    "code": "KPL",
+    "contact": {
+      "address": "Oleny Pchilky St, 3A, Kyiv, 02000, Ukraine",
+      "email": "lab@kyivpostlab.com",
+      "name": "Grygorii Zinchenko"
+    },
+    "description": "KyivPostLab",
+    "url": "https://www.kyivpostlab.com"
+  },
+  {
     "code": "KPP",
     "description": "Kantana Post Production (Thailand)",
     "url": "https://www.kantanadigital.com/"
