@@ -1656,6 +1656,11 @@
     "description": "CRAFT FINLAND OY"
   },
   {
+    "code": "CRI",
+    "description": "Criterion",
+    "url": "https://www.criterion.com/"
+  },
+  {
     "code": "CRL",
     "contact": {
       "address": "1 N. College St, Northfield, MN 55057, USA",
@@ -5892,6 +5897,11 @@
     "url": "https://www.photonic.tv/"
   },
   {
+    "code": "PHP",
+    "description": "Picture Head",
+    "url": "https://picturehead.com/"
+  },
+  {
     "code": "PHS",
     "contact": {
       "address": "429 Sylvan Avenue, Englewood Cliffs, NJ 07632, USA",
@@ -7172,6 +7182,11 @@
     "description": "SAM Spiegel Film"
   },
   {
+    "code": "SSI",
+    "description": "SSI Post",
+    "url": "https://ssipost.com/"
+  },
+  {
     "code": "SSM",
     "description": "Salem Social Media",
     "url": "https://salemsocial.kz/"
@@ -8146,6 +8161,11 @@
   {
     "code": "VSO",
     "description": "Visom"
+  },
+  {
+    "code": "VVS",
+    "description": "VVS Films",
+    "url": "https://vvsfilms.com/"
   },
   {
     "code": "VWS",
