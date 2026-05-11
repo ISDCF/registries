@@ -668,7 +668,13 @@
   },
   {
     "code": "AVP",
-    "description": "AV PRESERVATION BY RETO.CH"
+    "contact": {
+      "address": "Sandrainstrasse 3/7, 3007 Bern, Switzerland",
+      "email": "info@reto.ch",
+      "name": "Reto Kromer"
+    },
+    "description": "AV Preservation by reto.ch",
+    "url": "https://reto.ch/"
   },
   {
     "code": "AVS",
@@ -2922,6 +2928,11 @@
     "description": "EXPRESSDCP"
   },
   {
+    "code": "EYEM",
+    "description": "Eyemagine Studios",
+    "url": "https://www.eyemagine-studios.com/"
+  },
+  {
     "code": "EYW",
     "contact": {
       "address": "Schiffgraben 13, 30159 Hannover, GERMANY",
@@ -3295,6 +3306,16 @@
     "url": "https://vk.com/fregatter"
   },
   {
+    "code": "FUB",
+    "contact": {
+      "address": "Marlene-Dietrich-Allee 11, D-14482 Potsdam-Babelsberg, Germany",
+      "email": "h.schoenherr@filmuniversitaet.de",
+      "name": "Hagen Schoenherr"
+    },
+    "description": "Film University Babelsberg KONRAD WOLF",
+    "url": "https://www.filmuniversitaet.de/"
+  },
+  {
     "code": "FUG",
     "description": "FUGITIVE"
   },
@@ -3388,6 +3409,16 @@
   {
     "code": "GDC",
     "description": "GDC TECHNOLOGY LIMITED"
+  },
+  {
+    "code": "GDN2",
+    "contact": {
+      "address": "Guardian News and Media, Kings Place, 90 York Way, London, N1 9GU, United Kingdom",
+      "email": "jimi.otukoya@theguardian.com",
+      "name": "Miss Jimi Otukoya"
+    },
+    "description": "Guardian Documentaries",
+    "url": "https://www.theguardian.com/documentaries"
   },
   {
     "code": "GEL",
@@ -3659,6 +3690,10 @@
   {
     "code": "HFF",
     "description": "HFF Konrad Wolf",
+    "obsolete": true,
+    "obsoletedBy": [
+      "FUB"
+    ],
     "url": "https://www.filmuniversitaet.de"
   },
   {
@@ -4573,6 +4608,16 @@
     "description": "LOOPLAB"
   },
   {
+    "code": "LLF",
+    "contact": {
+      "address": "Brownhill Drive, Blackburn, BB1 9QR, United Kingdom",
+      "email": "info@lowlightfilms.co.uk",
+      "name": "Rodrigo Guadarrama Lara"
+    },
+    "description": "Low Light Films",
+    "url": "https://lowlightfilms.co.uk"
+  },
+  {
     "code": "LM",
     "contact": {
       "address": "108 Endsleigh Ave, Orange, NSW, 2800, Australia",
@@ -5263,6 +5308,11 @@
     "url": "http://nonalignedfilms.com"
   },
   {
+    "code": "NAG",
+    "description": "New Art Group",
+    "url": "https://newart.mx/"
+  },
+  {
     "code": "NAV",
     "description": "Navigator Filmproduktion"
   },
@@ -5293,6 +5343,11 @@
   {
     "code": "NBS",
     "description": "NEW BOX SOLUTIONS"
+  },
+  {
+    "code": "NC",
+    "description": "Nathan Cohen Productions",
+    "url": "https://www.nathancohen.ca"
   },
   {
     "code": "NCA",
@@ -5431,6 +5486,16 @@
     "code": "NLI",
     "description": "No Longer i, Productions",
     "url": "https://www.signaturelight.com"
+  },
+  {
+    "code": "NMF",
+    "contact": {
+      "address": "37 Pozitano str, fl. 3, office 3, Sofia 1303, Bulgaria",
+      "email": "films@newmagicfilms.com",
+      "name": "BOJIDAR ILIEV"
+    },
+    "description": "New Magic Films",
+    "url": "https://newmagicfilms.com"
   },
   {
     "code": "NOI",
@@ -5815,6 +5880,16 @@
     "code": "PHF",
     "description": "Phenom Films",
     "url": "http://www.phenom-films.com/"
+  },
+  {
+    "code": "PHOT",
+    "contact": {
+      "address": "Lower Ground, 1 Yarra St, South Yarra, VIC 3141, Australia",
+      "email": "nick@photonic.tv",
+      "name": "Nicholas Hower CSI"
+    },
+    "description": "Photonic",
+    "url": "https://www.photonic.tv/"
   },
   {
     "code": "PHS",
@@ -7444,7 +7519,13 @@
   },
   {
     "code": "TFL",
-    "description": "THE FINISH LINE MEDIA LIMITED"
+    "contact": {
+      "address": "38B Georgiana Street, 1st Floor, Block B, London, NW1 0EB, United Kingdom",
+      "email": "zeb@thefinishline.pro",
+      "name": "Zeb Chadfield"
+    },
+    "description": "THE FINISH LINE MEDIA LIMITED",
+    "url": "https://thefinishline.pro"
   },
   {
     "code": "TFM",
@@ -7802,7 +7883,7 @@
       "email": "contact@unserefarben.ch",
       "name": "Mr. Mueller"
     },
-    "description": "Unsere Farben ColorGrade & Post",
+    "description": "Unsere Farben D.I. Postproduction",
     "url": "https://www.unserefarben.ch"
   },
   {
@@ -7892,6 +7973,16 @@
     "code": "VAG",
     "description": "Vagrants",
     "url": "https://www.vagrants.com"
+  },
+  {
+    "code": "VCB1",
+    "contact": {
+      "address": "Rua Horacio Vergueiro Rudge, 445 1.st, Casa Verde, 02512-060 Sao Paulo, SP, Brazil",
+      "email": "videcom@videcom.com.br",
+      "name": "Mr. Alberto Baumstein"
+    },
+    "description": "VIDECOM - Video Comunic. do Brasil Ltda.",
+    "url": "https://videcom.com.br"
   },
   {
     "code": "VCV",

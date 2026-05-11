@@ -265,6 +265,15 @@
     "description": "AMBLIN ENTERTAINMENT"
   },
   {
+    "code": "AMGM",
+    "contact": {
+      "email": "schawnb@amazon.com",
+      "name": "Belston, Schawn"
+    },
+    "description": "Amazon MGM Studios",
+    "url": "https://amazonmgmstudios.com/us/en"
+  },
+  {
     "code": "AMK",
     "description": "AMK Films",
     "url": "https://www.amkfilms.com"
@@ -281,7 +290,11 @@
   },
   {
     "code": "AMZN",
-    "description": "Amazon Studios"
+    "description": "Amazon Studios",
+    "obsolete": true,
+    "obsoletedBy": [
+      "AMGM"
+    ]
   },
   {
     "code": "ANF",
@@ -678,6 +691,16 @@
     "url": "http://www.bourkefilms.com"
   },
   {
+    "code": "BKND",
+    "contact": {
+      "address": "Unit 1, Tramways House, 377 Camden Road, London N7 0SH, United Kingdom",
+      "email": "michelle.conroy@blinkindustries.tv",
+      "name": "Michelle Conroy"
+    },
+    "description": "Blink Industries",
+    "url": "https://www.blinkindustries.tv/"
+  },
+  {
     "code": "BL",
     "contact": {
       "address": "3 Sheep Lane, London E8 4QS, UK",
@@ -1005,6 +1028,16 @@
   {
     "code": "COP",
     "description": "COLOSO POST STUDIO"
+  },
+  {
+    "code": "CPLX",
+    "contact": {
+      "address": "1303 Yonge Street, Toronto, Ontario M4T 2Y9, Canada",
+      "email": "brad.ladouceur@cineplexpictures.com",
+      "name": "Bradley LaDouceur"
+    },
+    "description": "Cineplex Pictures",
+    "url": "https://www.cineplex.com"
   },
   {
     "code": "CPO",
@@ -1840,6 +1873,16 @@
     "url": "https://www.gdh559.com/"
   },
   {
+    "code": "GDN1",
+    "contact": {
+      "address": "Guardian News and Media, Kings Place, 90 York Way, London, N1 9GU, United Kingdom",
+      "email": "jimi.otukoya@theguardian.com",
+      "name": "Miss Jimi Otukoya"
+    },
+    "description": "Guardian Documentaries",
+    "url": "https://www.theguardian.com/documentaries"
+  },
+  {
     "code": "GF",
     "contact": {
       "address": "Herzog-Wilhelm-Str. 16, 80331 Munich, Germany",
@@ -1878,6 +1921,11 @@
     },
     "description": "Global Media Studios",
     "url": "https://globalmediastudios.com"
+  },
+  {
+    "code": "GP",
+    "description": "Goldaline Productions",
+    "url": "https://www.tiktok.com/@borntodarknessshortfilm"
   },
   {
     "code": "GPI",
@@ -2453,6 +2501,11 @@
     "url": "https://www.lorenzocolorlab.com"
   },
   {
+    "code": "LCP",
+    "description": "Lucky Cat Post Production",
+    "url": "https://www.luckycatpost.co.uk/"
+  },
+  {
     "code": "LDOS",
     "description": "Leidos",
     "url": "https://www.leidos.com/"
@@ -2646,6 +2699,16 @@
     "url": "https://www.moviecompany.nl"
   },
   {
+    "code": "MCP",
+    "contact": {
+      "address": "Calle Águeda Suárez, Altos de Alameda, Edificio 103, apto 102, Santo Domingo Oeste, Dominican Republic",
+      "email": "edgauss@gmail.com",
+      "name": "Mr Edwin Gautreau"
+    },
+    "description": "Mechanimal Productions",
+    "url": "https://www.instagram.com/mecanimalteam/"
+  },
+  {
     "code": "MCR",
     "contact": {
       "address": "Via Fonti del Clitunno 15, 00181 Rome, Italy",
@@ -2801,6 +2864,11 @@
     "description": "MOMENTUM PICTURES"
   },
   {
+    "code": "MON",
+    "description": "Mongrel Media Inc",
+    "url": "https://mongrelmedia.com"
+  },
+  {
     "code": "MOP",
     "description": "MODO OPERANTE PRODUCOES"
   },
@@ -2813,6 +2881,11 @@
     "code": "MP",
     "description": "Magnolia Pictures",
     "url": "https://www.magnoliapictures.com/"
+  },
+  {
+    "code": "MPEG",
+    "description": "Mission Partners Entertainment Group",
+    "url": "https://www.mpegfilm.com"
   },
   {
     "code": "MRMX",
@@ -4122,6 +4195,16 @@
     "url": "https://theofilms.com"
   },
   {
+    "code": "TFLM",
+    "contact": {
+      "address": "38B Georgiana Street, 1st Floor, Block B, London, NW1 0EB, United Kingdom",
+      "email": "zeb@thefinishline.pro",
+      "name": "Mr. Zeb Chadfield"
+    },
+    "description": "The Finish Line Media LTD",
+    "url": "https://thefinishline.pro"
+  },
+  {
     "code": "TGF",
     "description": "Ted Green Films"
   },
@@ -4527,7 +4610,11 @@
   },
   {
     "code": "XM",
-    "description": "MGM"
+    "description": "MGM",
+    "obsolete": true,
+    "obsoletedBy": [
+      "AMGM"
+    ]
   },
   {
     "code": "XVS",
