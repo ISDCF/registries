@@ -387,7 +387,13 @@
   },
   {
     "code": "ART",
-    "description": "ARTHOUSE, ZURICH"
+    "contact": {
+      "address": "Kreuzstrasse 2, 8008 Zurich, Switzerland",
+      "email": "raluwa@raluwa.info",
+      "name": "Raoul Walzer"
+    },
+    "description": "Arthouse Switzerland",
+    "url": "https://arthouse.ch"
   },
   {
     "code": "ARTE",
@@ -3278,6 +3284,16 @@
     "description": "OVERSPIL (DK)"
   },
   {
+    "code": "PAFF",
+    "contact": {
+      "address": "Hardstrasse 94, 8004 Zurich, Switzerland",
+      "email": "raluwa@raluwa.info",
+      "name": "Raoul Walzer"
+    },
+    "description": "Palestine Arts Film Festival",
+    "url": "https://www.palestine-arts.ch/"
+  },
+  {
     "code": "PAT",
     "description": "PATHE DISTRIBUTION"
   },
@@ -3323,7 +3339,13 @@
   },
   {
     "code": "PINK",
-    "description": "PINK APPLE FILM"
+    "contact": {
+      "address": "Hardstrasse 94, 8004 Zurich, Switzerland",
+      "email": "raluwa@raluwa.info",
+      "name": "Raoul Walzer"
+    },
+    "description": "Pink Apple Film Festival",
+    "url": "https://pinkapple.ch"
   },
   {
     "code": "PL",
