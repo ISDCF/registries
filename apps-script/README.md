@@ -11,32 +11,46 @@ script per Sheet** — the only difference between the two deployments is the `C
 
 - A human-readable summary of the submitted fields.
 - A fenced ` ```json ` block with the canonical entry (paste-ready into `src/main/data/<registry>.json`).
-  When an `Obsoleted Code` is given, the block is an array of `[new entry, obsolete entry]`.
+  When an `Obsoleted Code` is given, the block is an array of `[new entry, obsolete entry]`. The
+  obsolete entry keeps the registry's **existing** description verbatim (it falls back to the
+  submitted `Old … Name`, then a placeholder, only if the code isn't already listed).
 - Advisory `> NOTE:` lines when the code looks wrong (`^[A-Z0-9]{2,4}$`), already exists in the
   registry, or references a code that isn't there. These never block the issue — a maintainer decides.
 
 **Contact privacy:** if the submitter ticks **Opt Out**, no contact data (name, email, address)
 goes into the issue at all — it stays only in the Google Sheet.
 
-## Form questions (titles must match exactly)
+## Form questions (tolerant matching)
 
-The script reads responses by question **title** via `e.namedValues`, so the Form questions must be
-titled exactly as below (substitute "Studio" or "Facility" via `CONFIG.noun`):
+The script reads responses by question **title** via `e.namedValues` (keyed by the Form question
+text, **not** the Sheet column headers — editing/reordering Sheet columns has no effect). Matching is
+**tolerant**: titles are normalized before comparison, so all of these still match without edits:
 
-| Title | Used as |
+- trailing/leading spaces (e.g. `Facility Code` saved with a trailing space)
+- parenthetical hints (e.g. `Studio Website (please include https:// …)`)
+- a trailing `?` (e.g. `Update?`)
+- `Email` vs auto-collected `Email Address` (prefix match)
+
+`CONFIG.noun` fills in "Studio"/"Facility". You only need to touch the `Q` constants in the script if a
+question's **core wording** changes (e.g. renaming "Studio Code" to "Studio Identifier").
+
+| Core title (Studio / Facility) | Used as |
 | --- | --- |
-| `Email` | contact email (omitted if Opt Out) |
+| `Email` (or `Email Address`) | contact email (omitted if Opt Out) |
 | `Studio Code` / `Facility Code` | `code` |
 | `Studio Name / Description` / `Facility Name / Description` | `description` |
 | `Studio Website` / `Facility Website` | `url` |
 | `Obsoleted Code` | old code to mark obsolete (`obsoletedBy` the new code) |
-| `Old Studio Name` / `Old Facility Name` | description of the obsoleted code |
+| `Old Studio Name` / `Old Facility Name` | description fallback for the obsoleted code (registry value wins) |
 | `Contact Name` | contact `name` (omitted if Opt Out) |
 | `Contact Mailing Address` | contact `address` (omitted if Opt Out) |
 | `Update?` (checkbox `Yes`) | marks this as an update to existing codes |
 | `Codes to Update` | codes targeted by the update |
 | `Opt Out` (checkbox `Yes`) | suppress all contact data in the issue |
-| `Send me a copy of my responses` | ignored |
+
+Extra Sheet-only helper columns (e.g. `Updated … URL`, `Location of …`, `corrected Address`,
+`Entered into Github`, `Response Sent`, `Notes`) and the `Send me a copy of my responses` receipt
+are not Form responses the script needs, so they're simply ignored.
 
 ## Setup (per Sheet)
 
