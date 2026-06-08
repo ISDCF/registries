@@ -80,29 +80,33 @@ function onFormSubmit(e) {
     if (valid) entry.contact = c;
   }
 
-  // Optional obsolete entry for the replaced code
+  const existing = fetchExisting();   // Map of code -> current description (null on fetch failure)
+
+  // Optional obsolete entry for the replaced code. Do NOT change the description of an
+  // entry that already exists — keep the registry's current description verbatim. Only
+  // fall back to the submitted Old Name (then a placeholder) when the code is not yet listed.
   let obsolete = null;
   if (obsCode) {
-    obsolete = { code: obsCode, description: oldName || ('(replaced by ' + code + ')'),
+    const knownDesc = existing ? existing.get(obsCode) : '';
+    obsolete = { code: obsCode, description: knownDesc || oldName || ('(replaced by ' + code + ')'),
                  obsolete: true, obsoletedBy: [code] };
   }
-
-  const existing = fetchExistingCodes();   // Set of codes currently in the registry (or null on fetch failure)
   const badCode = !/^[A-Z0-9]{2,4}$/.test(code);
   const title = buildTitle(isUpdate, updCodes, code, desc, obsCode);
   const body  = buildBody({ isUpdate, updCodes, entry, obsolete, optedOut, badCode, obsCode, existing, get });
   createIssue(title, body);
 }
 
-// Read-only: pull the live registry file and return the set of existing codes (null if unreachable)
-function fetchExistingCodes() {
+// Read-only: pull the live registry file and return a Map of code -> current description
+// (null if unreachable). .has(code) still serves the duplicate/existence checks.
+function fetchExisting() {
   try {
     const raw = 'https://raw.githubusercontent.com/' + CONFIG.owner + '/' + CONFIG.repo +
                 '/master/src/main/data/' + DATA_FILE;
     const res = UrlFetchApp.fetch(raw, { muteHttpExceptions: true });
     if (res.getResponseCode() !== 200) return null;
     const arr = JSON.parse(res.getContentText());
-    return new Set(arr.map(e => String(e.code).toUpperCase()));
+    return new Map(arr.map(e => [String(e.code).toUpperCase(), e.description]));
   } catch (err) {
     return null;  // never block issue creation on a check failure
   }
