@@ -41,6 +41,16 @@
     "url": "https://www.25-7.nl"
   },
   {
+    "code": "29P",
+    "contact": {
+      "address": "86-90, Paul Street, London EC2A 4NE, United Kingdom",
+      "email": "ebussi@twentyninepalmsent.com",
+      "name": "Edoardo Bussi"
+    },
+    "description": "Twenty-Nine Palms Entertainment - Production and distribution",
+    "url": "https://www.twentyninepalmsent.com"
+  },
+  {
     "code": "36F",
     "description": "36 FILMS",
     "url": "https://www.36films.fr"
@@ -640,6 +650,16 @@
     "url": "https://www.brightfish.be"
   },
   {
+    "code": "BFOX",
+    "contact": {
+      "address": "1801 Century Park East, Suite 450, Los Angeles, CA 90067, USA",
+      "email": "will@bluefoxentertainment.com",
+      "name": "Will Weissman"
+    },
+    "description": "Blue Fox Entertainment",
+    "url": "https://www.bluefoxentertainment.com"
+  },
+  {
     "code": "BFP",
     "contact": {
       "address": "Calle Luis Guillermo Villegas Blanco, Santa Eduvigis, Caracas 1071, Distrito Capital, Venezuela",
@@ -904,6 +924,16 @@
     },
     "description": "Conformity Post",
     "url": "https://sites.google.com/conformitypost.com/contact/home"
+  },
+  {
+    "code": "CFR",
+    "contact": {
+      "address": "18 Rue Jean-Baptiste Pigalle, 75009 Paris, France",
+      "email": "antoinepostprod@gmail.com",
+      "name": "Antoine Lepoivre"
+    },
+    "description": "Cinéfrance Studios",
+    "url": "https://cinefrancestudios.eu"
   },
   {
     "code": "CFSL",
@@ -1991,6 +2021,16 @@
     "url": "https://www.goldentouchfilm.com"
   },
   {
+    "code": "GUMP",
+    "contact": {
+      "address": "8 Boulevard de Ménilmontant, Impasse du Pilier, 75020 Paris, France",
+      "email": "a.leroux@gump.tv",
+      "name": "Antonin Le Roux"
+    },
+    "description": "Gump Post-Production",
+    "url": "https://www.gump.tv"
+  },
+  {
     "code": "GYF",
     "contact": {
       "address": "Building 2, No. 6 Chaoyang Park South Road, Chaoyang District, Beijing 100026, China",
@@ -2432,6 +2472,16 @@
     "url": "https://kfilmsmorocco.com/"
   },
   {
+    "code": "KFM",
+    "contact": {
+      "address": "C/ Olivo 14, Entreplanta, 28023 Madrid, Spain",
+      "email": "marta.barrios@keyframe.es",
+      "name": "Mrs Marta Barrios"
+    },
+    "description": "Keyframe Servicios Audiovisuales",
+    "url": "https://audiovisual.keyframe.es/"
+  },
+  {
     "code": "KHH",
     "description": "Kinemathek Hamburg"
   },
@@ -2614,6 +2664,16 @@
   {
     "code": "LSR",
     "description": "LASERFILM CINE Y VÍDEO, SL"
+  },
+  {
+    "code": "LUC",
+    "contact": {
+      "address": "Calle Príncipe 12, 6A - 28012 Madrid, Spain",
+      "email": "noemie@luciernagacolor.com",
+      "name": "Noémie Dulau"
+    },
+    "description": "LUCIERNAGA Color Grading",
+    "url": "https://luciernagacolor.com"
   },
   {
     "code": "LUP",
@@ -3296,6 +3356,16 @@
   {
     "code": "PAT",
     "description": "PATHE DISTRIBUTION"
+  },
+  {
+    "code": "PBS",
+    "contact": {
+      "address": "1101, Amalfi, Raheja Exotica, Pascal Wadi, Madh, Malad, Mumbai, Maharashtra, India",
+      "email": "contact@tanujbhatiafilms.com",
+      "name": "Mr. Tanuj"
+    },
+    "description": "Punit Balan Studios",
+    "url": "https://punitbalangroup.com"
   },
   {
     "code": "PC",

@@ -923,6 +923,16 @@
     "url": "http://www.bluepost.com.au"
   },
   {
+    "code": "BPS",
+    "contact": {
+      "address": "Level 3, 19 Harris Street, Pyrmont, NSW 2009, Australia",
+      "email": "joel.plunkett@bluepost.com.au",
+      "name": "Joel Plunkett"
+    },
+    "description": "Blue Post Sydney",
+    "url": "https://bluepost.com.au/"
+  },
+  {
     "code": "BPW",
     "contact": {
       "address": "66/67 Oshiwara Link Plaza, New Link Road Ext, Oshiwara, Jogeshwari West, Mumbai, MH 400102, India",
@@ -2068,6 +2078,16 @@
     "url": "https://www.digital-emulsion.com"
   },
   {
+    "code": "DE0",
+    "contact": {
+      "address": "01219 Dresden, Teplitzer Str. 43b, Germany",
+      "email": "info@schmalfilm-ueberspielen.de",
+      "name": "Kazimirs"
+    },
+    "description": "Schmalfilm - Video - und Dia DigitalisierungsService",
+    "url": "https://schmalfilm-ueberspielen.de"
+  },
+  {
     "code": "DE1",
     "contact": {
       "address": "Carrera 40C #12-95, Cali, Colombia",
@@ -2982,6 +3002,11 @@
     "url": "https://farmpost.tv"
   },
   {
+    "code": "FAST",
+    "description": "farbstudio GmbH",
+    "url": "https://farbstudio.de/"
+  },
+  {
     "code": "FAT",
     "description": "FATS Digital"
   },
@@ -3584,6 +3609,11 @@
   },
   {
     "code": "GUMP",
+    "contact": {
+      "address": "8 Boulevard de Ménilmontant, Impasse du Pilier, 75020 Paris, France",
+      "email": "a.leroux@gump.tv",
+      "name": "Antonin Le Roux"
+    },
     "description": "Gump Post-Production",
     "url": "https://www.gump.tv"
   },
@@ -8208,6 +8238,16 @@
     "url": "https://wagprodco.com"
   },
   {
+    "code": "WAL",
+    "contact": {
+      "address": "Aschebergsgatan 23A, 41127 Gothenburg, Sweden",
+      "email": "nikolai@waldmanmedia.com",
+      "name": "Nikolai Waldman"
+    },
+    "description": "Waldman Media",
+    "url": "https://waldmanmedia.com"
+  },
+  {
     "code": "WAN",
     "contact": {
       "address": "calle Serrano, 98 3º exterior derecha, Madrid, Spain",
@@ -8405,6 +8445,11 @@
     "code": "XVS",
     "description": "Axel Vasquez Studios",
     "url": "https://axelvasquez.com"
+  },
+  {
+    "code": "XXI",
+    "description": "Cinema XXI Content Quality Control",
+    "url": "https://www.cinema21.co.id/"
   },
   {
     "code": "XXL",
