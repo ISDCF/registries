@@ -243,5 +243,22 @@
     "dcncCode": "EC",
     "dcncSortOrder": 14,
     "description": "Eclaircolor graded image."
+  },
+  {
+    "cplMetadata": {
+      "definingDocs": [
+        {
+          "name": "ISDCF CPL Metadata Extensions",
+          "url": "https://www.isdcf.com/site/registry-cpl-extensions/"
+        }
+      ],
+      "element": "ExtensionMetadata",
+      "extName": "EPIQ",
+      "extScope": "http://www.qubecinema.com/schemas/2025/EPIQ-Metadata",
+      "metaType": "Extension Present"
+    },
+    "dcncCode": "EPIQ",
+    "dcncSortOrder": 15,
+    "description": "EPIQ Premium Large Format"
   }
 ]

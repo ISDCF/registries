@@ -84,5 +84,13 @@
       "extpropName": "EOTF",
       "extpropValue": "ST 2084"
     }
+  },
+  {
+    "contact": "https://www.qubecinema.com/contactus",
+    "description": "EPIQ Premium Large Format",
+    "extension": {
+      "extName": "EPIQ",
+      "extScope": "http://www.qubecinema.com/schemas/2025/EPIQ-Metadata"
+    }
   }
 ]
