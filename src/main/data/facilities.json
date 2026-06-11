@@ -1046,6 +1046,16 @@
     "description": "CARPENTER CINEMA CONCEPTS"
   },
   {
+    "code": "CARM",
+    "contact": {
+      "address": "De Torre Universal, 2 cuadras al sur, 100 m oeste, 10 m sur, San José, Costa Rica",
+      "email": "fede@caramba.cr",
+      "name": "Federico Lang"
+    },
+    "description": "Caramba",
+    "url": "https://www.carambafilms.com"
+  },
+  {
     "code": "CAS",
     "description": "CASABLANCA FILMKUNSTTHEATER NURNBERG"
   },
