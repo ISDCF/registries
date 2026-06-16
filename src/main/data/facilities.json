@@ -1024,6 +1024,11 @@
     "description": "CINEART MOVIE AND TV PRODUCTION"
   },
   {
+    "code": "CAIS",
+    "description": "Caies Inc.",
+    "url": "https://caies.jp/"
+  },
+  {
     "code": "CAM",
     "description": "CINE-AUDIO & MEDIA SERVICES"
   },
@@ -1039,6 +1044,16 @@
   {
     "code": "CAR",
     "description": "CARPENTER CINEMA CONCEPTS"
+  },
+  {
+    "code": "CARM",
+    "contact": {
+      "address": "De Torre Universal, 2 cuadras al sur, 100 m oeste, 10 m sur, San José, Costa Rica",
+      "email": "fede@caramba.cr",
+      "name": "Federico Lang"
+    },
+    "description": "Caramba",
+    "url": "https://www.carambafilms.com"
   },
   {
     "code": "CAS",
