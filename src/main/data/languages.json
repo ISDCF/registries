@@ -2774,6 +2774,13 @@
     ]
   },
   {
+    "dcncLanguage": "Spanish Sign Language",
+    "rfc5646Tag": "ssp",
+    "use": [
+      "sign"
+    ]
+  },
+  {
     "dcncLanguage": "Swahili",
     "dcncTag": "SW",
     "rfc5646Tag": "sw",
