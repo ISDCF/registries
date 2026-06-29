@@ -21,7 +21,7 @@
               "type": "string"
           }
       },
-      "required": [ "extName", "extScope", "extpropName", "extpropValue"]
+      "required": [ "extName", "extScope"]
     }
   },
   "type": "array",
