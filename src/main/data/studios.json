@@ -1531,6 +1531,16 @@
     "url": "https://www.espritfilm.co.uk"
   },
   {
+    "code": "EUT",
+    "contact": {
+      "address": "EUTOPIAFILM GmbH, Claudiastraße 8, 6020 Innsbruck, Austria",
+      "email": "office@eutopia.film",
+      "name": "Bernhard Holzhammer"
+    },
+    "description": "Eutopiafilm",
+    "url": "https://www.eutopia.film/"
+  },
+  {
     "code": "EVDN",
     "description": "Erik van der Neut",
     "url": "https://looknohands.com/"
