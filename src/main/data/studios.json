@@ -1094,6 +1094,16 @@
     "description": "CURRENT PICTURES"
   },
   {
+    "code": "CPXM",
+    "contact": {
+      "address": "352 Rue Émery, Montréal, QC H2X 1J2, Canada",
+      "email": "nicolas.mifsud@bydeluxe.com",
+      "name": "Mrs Charlene Ham"
+    },
+    "description": "Cineplex Media",
+    "url": "https://media.cineplex.com/"
+  },
+  {
     "code": "CRL",
     "contact": {
       "address": "1 N. College St, Northfield, MN 55057, USA",
@@ -1529,6 +1539,16 @@
     },
     "description": "Esprit Film and Television Limited",
     "url": "https://www.espritfilm.co.uk"
+  },
+  {
+    "code": "EUT",
+    "contact": {
+      "address": "EUTOPIAFILM GmbH, Claudiastraße 8, 6020 Innsbruck, Austria",
+      "email": "office@eutopia.film",
+      "name": "Bernhard Holzhammer"
+    },
+    "description": "Eutopiafilm",
+    "url": "https://www.eutopia.film/"
   },
   {
     "code": "EVDN",
@@ -4159,6 +4179,16 @@
     "url": "https://sites.google.com/view/k-number/?fbclid=PAZXh0bgNhZW0CMTEAAaaIZ6Cmbps4Bha7yHeKZAxVX2t_B5nLFl_ts8iXXyWMpPbvHM0wIA5-zQM_aem_y8aEp1902R9VCAbCWuZoRg"
   },
   {
+    "code": "SUPE",
+    "contact": {
+      "address": "2 Rue de Nancy, 88000 Épinal, France",
+      "email": "info@supermouche.fr",
+      "name": "Mr. Georges"
+    },
+    "description": "Supermouche Productions",
+    "url": "https://supermouche.fr/"
+  },
+  {
     "code": "SVM",
     "contact": {
       "address": "245 Kenneth Dr, Ste. 400, Rochester, NY 14623, USA",
@@ -4359,6 +4389,16 @@
   {
     "code": "TRE",
     "description": "Trench Enertainment"
+  },
+  {
+    "code": "TRF",
+    "contact": {
+      "address": "Fernando 88 - 104, Colonia Álamos, C.P. 03400, Benito Juárez, Mexico City, México",
+      "email": "rodrigo@terrierfilms.com",
+      "name": "Rodrigo Hernández Cruz"
+    },
+    "description": "Terrier Films",
+    "url": "https://www.terrierfilms.com"
   },
   {
     "code": "TRIG",
