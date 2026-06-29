@@ -4361,6 +4361,16 @@
     "description": "Trench Enertainment"
   },
   {
+    "code": "TRF",
+    "contact": {
+      "address": "Fernando 88 - 104, Colonia Álamos, C.P. 03400, Benito Juárez, Mexico City, México",
+      "email": "rodrigo@terrierfilms.com",
+      "name": "Rodrigo Hernández Cruz"
+    },
+    "description": "Terrier Films",
+    "url": "https://www.terrierfilms.com"
+  },
+  {
     "code": "TRIG",
     "description": "TRIGON-FILM"
   },
