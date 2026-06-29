@@ -1094,6 +1094,16 @@
     "description": "CURRENT PICTURES"
   },
   {
+    "code": "CPXM",
+    "contact": {
+      "address": "352 Rue Émery, Montréal, QC H2X 1J2, Canada",
+      "email": "nicolas.mifsud@bydeluxe.com",
+      "name": "Mrs Charlene Ham"
+    },
+    "description": "Cineplex Media",
+    "url": "https://media.cineplex.com/"
+  },
+  {
     "code": "CRL",
     "contact": {
       "address": "1 N. College St, Northfield, MN 55057, USA",
