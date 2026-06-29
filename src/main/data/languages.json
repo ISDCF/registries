@@ -1957,6 +1957,18 @@
     ]
   },
   {
+    "comments": [
+      "Mi'kmaq"
+    ],
+    "dcncLanguage": "Micmac",
+    "dcncTag": "MIC",
+    "rfc5646Tag": "mic",
+    "use": [
+      "audio",
+      "text"
+    ]
+  },
+  {
     "dcncLanguage": "Mohawk",
     "dcncTag": "MOH",
     "rfc5646Tag": "moh",
