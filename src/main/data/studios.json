@@ -41,6 +41,16 @@
     "url": "https://www.25-7.nl"
   },
   {
+    "code": "29P",
+    "contact": {
+      "address": "86-90 Paul Street, London EC2A 4NE, United Kingdom",
+      "email": "ebussi@twentyninepalmsent.com",
+      "name": "Edoardo Bussi"
+    },
+    "description": "Twenty-Nine Palms Entertainment - Production and distribution",
+    "url": "https://www.twentyninepalmsent.com"
+  },
+  {
     "code": "36F",
     "description": "36 FILMS",
     "url": "https://www.36films.fr"
@@ -640,6 +650,16 @@
     "url": "https://www.brightfish.be"
   },
   {
+    "code": "BFOX",
+    "contact": {
+      "address": "1801 Century Park East, Suite 450, Los Angeles, CA 90067, USA",
+      "email": "will@bluefoxentertainment.com",
+      "name": "Will Weissman"
+    },
+    "description": "Blue Fox Entertainment",
+    "url": "https://www.bluefoxentertainment.com"
+  },
+  {
     "code": "BFP",
     "contact": {
       "address": "Calle Luis Guillermo Villegas Blanco, Santa Eduvigis, Caracas 1071, Distrito Capital, Venezuela",
@@ -906,6 +926,16 @@
     "url": "https://sites.google.com/conformitypost.com/contact/home"
   },
   {
+    "code": "CFR",
+    "contact": {
+      "address": "18 Rue Jean-Baptiste Pigalle, 75009 Paris, France",
+      "email": "antoinepostprod@gmail.com",
+      "name": "Antoine Lepoivre"
+    },
+    "description": "Cinéfrance Studios",
+    "url": "https://cinefrancestudios.eu"
+  },
+  {
     "code": "CFSL",
     "description": "CAFETICO FILMS"
   },
@@ -1062,6 +1092,16 @@
   {
     "code": "CPSB",
     "description": "CURRENT PICTURES"
+  },
+  {
+    "code": "CPXM",
+    "contact": {
+      "address": "352 Rue Émery, Montréal, QC H2X 1J2, Canada",
+      "email": "nicolas.mifsud@bydeluxe.com",
+      "name": "Mrs Charlene Ham"
+    },
+    "description": "Cineplex Media",
+    "url": "https://media.cineplex.com/"
   },
   {
     "code": "CRL",
@@ -1499,6 +1539,16 @@
     },
     "description": "Esprit Film and Television Limited",
     "url": "https://www.espritfilm.co.uk"
+  },
+  {
+    "code": "EUT",
+    "contact": {
+      "address": "EUTOPIAFILM GmbH, Claudiastraße 8, 6020 Innsbruck, Austria",
+      "email": "office@eutopia.film",
+      "name": "Bernhard Holzhammer"
+    },
+    "description": "Eutopiafilm",
+    "url": "https://www.eutopia.film/"
   },
   {
     "code": "EVDN",
@@ -1991,6 +2041,16 @@
     "url": "https://www.goldentouchfilm.com"
   },
   {
+    "code": "GUMP",
+    "contact": {
+      "address": "8 Boulevard de Ménilmontant, Impasse du Pilier, 75020 Paris, France",
+      "email": "a.leroux@gump.tv",
+      "name": "Antonin Le Roux"
+    },
+    "description": "Gump Post-Production",
+    "url": "https://www.gump.tv"
+  },
+  {
     "code": "GYF",
     "contact": {
       "address": "Building 2, No. 6 Chaoyang Park South Road, Chaoyang District, Beijing 100026, China",
@@ -2432,6 +2492,16 @@
     "url": "https://kfilmsmorocco.com/"
   },
   {
+    "code": "KFM",
+    "contact": {
+      "address": "C/ Olivo 14, Entreplanta, 28023 Madrid, Spain",
+      "email": "marta.barrios@keyframe.es",
+      "name": "Mrs Marta Barrios"
+    },
+    "description": "Keyframe Servicios Audiovisuales",
+    "url": "https://audiovisual.keyframe.es/"
+  },
+  {
     "code": "KHH",
     "description": "Kinemathek Hamburg"
   },
@@ -2583,6 +2653,11 @@
     "url": "https://laika.com"
   },
   {
+    "code": "LMNA",
+    "description": "Lucas Museum of Narrative Art",
+    "url": "https://lucasmuseum.org/"
+  },
+  {
     "code": "LN36",
     "description": "LINE 36 STUDIO"
   },
@@ -2614,6 +2689,16 @@
   {
     "code": "LSR",
     "description": "LASERFILM CINE Y VÍDEO, SL"
+  },
+  {
+    "code": "LUC",
+    "contact": {
+      "address": "Calle del Príncipe 12, 6A, 28012 Madrid, Spain",
+      "email": "noemie@luciernagacolor.com",
+      "name": "Noémie Dulau"
+    },
+    "description": "LUCIERNAGA Color Grading",
+    "url": "https://luciernagacolor.com"
   },
   {
     "code": "LUP",
@@ -3296,6 +3381,16 @@
   {
     "code": "PAT",
     "description": "PATHE DISTRIBUTION"
+  },
+  {
+    "code": "PBS",
+    "contact": {
+      "address": "Flat 1101, Amalfi, Raheja Exotica, Pascal Wadi, Madh Island, Malad West, Mumbai 400061, Maharashtra, India",
+      "email": "contact@tanujbhatiafilms.com",
+      "name": "Mr. Tanuj"
+    },
+    "description": "Punit Balan Studios",
+    "url": "https://punitbalangroup.com"
   },
   {
     "code": "PC",
@@ -4084,6 +4179,16 @@
     "url": "https://sites.google.com/view/k-number/?fbclid=PAZXh0bgNhZW0CMTEAAaaIZ6Cmbps4Bha7yHeKZAxVX2t_B5nLFl_ts8iXXyWMpPbvHM0wIA5-zQM_aem_y8aEp1902R9VCAbCWuZoRg"
   },
   {
+    "code": "SUPE",
+    "contact": {
+      "address": "2 Rue de Nancy, 88000 Épinal, France",
+      "email": "info@supermouche.fr",
+      "name": "Mr. Georges"
+    },
+    "description": "Supermouche Productions",
+    "url": "https://supermouche.fr/"
+  },
+  {
     "code": "SVM",
     "contact": {
       "address": "245 Kenneth Dr, Ste. 400, Rochester, NY 14623, USA",
@@ -4284,6 +4389,16 @@
   {
     "code": "TRE",
     "description": "Trench Enertainment"
+  },
+  {
+    "code": "TRF",
+    "contact": {
+      "address": "Fernando 88 - 104, Colonia Álamos, C.P. 03400, Benito Juárez, Mexico City, México",
+      "email": "rodrigo@terrierfilms.com",
+      "name": "Rodrigo Hernández Cruz"
+    },
+    "description": "Terrier Films",
+    "url": "https://www.terrierfilms.com"
   },
   {
     "code": "TRIG",

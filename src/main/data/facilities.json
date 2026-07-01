@@ -923,6 +923,16 @@
     "url": "http://www.bluepost.com.au"
   },
   {
+    "code": "BPS",
+    "contact": {
+      "address": "Level 3, 19 Harris Street, Pyrmont, NSW 2009, Australia",
+      "email": "joel.plunkett@bluepost.com.au",
+      "name": "Joel Plunkett"
+    },
+    "description": "Blue Post Sydney",
+    "url": "https://bluepost.com.au/"
+  },
+  {
     "code": "BPW",
     "contact": {
       "address": "66/67 Oshiwara Link Plaza, New Link Road Ext, Oshiwara, Jogeshwari West, Mumbai, MH 400102, India",
@@ -1014,6 +1024,11 @@
     "description": "CINEART MOVIE AND TV PRODUCTION"
   },
   {
+    "code": "CAIS",
+    "description": "Caies Inc.",
+    "url": "https://caies.jp/"
+  },
+  {
     "code": "CAM",
     "description": "CINE-AUDIO & MEDIA SERVICES"
   },
@@ -1029,6 +1044,16 @@
   {
     "code": "CAR",
     "description": "CARPENTER CINEMA CONCEPTS"
+  },
+  {
+    "code": "CARM",
+    "contact": {
+      "address": "De Torre Universal, 2 cuadras al sur, 100 m oeste, 10 m sur, San José, Costa Rica",
+      "email": "fede@caramba.cr",
+      "name": "Federico Lang"
+    },
+    "description": "Caramba",
+    "url": "https://www.carambafilms.com"
   },
   {
     "code": "CAS",
@@ -2068,6 +2093,16 @@
     "url": "https://www.digital-emulsion.com"
   },
   {
+    "code": "DE0",
+    "contact": {
+      "address": "Teplitzer Str. 43b, 01219 Dresden, Germany",
+      "email": "info@schmalfilm-ueberspielen.de",
+      "name": "Kazimirs"
+    },
+    "description": "Schmalfilm - Video - und Dia DigitalisierungsService",
+    "url": "https://schmalfilm-ueberspielen.de"
+  },
+  {
     "code": "DE1",
     "contact": {
       "address": "Carrera 40C #12-95, Cali, Colombia",
@@ -2982,6 +3017,11 @@
     "url": "https://farmpost.tv"
   },
   {
+    "code": "FAST",
+    "description": "farbstudio GmbH",
+    "url": "https://farbstudio.de/"
+  },
+  {
     "code": "FAT",
     "description": "FATS Digital"
   },
@@ -3313,7 +3353,7 @@
   {
     "code": "FUB",
     "contact": {
-      "address": "Marlene-Dietrich-Allee 11, D-14482 Potsdam-Babelsberg, Germany",
+      "address": "Marlene-Dietrich-Allee 11, 14482 Potsdam-Babelsberg, Germany",
       "email": "h.schoenherr@filmuniversitaet.de",
       "name": "Hagen Schoenherr"
     },
@@ -3447,6 +3487,16 @@
   {
     "code": "GFF",
     "description": "Global Film Factory"
+  },
+  {
+    "code": "GFH",
+    "contact": {
+      "address": "910 East 68th Street, Inglewood, CA 90302, USA",
+      "email": "rolandcdiaz@gmail.com",
+      "name": "Roland Diaz"
+    },
+    "description": "Gun For Hire",
+    "url": "https://gunforhire.us"
   },
   {
     "code": "GFP",
@@ -3584,6 +3634,11 @@
   },
   {
     "code": "GUMP",
+    "contact": {
+      "address": "8 Boulevard de Ménilmontant, Impasse du Pilier, 75020 Paris, France",
+      "email": "a.leroux@gump.tv",
+      "name": "Antonin Le Roux"
+    },
     "description": "Gump Post-Production",
     "url": "https://www.gump.tv"
   },
@@ -6855,12 +6910,12 @@
   {
     "code": "SEA",
     "contact": {
-      "address": "950 E 3rd St., Los Angeles, CA 90013, USA",
-      "email": "andrew@sayonse.com",
-      "name": "Andrew Saulf"
+      "address": "509 Work St, Montebello, CA 90640, USA",
+      "email": "andrew@visitantmedia.com",
+      "name": "Andrew Såulf, CSI"
     },
-    "description": "Sayonse",
-    "url": "https://www.sayonse.com"
+    "description": "Visitant Media",
+    "url": "https://www.visitantmedia.com"
   },
   {
     "code": "SEK",
@@ -8002,7 +8057,7 @@
   {
     "code": "VCB1",
     "contact": {
-      "address": "Rua Horacio Vergueiro Rudge, 445 1.st, Casa Verde, 02512-060 Sao Paulo, SP, Brazil",
+      "address": "Rua Horácio Vergueiro Rudge, 445 1.st, Casa Verde, 02512-060 São Paulo, SP, Brazil",
       "email": "videcom@videcom.com.br",
       "name": "Mr. Alberto Baumstein"
     },
@@ -8208,6 +8263,16 @@
     "url": "https://wagprodco.com"
   },
   {
+    "code": "WAL",
+    "contact": {
+      "address": "Aschebergsgatan 23A, 41127 Gothenburg, Sweden",
+      "email": "nikolai@waldmanmedia.com",
+      "name": "Nikolai Waldman"
+    },
+    "description": "Waldman Media",
+    "url": "https://waldmanmedia.com"
+  },
+  {
     "code": "WAN",
     "contact": {
       "address": "calle Serrano, 98 3º exterior derecha, Madrid, Spain",
@@ -8407,6 +8472,11 @@
     "url": "https://axelvasquez.com"
   },
   {
+    "code": "XXI",
+    "description": "Cinema XXI Content Quality Control",
+    "url": "https://www.cinema21.co.id/"
+  },
+  {
     "code": "XXL",
     "description": "XXL VIDEO"
   },
@@ -8481,6 +8551,16 @@
     "description": "YELLOWMOON POST PRODUCTION"
   },
   {
+    "code": "YPS",
+    "contact": {
+      "address": "15 rue du Dauphiné, 69800 Saint-Priest, France",
+      "email": "juliediazprod@gmail.com",
+      "name": "MRS JULIE DIAZ"
+    },
+    "description": "YUMA PILATES STUDIO",
+    "url": "https://yumastudiopilates.com"
+  },
+  {
     "code": "YSI",
     "contact": {
       "address": "Wega 25, 2221ND Katwijk, The Netherlands",
@@ -8489,6 +8569,14 @@
     },
     "description": "YAVUZ SELIM ISLER",
     "url": "https://yavuzselimisler.com"
+  },
+  {
+    "code": "YSP",
+    "description": "YUMA STUDIO PILATES",
+    "obsolete": true,
+    "obsoletedBy": [
+      "YPS"
+    ]
   },
   {
     "code": "YSS",
