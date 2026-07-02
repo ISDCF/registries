@@ -1081,7 +1081,7 @@
   },
   {
     "dcncTag": "TC",
-    "dcncTerritory": "urks and Caicos Islands",
+    "dcncTerritory": "Turks and Caicos Islands",
     "tag": "TC"
   },
   {
@@ -1176,6 +1176,12 @@
     "dcncTag": "UK",
     "dcncTerritory": "United Kingdom",
     "tag": "GB"
+  },
+  {
+    "dcncTag": "UKI",
+    "dcncTerritory": "The states of the United Kingdom and Ireland, not including Jersey, Isle of Man and Guernsey",
+    "tag": "901",
+    "tagScope": "https://isdcf.com/ns/cplmd/territories"
   },
   {
     "dcncTag": "UM",
