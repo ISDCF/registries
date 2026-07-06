@@ -3383,6 +3383,16 @@
     "description": "PATHE DISTRIBUTION"
   },
   {
+    "code": "PATP",
+    "contact": {
+      "address": "Dufourstrasse 24, 8008 Zürich, Switzerland",
+      "email": "matthias.keller@paterson-pictures.ch",
+      "name": "Matthias Keller"
+    },
+    "description": "Paterson-Pictures AG",
+    "url": "https://www.paterson-pictures.ch"
+  },
+  {
     "code": "PBS",
     "contact": {
       "address": "Flat 1101, Amalfi, Raheja Exotica, Pascal Wadi, Madh Island, Malad West, Mumbai 400061, Maharashtra, India",
