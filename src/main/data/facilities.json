@@ -5273,7 +5273,11 @@
   },
   {
     "code": "MPI",
-    "description": "WARNER BROS. MOTION PICTURE IMAGING"
+    "description": "WARNER BROS. MOTION PICTURE IMAGING",
+    "obsolete": true,
+    "obsoletedBy": [
+      "WTC"
+    ]
   },
   {
     "code": "MPL",
@@ -8509,6 +8513,11 @@
     "code": "WRK",
     "description": "The DCP Works",
     "url": "https://www.thedcpworks.com"
+  },
+  {
+    "code": "WTC",
+    "description": "Warner Bros. Water Tower Color",
+    "url": "https://watertowercolor.com"
   },
   {
     "code": "WTF",
