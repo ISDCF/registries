@@ -921,6 +921,16 @@
     "description": "CHALIA FILMS"
   },
   {
+    "code": "CFD",
+    "contact": {
+      "address": "715 Banbury Avenue, Slough SL1 4LR, United Kingdom",
+      "email": "joshua.callis-smith@cinelab.co.uk",
+      "name": "Joshua Callis-Smith"
+    },
+    "description": "Cinelab Film and Digital",
+    "url": "https://www.cinelab.co.uk"
+  },
+  {
     "code": "CFP",
     "contact": {
       "address": "207 E. Calaveras St., Altadena, CA 91001, USA",
