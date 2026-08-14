@@ -2220,6 +2220,11 @@
     "description": "DCP.KG"
   },
   {
+    "code": "DKGA",
+    "description": "Duktiga Ltd",
+    "url": "https://www.duktiga.com"
+  },
+  {
     "code": "DKT",
     "contact": {
       "address": "200 6th Street, Suite #3B, Brooklyn, NY 11225, USA",
