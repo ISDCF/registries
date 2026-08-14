@@ -1212,6 +1212,16 @@
     "description": "Cohen Film Collection"
   },
   {
+    "code": "CFD",
+    "contact": {
+      "address": "715 Banbury Avenue, Slough SL1 4LR, United Kingdom",
+      "email": "joshua.callis-smith@cinelab.co.uk",
+      "name": "Joshua Callis-Smith"
+    },
+    "description": "Cinelab Film and Digital",
+    "url": "https://cinelab.co.uk"
+  },
+  {
     "code": "CFP",
     "contact": {
       "address": "207 E. Calaveras St., Altadena, CA 91001, USA",
@@ -2218,6 +2228,11 @@
   {
     "code": "DKG",
     "description": "DCP.KG"
+  },
+  {
+    "code": "DKGA",
+    "description": "Duktiga Ltd",
+    "url": "https://www.duktiga.com"
   },
   {
     "code": "DKT",
@@ -6063,6 +6078,16 @@
     "description": "POST LOGIC"
   },
   {
+    "code": "PLY",
+    "contact": {
+      "address": "25 Noel Street, London W1F 8GX, United Kingdom",
+      "email": "rick@lipsyncpost.co.uk",
+      "name": "Rick White"
+    },
+    "description": "Play House Studios",
+    "url": "https://www.playhousestudios.ie/"
+  },
+  {
     "code": "PM",
     "description": "POST-MODERNE"
   },
@@ -7858,6 +7883,11 @@
     "description": "Trinipix"
   },
   {
+    "code": "TQL",
+    "description": "TQ Cine Lab",
+    "url": "https://www.tqcinelab.com.br"
+  },
+  {
     "code": "TRD",
     "description": "Trench Digital"
   },
@@ -8058,6 +8088,11 @@
   {
     "code": "UTS",
     "description": "UNTITLED STUDIOS"
+  },
+  {
+    "code": "UTV",
+    "description": "Unveil Studios",
+    "url": "https://unveiltv.com/"
   },
   {
     "code": "VAG",
