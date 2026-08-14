@@ -1495,6 +1495,11 @@
     "description": "DIGITAL CINEMA MAGIC"
   },
   {
+    "code": "CMPX",
+    "description": "Complexity Limited",
+    "url": "https://www.complexityltd.uk/"
+  },
+  {
     "code": "CMQ",
     "contact": {
       "address": "2180 Bryant St, Suite 210, San Francisco, CA 94110, USA",
