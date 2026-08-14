@@ -6053,6 +6053,16 @@
     "description": "POST LOGIC"
   },
   {
+    "code": "PLY",
+    "contact": {
+      "address": "25 Noel Street, London W1F 8GX, United Kingdom",
+      "email": "rick@lipsyncpost.co.uk",
+      "name": "Rick White"
+    },
+    "description": "Play House Studios",
+    "url": "https://www.playhousestudios.ie/"
+  },
+  {
     "code": "PM",
     "description": "POST-MODERNE"
   },
