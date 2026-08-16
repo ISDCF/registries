@@ -1212,6 +1212,16 @@
     "description": "Cohen Film Collection"
   },
   {
+    "code": "CFD",
+    "contact": {
+      "address": "715 Banbury Avenue, Slough SL1 4LR, United Kingdom",
+      "email": "joshua.callis-smith@cinelab.co.uk",
+      "name": "Joshua Callis-Smith"
+    },
+    "description": "Cinelab Film and Digital",
+    "url": "https://cinelab.co.uk"
+  },
+  {
     "code": "CFP",
     "contact": {
       "address": "207 E. Calaveras St., Altadena, CA 91001, USA",
@@ -1493,6 +1503,11 @@
   {
     "code": "CMP",
     "description": "DIGITAL CINEMA MAGIC"
+  },
+  {
+    "code": "CMPX",
+    "description": "Complexity Limited",
+    "url": "https://www.complexityltd.uk/"
   },
   {
     "code": "CMQ",
@@ -2220,6 +2235,11 @@
     "description": "DCP.KG"
   },
   {
+    "code": "DKGA",
+    "description": "Duktiga Ltd",
+    "url": "https://www.duktiga.com"
+  },
+  {
     "code": "DKT",
     "contact": {
       "address": "200 6th Street, Suite #3B, Brooklyn, NY 11225, USA",
@@ -2908,6 +2928,16 @@
   {
     "code": "EPS",
     "description": "Eggplant Picture and Sound"
+  },
+  {
+    "code": "EPV",
+    "contact": {
+      "address": "Rua do Paraíso 719, Paraíso, São Paulo SP 04103-001, Brazil",
+      "email": "eduardopiresvasconcelos@gmail.com",
+      "name": "Eduardo Pires de Vasconcelos"
+    },
+    "description": "Eduardo Pires de Vasconcelos",
+    "url": "https://www.imdb.com/name/nm10246068/?ref_=nv_sr_srsg_0_tt_0_nm_2_in_0_q_EDUARDO%20PIRES%20DE%20VASCONCELOS"
   },
   {
     "code": "EQX",
@@ -3865,6 +3895,16 @@
     "obsoletedBy": [
       "TMF"
     ]
+  },
+  {
+    "code": "HY6",
+    "contact": {
+      "address": "No.4 at Xitu Rd., Haidian, Beijing, China",
+      "email": "lhy2871@gmail.com",
+      "name": "Mr. Liu Hanyuan"
+    },
+    "description": "Hanyuan6 Studio",
+    "url": "https://hanyuan6.cn"
   },
   {
     "code": "HYP",
@@ -4989,6 +5029,11 @@
     "url": "https://mediaflow.fr"
   },
   {
+    "code": "MEH",
+    "description": "MEH MONO CO.",
+    "url": "https://www.meh-mono.com"
+  },
+  {
     "code": "MEL",
     "description": "MELS STUDIOS AND POSTPRODUCTION"
   },
@@ -5233,7 +5278,11 @@
   },
   {
     "code": "MPI",
-    "description": "WARNER BROS. MOTION PICTURE IMAGING"
+    "description": "WARNER BROS. MOTION PICTURE IMAGING",
+    "obsolete": true,
+    "obsoletedBy": [
+      "WTC"
+    ]
   },
   {
     "code": "MPL",
@@ -6053,6 +6102,16 @@
     "description": "POST LOGIC"
   },
   {
+    "code": "PLY",
+    "contact": {
+      "address": "25 Noel Street, London W1F 8GX, United Kingdom",
+      "email": "rick@lipsyncpost.co.uk",
+      "name": "Rick White"
+    },
+    "description": "Play House Studios",
+    "url": "https://www.playhousestudios.ie/"
+  },
+  {
     "code": "PM",
     "description": "POST-MODERNE"
   },
@@ -6287,6 +6346,16 @@
   {
     "code": "PXW",
     "description": "PIXEL FOR EVERYONE GBR (WAHLSTORF)"
+  },
+  {
+    "code": "PYLN",
+    "contact": {
+      "address": "7 St Gregorys Alley, Norwich NR2 1ER, UK",
+      "email": "evy@pylon.film",
+      "name": "Evy Lindberg"
+    },
+    "description": "Pylon Films Limited",
+    "url": "https://pylon.film"
   },
   {
     "code": "PYR",
@@ -7848,6 +7917,11 @@
     "description": "Trinipix"
   },
   {
+    "code": "TQL",
+    "description": "TQ Cine Lab",
+    "url": "https://www.tqcinelab.com.br"
+  },
+  {
     "code": "TRD",
     "description": "Trench Digital"
   },
@@ -8048,6 +8122,11 @@
   {
     "code": "UTS",
     "description": "UNTITLED STUDIOS"
+  },
+  {
+    "code": "UTV",
+    "description": "Unveil Studios",
+    "url": "https://unveiltv.com/"
   },
   {
     "code": "VAG",
@@ -8439,6 +8518,11 @@
     "code": "WRK",
     "description": "The DCP Works",
     "url": "https://www.thedcpworks.com"
+  },
+  {
+    "code": "WTC",
+    "description": "Warner Bros. Water Tower Color",
+    "url": "https://watertowercolor.com"
   },
   {
     "code": "WTF",

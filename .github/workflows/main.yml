@@ -50,5 +50,5 @@ jobs:
       uses: peter-evans/repository-dispatch@v1
       with:
         token: ${{ secrets.REGISTRIES_SITE_PAT }}
-        repository: isdcf/registries-site
+        repository: isdcf/isdcf-site
         event-type: build-site
