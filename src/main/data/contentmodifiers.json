@@ -260,5 +260,22 @@
     "dcncCode": "EPIQ",
     "dcncSortOrder": 15,
     "description": "EPIQ Premium Large Format"
+  },
+  {
+    "cplMetadata": {
+      "definingDocs": [
+        {
+          "name": "SMPTE ST 429-16:2014",
+          "url": "https://doi.org/10.5594/SMPTE.ST429-16.2014"
+        }
+      ],
+      "element": "Chain",
+      "elementValue": "Infinity Vision",
+      "metaType": "Element Value",
+      "scope": "http://www.smpte-ra.org/schemas/429-16/2014/CPL-Metadata"
+    },
+    "dcncCode": "InfV",
+    "dcncSortOrder": 16,
+    "description": "Identifies content that is intended for playback on theater screens that are part of the \"Infinity Vision\" program (https://www.infinityvisiontickets.com)."
   }
 ]
