@@ -3253,6 +3253,16 @@
     "description": "FOCUS ON DIGITAL"
   },
   {
+    "code": "FOO",
+    "contact": {
+      "address": "Wren House, Betsy Lane, Bransgore Christchurch, BH23 8AQ",
+      "email": "arran@fooengine.com",
+      "name": "Arran Corbett"
+    },
+    "description": "FooEngine",
+    "url": "https://www.fooengine.com"
+  },
+  {
     "code": "FOS",
     "contact": {
       "address": "38 rue Alexis Lepère, 93100 Montreuil, France",
