@@ -1507,6 +1507,10 @@
   {
     "code": "CMPX",
     "description": "Complexity Limited",
+    "obsolete": true,
+    "obsoletedBy": [
+      "CXL"
+    ],
     "url": "https://www.complexityltd.uk/"
   },
   {
@@ -1836,6 +1840,11 @@
   {
     "code": "CXF",
     "description": "COMPLEXION FILMS"
+  },
+  {
+    "code": "CXL",
+    "description": "Complexity Limited",
+    "url": "https://complexityltd.uk/"
   },
   {
     "code": "CYM",
