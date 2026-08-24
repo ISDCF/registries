@@ -2315,6 +2315,16 @@
     "description": "Imprudencia"
   },
   {
+    "code": "INCA",
+    "contact": {
+      "address": "Moreno 1199, Ciudad Autónoma de Buenos Aires, C1091AAW, Argentina",
+      "email": "nicolas.vetromile@enerc.gob.ar",
+      "name": "Nicolás Vetromile"
+    },
+    "description": "Instituto Nacional de Cine y Artes Audiovisuales - Argentina",
+    "url": "https://www.incaa.gob.ar"
+  },
+  {
     "code": "INCN",
     "contact": {
       "address": "Russia, Moscow, Leningradskiy pr-r, 47",
