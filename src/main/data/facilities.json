@@ -4074,6 +4074,16 @@
     "url": "http://www.incine.ru"
   },
   {
+    "code": "INCA",
+    "contact": {
+      "address": "Lima 319, Ciudad Autónoma de Buenos Aires, C1073AAG, Argentina",
+      "email": "nicolas.vetromile@enerc.gob.ar",
+      "name": "Nicolás Vetromile"
+    },
+    "description": "Instituto Nacional de Cine y Artes Audiovisuales - Argentina",
+    "url": "https://www.incaa.gob.ar"
+  },
+  {
     "code": "INF",
     "description": "INFINITY EINDELOOS GRAFISCH"
   },
