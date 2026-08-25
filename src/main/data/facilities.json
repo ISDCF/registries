@@ -1552,13 +1552,13 @@
   },
   {
     "code": "CNFT",
-    "description": "CONFORM.TOOLS",
-    "url": "https://conform.tools",
     "contact": {
-      "name": "Brandon Thomas",
+      "address": "2815 Manor Road, Ste 202, Austin, TX 78722",
       "email": "brandon.thomas@conform.tools",
-      "address": "2815 Manor Road, Ste 202, Austin, TX 78722"
-    }
+      "name": "Brandon Thomas"
+    },
+    "description": "CONFORM.TOOLS",
+    "url": "https://conform.tools"
   },
   {
     "code": "CNG",
