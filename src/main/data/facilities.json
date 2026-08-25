@@ -1551,6 +1551,16 @@
     "description": "CENTRE NATIONAL DU CINÉMA ET DE L'IMAGE ANIMÉE"
   },
   {
+    "code": "CNFT",
+    "description": "CONFORM.TOOLS",
+    "url": "https://conform.tools",
+    "contact": {
+      "name": "Brandon Thomas",
+      "email": "brandon.thomas@conform.tools",
+      "address": "2815 Manor Road, Ste 202, Austin, TX 78722"
+    }
+  },
+  {
     "code": "CNG",
     "description": "CINEGO"
   },
