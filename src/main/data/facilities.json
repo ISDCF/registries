@@ -3778,6 +3778,16 @@
     "description": "Harvest Digital Agriculture"
   },
   {
+    "code": "HDC",
+    "contact": {
+      "address": "9, Sinchon 8-gil, Jocheon-eup, Jeju-si, Jeju-do, Republic of Korea",
+      "email": "kksan@naver.com",
+      "name": "Mr. Kim"
+    },
+    "description": "HomeDCP",
+    "url": "https://blog.naver.com/kksan"
+  },
+  {
     "code": "HDM",
     "description": "HDMG",
     "url": "https://hdmg.com"
