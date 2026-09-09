@@ -2996,6 +2996,15 @@
     "description": "MAGNA MANA PRODUCTION"
   },
   {
+    "code": "MNC",
+    "contact": {
+      "email": "studios@medianetwork.co.nz",
+      "name": "Ken Khan"
+    },
+    "description": "Media Network Corporation New Zealand",
+    "url": "https://www.medianetwork.co.nz"
+  },
+  {
     "code": "MNS",
     "contact": {
       "address": "Bd. Dinicu Golescu Nr.9, Et.1, Ap.1, Int.01, Sect.1, Bucharest, 010862, Romania",
