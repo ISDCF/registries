@@ -5202,6 +5202,16 @@
     "description": "MISTIKA POST"
   },
   {
+    "code": "MIST",
+    "contact": {
+      "address": "12 rue Charles Porcher, 69009 Lyon, France",
+      "email": "victor@mist-postproduction.com",
+      "name": "Victor Dagand"
+    },
+    "description": "Mist Postproduction",
+    "url": "https://www.mist-postproduction.com/"
+  },
+  {
     "code": "MJR",
     "contact": {
       "address": "4-31-1 Nakaochiai, Shinjuku-ku, Tokyo, Japan",
