@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/schema#",
-  "$id": "http://isdcf.com/ns/json-schemas/registries/audioconfigs/1.0.0-beta.1",
+  "$id": "http://isdcf.com/ns/json-schemas/registries/audioconfigs/1.0.1",
   "$comment": "Copyright, ISDCF <info@isdcf.com>",
   "title": "Schema for the Audio Configurations Registry of the ISDCF",
   "definitions": {
@@ -71,6 +71,16 @@
       },
       "description": {
         "type": "string"
+      },
+      "obsolete": {
+        "type": "boolean",
+        "const": true
+      },
+      "obsoletedBy": {
+        "type": "array",
+        "uniqueItems" : true,
+        "minItems": 1,
+        "items": { "$ref": "#/definitions/dcncCode" }
       },
       "cplMetadata": {
         "$ref": "#/definitions/cplMetadata"
