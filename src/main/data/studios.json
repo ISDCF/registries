@@ -4776,6 +4776,16 @@
     "url": "https://wagprodco.com"
   },
   {
+    "code": "WBK",
+    "contact": {
+      "address": "600 17th Street, Suite 715S, Denver, CO 80202, USA",
+      "email": "hans_damkoehler@wordbank.com",
+      "name": "Hans Damkoehler"
+    },
+    "description": "Wordbank, LLC",
+    "url": "https://www.wordbank.com/"
+  },
+  {
     "code": "WBX",
     "contact": {
       "address": "111 Boulevard Duhamel du Monceau 45160 Olivet, Orleans, France",
@@ -4812,6 +4822,10 @@
       "name": "Hans Damkoehler"
     },
     "description": "Wordbank LLC",
+    "obsolete": true,
+    "obsoletedBy": [
+      "WBK"
+    ],
     "url": "https://wordbank.com"
   },
   {
