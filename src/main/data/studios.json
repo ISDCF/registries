@@ -601,6 +601,16 @@
     "url": "https://blackbearpictures.com/"
   },
   {
+    "code": "BC",
+    "contact": {
+      "address": "Görlitzer Str. 10, 04129 Leipzig, Germany",
+      "email": "festival@big-cinema.de",
+      "name": "Jason Stewart"
+    },
+    "description": "BIG cinema GmbH",
+    "url": "https://big-studio.de/en"
+  },
+  {
     "code": "BEE",
     "description": "BEE Movies",
     "url": "http://www.beemovies.co.uk"
