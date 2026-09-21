@@ -6356,7 +6356,13 @@
   },
   {
     "code": "PSS",
-    "description": "PRETTY SWEET"
+    "contact": {
+      "address": "Haukåsen 12B, 1448 Drøbak, Norway",
+      "email": "post@prettysweet.no",
+      "name": "Petter Trønsdal"
+    },
+    "description": "Pretty Sweet",
+    "url": "https://prettysweet.no"
   },
   {
     "code": "PST",
