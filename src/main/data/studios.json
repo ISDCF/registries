@@ -985,6 +985,16 @@
     "description": "CAFETICO FILMS"
   },
   {
+    "code": "CFTE",
+    "contact": {
+      "address": "Via Vinciguerra 24, 64100 Teramo (TE), Italy",
+      "email": "info@cineforumteramo.it",
+      "name": "Marco Chiarini"
+    },
+    "description": "Cineforum Teramo",
+    "url": "https://www.cineforumteramo.it/"
+  },
+  {
     "code": "CFV",
     "description": "CONSTANTIN FILM VERLEIH"
   },
