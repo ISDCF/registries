@@ -682,6 +682,16 @@
     "url": "https://reto.ch/"
   },
   {
+    "code": "AVR",
+    "contact": {
+      "address": "Via Guglielmo Cameli 21, 64100 Teramo (TE), Italy",
+      "email": "info@avraw.com",
+      "name": "Emidio Frattaroli"
+    },
+    "description": "AV RAW Publishing Company",
+    "url": "https://www.avmagazine.it/"
+  },
+  {
     "code": "AVS",
     "description": "AUDIO VISUAL SYSTEMS"
   },
