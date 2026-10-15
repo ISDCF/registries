@@ -5896,6 +5896,16 @@
     "description": "ORIENTAL POST CO., LTD"
   },
   {
+    "code": "OPCM",
+    "contact": {
+      "address": "Myrens Verksted 1A, 0473 Oslo, Norway",
+      "email": "jon@opcm.no",
+      "name": "Mr. Jon Skjerven"
+    },
+    "description": "OPC Megaphon AS",
+    "url": "https://opcm-global.com"
+  },
+  {
     "code": "OPL",
     "description": "OCTOPOST LAB"
   },
