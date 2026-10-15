@@ -1298,6 +1298,16 @@
     "description": "DELPHI FILMVERLEIH GMBH"
   },
   {
+    "code": "DF",
+    "contact": {
+      "address": "Binzstrasse 29, 8045 Zurich, Switzerland",
+      "email": "philipp.ritler@dynamic-frame.ch",
+      "name": "Philipp Ritler"
+    },
+    "description": "Dynamic Frame",
+    "url": "https://www.dynamic-frame.ch/independent"
+  },
+  {
     "code": "DFI",
     "contact": {
       "address": "25 Katara Cultural Village, PO Box 23473, Doha, Qatar",
