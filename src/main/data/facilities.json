@@ -2687,6 +2687,16 @@
     ]
   },
   {
+    "code": "DYN",
+    "contact": {
+      "address": "Binzstrasse 29, 8045 Zürich, Switzerland",
+      "email": "philipp.ritler@dynamic-frame.ch",
+      "name": "Philipp Ritler"
+    },
+    "description": "Dynamic Frame",
+    "url": "https://www.dynamic-frame.ch/independent"
+  },
+  {
     "code": "EA",
     "description": "ENTERACTIVE GMBH"
   },
