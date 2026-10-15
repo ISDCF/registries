@@ -8322,6 +8322,16 @@
     ]
   },
   {
+    "code": "VHE",
+    "contact": {
+      "address": "Polderweg Oost 5, 2973 AN Molenaarsgraaf, Netherlands",
+      "email": "joris.gootjes@vanhoorne.com",
+      "name": "Joris Gootjes"
+    },
+    "description": "Van Hoorne Studios",
+    "url": "https://www.vanhoorne.com"
+  },
+  {
     "code": "VIC",
     "description": "VICTORY STUDIOS"
   },
