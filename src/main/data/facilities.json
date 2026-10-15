@@ -7515,6 +7515,11 @@
     "description": "START"
   },
   {
+    "code": "STRY",
+    "description": "StryCi Lab – Metacreaciones",
+    "url": "https://metacreaciones.com/"
+  },
+  {
     "code": "STS",
     "contact": {
       "address": "Oranim 2, Kiryat Tivon 3600600, ISRAEL",
