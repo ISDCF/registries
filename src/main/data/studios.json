@@ -3195,6 +3195,16 @@
     "url": "http://www.trianon.gr/v1/"
   },
   {
+    "code": "NA",
+    "contact": {
+      "address": "Heriberto Frías 1145, Colonia del Valle, Benito Juárez, CDMX, CP 03100",
+      "email": "fran.rubio@newart.mx",
+      "name": "Fran Rubio Anes"
+    },
+    "description": "New Art",
+    "url": "https://newart.mx/"
+  },
+  {
     "code": "NBCN",
     "contact": {
       "address": "30 Rockefeller Plaza, New York, NY 10112, USA",
