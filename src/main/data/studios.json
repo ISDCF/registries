@@ -1343,7 +1343,13 @@
   },
   {
     "code": "DGWF",
-    "description": "Dogwolf, UK *No Registry request"
+    "contact": {
+      "address": "Ground Floor, Overseas House, 19-23 Ironmonger Row, London EC1V 3QN, United Kingdom",
+      "email": "asha@dogwoof.com",
+      "name": "Anna Godas"
+    },
+    "description": "Dogwoof, UK",
+    "url": "https://www.dogwoof.com/"
   },
   {
     "code": "DI",
