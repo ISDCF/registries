@@ -2650,6 +2650,16 @@
     "url": "https://instagram.com/kapengmukha"
   },
   {
+    "code": "KTRA",
+    "contact": {
+      "address": "Building 11, Katara Cultural Village, Doha, Qatar",
+      "email": "tarek@katarastudios.com",
+      "name": "Tarek Alward"
+    },
+    "description": "Katara Studios",
+    "url": "https://katarastudios.com"
+  },
+  {
     "code": "KTT",
     "description": "Kill The Tape",
     "url": "https://www.killthetape.com/"
@@ -3654,6 +3664,11 @@
     "code": "PREN",
     "description": "Precision Entertainment",
     "url": "https://www.precisionentertainment.net"
+  },
+  {
+    "code": "PRF",
+    "description": "Press Record Films",
+    "url": "https://www.pressrecord.co.uk/"
   },
   {
     "code": "PRIN",

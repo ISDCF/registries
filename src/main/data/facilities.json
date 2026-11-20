@@ -231,6 +231,11 @@
     "url": "https://arrimedia.de"
   },
   {
+    "code": "ADDA",
+    "description": "Audio Design Digital Art",
+    "url": "https://audiodesign.ro"
+  },
+  {
     "code": "ADE",
     "description": "ALLIANCE DIGITAL ENTERTAINMENT"
   },
@@ -476,6 +481,16 @@
   {
     "code": "AND",
     "description": "ANDROMEDA FILM"
+  },
+  {
+    "code": "ANF",
+    "contact": {
+      "address": "8939 Jefferson Hwy Apt 1606, Baton Rouge, LA 70809, USA",
+      "email": "jmstelly@anatomicafilms.com",
+      "name": "Justin Stelly"
+    },
+    "description": "Anatomica Films",
+    "url": "https://www.anatomicafilms.com"
   },
   {
     "code": "ANL",
@@ -1604,6 +1619,16 @@
     "description": "CINERIC, INC"
   },
   {
+    "code": "CNYM",
+    "contact": {
+      "address": "117-1 Yatsusawa, Uenohara-shi, Yamanashi 409-0133, Japan",
+      "email": "Matthew@cineyama.com",
+      "name": "Matthew Kelson"
+    },
+    "description": "CineYama GK",
+    "url": "https://cineyama.com/"
+  },
+  {
     "code": "CO",
     "description": "CINEMA OBSCURA"
   },
@@ -1711,6 +1736,16 @@
   {
     "code": "CRA",
     "description": "CINERAMA"
+  },
+  {
+    "code": "CRAN",
+    "contact": {
+      "address": "48 Main Street, Chatham, NY 12037, USA",
+      "email": "gcross@crandelltheatre.org",
+      "name": "Gregory Cross"
+    },
+    "description": "Crandell Theatre",
+    "url": "https://www.crandelltheatre.org"
   },
   {
     "code": "CRD",
@@ -3022,6 +3057,16 @@
     "description": "Eclair USA New York"
   },
   {
+    "code": "EUT",
+    "contact": {
+      "address": "Claudiastraße 8, 6020 Innsbruck, Austria",
+      "email": "office@eutopia.film",
+      "name": "Bernhard Holzhammer"
+    },
+    "description": "Eutopiafilm GmbH",
+    "url": "https://www.eutopia.film/"
+  },
+  {
     "code": "EUX",
     "description": "Eclair USA Los Angeles"
   },
@@ -3775,6 +3820,16 @@
   {
     "code": "HBL",
     "description": "HOKUS BOGUS LTD"
+  },
+  {
+    "code": "HBNP",
+    "contact": {
+      "address": "3F, 12 World Cup buk-ro 54-gil, Mapo-gu, Seoul 03925, Republic of Korea",
+      "email": "supervisor@hubanpost.com",
+      "name": "Choi Seok Won"
+    },
+    "description": "Huban Post",
+    "url": "https://hubanpost.com/"
   },
   {
     "code": "HBO",
@@ -5514,6 +5569,15 @@
     "url": "https://mubi.com/"
   },
   {
+    "code": "MV",
+    "contact": {
+      "address": "3is Septemvriou 54, 104 33 Athens, Greece",
+      "email": "mazarakis@moviola.gr",
+      "name": "Mr. George Mazarakis"
+    },
+    "description": "MOVIOLA LAD"
+  },
+  {
     "code": "MVF",
     "description": "MOVIE FACTORY"
   },
@@ -6054,6 +6118,16 @@
     },
     "description": "POST CITY PICTURE & SOUND",
     "url": "https://www.postcityps.com"
+  },
+  {
+    "code": "PD",
+    "contact": {
+      "address": "1028 Deta Rd, Mississauga, ON L5E 2R5, Canada",
+      "email": "crystal@purpledogpost.com",
+      "name": "Crystal Reeves"
+    },
+    "description": "PurpleDOG Post Production",
+    "url": "https://www.purpledogpost.com"
   },
   {
     "code": "PDE",
@@ -7688,6 +7762,11 @@
     "url": "https://talesuntold-agency.com/"
   },
   {
+    "code": "TAN",
+    "description": "Tanto Prod",
+    "url": "https://www.instagram.com/tantoprod/"
+  },
+  {
     "code": "TANT",
     "contact": {
       "address": "Rua Doutora Romilda Valentino 36, Aclimação, São Paulo SP 01529-040, Brazil",
@@ -7695,6 +7774,10 @@
       "name": "Eduardo Pires de Vasconcelos"
     },
     "description": "Tanto Produções",
+    "obsolete": true,
+    "obsoletedBy": [
+      "TAN"
+    ],
     "url": "https://www.instagram.com/tantoprod/"
   },
   {
