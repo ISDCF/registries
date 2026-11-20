@@ -1713,6 +1713,16 @@
     "description": "CINERAMA"
   },
   {
+    "code": "CRAN",
+    "contact": {
+      "address": "48 Main Street, Chatham, NY 12037, USA",
+      "email": "gcross@crandelltheatre.org",
+      "name": "Gregory Cross"
+    },
+    "description": "Crandell Theatre",
+    "url": "https://www.crandelltheatre.org"
+  },
+  {
     "code": "CRD",
     "description": "Coordinate Group"
   },
