@@ -3032,6 +3032,16 @@
     "description": "Eclair USA New York"
   },
   {
+    "code": "EUT",
+    "contact": {
+      "address": "Claudiastraße 8, 6020 Innsbruck, Austria",
+      "email": "office@eutopia.film",
+      "name": "Bernhard Holzhammer"
+    },
+    "description": "Eutopiafilm GmbH",
+    "url": "https://www.eutopia.film/"
+  },
+  {
     "code": "EUX",
     "description": "Eclair USA Los Angeles"
   },
