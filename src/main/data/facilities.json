@@ -1614,6 +1614,16 @@
     "description": "CINERIC, INC"
   },
   {
+    "code": "CNYM",
+    "contact": {
+      "address": "117-1 Yatsusawa, Uenohara-shi, Yamanashi 409-0133, Japan",
+      "email": "Matthew@cineyama.com",
+      "name": "Matthew Kelson"
+    },
+    "description": "CineYama GK",
+    "url": "https://cineyama.com/"
+  },
+  {
     "code": "CO",
     "description": "CINEMA OBSCURA"
   },
