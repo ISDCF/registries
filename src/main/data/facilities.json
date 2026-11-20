@@ -5554,6 +5554,15 @@
     "url": "https://mubi.com/"
   },
   {
+    "code": "MV",
+    "contact": {
+      "address": "3is Septemvriou 54, 104 33 Athens, Greece",
+      "email": "mazarakis@moviola.gr",
+      "name": "Mr. George Mazarakis"
+    },
+    "description": "MOVIOLA LAD"
+  },
+  {
     "code": "MVF",
     "description": "MOVIE FACTORY"
   },
