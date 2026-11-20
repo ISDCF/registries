@@ -478,6 +478,16 @@
     "description": "ANDROMEDA FILM"
   },
   {
+    "code": "ANF",
+    "contact": {
+      "address": "8939 Jefferson Hwy Apt 1606, Baton Rouge, LA 70809, USA",
+      "email": "jmstelly@anatomicafilms.com",
+      "name": "Justin Stelly"
+    },
+    "description": "Anatomica Films",
+    "url": "https://www.anatomicafilms.com"
+  },
+  {
     "code": "ANL",
     "description": "ANILLUSION"
   },
@@ -3030,6 +3040,16 @@
   {
     "code": "EUN",
     "description": "Eclair USA New York"
+  },
+  {
+    "code": "EUT",
+    "contact": {
+      "address": "Claudiastraße 8, 6020 Innsbruck, Austria",
+      "email": "office@eutopia.film",
+      "name": "Bernhard Holzhammer"
+    },
+    "description": "Eutopiafilm GmbH",
+    "url": "https://www.eutopia.film/"
   },
   {
     "code": "EUX",
@@ -7698,6 +7718,11 @@
     "url": "https://talesuntold-agency.com/"
   },
   {
+    "code": "TAN",
+    "description": "Tanto Prod",
+    "url": "https://www.instagram.com/tantoprod/"
+  },
+  {
     "code": "TANT",
     "contact": {
       "address": "Rua Doutora Romilda Valentino 36, Aclimação, São Paulo SP 01529-040, Brazil",
@@ -7705,6 +7730,10 @@
       "name": "Eduardo Pires de Vasconcelos"
     },
     "description": "Tanto Produções",
+    "obsolete": true,
+    "obsoletedBy": [
+      "TAN"
+    ],
     "url": "https://www.instagram.com/tantoprod/"
   },
   {
