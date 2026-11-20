@@ -7688,6 +7688,11 @@
     "url": "https://talesuntold-agency.com/"
   },
   {
+    "code": "TAN",
+    "description": "Tanto Prod",
+    "url": "https://www.instagram.com/tantoprod/"
+  },
+  {
     "code": "TANT",
     "contact": {
       "address": "Rua Doutora Romilda Valentino 36, Aclimação, São Paulo SP 01529-040, Brazil",
@@ -7695,6 +7700,10 @@
       "name": "Eduardo Pires de Vasconcelos"
     },
     "description": "Tanto Produções",
+    "obsolete": true,
+    "obsoletedBy": [
+      "TAN"
+    ],
     "url": "https://www.instagram.com/tantoprod/"
   },
   {
