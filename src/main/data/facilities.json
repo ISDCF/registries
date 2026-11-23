@@ -7356,6 +7356,10 @@
   {
     "code": "SLF",
     "description": "Skyline Finishing",
+    "obsolete": true,
+    "obsoletedBy": [
+      "SLKF"
+    ],
     "url": "https://skylinefinishing.com"
   },
   {
@@ -7377,6 +7381,11 @@
     },
     "description": "Slaykyo",
     "url": "http://slaykyo.free.fr/project/index.html"
+  },
+  {
+    "code": "SLKF",
+    "description": "SLIKA FILMS",
+    "url": "https://www.slikafilms.fr/"
   },
   {
     "code": "SLS",
