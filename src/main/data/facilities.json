@@ -533,10 +533,6 @@
       "name": "Ian Ballantyne"
     },
     "description": "Arteus Post Production",
-    "obsolete": true,
-    "obsoletedBy": [
-      "DFD"
-    ],
     "url": "https://www.arteus.co.uk"
   },
   {
@@ -2228,6 +2224,10 @@
   },
   {
     "code": "DFD",
+    "contact": {
+      "email": "ibplex@gmail.com",
+      "name": "Ian Ballantyne"
+    },
     "description": "Digital Film Delivery",
     "url": "https://sites.google.com/view/digital-film-delivery"
   },
